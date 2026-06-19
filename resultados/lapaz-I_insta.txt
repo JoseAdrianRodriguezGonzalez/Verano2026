@@ -1,0 +1,200 @@
+======================================================================
+DATASET: lapaz-I | FUENTE: Instagram | REVIEWS: 353 | FECHA: 2026-06-17
+======================================================================
+
+NOTA: Cada topico incluye 5 reviews [PERTENECE] y 1 [CONTRASTE] que pertenece a otro topico. Esto ayuda a los LLMs a distinguir limites entre topicos.
+
+--- XidooTopic ---
+Topicos encontrados: 4 | Cobertura: 100% | Cohesion intra-cluster: 0.9938
+
+TOPICO 1 -- Tamano: 145 docs (43.4%)
+Keywords: lapazmexico, bcs, bajacaliforniasur, sculpfuns, bajacalifornia, disponible, méxico, paz
+
+  [PERTENECE]
+    "lineas geometricas marcan ritmo muebles espacios disenados medida geometric lines set tone design organizes highlights transforms space casanopal mexicandesign handmadecraftsmanship todossantosbcs lapazbcs lapazbajacalifornia lapazmexico discoverlapaz visitlapaz explorelapaz visittodossantos discovertodossantos hiddengemmexico lapazcommunity madeinlapaz welovelapaz livelapaz bajamagic"
+    "looking renewal got covered new vibes fresh design pieces space waiting sparkles list renovar cubrimos nuevas vibras diseno fresco piezas casa pidiendo casanopal mexicandesign handmadecraftsmanship todossantosbcs lapazbcs lapazbajacalifornia lapazmexico discoverlapaz visitlapaz explorelapaz visittodossantos discovertodossantos hiddengemmexico lapazcommunity madeinlapaz welovelapaz livelapaz bajamagic"
+    "se ve bastante engreído año gallo guiñando un ojo cara con lengua dos gallos derecho ya volado gallinero chico nuevo izquierda cosas pavoneándose listo regla gallinero ven a ver domingo centenario artista paleta palmera original acuarela montado detrás de alfombra de color óxido enmarcado madera blanca brillante mxn mxn sin marco kaleidoliving kaleidolivingart acuarela pintura originalwatercolorart acuarelaartist artfestivalmarket lapazmexico méxico apoyolocalartistas"
+    "rosenblatt artes de técnicas mixtas lavanda lienzo acrílico michaelrichardrosenblatt oceansidemurals bellas artes artista impresionista arteenunas impresionista artecontemporaneo océanoplayasandiego pacíficoplayasandiego misiónplayasd laartscene sureñocalifornia amsterdamartscene amsterdamart madridarte vancouverartcomunidad parisartistas parís centrarse en lapazmexico méxico sanmiguelallende corazón rojo barbados tahití maldivas katmandú toronto labuffadora bermudas arte y cultura auckland bienes raíces república checa"
+    "listo vivir paz mar water wave sailboat ofreciendo descuento primeras personas reservar quieres disfrutar experiencia unica bordo velero conocer paz perspectiva oportunidad perfecta manda reservar recibir informacion white heart lapazbcs sailinglapaz velerolapaz lapazmexico sailingexperience boatlifemexico aventuraenelmar descubrelapaz viajapormexico experienciasunicas sailingadventure bajacaliforniasur turismomexico veleroenrenta rentadevelero"
+
+  [CONTRASTE]
+    "voyage bajacaliforniasur travelmexico lapazmexico"
+
+TOPICO 2 -- Tamano: 77 docs (23.1%)
+Keywords: bcs, lapazbc, lapazmexico, mexico, facir, maca, vido, paceno
+
+  [PERTENECE]
+    "lapazmx bcs lapazbcs"
+    "nice lapazmx bcs pacenos"
+    "gin mtdr lapazbcs bcs lapazmx condesagin"
+    "stencil tattoo alien monster tattoolapaz lapazbcs tatuajeslapaz bcs loscabos tattoobcs lapazmx"
+    "vemos manana maca pm clinking glasses mirror ball lapazmx lapazbcs antrolapaz bcs"
+
+  [CONTRASTE]
+    "paz sunrise lapazmexico sunrise"
+
+TOPICO 3 -- Tamano: 60 docs (18.0%)
+Keywords: papafit, fotografoiniciante, fitmens, bajacaliforniasurmexico, labajar, mx, ejerciciofisico, lapazbc
+
+  [PERTENECE]
+    "posibilidad detenernos pacenos lapazmx bajacaliforniasur labajasur fitmenover fitmens fitmenstyle fitmendaily fitdadlife fitdadfitness lapazmexico labaja bajacaliforniasurmexico fitdaddy papafit gymmen gymculture gymhealth ejerciciofisico gymtimebaby bcs lapazbcs mensfitness fitmen fitdad fitdads fotografos fotografoiniciante fotografomexicano fotografos mx"
+    "recordando calorcito pacenos lapazmx bajacaliforniasur labajasur fitmenover fitmens fitmenstyle fitmendaily fitdadlife fitdadfitness lapazmexico labaja bajacaliforniasurmexico fitdaddy papafit gymmen gymculture gymhealth ejerciciofisico gymtimebaby bcs lapazbcs mensfitness fitmen fitdad fitdads fotografos fotografoiniciante fotografomexicano fotografos mx"
+    "despeja mente pacenos lapazmx bajacaliforniasur labajasur fitmenover fitmens fitmenstyle fitmendaily fitdadlife fitdadfitness lapazmexico labaja bajacaliforniasurmexico fitdaddy papafit gymmen gymculture gymhealth ejerciciofisico gymtimebaby bcs lapazbcs mensfitness fitmen fitdad fitdads fotografos fotografoiniciante fotografomexicano fotografos mx"
+    "visualizando viene pacenos lapazmx bajacaliforniasur labajasur fitmenover fitmens fitmenstyle fitmendaily fitdadlife fitdadfitness lapazmexico labaja bajacaliforniasurmexico fitdaddy papafit gymmen gymculture gymhealth ejerciciofisico gymtimebaby bcs lapazbcs mensfitness fitmen fitdad fitdads fotografos fotografoiniciante fotografomexicano fotografos mx"
+    "modo picante pacenos lapazmx bajacaliforniasur labajasur fitmenover fitmens fitmenstyle fitmendaily fitdadlife fitdadfitness lapazmexico labaja bajacaliforniasurmexico fitdaddy papafit gymmen gymculture gymhealth ejerciciofisico gymtimebaby bcs lapazbcs mensfitness fitmen fitdad fitdads fotografos fotografoiniciante fotografomexicano fotografos mx"
+
+  [CONTRASTE]
+    "sexy rodada pacenos lapazmx bikinishot bikinis bikiniswimsuit bikiniseason bikinipool bikinishooting bikinistodoelano bikiniszn lapazmexico bikiniselfie bikiniseksi bikinisummer summerbodyready bikiniprogram beachbikini beachgirlforlife beachgirl girlbeach bcs lapazbcs bikinilife bikinifitness bikinilovers bikiniready bikinis bikinistyle bikinisexy summerbody"
+
+TOPICO 4 -- Tamano: 52 docs (15.6%)
+Keywords: sensual, segundo, relacionesdeparejar, martir, placer, pushpin, serviciobar, round
+
+  [PERTENECE]
+    "imaginas suites imagines vivelo junto pareja motel exclusivo paz smirking face round pushpin san pedro martir octubre segunda seccion motel moteles lapaz moteleslapaz lapazmexico parejashot relacionesdepareja erotico sensual romantico placer mujeres hombres pasion bajacaliforniasur motelesmexico motelesbajacaliforniasur moteldelujo potrodelamor serviciobar roomservice frases"
+    "valentino bir intense preguntar disponibilidad baby angel perfumes fragancias lapazmexico valentino perfumesdedisenador"
+    "conoces alguna suites smiling face with horns round pushpin san pedro martir octubre segunda seccion motel moteles lapaz moteleslapaz lapazmexico parejashot relacionesdepareja erotico sensual romantico placer mujeres hombres pasion bajacaliforniasur motelesmexico motelesbajacaliforniasur moteldelujo potrodelamor serviciobar roomservice frases"
+    "prada paradoxe intense pregunta disponibilidad baby angel perfumes fragancias perfumesdemujer lapazmexico prada"
+    "mejor aventura siempre encontraras caramelo servicio bebidas alimentos smiling face with horns round pushpin san pedro martir octubre segunda seccion motel moteles lapaz moteleslapaz lapazmexico parejashot relacionesdepareja erotico sensual romantico placer mujeres hombres pasion bajacaliforniasur motelesmexico motelesbajacaliforniasur moteldelujo potrodelamor serviciobar roomservice frases"
+
+  [CONTRASTE]
+    "sparkles sound healing meditacion retorno ser sparkles calendar fecha viernes septiembre five o clock hora round pushpin lugar estudio yoghar hotel posada paz bcs money bag precio mxn estudiantes miembros escuela mxn ven vivir viaje sonoro profundo cuencos tibetanos meditacion especial reconectarte verdadero soltar viejo renovar energia reserva lugar cupo limitado water wave soundhealinglapaz sonoterapia meditacionlapaz lapazbcsmexico lapazmexico mexico limpiezaenergetica"
+
+--- BERTopic ---
+Topicos encontrados: 7 (top-5 mostrados) | Cobertura: 100%
+
+TOPICO 1 -- Tamano: 180 docs (51.1%)
+Keywords: mexicophotography, lapazmexico, bajacaliforniasur, bajacalifornia, mexico, méxico, lapazbajacaliforniasur, lapazbcsmexico
+
+  [PERTENECE]
+    "feliz navidad paz bcs mexico xmas lapazbcsmexico lapazmexico lapazbcs calleocho"
+    "dias calurosos playa mar verano vacaciones verano viajes sol amor fotografía naturaleza atardecer méxico sol turismo naturaleza arena instagood beachlife foto del día pacenos lapazmx bikini océano picoftheday relajarse"
+    "viaje express paz pleading face mexico siempre siendo magia sparkles palm tree dia agradeciendo construyendo lapazmx bajacaliforniasur mexicotravel latinafashion styleinspo luxurylifestyle ootdmexico fashioninfluencermx coastalvibes vacationmode"
+    "una hojas paz agua ola amanecer barco ancla copa de vino palmera lapaz lapazbcs lapazmexico lapazbajacaliforniasur lapazbcs palmera lapazbajacaliforniasur palmera lapazmexico méxico méxico méxico méxico bajacaliforniasur cactus bajacaliforniasur onda de agua chorro ballena sol cactus bajacaliforniasur bcs jalisciense"
+    "méxico lapaz lapaz méxico méxico vida marina gente de mar vida cien puntos ancla barco puerto buques petrolero"
+
+  [CONTRASTE]
+    "fechas caramelo antoja visitanos santa claus sparkles lollipop round pushpin san pedro martir octubre segunda seccion motel moteles lapaz moteleslapaz lapazmexico parejashot relacionesdepareja erotico sensual romantico placer mujeres hombres pasion bajacaliforniasur motelesmexico motelesbajacaliforniasur moteldelujo"
+
+TOPICO 2 -- Tamano: 63 docs (17.9%)
+Keywords: fitmens, fitmen, fitmendaily, fitmenstyle, fitdadfitness, fitmenover, gymculture, gymmen
+
+  [PERTENECE]
+    "despeja mente pacenos lapazmx bajacaliforniasur labajasur fitmenover fitmens fitmenstyle fitmendaily fitdadlife fitdadfitness lapazmexico labaja bajacaliforniasurmexico fitdaddy papafit gymmen gymculture gymhealth ejerciciofisico gymtimebaby bcs lapazbcs mensfitness fitmen fitdad fitdads fotografos fotografoiniciante fotografomexicano fotografos mx"
+    "poder pacenos lapazmx bajacaliforniasur labajasur fitmenover fitmens fitmenstyle fitmendaily fitdadlife fitdadfitness lapazmexico labaja bajacaliforniasurmexico fitdaddy papafit gymmen gymculture gymhealth ejerciciofisico gymtimebaby bcs lapazbcs mensfitness fitmen fitdad fitdads fotografos fotografoiniciante fotografomexicano fotografos mx"
+    "hazlo pacenos lapazmx bajacaliforniasur labajasur fitmenover fitmens fitmenstyle fitmendaily fitdadlife fitdadfitness lapazmexico labaja bajacaliforniasurmexico fitdaddy papafit gymmen gymculture gymhealth ejerciciofisico gymtimebaby bcs lapazbcs mensfitness fitmen fitdad fitdads fotografos fotografoiniciante fotografomexicano fotografos mx"
+    "pausa seguimos pacenos lapazmx bajacaliforniasur labajasur fitmenover fitmens fitmenstyle fitmendaily fitdadlife fitdadfitness lapazmexico labaja bajacaliforniasurmexico fitdaddy papafit gymmen gymculture gymhealth ejerciciofisico gymtimebaby bcs lapazbcs mensfitness fitmen fitdad fitdads fotografos fotografoiniciante fotografomexicano fotografos mx"
+    "recordando calorcito pacenos lapazmx bajacaliforniasur labajasur fitmenover fitmens fitmenstyle fitmendaily fitdadlife fitdadfitness lapazmexico labaja bajacaliforniasurmexico fitdaddy papafit gymmen gymculture gymhealth ejerciciofisico gymtimebaby bcs lapazbcs mensfitness fitmen fitdad fitdads fotografos fotografoiniciante fotografomexicano fotografos mx"
+
+  [CONTRASTE]
+    "disfruta vida intensidad pacenos lapazmx bikinishot bikinis bikiniswimsuit bikiniseason bikinipool bikinishooting bikinistodoelano bikiniszn lapazmexico bikiniselfie bikiniseksi bikinisummer summerbodyready bikiniprogram beachbikini beachgirlforlife beachgirl girlbeach bcs lapazbcs bikinilife bikinifitness bikinilovers bikiniready bikinis bikinistyle bikinisexy summerbody"
+
+TOPICO 3 -- Tamano: 32 docs (9.1%)
+Keywords: motelesbajacaliforniasur, moteldelujo, moteleslapaz, motelesmexico, moteles, motel, romantico, erotico
+
+  [PERTENECE]
+    "mu ro solas contigo nadie interrumpa smirking face fire visitanos round pushpin san pedro martir octubre segunda seccion motel moteles lapaz moteleslapaz lapazmexico parejashot relacionesdepareja erotico sensual romantico placer mujeres hombres pasion bajacaliforniasur motelesmexico motelesbajacaliforniasur moteldelujo potrodelamor serviciobar roomservice frases"
+    "tiempo empezar pedir posada smirking face round pushpin san pedro martir octubre segunda seccion motel moteles lapaz moteleslapaz lapazmexico parejashot relacionesdepareja erotico sensual romantico placer mujeres hombres pasion bajacaliforniasur motelesmexico motelesbajacaliforniasur moteldelujo potrodelamor serviciobar roomservice frases"
+    "epoca darme caramelo lollipop santa claus round pushpin san pedro martir octubre segunda seccion motel moteles lapaz moteleslapaz lapazmexico parejashot relacionesdepareja erotico sensual romantico placer mujeres hombres pasion bajacaliforniasur motelesmexico motelesbajacaliforniasur moteldelujo potrodelamor serviciobar roomservice frases"
+    "toma descanso visita suites smirking face fire round pushpin san pedro martir octubre segunda seccion motel moteles lapaz moteleslapaz lapazmexico parejashot relacionesdepareja erotico sensual romantico placer mujeres hombres pasion bajacaliforniasur motelesmexico motelesbajacaliforniasur moteldelujo"
+    "diciembre todas noches perfectas smirking face round pushpin san pedro martir octubre segunda seccion motel moteles lapaz moteleslapaz lapazmexico parejashot relacionesdepareja erotico sensual romantico placer mujeres hombres pasion bajacaliforniasur motelesmexico motelesbajacaliforniasur moteldelujo potrodelamor serviciobar roomservice frases"
+
+  [CONTRASTE]
+    "sensaciones necesitas buen rato smirking face fire visitanos purple heart round pushpin calle septiembre esq heroes independencia zona central paz motel moteles lapaz motellalapaz lapazmexico parejas relacionesdepareja erotico sensual romantico placer mujeres hombres pasion bajacaliforniasur motelesmexico motelesbajacaliforniasur moteldelujo potrodelamor love ubicacion motelsensaciones"
+
+TOPICO 4 -- Tamano: 26 docs (7.4%)
+Keywords: interiordesigns, interiorstyle, interiorismo, interiordecor, interior, decoraciondeinteriores, interiorstyling, decoracioninteriores
+
+  [PERTENECE]
+    "medidas cms ancho cms largo opciones pago transferencia bancaria deposito efectivo tarjeta credito decoracioninteriores designinspiration fedexshipping fedex hechoamano hechoenmexico homedecoration homedesign ideasdecoracion interior interiordecor interiordesigns interiorismomexico interiorismoonline interiorstyle interiorstyling regalosoriginales remodelaciones apoyaalpequenocomercio apoyalolocal comerciojusto decoraciondeinteriores interiorismo sanjosedelcabo cerritosbeach todossantosbcs todossantosmexico todossantospueblomagico lapazmexico mexico"
+    "medidas cms ancho cms largo opciones pago transferencia bancaria deposito efectivo tarjeta credito decoracioninteriores designinspiration diseno fedex hechoamano hechoenmexico homedecoration homedesign ideasdecoracion interior interiordecor interiordesigns interiorismomexico interiorismoonline interiorstyle interiorstyling regalosoriginales remodelaciones apoyaalpequenocomercio apoyalolocal comerciojusto decoraciondeinteriores interiorismo sanjosedelcabo cerritosbeach todossantosbcs todossantosmexico todossantospueblomagico lapazmexico mexico"
+    "fire fire u termina hoy empezamos pesos medidas cms ancho cms largo opciones pago transferencia bancaria deposito efectivo tarjeta credito meca nica tomara cuenta puja realizada directamente publicacio package airplane ganador tendra ximo realizar depo sito pasara siguiente comentario puja multiplos pesos mite decoracioninteriores designinspiration fedexshipping fedex hechoamano hechoenmexico homedecoration homedesign ideasdecoracion interior interiordecor interiordesigns interiorismomexico interiorismoonline interiorstyle interiorstyling regalosoriginales remodelaciones apoyaalpequenocomercio apoyalolocal comerciojusto decoraciondeinteriores interiorismo sanjosedelcabo cerritosbeach todossantosbcs todossantosmexico todossantospueblomagico lapazmexico mexico"
+    "fire fire u cojines termina hoy empezamos pesos medidas cms ancho cms largo opciones pago transferencia bancaria deposito efectivo tarjeta credito meca nica tomara cuenta puja realizada directamente publicacio package airplane ganador tendra ximo realizar depo sito pasara siguiente comentario puja multiplos pesos mite decoracioninteriores designinspiration diseno fedex hechoamano hechoenmexico homedecoration homedesign ideasdecoracion interior interiordecor interiordesigns interiorismomexico interiorismoonline interiorstyle interiorstyling regalosoriginales remodelaciones apoyaalpequenocomercio apoyalolocal comerciojusto decoraciondeinteriores interiorismo sanjosedelcabo cerritosbeach todossantosbcs todossantosmexico todossantospueblomagico lapazmexico mexico"
+    "diseno casa centenario paz corazon centenario desierto encuentra mar alza residencia disenada vivir cada dia mejores vistas hacia bahia paz arquitectura moderna elegante nace planteamiento inteligente aprovechar maximo terreno orientacion capturar luz brisa panoramas inigualables fachada combina piedra natural madera celosias juego texturas sombras integra vegetacion desertica creando frente imponente vez armonioso cada detalle acceso principal disposicion ventanas sido pensado conjugar estetica funcionalidad diseno mantiene altura estrategica garantiza privacidad mismo tiempo permite disfrutar mar nivel principal remate rooftop privado convierte escenario perfecto atardeceres inolvidables cenas aire libre simplemente contemplar horizonte casa solo espacio habitar estilo vida frente paisajes iconicos baja california arquitetura lapazmexico construction construccionlapazbcs disenodeinteriores"
+
+  [CONTRASTE]
+    "viaje express paz pleading face mexico siempre siendo magia sparkles palm tree dia agradeciendo construyendo lapazmx bajacaliforniasur mexicotravel latinafashion styleinspo luxurylifestyle ootdmexico fashioninfluencermx coastalvibes vacationmode"
+
+TOPICO 5 -- Tamano: 20 docs (5.7%)
+Keywords: motelsensaciones, motelesbajacaliforniasur, moteldelujo, motelesmexico, motellalapaz, moteles, motel, romantico
+
+  [PERTENECE]
+    "vive mejor experiencia visitanos purple heart round pushpin calle septiembre esq heroes independencia zona central paz motel moteles lapaz motellalapaz lapazmexico parejas relacionesdepareja erotico sensual romantico placer mujeres hombres pasion bajacaliforniasur motelesmexico motelesbajacaliforniasur moteldelujo potrodelamor love ubicacion motelsensaciones"
+    "invierte aguinaldo pura magia visitanos purple heart round pushpin calle septiembre esq heroes independencia zona central paz motel moteles lapaz motellalapaz lapazmexico parejas relacionesdepareja erotico sensual romantico placer mujeres hombres pasion bajacaliforniasur motelesmexico motelesbajacaliforniasur moteldelujo potrodelamor love ubicacion motelsensaciones"
+    "pregunta precio persona adicional visitanos purple heart round pushpin calle septiembre esq heroes independencia zona central paz motel moteles lapaz motellalapaz lapazmexico parejas relacionesdepareja erotico sensual romantico placer mujeres hombres pasion bajacaliforniasur motelesmexico motelesbajacaliforniasur moteldelujo potrodelamor love ubicacion motelsensaciones"
+    "mejor arte lado visitanos purple heart round pushpin calle septiembre esq heroes independencia zona central paz motel moteles lapaz motellalapaz lapazmexico parejas relacionesdepareja erotico sensual romantico placer mujeres hombres pasion bajacaliforniasur motelesmexico motelesbajacaliforniasur moteldelujo potrodelamor love ubicacion motelsensaciones"
+    "solo persona especial mundo puede esperar visitanos purple heart round pushpin calle septiembre esq heroes independencia zona central paz motel moteles lapaz motellalapaz lapazmexico parejas relacionesdepareja erotico sensual romantico placer mujeres hombres pasion bajacaliforniasur motelesmexico motelesbajacaliforniasur moteldelujo potrodelamor love ubicacion motelsensaciones"
+
+  [CONTRASTE]
+    "mejor aventura siempre encontraras caramelo servicio bebidas alimentos smiling face with horns round pushpin san pedro martir octubre segunda seccion motel moteles lapaz moteleslapaz lapazmexico parejashot relacionesdepareja erotico sensual romantico placer mujeres hombres pasion bajacaliforniasur motelesmexico motelesbajacaliforniasur moteldelujo potrodelamor serviciobar roomservice frases"
+
+--- LDA ---
+Topicos encontrados: 5 | Cobertura: 100%
+
+TOPICO 1 -- Tamano: 121 docs (34.3%)
+Keywords: fotografo, mexico, lapazbc, lapazmx, labajar, paceno, fitdaddy, mensfitness
+
+  [PERTENECE]
+    "bajo control pacenos lapazmx bajacaliforniasur labajasur fitmenover fitmens fitmenstyle fitmendaily fitdadlife fitdadfitness lapazmexico labaja bajacaliforniasurmexico fitdaddy papafit gymmen gymculture gymhealth ejerciciofisico gymtimebaby bcs lapazbcs mensfitness fitmen fitdad fitdads fotografos fotografoiniciante fotografomexicano fotografos mx"
+    "poder pacenos lapazmx bajacaliforniasur labajasur fitmenover fitmens fitmenstyle fitmendaily fitdadlife fitdadfitness lapazmexico labaja bajacaliforniasurmexico fitdaddy papafit gymmen gymculture gymhealth ejerciciofisico gymtimebaby bcs lapazbcs mensfitness fitmen fitdad fitdads fotografos fotografoiniciante fotografomexicano fotografos mx"
+    "clima permite playa pacenos lapazmx bajacaliforniasur labajasur fitmenover fitmens fitmenstyle fitmendaily fitdadlife fitdadfitness lapazmexico labaja bajacaliforniasurmexico fitdaddy papafit gymmen gymculture gymhealth ejerciciofisico gymtimebaby bcs lapazbcs mensfitness fitmen fitdad fitdads fotografos fotografoiniciante fotografomexicano fotografos mx"
+    "agradecido vida pacenos lapazmx bajacaliforniasur labajasur fitmenover fitmens fitmenstyle fitmendaily fitdadlife fitdadfitness lapazmexico labaja bajacaliforniasurmexico fitdaddy papafit gymmen gymculture gymhealth ejerciciofisico gymtimebaby bcs lapazbcs mensfitness fitmen fitdad fitdads fotografos fotografoiniciante fotografomexicano fotografos mx"
+    "feliz vida pacenos lapazmx bajacaliforniasur labajasur fitmenover fitmens fitmenstyle fitmendaily fitdadlife fitdadfitness lapazmexico labaja bajacaliforniasurmexico fitdaddy papafit gymmen gymculture gymhealth ejerciciofisico gymtimebaby bcs lapazbcs mensfitness fitmen fitdad fitdads fotografos fotografoiniciante fotografomexicano fotografos mx"
+
+  [CONTRASTE]
+    "cuadro mario bros medidas x cm disponible mariobros mariobrosart maquinalaser mundomariobros supermariobros sculpfuns cortemdf cortelaser pintadoamano empredimiento lapazmx lapazbajacaliforniasur lapazbcs bajacaliforniasur bcs mexico artistavisual artesanal multilayer multicapa mdf cuadros"
+
+TOPICO 2 -- Tamano: 74 docs (21.0%)
+Keywords: méxico, playa, mexico, corazón, medida, opción, largo, remodelación
+
+  [PERTENECE]
+    "medidas cms ancho cms largo opciones pago transferencia bancaria deposito efectivo tarjeta credito decoracioninteriores designinspiration fedexshipping fedex hechoamano hechoenmexico homedecoration homedesign ideasdecoracion interior interiordecor interiordesigns interiorismomexico interiorismoonline interiorstyle interiorstyling regalosoriginales remodelaciones apoyaalpequenocomercio apoyalolocal comerciojusto decoraciondeinteriores interiorismo sanjosedelcabo cerritosbeach todossantosbcs todossantosmexico todossantospueblomagico lapazmexico mexico"
+    "fire fire u termina hoy empezamos pesos medidas cms ancho cms largo opciones pago transferencia bancaria deposito efectivo tarjeta credito meca nica tomara cuenta puja realizada directamente publicacio package airplane ganador tendra ximo realizar depo sito pasara siguiente comentario puja multiplos pesos mite decoracioninteriores designinspiration fedexshipping fedex hechoamano hechoenmexico homedecoration homedesign ideasdecoracion interior interiordecor interiordesigns interiorismomexico interiorismoonline interiorstyle interiorstyling regalosoriginales remodelaciones apoyaalpequenocomercio apoyalolocal comerciojusto decoraciondeinteriores interiorismo sanjosedelcabo cerritosbeach todossantosbcs todossantosmexico todossantospueblomagico lapazmexico mexico"
+    "medidas cms ancho cms largo opciones pago transferencia bancaria deposito efectivo tarjeta credito decoracioninteriores designinspiration diseno fedex hechoamano hechoenmexico homedecoration homedesign ideasdecoracion interior interiordecor interiordesigns interiorismomexico interiorismoonline interiorstyle interiorstyling regalosoriginales remodelaciones apoyaalpequenocomercio apoyalolocal comerciojusto decoraciondeinteriores interiorismo sanjosedelcabo cerritosbeach todossantosbcs todossantosmexico todossantospueblomagico lapazmexico mexico"
+    "fire fire u cojines termina hoy empezamos pesos medidas cms ancho cms largo opciones pago transferencia bancaria deposito efectivo tarjeta credito meca nica tomara cuenta puja realizada directamente publicacio package airplane ganador tendra ximo realizar depo sito pasara siguiente comentario puja multiplos pesos mite decoracioninteriores designinspiration diseno fedex hechoamano hechoenmexico homedecoration homedesign ideasdecoracion interior interiordecor interiordesigns interiorismomexico interiorismoonline interiorstyle interiorstyling regalosoriginales remodelaciones apoyaalpequenocomercio apoyalolocal comerciojusto decoraciondeinteriores interiorismo sanjosedelcabo cerritosbeach todossantosbcs todossantosmexico todossantospueblomagico lapazmexico mexico"
+    "sabias playa balandra considerada playas bonitas mundo mexico sparkles know playa balandra considerada una hermosas playas mundo mexico sparkles junio hazlo realidad athena agencia de viajes relajate habitacion vista jardin despierta paraíso junio hacer realidad athena agencia de viajes sala de relax con vistas al jardín despertar paraíso estrella brillante detalles viaje noches puro descanso espacio anuncios mns tarifa final impuestos incluidos estrella brillante detalles noches de viaje puro descanso espacio anuncios mns tasa final impuestos incluidos dado querido lupo cara de perro paraíso espera solo mensaje distancia querido lupo dice cara de perro el paraíso espera mensaje de distancia sobre con flecha informacion visita enlace tarifas cambio de tema sin previo aviso sobre con flecha información visita enlace tarifas cambio de tema sin previo aviso playabalandra lapazmexico mexico travelmexico mexico athenatravel lupoviajero"
+
+  [CONTRASTE]
+    "hey made paz mexico mexicoenmicorazon lapazmexico navegandomexico viajandoconvelero navegandoestilo de vida navegandovida sirenaydelfín"
+
+TOPICO 3 -- Tamano: 58 docs (16.4%)
+Keywords: lapaz, motel, heart, pushpin, round, love, cara, hombre
+
+  [PERTENECE]
+    "pareja hablan mismo idioma visitanos smirking face purple heart round pushpin calle septiembre esq heroes independencia zona central paz motel moteles lapaz motellalapaz lapazmexico parejas relacionesdepareja erotico sensual romantico placer mujeres hombres pasion bajacaliforniasur motelesmexico motelesbajacaliforniasur moteldelujo potrodelamor love ubicacion motelsensaciones"
+    "mejor visitanos smirking face christmas tree purple heart round pushpin calle septiembre esq heroes independencia zona central paz motel moteles lapaz motellalapaz lapazmexico parejas relacionesdepareja erotico sensual romantico placer mujeres hombres pasion bajacaliforniasur motelesmexico motelesbajacaliforniasur moteldelujo potrodelamor love ubicacion motelsensaciones"
+    "solo persona especial mundo puede esperar visitanos purple heart round pushpin calle septiembre esq heroes independencia zona central paz motel moteles lapaz motellalapaz lapazmexico parejas relacionesdepareja erotico sensual romantico placer mujeres hombres pasion bajacaliforniasur motelesmexico motelesbajacaliforniasur moteldelujo potrodelamor love ubicacion motelsensaciones"
+    "sensaciones necesitas buen rato smirking face fire visitanos purple heart round pushpin calle septiembre esq heroes independencia zona central paz motel moteles lapaz motellalapaz lapazmexico parejas relacionesdepareja erotico sensual romantico placer mujeres hombres pasion bajacaliforniasur motelesmexico motelesbajacaliforniasur moteldelujo potrodelamor love ubicacion motelsensaciones"
+    "conoces sparkles tiempo contagiar magia visitanos purple heart round pushpin calle septiembre esq heroes independencia zona central paz motel moteles lapaz motellalapaz lapazmexico parejas relacionesdepareja erotico sensual romantico placer mujeres hombres pasion bajacaliforniasur motelesmexico motelesbajacaliforniasur moteldelujo potrodelamor love ubicacion motelsensaciones"
+
+  [CONTRASTE]
+    "cactus azul buen rollo cactus ola de agua cara aliviada lapaz lapazmexico lapazbcs palmera lapazbcsmexico bajacaliforniasur bajacaliforniasur cactus ola de agua chorreando ballena sol lapazmexico méxico balandra balandrabeach balandrabay balandrabcs méxico méxico méxico"
+
+TOPICO 4 -- Tamano: 53 docs (15.0%)
+Keywords: lapazmx, lapazbc, bikini, paceno, fotografo, vida, gymtimebaby, fitmens
+
+  [PERTENECE]
+    "bikini siempre pacenos lapazmx bikinishot bikinis bikiniswimsuit bikiniseason bikinipool bikinishooting bikinistodoelano bikiniszn lapazmexico bikiniselfie bikiniseksi bikinisummer summerbodyready bikiniprogram beachbikini beachgirlforlife beachgirl girlbeach bcs lapazbcs bikinilife bikinifitness bikinilovers bikiniready bikinis bikinistyle bikinisexy summerbody"
+    "disfruta vida intensidad pacenos lapazmx bikinishot bikinis bikiniswimsuit bikiniseason bikinipool bikinishooting bikinistodoelano bikiniszn lapazmexico bikiniselfie bikiniseksi bikinisummer summerbodyready bikiniprogram beachbikini beachgirlforlife beachgirl girlbeach bcs lapazbcs bikinilife bikinifitness bikinilovers bikiniready bikinis bikinistyle bikinisexy summerbody"
+    "siempre cool pacenos lapazmx bikinishot bikinis bikiniswimsuit bikiniseason bikinipool bikinishooting bikinistodoelano bikiniszn lapazmexico bikiniselfie bikiniseksi bikinisummer summerbodyready bikiniprogram beachbikini beachgirlforlife beachgirl girlbeach bcs lapazbcs bikinilife bikinifitness bikinilovers bikiniready bikinis bikinistyle bikinisexy summerbody"
+    "actitud pacenos lapazmx bikinishot bikinis bikiniswimsuit bikiniseason bikinipool bikinishooting bikinistodoelano bikiniszn lapazmexico bikiniselfie bikiniseksi bikinisummer summerbodyready bikiniprogram beachbikini beachgirlforlife beachgirl girlbeach bcs lapazbcs bikinilife bikinifitness bikinilovers bikiniready bikinis bikinistyle bikinisexy summerbody"
+    "ohhh lalaaa pacenos lapazmx bikinishot bikinis bikiniswimsuit bikiniseason bikinipool bikinishooting bikinistodoelano bikiniszn lapazmexico bikiniselfie bikiniseksi bikinisummer summerbodyready bikiniprogram beachbikini beachgirlforlife beachgirl girlbeach bcs lapazbcs bikinilife bikinifitness bikinilovers bikiniready bikinis bikinistyle bikinisexy summerbody"
+
+  [CONTRASTE]
+    "radiante siempre playa mar verano vacaciones verano viajes sol amor fotografía naturaleza atardecer méxico sol turismo naturaleza arena instagood vida en la playa foto del día pacenos lapazmx bikini océano picoftheday relajarse"
+
+TOPICO 5 -- Tamano: 47 docs (13.3%)
+Keywords: motel, lapaz, pasion, round, pushpin, sensual, motelesmexico, placer
+
+  [PERTENECE]
+    "escape perfecto pasion esperando smiling face with heart eyes smiling face with horns round pushpin san pedro martir octubre segunda seccion motel moteles lapaz moteleslapaz lapazmexico parejashot relacionesdepareja erotico sensual romantico placer mujeres hombres pasion bajacaliforniasur motelesmexico motelesbajacaliforniasur moteldelujo potrodelamor serviciobar roomservice frases"
+    "ayudar medio ambiente pasion smirking face face savoring food round pushpin san pedro martir octubre segunda seccion motel moteles lapaz moteleslapaz lapazmexico parejashot relacionesdepareja erotico sensual romantico placer mujeres hombres pasion bajacaliforniasur motelesmexico motelesbajacaliforniasur moteldelujo potrodelamor serviciobar roomservice frases"
+    "imaginas suites imagines vivelo junto pareja motel exclusivo paz smirking face round pushpin san pedro martir octubre segunda seccion motel moteles lapaz moteleslapaz lapazmexico parejashot relacionesdepareja erotico sensual romantico placer mujeres hombres pasion bajacaliforniasur motelesmexico motelesbajacaliforniasur moteldelujo potrodelamor serviciobar roomservice frases"
+    "mejor aventura siempre encontraras caramelo servicio bebidas alimentos smiling face with horns round pushpin san pedro martir octubre segunda seccion motel moteles lapaz moteleslapaz lapazmexico parejashot relacionesdepareja erotico sensual romantico placer mujeres hombres pasion bajacaliforniasur motelesmexico motelesbajacaliforniasur moteldelujo potrodelamor serviciobar roomservice frases"
+    "mu ro solas contigo nadie interrumpa smirking face fire visitanos round pushpin san pedro martir octubre segunda seccion motel moteles lapaz moteleslapaz lapazmexico parejashot relacionesdepareja erotico sensual romantico placer mujeres hombres pasion bajacaliforniasur motelesmexico motelesbajacaliforniasur moteldelujo potrodelamor serviciobar roomservice frases"
+
+  [CONTRASTE]
+    "victoria demi nuevo default thumbs down medium light skin tone equipo titanes pacifico faltando menos hora encuentro aviso presentaria llevamos puntos amarrando primer lugar tabla continuando invicto reiteramos gusta ganar cancha manera cross mark patrocinador oficial purodemihumansfc puropinchedemifc demihumansfc vaportiluna futbolbarrio lapazbcs lapazmexico mexico"
+
+======================================================================
+FIN DEL REPORTE
+======================================================================

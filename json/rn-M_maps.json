@@ -1,0 +1,348 @@
+{
+    "dataset_info": {
+        "DATASET": "rn-M",
+        "FUENTE": "Google Maps",
+        "REVIEWS": "1663",
+        "FECHA": "2026-06-17"
+    },
+    "models_info": [
+        {
+            "model": "XidooTopic",
+            "metadata": {
+                "Topicos encontrados": "3",
+                "Cobertura": "100%",
+                "Cohesion intra-cluster": "0.9980"
+            }
+        },
+        {
+            "model": "BERTopic",
+            "metadata": {
+                "Topicos encontrados": "29 (top-5 mostrados)",
+                "Cobertura": "69%"
+            }
+        },
+        {
+            "model": "LDA",
+            "metadata": {
+                "Topicos encontrados": "5",
+                "Cobertura": "100%"
+            }
+        }
+    ],
+    "models": [
+        {
+            "model": "XidooTopic",
+            "topics": [
+                {
+                    "topic_id": 1,
+                    "keywords": [
+                        "lugar",
+                        "gente",
+                        "pueblo",
+                        "excelente",
+                        "mar",
+                        "ver",
+                        "agua",
+                        "vallarto"
+                    ],
+                    "pertenece": [
+                        "\"Nos recomendaron visitar Playa El Anclote y la verdad sÃ­ estÃ¡ bonita, pero estaba bastante llena cuando fuimos, lo que hizo que no se disfrutara tanto como esperÃ¡bamos.\"",
+                        "\"Mis hijos y familia disfrutamos enormemente la playa, arena suave, oleaje medio. SÃºper agradable. Destino ampliamente recomendable \"",
+                        "\"Excelentes playas para estar en familia, no hay en general un declive excesivo ni piedras. La consistencia de la arena es excelente para una caminata o correr.\"",
+                        "\"Excelentes playas y excelentes desarrollos turÃ­sticos. El clima en este verano en que realicÃ© la visita fue muy bueno (Principios a mediados de Julio) me encanta la tranquilidad de sus playas y que no hay una aglomeraciÃ³n de gente.\"",
+                        "\"Una playa excelente para disfrutar en compañía de la.gamilia\""
+                    ],
+                    "contraste": [
+                        "\"Llevo 3 años consecutivos yendo y no será de asombrarme es demaciado hermoso y su gente ni se diga, así sean locales, foráneos o extranjeros, todos son un amor. Más\""
+                    ]
+                },
+                {
+                    "topic_id": 2,
+                    "keywords": [
+                        "mar",
+                        "comida",
+                        "clima",
+                        "zona",
+                        "experiencia",
+                        "gente",
+                        "agradable",
+                        "bien"
+                    ],
+                    "pertenece": [
+                        "\"Fuimos a comer por el DÃ­a del padre al seÃ±or frica y a pasear por el malecÃ³n\"",
+                        "\"Es muy bonito, vale mucho la pena ir a conocer. Solo que cuidado las olas son muy fuertes y grandes aún en la orilla. Sé practica sorf\"",
+                        "\"Atardeceres dorados espectaculares, deliciosa comida a muy buen precio. Ciudad tranquila. El mar en marzo-abril aÃºn es frÃ­o.\"",
+                        "\"Tuvimos problemas con el cargo a la tarjeta. Mal manejo.\"",
+                        "\"Su mar es calmado excelente, no es muy hondo excelente para ir con niÃ±os, una vista espectacular, mucha seguridad tanto vigilancia como apoyos mÃ©dicos \""
+                    ],
+                    "contraste": [
+                        "\"LÃ¡stima por algunos turistas que insisten en tirar basura y colillas. Fuera de eso excelente. Hay de todo, aquÃ­ los vendedores no hostigan, son amables y estÃ¡n uniformados.\""
+                    ]
+                },
+                {
+                    "topic_id": 3,
+                    "keywords": [
+                        "restaurantes",
+                        "hotel",
+                        "lugar",
+                        "restaurante",
+                        "variedad",
+                        "oleaje",
+                        "comida",
+                        "buenos"
+                    ],
+                    "pertenece": [
+                        "\"Llegué por accidente, no encontré hospedaje en Airbnb en Sayulita y caí en este hermoso lugar, aunque sólo fue un día escapada de fin de semana lo disfruté, las personas que viven aquí muy amables locales y extranjeros, llegué a un festival de música el 24 y 25 de febrero, comida rica y un ambiente muy chill y hippie.\"",
+                        "\"Hermosa playa, muy agradable, familiar, para hospedarse en algún Airbnb u hotel, o ir a cenar y ver el atardecer, de los más hermosos atardeceres que he visto los tiene está playa.\"",
+                        "\"Apto para descansar en solitario, pareja o familia. Si sabes surfear bienvenido. Por ende, si no sabes nadar mejor no te arriesgues. Quï¿½date en la playa como la mayoria de los turistas. Hay brechas para practicar senderismo. Buenos hoteles y opciï¿½n para acampado. Exquisita gastronomï¿½a Nayarita.\"",
+                        "\"Nos quedamos en un Airbnb en Sayulita y la ubicaciÃ³n era perfecta, a unos minutos caminando de la playa. El lugar era sencillo pero cÃ³modo y la experiencia en general fue muy buena.\"",
+                        "\"Me gustÃ³ mucho Rinconada, un pequeÃ±o nÃºcleo de casas junto al mar que apenas tiene nombre en los mapas. El Ãºnico restaurante del lugar abrÃ­a solo de jueves a domingo y servÃ­a lo que los pescadores traÃ­an ese mismo dÃ­a. Pura cocina de kilÃ³metro cero.\""
+                    ],
+                    "contraste": [
+                        "\"Es una hermosa playa, pero el mar está algo picado, y los restaurantes salen un poco caros , es una playa con una hermosa vista al mar\""
+                    ]
+                }
+            ]
+        },
+        {
+            "model": "BERTopic",
+            "topics": [
+                {
+                    "topic_id": 1,
+                    "keywords": [
+                        "limpias",
+                        "limpia",
+                        "limpio",
+                        "playa",
+                        "limpieza",
+                        "playas",
+                        "excelente",
+                        "tranquila"
+                    ],
+                    "pertenece": [
+                        "\"Esta playa es tan hermosa y limpia. Fue grandioso. Los vendedores no son malos, pero pueden ser agresivos. No estaba demasiado lleno, muy limpio, no vi basura en la playa. Â¡Era grande y genial para el sol y un dÃ­a de playa!\"",
+                        "\"Una playa muy tranquila, el agua muy limpia y también todo el lado de la playa muy limpia, la pasamos muy agusto y mi perrita se divirtió muchísimo\"",
+                        "\"Es una playa limpia, sin grandes olas la mayoria del tiempo, a veces te encuentras con el agua \"revueta\" y puede no ser la mejor experiencia. \"",
+                        "\"La playa es muy Bonita y muy limpia, el clima es magnÃ­fico, y claro que regresarÃ­a se las recomiendo mucho quede impresionada!\"",
+                        "\"De las mejores experiencias, una playa limpia y sin mucho desarrollo, espero que siga asi!\""
+                    ],
+                    "contraste": [
+                        "\"De las playas más limpias y tranquilas. El pueblo de San Pancho es un excelente lugar para pasar unos días de descanso.\""
+                    ]
+                },
+                {
+                    "topic_id": 2,
+                    "keywords": [
+                        "hotel",
+                        "hoteles",
+                        "frente",
+                        "estaba",
+                        "seguridad",
+                        "buenos",
+                        "es",
+                        "deliciosa"
+                    ],
+                    "pertenece": [
+                        "\"La playa prÃ¡cticamente sÃ³lo tiene acceso por medio de los hoteles, por lo que es casi privada\"",
+                        "\"Nos tocÃ³ hospedarnos en un hotel en RincÃ³n de Guayabitos y la playa estaba muy cerca, lo cual fue conveniente. Sin embargo, habÃ­a demasiados vendedores y no se podÃ­a descansar completamente.\"",
+                        "\"En Nuevo Vallarta el hotel tenÃ­a muchas actividades pero varias estaban saturadas, especialmente en la alberca principal, donde era difÃ­cil encontrar espacio libre.\"",
+                        "\"La playa es genial y parece bastante segura para nadar. Los hoteles ponen banderas de seguridad y muchos tienen socorristas. Cuando estuvimos aquÃ­ hubo una alerta de cocodrilo que nos mantuvo fuera del agua y si las piscinas del hotel\"",
+                        "\"En BucerÃ­as encontramos un hotel sencillo pero muy bien ubicado, podÃ­amos salir caminando a cenar y a la playa sin problema. El Ãºnico inconveniente fue el ruido de la calle por las noches.\""
+                    ],
+                    "contraste": [
+                        "\"La playa es maravillosa, tranquila, te rentan todo el equipo para estar relajado en 350 todo el día 250 por unas horas... La playa es limpia, no hay basura la cuidan mucho, las mascotas estan permitidas de hecho hay muchos con sus perritos... El ambiente es muy agradable. El único problema son las ondas grandes... No pueden los niños nadar ahí.. Como dicen todos este es un pueblo para surf y un poco hippy.. Los precios de restaurantes, hotels es de zona turistica obvio por eso hay que ir en temporadas justas... ADVERTENCIA humedad del 80 constante y si hay lluvia aun más..\""
+                    ]
+                },
+                {
+                    "topic_id": 3,
+                    "keywords": [
+                        "excelente",
+                        "restaurante",
+                        "restaurantes",
+                        "es",
+                        "restaurant",
+                        "pesos",
+                        "buena",
+                        "playa"
+                    ],
+                    "pertenece": [
+                        "\"La playa es muy bonita, pero el mar tiene olas grandes y no la recomiendo para niï¿½os. El lugar cuenta con varios restaurantes excelentes. El restaurante Barracuda es magnï¿½fico.\"",
+                        "\"La playa es impecable, los restaurantes son de primera y el ambiente de la ciudad es limpio y acogedor. ï¿½Tengo muchas ganas de volver!\"",
+                        "\"Una playa hermosa, oleaje calmado y con poca concurrencia de personas, cuenta con servicios de dos restaurantes que rentan camastros por un consumo mínimo de 250 tiempo ilimitado, y también ofrecen otros camastros por 200 pesos sin consumo en los restaurantes, muy recomendable\"",
+                        "\"Excelente playa, con buen acceso a restaurantes cerca. Si llegas al extremo sur de la playa, tus hijos pueden jugar en las agradables olas. El pueblo es bonito y más limpio que la mayoría de los lugares acogedores.\"",
+                        "\"Un lugar hermoso y tranquilo, con un arena suave y el mar en tonos azulverdoso. De mis lugares favoritos en esta zona de Nayarit. Ambiente agradable y tranquilo. El oleaje es algo fuerte y constante adecuado para quien sabe nadar y para practicar surf. Rentan sombrillas y bancos ahí mismo, pero tambien puedes llevar tus cosas y no hay ningún problema. La comida y bebidas en los restaurantes a pie de playa esta muy bien, el precio es razonable no caro pero tampoco barato y el servicio es de lo mejor. La gente es muy amable en esa zona. Tambien puedes llevar a la playa tu comida y bebidas pero eso si no olvides recoger tu basura.\""
+                    ],
+                    "contraste": [
+                        "\"Esta es una hermosa playa con encantadores hoteles y una amplia selecciÃ³n de restaurantes. \""
+                    ]
+                },
+                {
+                    "topic_id": 4,
+                    "keywords": [
+                        "opción",
+                        "playa",
+                        "playas",
+                        "es",
+                        "pero",
+                        "orilla",
+                        "por",
+                        "como"
+                    ],
+                    "pertenece": [
+                        "\"Me agrado la playa es tranquila y hay muchas actividades para pasar el dÃ­a con niÃ±os, la arena es fina y en oleaje suave\"",
+                        "\"Es una playa muy grande y muy hermosa, la arena es muy suave y no existe venta de vendedores ambulantes. Hay alguna zona para rentar palapas pero la gran mayoría de la playa no tiene esta opción por lo que recomiendo llevar su sombrilla. El Más\"",
+                        "\"Una amplia y extensa playa de arena suave y oleaje tranquilo. Se puede caminar desde la Marina hasta Bucerias y aun mas alla. Es un excelente lugar. \"",
+                        "\"La playa estÃ¡ muy limpia , agua templada , con pocas olas Ideal para niÃ±os pequeÃ±os, la arena es muy suave , muestra destellos dorados como si tuviera diamantina \"",
+                        "\"Esta playa es genial, puedes caminar por millas o simplemente sentarse y observar el mundo pase mar de arena suave limpia con bares diseminados por es el mejor lugar para ver la puesta de sol vale la pena una visita\""
+                    ],
+                    "contraste": [
+                        "\"Probablemente nuestra playa favorita durante nuestra estancia en Sayulita y Punta de Mita. La playa más limpia que visitamos. La arena es de grano más grueso, por lo que se pega menos, pero es un poco incómoda caminar. La playa es empinada y hay rocas bajo las olas, así que tenga cuidado al nadar. Hay muchos lugares para tumbarse con una toalla o alquilar una sombrilla y sillas. Hay muchos menos vendedores ambulantes que en los pueblos costeros cercanos.\""
+                    ]
+                },
+                {
+                    "topic_id": 5,
+                    "keywords": [
+                        "estuvimos",
+                        "excelente",
+                        "surf",
+                        "opciones",
+                        "surfistas",
+                        "buenas",
+                        "como",
+                        "buena"
+                    ],
+                    "pertenece": [
+                        "\"Buen lugar, playa bonita ,solo los restauran hay muy pocos cerca de la playa y las olas altas ideal para gente que le gusta el surf\"",
+                        "\"Una playa preciosa, sobre todo si te gusta el surf. Ambiente muy tranquilo, buenas tiendas para ir de compras y un lugar ideal para relajarse. Sin duda, recomiendo una excursión de un día desde Puerto Vallarta.\"",
+                        "\"Es caro, pero San Josï¿½ lo es, tal como es. No lo veo, hay demasiada resaca y olas cortas para surfear, aunque se puede hacer en algunas partes de la playa, principalmente a la izquierda de la entrada principal (Tercera Mundo). La playa es hermosa en general, especialmente sobre Sayulita. Un pueblito genial y lugares para surfear a 20 minutos.\"",
+                        "\"El lugar es increï¿½ble para practicar surf, relajarse en la playa y disfrutar de buena comida y entretenimiento en la ciudad.\"",
+                        "\"Es caro, pero San José lo es, tal como es. No lo veo, hay demasiada resaca y olas cortas para surfear, aunque se puede hacer en algunas partes de la playa, principalmente a la izquierda de la entrada principal (Tercera Mundo). La playa es hermosa en general, especialmente sobre Sayulita. Un pueblito genial y lugares para surfear a 20 minutos.\""
+                    ],
+                    "contraste": [
+                        "\"Hermoso lugar y su gente muy agradable. La playa con unas olas que se prestan para surfear y nadar. Ya invadido por muchos extranjeros ya va por el camino de un sayulita\""
+                    ]
+                }
+            ]
+        },
+        {
+            "model": "LDA",
+            "topics": [
+                {
+                    "topic_id": 1,
+                    "keywords": [
+                        "lugar",
+                        "hermoso",
+                        "limpio",
+                        "buen",
+                        "arena",
+                        "agua",
+                        "poder",
+                        "oleaje"
+                    ],
+                    "pertenece": [
+                        "\"Bello Pueblo pequeño con una playa hermosa no sé puede meter al mar sino Eres un experto en el Agua o con alguna experiencia en natación es más bien para los surf porque las olas son muy bravas altas, le falta muchas cosas los precios son muy elevados por lugares con instalaciones muy carentes no es un ambiente familiar puesto que en casi todas partes el olor a marihuana abunda y son los locales la gente que vive en el lugar, los turistas que a eso van. Lo bueno del Lugar los bellos atardeceres la Selva letsguide playa surf paraiso surfing petfrendly\"",
+                        "\"Excelente playa, tienes muchos negocios cerca y el trato de la gente que trabaja en ellos es muy bueno, los baños están bien ubicados y a buen precio, hay lugar para cargar el celular y muchos restaurantes a pie de playa, la arena es muy buena y el agua rica, hay muchas olas pero no es muy profundo el mar, excelente para salir a correr ya que es una playa larga y sin tanta gente. Me encantó el lugar y el ambiente es muy relajado.\"",
+                        "\"Playa ideal para contemplar, si sabes nadar bien resulta atractiva debido a que tiene un oleaje fuerte buena también para practicar surf o aprender , muchas opciones de comida al rededor. La playa está muy limpia y es muy larga. Arena y mar con un ambiente tranquilo y sin grandes hoteles al rededor, una de mis playas favoritas sin duda alguna.\"",
+                        "\"Lugar súper tranquilo, la arena está más suavecita que la de sayulita que es puro guijarro, aquí si se respeta un poco más el precio de las cosas, no tienen aumentos raros en los lugares y hay un público más mexicano que en sayulita si quieren beber unas cervezas bien ricas pacífico baratas vayan al expendio que está cerca de los baños de la calle principal\"",
+                        "\"Una experiencia playera increíble. Nadar es increíble, pero me gusta que me golpeen las olas. Quizás no sea ideal para niños que quieran nadar. Un lugar genial para caminar y ver la puesta de sol. Un ambiente agradable y seguro, incluso de noche.\""
+                    ],
+                    "contraste": [
+                        "\"La playa tiene una larga extension recorriendo varios kilÃ³metros, con un acceso cÃ³modo a las aguas calidas del Pacifico, con oferta de artesanos que la recorren ofreciendo sus productos(vestidos, joyas en plata, cuencos, etc).\""
+                    ]
+                },
+                {
+                    "topic_id": 2,
+                    "keywords": [
+                        "bonito",
+                        "ola",
+                        "mejor",
+                        "tranquilo",
+                        "lugar",
+                        "poder",
+                        "limpio",
+                        "agua"
+                    ],
+                    "pertenece": [
+                        "\"Un pueblo playero muy chulo, mucho más tranquilo y con menos fiesta que Sayulita. ¡Sin tráfico de cuatrimotos! Compras más variadas, buena variedad de restaurantes y gente muy amable. Un fantástico mercado de artesanías en la plaza (estuvimos el martes). Excelente playa con opciones para descansar con sombrillas o para disfrutar de la soledad en los extremos. Vimos una manada de ballenas cerca de la costa. ¿Por qué no 5 estrellas? Como ya han mencionado, las olas rompientes (divertidas para quienes practican body surf) pueden ser peligrosas para niños y nadadores inexpertos. No hay line-up ni forma física para surfear (al menos cuando estuvimos allí). En resumen, ¡un lugar genial para relajarse!\"",
+                        "\"La playa aquí es muy bonita. Más tranquila y abierta que la playa pública de Sayulita, con buenas olas. No hay tantas opciones en San Pancho, pero la playa es muy bonita. Caminamos de Sayulita a San Pancho. Hay un sendero, pero está cortado por una propiedad privada, lo cual es una pena, porque de lo contrario sería una caminata muy agradable. Debido a la cerca, la caminata es mucho más larga y hay que caminar por la carretera en un tramo, lo cual da miedo porque no hay arcén. En resumen, una playa encantadora para pasar el día.\"",
+                        "\"Excelente playa. Esta fue una de las mejores playas que visité durante mi estancia en Puerto Vallarta. La arena es suave y hay corriente. Hay muchos surfistas en la playa. Además, el pueblo de San Francisco tiene un ambiente muy moderno y sin duda me alojaré aquí en mi próximo viaje a la zona.\"",
+                        "\"Muy bonito Nayarit nosotros visitamos Sayulita y estï¿½ lindo aunque si es temporada de lluvia no te recomiendo visitarlo pues baja un rï¿½o y se ve sucia el agua pero en cualquier otra temporada se ve muy bonito\"",
+                        "\"Muy bonito Nayarit nosotros visitamos Sayulita y está lindo aunque si es temporada de lluvia no te recomiendo visitarlo pues baja un río y se ve sucia el agua pero en cualquier otra temporada se ve muy bonito\""
+                    ],
+                    "contraste": [
+                        "\"Playa limpia, no saturada e ideal para desconectarse, descansar y relajarse. El pueblo igualmente seguro y limpio ! Ideal para desconectarse....\""
+                    ]
+                },
+                {
+                    "topic_id": 3,
+                    "keywords": [
+                        "hotel",
+                        "lugar",
+                        "servicio",
+                        "comida",
+                        "experiencia",
+                        "hermoso",
+                        "excelente",
+                        "bien"
+                    ],
+                    "pertenece": [
+                        "\"Lamentablemente, nuestra estancia en el Camping San Pancho no fue buena. Entendemos perfectamente que la experiencia de acampar sería rústica y agradecemos haber pagado un precio relativamente bajo en comparación con otras opciones de alojamiento en San Pancho. Dicho esto, a nuestra llegada, la madre del dueño nos recibió amablemente y nos comentó que a su hijo el dueño le gusta socializar con sus amigos en el centro del camping No esperábamos que esto significara que el hijo y sus amigos sin la presencia de los demás huéspedes se sentaran a beber y escuchar música junto a todas las tiendas de campaña hasta las 2 de la madrugada. Desde nuestro punto de vista, esta prioridad nos pareció extraña, y aunque puede que haya sido un caso aislado, solo podemos opinar basándonos en nuestra experiencia, que fue decepcionante debido a la extraña falta de consideración del anfitrión hacia sus huéspedes. Además, teniendo en cuenta que el lugar acababa de abrir, el estado de la cocina compartida era pésimo, con cientos de moscas en la encimera y en los armarios. Nos hemos alojado en otros lugares con cocinas al aire libre y nunca habíamos visto nada parecido. La respuesta de los dueños fue que eso o que simplemente era parte de acampar. El baño también estaba asqueroso no había papel higiénico, había ropa interior vieja y pastillas de jabón con pelos tiradas por todas partes. Al revisar otras reseñas de 5 estrellas en Google sobre este lugar, cuesta creer que sean de huéspedes reales, sino más bien de amigos de los dueños. Recomendamos encarecidamente hacer lo que hicimos nosotros al final y gastar un poco más para alojarse en uno de los hostales.Tipo de viajeVacacionesViaje en grupoParejaHabitaciones 1Servicio 1Ubicación 3\"",
+                        "\"El lugar para acampar esta bn, para los que no son tan delicados, tienes todos los servicios, cocina donde tienen todos los utensilios, espacio, para cocinar, 5 regaderas, dos baños, donde tender tus prendas húmedas etc, la vdd no te falta nada, solo falta mejorar la rampa que está en la zona que tiene mas privacidad, y hacer un camino donde no allá mucha terracería para cuando nos salimos de bañar, pero de ahí en más, modestamente hay todo lo necesario, y las personas encargadas son muy amables, la vdd si lo recomiendo. La playa San Pancho está a 5 min del camping. La playa esta hermosa.Servicio 5Ubicación 5\"",
+                        "\"El lugar es muy cómodo, la atención es muy hogareña y el ambiente muy genial. Tienen una cocina con refri, parrilla de inducción y trastes que ponen a tu disposición para que puedas preparar tus alimentos. Los bañitos están bien para ser un lugar para acampar. Puedes rentar por día, semana o mes. Me sentí segura. Una excelente opción para acampar y para vivir unos meses si andas de rol.Habitaciones 5Servicio 5Ubicación 4Aspectos destacados del hotelTranquilo y Buen precio\"",
+                        "\"Es caro, pero San José lo es, tal como es. No lo veo, hay demasiada resaca y olas cortas para surfear, aunque se puede hacer en algunas partes de la playa, principalmente a la izquierda de la entrada principal (Tercera Mundo). La playa es hermosa en general, especialmente sobre Sayulita. Un pueblito genial y lugares para surfear a 20 minutos.\"",
+                        "\"Es caro, pero San Josï¿½ lo es, tal como es. No lo veo, hay demasiada resaca y olas cortas para surfear, aunque se puede hacer en algunas partes de la playa, principalmente a la izquierda de la entrada principal (Tercera Mundo). La playa es hermosa en general, especialmente sobre Sayulita. Un pueblito genial y lugares para surfear a 20 minutos.\""
+                    ],
+                    "contraste": [
+                        "\"El transporte publico es muy lento y no tiene aire.\""
+                    ]
+                },
+                {
+                    "topic_id": 4,
+                    "keywords": [
+                        "lugar",
+                        "tranquilo",
+                        "buen",
+                        "gente",
+                        "limpio",
+                        "hermoso",
+                        "excelente",
+                        "disfrutar"
+                    ],
+                    "pertenece": [
+                        "\"Playa San Pancho es una playa tranquila y espaciosa en Nayarit con un ambiente agradable y relajado. La visitamos varias veces para pasar el rato junto al mar y disfrutamos de su amplia playa de arena, perfecta para relajarse solo o con familiares y amigos. El pueblo cercano cuenta con una buena selección de restaurantes locales, lo que facilita combinar la playa con buena comida. Un lugar ideal para disfrutar de días de playa tranquilos.\"",
+                        "\"Es mi playa favorita! Súper limpia, muy bonita, por la tarde es excelente para practicar surf. Espero que no se llene de muchos lugares para rentar porque entonces le quitarán lo bello a la playa. El agua es tibia y de un color azul hermoso. No se van a arrepentir de visitarla. Hay varios restaurantes a la orilla de la playa que te venden comida y bebida.\"",
+                        "\"Visite varias playas y mis dos favoritas fueron Playa San Pancho y Playa Chacala. Si buscas una playa para Surf San Pancho y Sayula tienen buen olejae, pero si tu plan es familiar y requieres de aguas tranquilas Chacala es la opciï¿½n, ya que te permite disfrutar de una hermosa vista, de una playa muy tranquila sea el horario que sea y la puesta de sol frontal es increï¿½ble, La planicie de Chacala te hace sentir seguro cuando estï¿½s dentro del mar ya que conforme caminas tu cuerpo no se hunde tanto.\"",
+                        "\"Visite varias playas y mis dos favoritas fueron Playa San Pancho y Playa Chacala. Si buscas una playa para Surf San Pancho y Sayula tienen buen olejae, pero si tu plan es familiar y requieres de aguas tranquilas Chacala es la opción, ya que te permite disfrutar de una hermosa vista, de una playa muy tranquila sea el horario que sea y la puesta de sol frontal es increíble, La planicie de Chacala te hace sentir seguro cuando estás dentro del mar ya que conforme caminas tu cuerpo no se hunde tanto.\"",
+                        "\"Pasamos por el acceso pÃºblico a la playa, todo muy limpio , hay regaderas , cuentan con un mirador hermoso, la playa es muy muy tranquila y la arena muy limpia, si solo vas de ida por regreso como nosotros, te recomiendo llevar toallas y otro cambio para que puedas pasar a cenar a algÃºn restaurante, los taxis cobran 250 por llevarte y regresarte al puerto, uber 185.\""
+                    ],
+                    "contraste": [
+                        "\"Buen lugar para nadar climauy agradable\""
+                    ]
+                },
+                {
+                    "topic_id": 5,
+                    "keywords": [
+                        "poder",
+                        "buen",
+                        "caminar",
+                        "agradable",
+                        "limpio",
+                        "lugar",
+                        "hacer",
+                        "pueblo"
+                    ],
+                    "pertenece": [
+                        "\"Es una playa muy bonita, se pueden notar 3 tipos de colores en ella, aparte como es virgen no hay muchas personas, el oleaje es fuerte, si te da unas buenas revolcadas, no es muy recomendable para los niños ya que el oleaje así como te empuja a la orilla bien te puede ir jalando más adentro, puedes ver peces y cangrejos es muy común que hay andén, incluso hay personas que andan pescando en la orilla, tuve la dicha de ver a lo lejos brincar a unos delfines que andaban por hay. Esta bien si disfrutas más de la vista del mar y tomar unas cervezas con tu botana, te pueden alquilar camastros y así tú puedes relajarte mucho más.\"",
+                        "\"Una playa muy bonita, me toco ir y el mar estaba un poco picado ya que un día antes en la zona hubo mucha lluvia. En el sitio puedes rentar camastros y mesas por un costo de 300 pesos mexicanos pero regatea y te pueden hacer un descuento de 50 pesos. El uso es para todo el día. Puedes llevar tus alimentos y bebidas, aunque las tiendas están cerca de la playa.\"",
+                        "\"Probablemente nuestra playa favorita durante nuestra estancia en Sayulita y Punta de Mita. La playa más limpia que visitamos. La arena es de grano más grueso, por lo que se pega menos, pero es un poco incómoda caminar. La playa es empinada y hay rocas bajo las olas, así que tenga cuidado al nadar. Hay muchos lugares para tumbarse con una toalla o alquilar una sombrilla y sillas. Hay muchos menos vendedores ambulantes que en los pueblos costeros cercanos.\"",
+                        "\"Una playa muy bonita, el mar es un poco más fuerte que en Sayulita, aunque es una playa menos concurrida de gente quizá por el mismo motivo, cuenta con área de comida así como con regaderas las cuales estan en buenas condiciones por un costo de 25 MXN , El costo por entrar a los baños es de 10 MXN, como en Sayulita el precio de las artesanías y souvenirs los precios bastante elevados.\"",
+                        "\"Preciosa!! De las pocas playas que aún quedan donde puedes caminar kilómetros sin encontrarte vendedores y chorrocientas palapas, sombrillas y camastros. Ahh y tmb puedes dejar tus cosas y nada que se las roben. Gente altamente respetuosa. Se practica el surf. El oleaje es duro.\""
+                    ],
+                    "contraste": [
+                        "\"Pistas gradualmente, muy limpio, el mar puede ser un poco peligroso a veces tan sÃ³lo ten cuidado con las banderas, muchas aves bucear en busca de peces e incluso vimos un bebÃ© diminuto turtle\""
+                    ]
+                }
+            ]
+        }
+    ]
+}

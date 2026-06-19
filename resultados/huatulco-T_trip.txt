@@ -1,0 +1,208 @@
+======================================================================
+DATASET: huatulco-T | FUENTE: TripAdvisor | REVIEWS: 3759 | FECHA: 2026-06-17
+======================================================================
+
+NOTA: Cada topico incluye 5 reviews [PERTENECE] y 1 [CONTRASTE] que pertenece a otro topico. Esto ayuda a los LLMs a distinguir limites entre topicos.
+
+--- XidooTopic ---
+Topicos encontrados: 5 | Cobertura: 100% | Cohesion intra-cluster: 0.9797
+
+TOPICO 1 -- Tamano: 1141 docs (32.0%)
+Keywords: lugar , arena, agua, bahío, gente, gran, nadar, hermoso
+
+  [PERTENECE]
+    "Pasé horas buceando gente colgando amable playa calma hermosa buceando chaleco salvavidas definitivamente toma una corriente nadando patios traseros orilla bastante fuerte"
+    "Muchas personas intentaron vendernos cosas y sintieron que casi se quedaban mucho tiempo."
+    "hermosa playa amanecer mejor nadar océano agitado varios también parece lugar mañana"
+    "muy lleno muchos vendedores devuelven dólares"
+
+  [CONTRASTE]
+    "barco playa pregunte yendo a la playa bueno nosotros gran oferta nos recogió al día siguiente minutos de playa pescando minutos pasados ​​bahías de regreso a la playa vi muchos incluso parte favorita familia entera minutos alrededor nos quedamos en la playa un par de horas restaurante viendo niños locales surfear nadando comida buena parte de las bahías de sierra camino de regreso nosotros todo el viaje costó pesos fantásticos"
+
+TOPICO 2 -- Tamano: 1027 docs (28.8%)
+Keywords: taxi, restaurantes, snorkel, peso, restaurante, viaje, excelente, día
+
+  [PERTENECE]
+    "bonita zona muchos restaurantes agua derecha ven a jugar pesos quiero pesos muchos muchos también bonito día de playa agua grande"
+    "Visitamos el día temprano muchos restaurantes dinero dar sillas sillas de playa de día aunque pulpo excelentes pesos concha entera también disponible excelente sol caliente aire maravilloso lugar deseo encontrado antes quedarse en lugar del último día"
+    "hermosa playa excelente lugar para bucear agua clara muchos restaurantes a lo largo de la playa linda arena recomiendo taxi excelente lugar nadar divertido a lo largo de la orilla equipo de agua disponible"
+    "visite muchas playas maravillosas vacaciones largas día de playa maravillosa hermosa caminata de arena varios restaurantes excelentes siempre poca puesta de sol multitudes lejanas playa gran área privada lejos restaurantes cercanos perfecto uno nosotros playa extremadamente limpia taxi pesos ciudad bucear con snorkel mejor playas cercanas podría ser la playa favorita pasar el día"
+
+  [CONTRASTE]
+    "buscando una playa tranquila océano también puedo nadar lugar de agua dulce río corre montañas ubicación de la playa nadar en agua dulce pareja restaurantes pequeño pueblo siguiente playa asegúrese de organizar el servicio de taxi caminar millas playa de arena sentarse mirar surfistas agradable excursión de un día"
+
+TOPICO 3 -- Tamano: 702 docs (19.7%)
+Keywords: restaurantes, playa, snorkel, resort, restaurante, lugar, océano, cruz
+
+  [PERTENECE]
+    "bahía agua hermosa como en el pasado auténtico pueblo de pescadores pequeños restaurantes junto a la playa marisco al aire libre océano"
+    "Llegué al área de estacionamiento Vista de la bahía alta Varios lugareños alrededor Estacionamiento a lo largo de la carretera Restaurantes Estacionamiento en la playa Playa para caminar Playa varios días Tour en bote Pruebe con otro auto de playa Una propina Auto tal vez minutos Marido Área pública recibió propina El marido dijo camino Buen momento Nombre del restaurante Lado izquierdo"
+    "viaje a la bahía cerca tal vez pasé varias horas restaurante pescado paseo en bote bien ordenado varios pies agradables para sentarse arena disfrutando del lindo océano playa pública sin embargo debe pagar peso uso dijo limpio hermosa bahía"
+    "llegó a la playa uno tours ver bahías playas viaje visitado hermosos restaurantes venta habitual de mariscos genial bahía de nosotros hermosa quiero nadar playa pude encontrar gente haciendo snorkel olas casi"
+    "Pasé días condominio hermosas aguas de la bahía pareja tranquila playas realmente bonitas muelle uno tomar recorridos área de bahías pescado capturado cargar tomar hermosa ciudad limpia restaurantes maravillosos tiendas noche experiencia maravillosa"
+
+  [CONTRASTE]
+    "muelle de la bahía de cruz cruceros visitados un par de veces área de compras turistas vienen en crucero"
+
+TOPICO 4 -- Tamano: 572 docs (16.0%)
+Keywords: playa, restaurantes , hacer, snorkeling, excelente, área, taxi, lugar
+
+  [PERTENECE]
+    "playa carretera de fácil acceso barco se llena mejor momento para visitar primera mitad de la mañana visibilidad excelente snorkeling bueno se llena ruidoso"
+    "entrega nadando snorkel playa aguas increíbles clara limpia como piscina curso olas vacaciones familia pareja playa hermoso lotes perfectos restaurantes ofrecen mariscos fritos a la parrilla bocadillos bebidas regulares podría vivir empacar equipo de snorkel coger cabeza de taxi hermosa entrega playa"
+    "difícil elegir una playa otra pasar el día gran playa llegó en barco hotel día perfecto comer mucho comprar snorkeling imprescindible"
+    "a través de tours playa maravilloso seguro amigable excelente viaje de snorkel"
+
+  [CONTRASTE]
+    "tour de día completo hotel almuerzo equipo de snorkel genial conseguir persona"
+
+TOPICO 5 -- Tamano: 127 docs (3.6%)
+Keywords: playa, restaurantes, snorkel, taxi, huatulco, pesos, arena, áreo
+
+  [PERTENECE]
+    "fue entrega dos veces primero fue en bote pesos menos tarifa tarifa junta puerto deportivo agradable bastante corto paseo alrededor de la siguiente bahía bote caído arena regresó buscado chico elegido conoció a la playa bote lanzado dijo chico se cuidaría tomó equipo de snorkel buena máscara ok aletas snorkel barato finos casilleros quería alquilar cosas izquierdas silla dijo multaría pesos menos día excelente snorkel calma enorme coral playa lejana podría flotar coral observar peces muchos peces de colores coral mucha variedad mucho mucho mejor la segunda vez fui en taxi viaje corto camino muchos taxis traen taxi caído paseo por la playa chico playa tomar snorkel mucho más barato agua poco cerca de la orilla marea todavía se escapó playa agua claro, buena experiencia de snorkel, viajar fuera de la bahía, ideal para regresar por la mañana, listo para almorzar, también me gustan las cosas para no nadadores, snorkel incluido, alquiler regular de chaleco salvavidas."
+    "Arrecife de coral vivo Área protegida para nadar Pescado justo y decente Varias tiendas de bocadillos junto a la playa Comida para el sol Área de taxis económicos Resorts Sol negativo excepto tiendas de bocadillos Playa caliente preparada sin sombrillas"
+    "llegó a la playa excursión dejó de bucear almuerzo restaurante bucear mejor hecho lado cerca mucho mejor ver cosas interesantes pez globo pez cardumen muy bonito visto bonito snorkel agua tranquila coral claro bien aunque uno de los mejores lugares área de snorkel pesca teniendo lugar mucha playa como un gran lugar familiar lugareños vienen arena mucho coral bonita zona definitivamente regresaría la próxima vez área pasar poco tiempo hermosa playa desde viaje al restaurante decir cosas recorrido usado tours recomendados restaurante en barco playa derecha traído fresco ordenado de inmediato nosotros pedimos piña rellena camarones rellenos media piña increíble servicio muy buena comida ofrecida comida de regreso barco gran lugar detener el almuerzo definitivamente comería regresar"
+
+  [CONTRASTE]
+    "llegó huatulco bonitas bahías turísticas popular cerca ciudad conseguí taxi playa de entrega uno salir uno perteneciente uno chiringuitos precio cerveza playa lleno tomado equipo de snorkel playa pequeño arrecife popular encontrado agua fría hecho snorkel"
+
+--- BERTopic ---
+Topicos encontrados: 25 (top-5 mostrados) | Cobertura: 73%
+
+TOPICO 1 -- Tamano: 1659 docs (44.2%)
+Keywords: snorkel, snorkeling, restaurante, restaurantes, océano, largo, hoteles, realmente
+
+  [PERTENECE]
+    "los mejores lotes de playa para practicar snorkel restaurantes frente a la playa bahía protegida hermosas vistas debe visitarse excelente lugar para pasar el día"
+    "playa pública tranquila agua clara corral arrecifes buen snorkel restaurantes locales ok taxi nos deja horas conductor restaurante frente a la playa restaurante lugareños que ofrecen excursiones de snorkel equipo ordenado habitual guacamole agua cerveza playa limpia agua clara ocupado llegó aunque estuvo ocupado más tarde en la tarde nos vamos ir temprano disfrutar de la playa sin multitudes camino de regreso entrega detenido mirador el faro ofrece una vista espectacular de la bahía"
+    "excelente lugar para hacer snorkel recomiendo tomar un taxi el personal del restaurante es bastante agresivo caminó detrás de los restaurantes comería bien tomar una bebida fría equipo disponible para hacer snorkel en el sitio lado izquierdo de la bahía a lo largo de las rocas arrecife linda playa arena suave ir temprano evitar las multitudes evitar muchos lugareños multitud en la playa"
+    "hermosa playa excelente snorkel visita la bahía recorrido en bote revisa los restaurantes aunque la playa"
+    "como área alquiler recorrido en bote muchas bahías playas snorkel ubicado sin ir crucero paseos en bote horas uno dos pasar el día yendo lugar lugar almuerzo uno restaurantes playa comida precios razonables"
+
+  [CONTRASTE]
+    "playa vale la pena dedicar tiempo a llegar a las bahías playa uno hacer snorkel mejor todavía pintoresco tranquilo restaurante recomendado"
+
+TOPICO 2 -- Tamano: 426 docs (11.3%)
+Keywords: caminata, camino, playa, caminar, realmente, playas, excelente, cerveza
+
+  [PERTENECE]
+    "siempre voy a la bahía visitada hermosa playa comida increíblemente deliciosa un lugar para caminar en la playa"
+    "playas mejor nadar lejos playa de arena minutos caminar final agua clara playa especialmente tranquila playa también primeros pies agua playas cercanas playa limpia sierra mucha gente bucear lados bahía sillas de playa sombrillas comida disponible tomó playa diferente comida un acceso playa estacionamiento cuatro escaleras"
+    "tiempos de playa definitivamente una hermosa playa jamás vista los días deben estar en el lado derecho del agua playa increíble algo cada uno tranquilo muchas sillas gente genial ama la playa"
+    "camino acceso a la playa a través de vendedores de botes llegar a la playa también agua hermosa"
+    "parada playa recorrido por la bahía hermosa playa visita playa"
+
+  [CONTRASTE]
+    "bonito lugar playa nosotros caminando por la orilla disfrutando hermoso lugar siempre suave gente disfrutando de nosotros nada paraíso varias horas tiempo fue carretera playa realmente vamos"
+
+TOPICO 3 -- Tamano: 82 docs (2.2%)
+Keywords: bahía, bahías, cuidado, buena, marido, actividades, encantó, amado
+
+  [PERTENECE]
+    "Me quedé Bahía de los sueños Bahía Bastante Días tranquilos Agua limpia Calentamiento Bueno Buceo Rocas Sueños Bien Bahía alrededor Área de lotes Tours Pesca Quiero pozo"
+    "Bahía parada Tour de bahías Impresionante ver Playa relajante Asegúrese de ir temprano durante todo el día Suerte Primer bote pequeño Casi es hora de salir"
+    "agua de la bahía siempre lo suficientemente tranquila nadar remar muchos peces área pequeña"
+    "limpiar hermosa bahía gente paseo en bote día un par de horas ir recorrido por las bahías"
+    "bahía hermosa pasé días agradables agua cálida más tranquila muchas actividades acuáticas"
+
+  [CONTRASTE]
+    "Me quedé en la bahía de los sueños, maravillosa, hermosa, gran playa, muchos peces, trae para nadar, bahías adecuadas, hermosas y naturales."
+
+TOPICO 4 -- Tamano: 64 docs (1.7%)
+Keywords: coral, corales, snorkeling, snorkel, escuelas, bahía, hermosos, muerto
+
+  [PERTENECE]
+    "gran experiencia bucear con snorkel coral hermoso muchos peces equipo de snorkel docenas de personas alquilan la playa del extremo izquierdo lugar encontrado casilleros pesos realmente agradable preocuparse dejar cosas playa pensar la mejor parte muchas personas buceando se ponen máscara agua se sienten como peces de coral"
+    "bahía increíble bucear con snorkel playa derecha gran arrecife de coral peces podrían preguntar muchas escuelas arrecife de coral bastante buena playa de arena pozo muchos lugar de coral lugareños vienen comida lugares para beber km camino sucio tomar llegar camino de acceso pozo km oeste aeropuerto el mejor lugar hacer snorkel seguro"
+    "Tomé dos diferentes excursiones de buceo con snorkel, viaje a la playa, la mejor calidad del agua, snorkel, también tortugas nadaron en el lado norte, cara derecha, bahía de playa, peces de coral, abundantes también cuevas a lo largo de rocas, nadar en la playa de aventura poco profunda, ir a la playa, viaje muy difícil, ver cualquier cosa, visitar las playas por la tarde."
+    "lindas escuelas pescar pequeño coral alquilar equipo casilleros dólares lleno creo haber visto muchas personas una playa buena opción quiero hacer snorkeling aunque es mejor hacer snorkeling parar el almuerzo recorrido por la bahía"
+    "Hicimos una excursión a la playa haciendo snorkel en la playa playa local pequeñas mesas locales sombrillas sombra comprar comida bebidas la bahía se calienta bastante viento protegido significa agua tranquila buen snorkel arrecife de coral vio muchos peces un lugar cientos de peces"
+
+  [CONTRASTE]
+    "Pasé el día en la playa fui en bote y también conduje en la mejor playa para practicar snorkel aprendiendo área de snorkel barcos seguros para ir a un arrecife de coral realmente grande encontrar peces coloridos también escondidos en una cueva submarina bastante bueno definitivamente vale la pena regresar"
+
+TOPICO 5 -- Tamano: 59 docs (1.6%)
+Keywords: deportivo, puerto, clubes, restaurantes, restaurante, excelente, playa, barco
+
+  [PERTENECE]
+    "playa bonita cruceros muelle puerto deportivo barcos excursiones playa ocupado pareja restaurantes de playa"
+    "muelle de cruceros visita rápida puerto deportivo libro barco pesca bares restaurantes lotes de playa tiendas locales que venden cosas turísticas"
+    "gran día cruz bay relajante hermosa playa hermosa agua limpia pequeños restaurantes fantásticos playa derecha comida deliciosa excelentes bebidas mucha diversión restaurante local amigable con la playa muchas pequeñas tiendas a poca distancia puerto deportivo día bastante perfecto relajarse diversión disfrutar"
+    "playas de una bandera fácil paseo gran puerto deportivo excelentes restaurantes playa marina hermosos clubes de playa playa larga mañana día nadando poco áspero área de natación lugar ver amanecer"
+    "cruz bonito puerto deportivo buen lugar alquiler guía de barco de pesca local bonitas tiendas de plata muchas tiendas restaurantes se llenan muelle de cruceros"
+
+  [CONTRASTE]
+    "bahía de cruz pozo de crucero usado club de playa varios hoteles muchos restaurantes fantásticas áreas para sentarse frente al mar visita divertida crucero ocupado a lo largo del club de playa club de asientos traer fácil acceso marina hospedarse resort agradable calle frente a la playa área de compras pequeñas al lado del puerto deportivo todo encontrar sin caminar comprar hacer también restaurante calle principal próxima compras a corta distancia playa compras divertidas"
+
+--- LDA ---
+Topicos encontrados: 5 | Cobertura: 100%
+
+TOPICO 1 -- Tamano: 1240 docs (33.0%)
+Keywords: snorkel, restaurante, lugar, taxi, excelente, hacer, gente, bahía
+
+  [PERTENECE]
+    "muchas veces desde entonces pienso bastante diferente nuevo huatulco puede ayudar realmente buen lugar quedarse un par de horas bucear playa pública dueños de restaurante servicio chicos alquilar lugar cosas colocar cerveza comida barato caro traer lugar barato verificar factura probar algo más ordenar incluir propina traer auto intentar llegar temprano estacionamiento empacado tomar objetos de valor caja fuerte sierra corriendo dama cámara probar alquilar máscara de snorkel tableros alrededor entrega conductor taxi cobrar de una manera todavía pez bucear metros de distancia tipo de cambio bastante mal intentar ir primero obtener en su lugar pagar perdido cada fin de semana lleno gente grande gente promedio gente de la playa en su mayoría turismo realmente dueños de restaurantes locales intentar mantenerse limpio poco sucio buen punto quiero ir a intentar tomar sol lugar de día tranquilo dueños de restaurantes comprar muchas cosas alquilar chicos salir de otro lugar consciente plátano de lo contrario los chicos intentan cargar mucho en lugar de correr andar cerca a veces peor gente segura comprobar devolución de dinero pagar hacer malo siempre lo siento ver usado buen lugar casi lleno bastante gente tratando de vender algo más tarde temprano ok"
+    "fue entrega dos veces primero fue en bote pesos menos tarifa tarifa junta puerto deportivo agradable bastante corto paseo alrededor de la siguiente bahía bote caído arena regresó buscado chico elegido conoció a la playa bote lanzado dijo chico se cuidaría tomó equipo de snorkel buena máscara ok aletas snorkel barato finos casilleros quería alquilar cosas izquierdas silla dijo multaría pesos menos día excelente snorkel calma enorme coral playa lejana podría flotar coral observar peces muchos peces de colores coral mucha variedad mucho mucho mejor la segunda vez fui en taxi viaje corto camino muchos taxis traen taxi caído paseo por la playa chico playa tomar snorkel mucho más barato agua poco cerca de la orilla marea todavía se escapó playa agua claro, buena experiencia de snorkel, viajar fuera de la bahía, ideal para regresar por la mañana, listo para almorzar, también me gustan las cosas para no nadadores, snorkel incluido, alquiler regular de chaleco salvavidas."
+    "Realmente me gustaría dar el día pasado Playa Entegra cosas caídas día playa fácil conseguir aceptar primer taxista ver extremo muelle insistente caro seguir caminando ver taxis locales conducir playa efectivo a la llegada estacionamiento conoció a un propietario restaurante nos acompañó mesa de playa sombrilla playa asientos realmente libres sombra a pies de distancia restaurante cuidado obtener mesa playa marea viene dejar cualquier cosa preguntado caballero tomó dicho tiempo llegó repentino tomar dicho tipo de cambio pesos ciudad todos pesos ver quiero correr tarjeta de crédito funciona ventaja seguro dólares limpio tomar tengo playa alrededor de la hora chico alquilar equipo de snorkel alquila hora día consciente caminar playa preguntar equipo usado chalecos salvavidas un poco actual contento bucear rocas bahía del lado izquierdo fantástico nadar a la vuelta de la esquina mejor pez de arrecife en general gran día ven efectivo pensé que podría pagar el almuerzo tarjeta de crédito en general gente del almuerzo un poco caro"
+    "tiempos de playa siempre intenta regresar a la ciudad los fines de semana estar bastante ocupado haciendo poco difícil encontrar un lugar en la playa espacio en la playa snorkel en el agua traer equipo de snorkel alquilar agua estancada frente al snorkel a lo largo del lado izquierdo nadar olas obtener poco espacio agresivo encontrar cueva que valga la pena encontrar ver a otros abrirse camino alrededor de las rocas ordenar ver la entrada muchos peces ver comer tomar el sol tomar un taxi de regreso a un precio razonable viaje en taxi playa siempre taxis esperando llevarse muchos restaurantes intentar creer incluso al lado de la carretera recibir masajes pensar que se puede sacar el remo ver en cualquier lugar alquilar equipo bueno temprano en la mañana visitar el lugar para colgar en la tarde"
+    "disfrute de la playa a través de la línea de crucero snorkel océano recorrido por la cueva llegó a la playa equipo de snorkel fue tiempo en el océano vida snorkeling me alegro mucho ver usar chaleco salvavidas guías seguras nos llevaron una hora de recorrido horas usar reloj nadar duro decir mucho tiempo realmente hizo snorkel lo suficiente guía seguiría buceando profundo peces a veces traía algo nos muestra como colores área de peces impresionante fue cueva realmente cueva nadar a través de una abertura estrecha muy alto ver ir bien excelente snorkel fuimos restaurantes de playa mesas sentarse disfrutar comida cervecerías gente caminando tratando de vender cosas muy necesarias descansar regresando muelle vistas playa guías increíbles estacionado déjanos tomar fotos bonitas fotos crucero muy alto huatulco me encantaría visitar la playa de la ciudad cámara submarina la próxima vez"
+
+  [CONTRASTE]
+    "paseo en barco bahías parada snorkel entrega almuerzo"
+
+TOPICO 2 -- Tamano: 1035 docs (27.5%)
+Keywords: agua, restaurante, hermoso, bahía, lugar, buen, snorkel, nadar
+
+  [PERTENECE]
+    "hermosa larga playa de arena negra linda laguna de rocas grandes a lo largo de un lado quedarse beber comida disfrutado mucho restaurante restaurante de playa del lado derecho lugareños años área mantener la playa comida natural fresco delicioso bien hecho probado delicioso guacamole hecho pescado duro camarones restaurante familiar amigable gran playa largo mucho nadar sin embargo día tarde gran lugar comer disfrutar de la cena caminar surf increíble uno necesita un taxi pedir restaurante tomar un taxi regresar hotel"
+    "familia a los niños les encantó vio tipo fueron paseo en bote los niños vieron tortugas muchos lugares de peces se quedaron nosotros en la bahía a los niños les encantó el lugar playas visitaron playas bahía uno mejor agua clara ver peces correcto familia regresa lugar siguiente ver visitar ballenas visitar la bahía cosas familiares a menudo consiguen que la gente cercana nos ayude fue camino nosotros lugar de belleza fue uno cercano fresco derecho área de compras muy divertido los niños disfrutaron"
+    "una de las mejores playas estacionamiento estacionar auto sin cargo playa primero súper color olas súper tranquilas hace perfecto snorkeling gran variedad peces arrecife cerca orilla orilla súper tranquila llevar a los niños sin diversión agua temperatura ambiente comparado área de playas favorito día noche disfrutado noche ver comer súper restaurantes playa traer comida siempre asegurándose de playa ver alguien ofrece servicio señorita agradable ver atardecer medio kayak dejar cuidar una hermosas playas"
+    "perfecta playa agradable lugar perfecto día amor pequeña playa mesa de vacaciones perfecta restaurantes al lado de la playa ordenar comida fría la gente mira a los lugareños nadar ubicación perfecta área de cruz caminar disfrutar pequeñas tiendas pequeñas tiendas café fue lugar centro playa de servicio súper agradable guay tomó disfrutar del área de la bahía poco pudo disfrutar de aguas abiertas seguras"
+    "playa cualquiera multitudes hotel playas viaje corto en taxi experiencia tramo prístino pesos alquiler de un día dos sillas sombrilla playa detrás caminó por la playa gente guardada también podría irse uno dos restaurantes regresaría más tarde almuerzo playa de arena caliente caminar junto al agua nosotros limpiar agua dulce lago detrás arena cerca podría extrañar permanecer cerca agua playa surfistas áspero olas de fieltro pescado fresco cerveza fría segundo viaje visitar al menos una vez"
+
+  [CONTRASTE]
+    "menos turistas lugareños mejor snorkeling playa favorita"
+
+TOPICO 3 -- Tamano: 614 docs (16.3%)
+Keywords: restaurante, agua, bahía, pequeño, lugar, buen, barco, snorkel
+
+  [PERTENECE]
+    "esposa regresó área alquilada día recomendado tiempo de llegada mucha mirada surf olas hechas regreso días después pequeña tienda de surf final camino surf mucho le gustaría esposa usó tabla de boogie sin precio hora podría ser un poco divertido regreso por segunda vez tormentas condiciones verdaderas fuerte corriente rocas final playa correr obtener agua caminar de regreso poco a lo largo de la playa fuerte resaca bien alquilar tabla par de horas una hora vino fue cerveza cerca condiciones recomendar llegar lejos experiencia en el agua dijo gran momento lo recomendaría altamente"
+    "adoquín carretera principal toma lado restaurantes favorito izquierda famoso pescado hamburguesa también prueba playa de camarones área de playa navegar ver surfistas boogie frente a la derecha restaurantes fondo de playa gran variedad pájaros ver lugar atrás playa izquierda milla este playa corta río océano buen lugar pescado río hermosa siempre gran variedad pájaros un amor playa siempre viene años nunca arena ubicación desembocadura del río año año marea mayo rocas llegar desembocadura del río"
+    "huatulco varias veces siempre pasa días en la playa de entrega generalmente dirígete a la playa temprano en la mañana buen lugar frente a uno restaurantes agua clara cálida snorkel increíble a lo largo del lado izquierdo de la bahía alrededor del primer punto pequeño descanso en la playa regresando a la playa principal muchos vendedores restaurantes similares a la playa a precios razonables cerveza fría buenas papas fritas guacamole generalmente se van un poco ocupados nunca se llena gran playa"
+    "conseguir un corto viaje en taxi pesos camino alquiler de surf tienda lecciones por gran surf día de sierra verificar las condiciones de surf ir a uno de los mejores lugares del mundo playas camino camino aprender a surfear sin minutos esperando buena playa de olas buenas olas cada comida bebidas disponibles mucho sol restaurante traer paraguas quiero caminar por la playa parece km dicho taxi viaje de regreso podría otra vez taxi otro"
+    "los barcos atracan a los dueños de las tiendas se vuelven poco agresivos bonito mercado tiendas tiendas a lo largo de la calle muchos restaurantes a lo largo de la playa sentarse arena comida cerveza fría puerto deportivo también tours de pesca salir también encontrar barco de pesca reservar sitio de pesca ver bahías de viaje lugar del hotel excelentes propietarios de tiendas de vacaciones agresivo ir en realidad caminar un minuto llegar"
+
+  [CONTRASTE]
+    "restaurantes llenos de gente relajante muelle cruceros agua hermosa"
+
+TOPICO 4 -- Tamano: 485 docs (12.9%)
+Keywords: hotel, restaurante, área, nadar, snorkel, comida, buen, taxi
+
+  [PERTENECE]
+    "tiempo cruz hermosa pequeña ciudad excelentes restaurantes viajes hombre joven hombre joven obteniendo pesca dejar lejos área agua peces encuéntrenos pescar bien agradable usado centro barco pescado podría bueno buenos precios todos el área encontrar ir marina cruz preguntar alrededor número de barco área querer buen día de pesca precio razonable consultar hombre joven"
+    "tomar excursión en bote privado conocer cruz marina taxi nosotros dueños de botes tiempo ir área pública nosotros pareja público pagar pesos ingresar a puerto deportivo barco encontrado botes tomar muelle principal hora de atracar pequeño puerto deportivo necesita taxi regresar hotel puerto deportivo derecho paseo en taxi hotel pesos"
+    "bahía bahía bastante grande grandes complejos hoteleros complejos turísticos más pequeños ubicados playa áreas planas empinadas hoteles de sueños ubicados agua limpia siempre cálida playa para nadar hoteles públicos hospedados en complejos turísticos tiempos en la bahía siempre disfrutamos del tiempo áreas agradables bucear cerca de sueños cerca de complejos turísticos"
+    "buena playa de arena larga y limpia que vale la pena visitar nadar caminar caminó por un extremo cerca del atardecer hermoso camino de acceso tableros públicos camino de tablas caminar área plana acceso público incluso remolque cerca del camino de acceso camino podría acceder a la playa uno hoteles frente al público turistas hoteles frente a la playa mejor"
+    "caminó por el hotel en la playa tomó horas y minutos comienzo encantador camino por la mañana playa limpia sombra en ambos extremos quiero sombra bucear buena cantidad de restaurantes mesas sombrillas bonito recorrido ven genial nadar también comprar pesos nadar disponible paseo de regreso a la ciudad quiero caminar de regreso"
+
+  [CONTRASTE]
+    "playa necesita bote pequeño tomar varias aguas alrededor la gente quiere playa"
+
+TOPICO 5 -- Tamano: 385 docs (10.2%)
+Keywords: restaurante, increíble, agua, hermoso, barro, hacer, comida, pequeño
+
+  [PERTENECE]
+    "único amado mucho regresé por segunda vez primera visita llegó la tormenta sábado increíble almuerzo restaurante genial sentarse mirar tormenta delicioso almuerzo regresó día tengo baño de barro dama local también increíblemente genial experiencia auténtica tomó un paseo playa río impresionantes vistas muy interesante otra playa entera algo último consiguió un buen trabajo encontrado arena dura caminar caliente como arena rápida vale la pena un lugar de belleza único consiguió río niños jugando caminar de regreso restaurante devuelto disfruté segundo almuerzo excelente servicio de comida debe visitar"
+    "gran viaje increíble agua río viaje a plantación de café increíble guía turístico bueno lugar de viaje de nosotros hora poco de viaje obtener caminos de montaña tomar caminos ir a la plantación de café comida caminata de café a lo largo del río columpio caminata por el río plantación de café café increíble bueno tomar nadar café"
+    "tomó un taxi peso baño de barro necesito encontrar playa damas balde lodo dejar secar frotar océano costo peso dijo sintió genial bañarse sería gran barro sur encontrar río el río entra al océano conseguir flotar navegar momentos muy divertidos playa escénica grandes formaciones rocosas bien vale la pena taxi"
+    "linda playa lleno lugareños colgando chiringuitos línea playa promedio precio promedio debido a hecho cobrar bebidas cerrar fines de semana loco ocupado lugareños vacaciones agua limpio cálido excelente snorkel nadando caliente correr agua arena caliente fue semana vendedores ocupados bueno hay que verlo"
+    "ir todos los años nunca más allá de visitar marido alquilado conducir golpeando fue genial pequeño bar fresco almuerzo sábado comida fresca increíble almuerzo tomó un paseo playa agua dulce el río se encuentra con el océano experiencia ordenada los lugareños colgar se sentía como un lugar hermoso una cosa olvidar"
+
+  [CONTRASTE]
+    "pequeño pueblo bahía de cruz hermoso limpio lugares fantásticos comer bien en la playa el marido tomaría un taxi todas las noches la playa de cruz bien sería poca arena comida pescado todas las noches cruceros puerto gran vista barco"
+
+======================================================================
+FIN DEL REPORTE
+======================================================================

@@ -1,0 +1,213 @@
+======================================================================
+DATASET: lapaz-M | FUENTE: Google Maps | REVIEWS: 8740 | FECHA: 2026-06-17
+======================================================================
+
+NOTA: Cada topico incluye 5 reviews [PERTENECE] y 1 [CONTRASTE] que pertenece a otro topico. Esto ayuda a los LLMs a distinguir limites entre topicos.
+
+--- XidooTopic ---
+Topicos encontrados: 8 | Cobertura: 100% | Cohesion intra-cluster: 0.9702
+
+TOPICO 1 -- Tamano: 3337 docs (43.9%)
+Keywords: lugar, bonito, excelente, hermoso, solo, limpio, tranquila, agua
+
+  [PERTENECE]
+    "Los Baños, solo Servia uno."
+    "Excelente ojalá no la privaticen"
+    "Excelente lugar para pasar una linda tarde y degustar una rica nieve"
+    "Todo el tiempo lo cierran los policías..."
+    "Strong service and attentive service."
+
+  [CONTRASTE]
+    "Es bonita sin embargo cabe comentar que hay medusas y rayas fuimos 8 personas de las cuales a 3 se nos pegaron agua mala (medusas) así que si hay que tener cuidado."
+
+TOPICO 2 -- Tamano: 1308 docs (17.2%)
+Keywords: restaurantes , lugar, paz, si, estacionamiento, excelente, balandra, pm
+
+  [PERTENECE]
+    "- Hay renta de Kayaks - Senderismo por Balandra - Sólo hay baños secos (no cobran pero puedes dejar propina ya que es proyecto de personas voluntarias) - Cuando yo fui, dejaban pasar por grupos: uno a las 7am aprox. Y el otro a la 1pm aprox. Te dan límite de tiempo para estar ahí (2hrs aprox) Recomendación: llevar Aqua Shoes (para llegar al hongo hay mucha piedra)"
+    "Me encantó. Tienen como llegar, amplio estacionamiento, comida, bebidas, renta de paddle, kayak y demás, palapas gratis (llega temprano) y personal del lugar muy honesta y servicial. El agua es tranquila con ligero oleaje y hay zonas de diferente profundidad de agua para todo tipo de nadadores. Hay regaderas."
+    "Hermosa playa, tiene servicios para comer y tomar, hay varios restaurantes que te atienden directo en la playa y aceptan tarjeta de crédito. También te alquilan sombrilla y sillas. Se puede hacer snorkel y hay bastante para ver cerca del muelle. Se puede llegar en bici desde el centro de la paz yendo todo por la bicisenda, muy trankilo y facil."
+    "Es una playa muy bonita, de fácil acceso y llegada. Si no rentan auto les recomiendo conseguir un Didi o Uber, los taxistas de la paz tienen precios muy elevados. Hay palapas gratuitas o puedes rentar sombrilla con mesa y sillas por un consumo mínimo de 300( mayo 2024) La comida del restaurante es regular, pedimos tacos de pescado y camarón pero la tortilla estaba fría y se rompía. En general la playa es muy agradable, tiene poco oleaje y se puede disfrutar tranquilamente, el agua está muy limpia."
+    "Es una playa linda. Pero al menos cuando fui (en julio) estaba muy llena, la mayoría de los restaurantes cierran a las 6:00 PM. En La Paz recomendaría otras playas más lindas."
+
+  [CONTRASTE]
+    "Buen espacio para caminar, patinar, con ciclo pista una pequeña pero buena zona de ejercicios calistenia, vida nocturna, mar no apto para meterse debido a las piedras y el mal olor dejado por los barcos que ahí se encuentran, en general muy limpio y adornado"
+
+TOPICO 3 -- Tamano: 785 docs (10.3%)
+Keywords: caminar, familia, tarde, disfrutar, excelente, tranquilo, bonito, hermoso
+
+  [PERTENECE]
+    "Lugar muy especial, sobretodo en esta época del año, es notorio lo que ha sido mejorado. Ideal para correr o rodar por las mañanas temprano y más tarde para recorrerlo de forma tranquilo"
+    "En la tarde ya casi no había mar. Jajaja una lástima."
+    "muy pintoresco ideal para pasar un rato de relajacion"
+    "Muy bonito pero lastima que no se puede andar hasta las 6 de la tarde"
+    "Increíble para pasar la tarde y relajarse"
+
+  [CONTRASTE]
+    "excelente lugar,lastima que no pude pasar ,pues traía bicicleta y no hay donde dejarla"
+
+TOPICO 4 -- Tamano: 661 docs (8.7%)
+Keywords: beautiful, walk, the, place, beach, restaurants, to, great
+
+  [PERTENECE]
+    "A great place to combine a walk with people watching, enjoying unique sculptures, grabbing a snack, or eating a delicious meal. You can grab a bench and either watch the parade of cars and pedestrians or gaze out over the Bay at the array of anchored yachts. Basically theres just too much to enjoy to list them all here. Just discover this magical area on your own."
+    "Beautiful place. Great view, nice bars restaurants, beaches. Very touristy, some parts are occasionally really crowded. Locals are friendly."
+    "Bonita public space for sea gazing, people watching, walking, biking , skateboarding, etc"
+    "Great place to hang out! Nice views of the bay and plenty of food and entertainment. Hotel accommodations are at walking distance. Family friendly option to Cabo. Safe and chilled environment. And beautiful sunsets!!"
+    "Beautiful sea drive walk. Plenty of place to eat. The place looks so beautiful at night."
+
+  [CONTRASTE]
+    "el personal muy atento, pero el museo se ve descuidado, da la impresión de ser un tema presupuestal de su nivel (federal). el costo es de 75 pesos para personas adultas. gracias mayores de 60."
+
+TOPICO 5 -- Tamano: 586 docs (7.7%)
+Keywords: lugar, catedral, visitar, si, centro, bonito, excelente, visita
+
+  [PERTENECE]
+    "Los mejores atardeceres se viven en La Paz. Para nuestra luna de miel quise que mi esposo y yo viviéramos la experiencia en La Paz, Baja California Sur. Así que nos fuimos a conocer las payas y el malecón. Increíble la vida nocturna, en clima, las personas, el ambiente es muy acojedor. Claro que regresariamos a La Paz!. Uno de los mejores lugares de México Ojalá siga así."
+    "recorrer el corazon de la ciudad de la paz es conocer la parte sencilla de la ciudad en donde podras respirar la atmosfera de una ciudad rodeada de automovilistas amables los cuales en cuanto observan a un peaton cruzar la calle inmediatamente se detienen es algo que casi nunca he visto en otra ciudad"
+    "Tienes que llegar temprano porque solo manejan dos horarios de acceso, recomiendo hospedarte en la paz para que no tengas contratiempos"
+    "uno de los pocos atractivos que tiene la paz como ciudad un templo atractivo su construccion relativamente nueva nada que ver con las misiones pero bueno para visitar"
+    "Se ve muy linda pero tienes que llegar temprano solo hay aforo para 400 personas o si eres residente de La Paz, así que desafortunadamente no pudimos pasar, ya será en otra ocasión más temprano"
+
+  [CONTRASTE]
+    "Eso ya es puro negocio si no llevas el che brazalete que según compras en línea oh con los que arman los tours, no'mas no entras, y tuve que regresar una vez más de san José a la paz pero ya con chin........ao brazalete para poder entrar. Abusados"
+
+--- BERTopic ---
+Topicos encontrados: 11 (top-5 mostrados) | Cobertura: 73%
+
+TOPICO 1 -- Tamano: 4641 docs (57.2%)
+Keywords: excelente, es, buena, hermoso, como, hermosa, el, paz
+
+  [PERTENECE]
+    "hermoso lugar y muy bien cuidado"
+    "Bonito lugar y muy cuidado"
+    "Un lugar hermoso, y bien resguardado hasta donde hay posibilidades,"
+    "Hermoso lugar Y muy bien cuidado para preservar lo bonito q está Felicidades Un paraíso"
+    "Es un lugar muy familiar, bien vigilado con atracciones para la gente y su maravillosa vista. Esta muy limpio"
+
+  [CONTRASTE]
+    "Es un lugar muy tranquilo una vista hermosa."
+
+TOPICO 2 -- Tamano: 785 docs (9.7%)
+Keywords: beach, beaches, paz, la, parking, restaurants, place, visit
+
+  [PERTENECE]
+    "Love this place. You can walk very far all along the beach. Many restaurants across the road. Very peaceful and great views."
+    "Beautiful place to walk and even get in the beach"
+    "Beautiful place to go for a stroll, very well taken care of and lots of restaurants and beautiful sunsets."
+    "The best: - beautiful and lively beach front. A lot happening at night, we loved it and touristy La Paz is very nice"
+    "Beautiful place. Great view, nice bars restaurants, beaches. Very touristy, some parts are occasionally really crowded. Locals are friendly."
+
+  [CONTRASTE]
+    "Nice walk along the beach. The beach does not look cery good for swimming. Lots of restaurants and bars along the entire Malecon. Great vibe, lovely place. Must see the whalesharks when you are visiting La Paz!"
+
+TOPICO 3 -- Tamano: 111 docs (1.4%)
+Keywords: museums, museum, exhibits, exhibit, visit, anthropology, baja, mexico
+
+  [PERTENECE]
+    "we enjoyed the glimpse back into the history of baja california sur. the exhibits are well done. was also a great way to practice your spanish as the history is all in spanish."
+    "i thought that this was a very nice little museum. in the interest of full disclosure i am a total nerd. we went on a sunday (closed monday); the cost was 75 pesos ( 5) and well worth it. the descriptions for each of the exhibits were quite informative, and the content was good. the descriptions were in spanish, but if you use the qr codes on most of the signs then there are good english translations. there are exhibits on prehistory early habitation, colonial period, and through the various revolutions. i do wish there was more geology, but that is a personal taste. recommended, if you like museums more than beer and need to escape the sun for a couple of hour s."
+    "nice little local museum about the regional history. i especially liked the cave paintings replica - very cool! all descriptions in spanish only, so have your translation app ready if you are not spanish speaking. everyone is super friendly and the museum guides like to share :)"
+    "great museum with lots of history and artifacts from baja."
+    "it's a wonderful museum ! totally renovated, the exhibition is really interesting and actualized, lots of artefacts and reconstitution, easy to understand and passionate . the temporally exhibition is also powerful , nice pictures that describe well the spirit of baja california sur. just go there, you will not be disappointed!"
+
+  [CONTRASTE]
+    "el museo es pequeño, bien montado y con la historia de baja desde sus inicios. vale la pena visitarlo."
+
+TOPICO 4 -- Tamano: 101 docs (1.2%)
+Keywords: cathedral, cathedrals, church, town, place, catholic, visit, architecture
+
+  [PERTENECE]
+    "this cathedral is small and fairly plain compared to other cathedrals i have seen it is lovely none the less the statues and decor in catholic churches are always interesting to me the square in front of the church is nice as well there are benches and it serves as a community gathering place"
+    "nice cathedral to visit we saw it during the day unfortunately some of the stained glass windows are broken but beautiful wood beams worth 15 minutes and there is a nice park across the street and a free art museum across the street from the park"
+    "neat area to walk around not the most amazing cathedral ive even seen but it was nice it was pretty but not all that much to do in the area only takes a few minutes to see the cathedral"
+    "this is a nice church on a very beautiful town the place is nice to rest a little and seat while you check the architecture this is a nice stop on the way to more attractions"
+    "one needs to walk up a street from where the tour buses let you off but its worth the walk the cathedral is very quaint and we were able to watch a service take place the architecture is very pretty and its amazing to see how they much they built with just stone a major stop no but if youre into local flavor and culture you should go"
+
+  [CONTRASTE]
+    "the building is not fancy but it is amazing i was able to find something new in the structure every time i looked at it the inside is greata house of worship plain and simple but with heartfelt stained glass and altars that evoked deep feelings in us the church is a real happening placewe witnessed concerts masses and a very communityoriented tradition of la loteria more like bingo outside on the grounds the bells are beautiful and have enhanced our month in la paz"
+
+TOPICO 5 -- Tamano: 81 docs (1.0%)
+Keywords: espectacular, espectaculares, es, lugares, lugar, este, visto, en
+
+  [PERTENECE]
+    "Espectacular y muy bien cuidada la reserva."
+    "Muya agradable y el ver los atardeceres es espectacular"
+    "Muy lindo el lugar y sus atardeceres espectaculares"
+    "Espectacular! Hay horarios, de 8 a 11:40 y después de las 12"
+    "Espectacular me encantó me encantó haber estado allí me pasé de maravilla con mis amigos para pasarla agradable tiene una vista espectacular"
+
+  [CONTRASTE]
+    "Hermoso lugar para pasar una tarde espectacular, eventos, restaurantes, atardeceres espectaculares tardes familiares inolvidables, sin duda la paz y su malecón es otra cosa, un lugar que sin duda debes visitar una vez en tu vida."
+
+--- LDA ---
+Topicos encontrados: 5 | Cobertura: 100%
+
+TOPICO 1 -- Tamano: 4370 docs (50.0%)
+Keywords: lugar, playa, hermoso, poder, bonito, tranquilo, mejor, llegar
+
+  [PERTENECE]
+    "Playa Balandra, es sin duda es una de las playas más bonitas de la península de Baja California. El acceso a esta playa es gratuito, pero limitado. Solo se permite el acceso a 450 personas por turno. Hay dos turnos: de 8am a 11:40am y de 1pm a 4:40pm. La playa se encuentra retirada de la ciudad (35-40 minutos en carro). La playa si cuenta con baños, pero son baños second y se pide una pequeña donación para usarlos. La playa también cuenta con palapas, pero son limitadas y se llenan rápido. Hay varias formas de llegar a esta playa: 1) Transporte colectivo (Playabus), 2) Didi ó Uber, 3) Taxi, ó 4)Carro particular. Si se desea usar el Playabus, esté tiene un costo de 80 MXN de ida y 80 MXN de regreso. El primer autobus a Playa Balandra sale desde la Central de Autobuses a las 9am. NOTA: Es posible que la playa ya este llena para las 9am, ya que la gente llega muy temprano. No recomiendo esta opción si es que quieren llegar en el turno de la mañana. Si se desea usar Didi ó Uber, los precios pueden varia, pero en general el costo es de 250-300 (ida). NOTA: No hay señal en la playa, por lo que no se puede pedir un Didi o Uber estando en la playa. Si se desea usar Taxi, los precios pueden varia, pero en general son más caros que Didi o Uber. Nos cobraron 400 MXN desde la Playa Balandra a la Central de Autobuses. NOTA: Si no se tiene prisa, no recomiendo esta opción de regreso, ya que el autobus pasa cada hora y cuesta mucho menos. Si se desea usar carro particular, les recomiendo llegar temprano ya que hay fila para entrar en carro y el estacionamiento es limitado. Nosotros llegamos a las 7:40am y ya había más de 30 carros esperando para entrar."
+    "Completamente decepcionado como turista, llegar es extremadamente difícil y caro, (sin auto) los didis todos cancelan y los taxistas te cobran muy caro. El dichoso playa bus su primer salida es a las 9 y la playa abre a las 8am y si llegas 9;45 ya no hay acceso. Y el de las 8 am solo llega al puerto pichilingue, En la playa existen sus dos horarios de entrada únicamente (8am y 1 pm)con la gente haciendo fila 2 hrs antes y cuando llegas te dice una señora con obesidad de la entrada que ya no puedes pasar de la manera más fea grosera y déspota, dejan pasar a camiones repletos de gente sin contarlos y los que estamos ahí formados no nos dejan pasar, fui dos veces y las dos veces la señora fue grosera y no nos dejó pasar nos corre y te dice que te vayas en verdad horrible nadmas porque vas de vacaciones y tengo educación no me respondo como se merece. Dice que por el límite de personas pero no cuenta a nadie se inventa ella solita su capacidad. Y les grita horrible a sus compañeros por su feo radio. La playa en si es completamente normal e igual que por ejemplo pichilingue, el tesoro la concha el tecolotito etc. nada interesante ni impresionante. En el hongo mucha gente haciendo fila para su foto y gente por doquier en la playa se vuelve una experiencia nada agradable, por ningun motivo vuelvo. Si tienes la opción de no ir no vayas horrible, caro, y los que trabajan ahí groseros. Las fotos están editadas no se ve como en instagram puras fotos fake. La gente que va a presumir es pura mentira sean reales y no sean más del montón. Si ya se acabo la pandemia (hace 3 años) que quiten sus dos horarios que sea libre como antes investigue y antes era de 8am a 5pm libre que llegues a la hora que gustes y amplíen el aforo a 1200 personas como antes. Que quiten a los encargados y pongan gente que le guste hacer su trabajo."
+    "No Vayan! Les daré mi opinión transparente. Fuimos hoy sábado 20 de abril de 2024, nos recogieron en el hotel ubicado en San José del Cabo a las 4am (4 de la mañana) súper temprano. Después de un camino cansado y largo como de 3 horas, llegamos a PLAYA BALANDRA. La agencia de viajes con la que contratamos el tour ya tiene pulseras de control emitidas por el gobierno para poder entrar, lo que sabemos es que solo están permitidas entrar a playa BALANDRA 400 personas por turno y solo hay dos turnos en el día. Antes de llegar te rentan un sombrilla y dos sillas por 300 pesos, y aquí empiezan los problemas, ya que es temprano, por alguna razón hay mucho aire, y es un tema que tú sombrilla vuela con el viento, y para las dos horas que estuvimos ahí, la VDD es que no te puedes meter agusto a la playa por el exceso de viento y el agua está muy fría. La playa está hermosa y la vista está padre.. Pero ir a tomarte la foto en el honguito y ver la playa me parece que no vale la pena por tanto tiempo que pasas para llegar y no poder bañarte agusto. Vale mejor su tiempo que se vayan a otras playas donde puedan llegar con más tranquilidad y que disfruten más con menos viento y más solecito."
+    "Una de las tantas Joyitas de lugares que tiene México! Me gustó mucho. Recomiendo ir en el horario de la mañana, yo llegué a las 7:20am y eramos el 5to carro formado. A las 8 dejan pasar. Hay un límite de 400 personas al día.. Gracias a eso nos tocó sombrilla, el día estuvo muy agusto, pudimos aprovecharlo bien, rentamos kayak (400 la hr) no nadé mucho porque sí está bastante fría el agua en esta temporada! (Dic. 2022), pero el sol lo compensó bien, y la marea no afectó en ese horario. Recomiendo llevar algo práctico de comer y que no genere mucha basura. (ejemplo sandwich ya preparados, fruta, etc..) y llevar consigo su basura. Y lleven playera acuática manga larga, zapatos acuáticos por las rayas que pueda haber y un tip que me recomendaron: siempre caminar arrastrando los pies, para no pisar alguna raya y que nos pueda hacer algún daño. Hay un camino para subir a un mirador, lleven unos tenis cómodos ya que hay mucha piedra suelta. No se hace mucho de camino ni es tan complicado, unos 10-15 mins para subir. Desde ahí salen unas fotos increíbles. ... 15 mins a las 12pm ya nos están sacando :( Para que entre el nuevo turno, el cual está muy lleno! Vi bastantes carros formados, en pleno sol, todos con toallas en sus ventanas, y lo más seguro es que no hayan podido entrar todos. Además la marea en ese horario baja mucho."
+    "El mejor consejo: llega en barco el tiempo es libre y evitas la caminada desde la playa hasta el hongo. Yo tome tour a isla Espiriru Santo y de vuelta te llevan a balandra e incluye alimentos. Lleva zapatos especiales para el agua NO CHANCLAS pues hay piedras filosas y animales salvajes como peces globos y rayas. Hacen fila para tomarse las fotos en el hongo (balandra) entonces procura decidir bien si subes al mirador primero Hay baños públicos con costo voluntario (son baños secos) No venden alimentos ni rentan equipos de snorkel adentro. Si vas en auto llega antes de las 8am para hacer fila y puedas acceder te dan tiempo de 3hrs aprox En la fila para entrar venden burritos y sombrillas por si te falto algo Llega en bus tomando el camión desde la central turistica del malecón en la paz, es color azul el camion y dice playa bus, te deja algo lejos del acceso a la playa pero es lo más económico de regreso te recoge donde te dejo y pasa a las 5pm el último. Bonus tip este mismo bus te puede llevar a playa el tecolote son como 30 min de distancia y tarda en pasar toma precauciones."
+
+  [CONTRASTE]
+    "Muuuuy tranquila, si la visitas y quieres llevarte algo que sea tu basura porque está muy limpia"
+
+TOPICO 2 -- Tamano: 1767 docs (20.2%)
+Keywords: bonito, playa, lugar, limpio, museo, excelente, malecón, hermoso
+
+  [PERTENECE]
+    "Playa que debes visitar en tu visita a La Paz, se encuentra a menos de 15 minutos del malecón del paceño. Cuenta con amplio estacionamientos y con servicios de restaurantes, baños y regaderas. Lo mejor es que lo tiene costo el acceso. Dentro hay muchas opciones para entretenerse desde renta de inflables a kayaks. La mantienen muy bien cuidada las personas del ayuntamiento. Se agradece este tipo de espacios tan inclusivos para las personas."
+    "muy muy interesante cosas que no sabía de la baja, bonito lugar había un gatito negro que nos recibió en la entrada, muy amables desde la entrada, seguridad en cada piso muy amables, había un señor en el 1er piso que nos explicó muchas cosas, estacionamiento afuera y si hay para discapacitados también hay rampas, los baños limpios pero les falta una manita de gato, hay aire acondicionado en todos los pisos, letreros dando una explicación un poco más de iluminación para leer los letreritos para mi gusto todo bien"
+    "Bello lugar y linda vista. Tiene palapas. Sanitarios y duchas Restaurantes Mesas y sillas Rampas de acceso Muelle Gran servicio de parte de doña Yenny, recibimos, especialmente yo, que me encontraba afectada de salud; fue muy amable y me ofreció medicamentos y solicito mi comida de manera especial para mi situación. Bellísima persona. Dios la bendiga, realmente muy agradecida de topar con una persona tan amable y atenta. De esas que se quedan en el corazón . Pura vida"
+    "Una playa excelente para la familia, el agua cristalina, se aprecian los peces a tu alrededor, buenas vistas y buen servicio por parte de los restaurantes del lugar quienes ofrecen excelentes precios en alimentos y bebidas refrescantes. Las instalaciones excelentes y cuentan con baños y regaderas."
+    "cobran 70 pesos la entrada a menos que seas maestro, estudiante o extranjero. tiene tres pisos, en lo personal lo que me pareció más interesante fueron los dos primeros. la exhibición es pequeña pero hay un muchacho que sabe mucho del tema y si le preguntas te cuenta todo. afuera hay una exhibición de plantas con su ficha técnica no recomiendo ir con niños si son muy asustadizos pues hay dioramas tamaño real, con estatuas realistas (un poco raras) que si dan cosa."
+
+  [CONTRASTE]
+    "Excelente playa para ir con niños, prácticamente una alberca"
+
+TOPICO 3 -- Tamano: 1257 docs (14.4%)
+Keywords: beach, museo, historia, beautiful, buen, placir, museum, great
+
+  [PERTENECE]
+    "Balandra beach is a must-see beach in La Paz. Warm, clear blue-green, calm waters, you just may never want to get out. The water is shallow enough you can walk across the other side of the bay. Balandra has limited palapas (15-20), recommend you bring your own umbrellas, chairs or blankie. You just have to find the right spot for you, on the beach. While youre at the beach, make sure you check out the famous mushroom rock, approximately a 15 minute walk (or swim) through shallow waters. Recommend water shoes. Traveling group and I visited in September. We arrived at the entrance gate and were told that beach was full to come back the following morning. We ended up going to neighboring beach, Playa Tecolote since we were in the area. Balandra has limited parking lot. No food vendors or restaurants. Bring your own food and drinks. Still recommend Playa Balandra"
+    "Wow, Playa Balandra in La Paz, Baja California Sur is absolutely breathtaking! I've never seen such stunning scenery anywhere else. But I gotta admit, getting there isn't the easiest, mainly because the locals aren't always clear on how things work, or maybe they're just keeping it quiet not sure. Here's what I found out from my visit in March 2024: 1. You'll need your own wheels to get to the beach. Taxis can take you there, but getting back might be tricky unless you've arranged something with the driver. 2. Since it's a protected area, they only let in 400 people during two time slots: early morning from around 7-8 am until noon, and then from 1 pm to 4 pm. But be warned, there's usually a long line of cars before each slot, so it's best to arrive early to secure your spot. 3. And here's the kicker there are no facilities at the beach, so make sure to bring your own drinks and snacks. Plus, remember to take all your trash with you when you leave. 4. While you're waiting, you can rent chairs and umbrellas from vendors, although I didn't bother. 5. There are only a couple of porta-potties near the parking lot, so plan accordingly. 6. Oh, and don't count on any cell service while you're there. Despite the hassle, the natural beauty and peaceful atmosphere of Playa Balandra make it totally worth the trip!"
+    "Very beautiful beach as everyone said but some logistics. There are two time slots to enter, 8-12 pm, and 1-5pm. Only 400 people can enter each time slot. We went for the 1 pm. We got there around 11:45 am. Line can start forming around 12 pm, so I think getting there one hour is as early as you need to go. Since we were close to front of the line, we got to start going in the beach around 12:15 pm. So even though the official start time in the afternoon was 1 pm, we still got to go in early. I personally think we would've got in anyways even if we arrived at 1 pm based on the crowd. Not sure if it ever got full afterwards, but reading reviews, it can get full where people get turned away. When you are lining up, there will be lots of people trying to sell you beach chairumbrellas. Note that the line forms at where all the people selling the umbrellas are. To enter the line, you go through a dirt road off a highway pass near the main road which someone will guide you to, even tho it feels wrong. We thought they were just try to get us to line up for the vendors. But it ended up being the main line. At the beach, there's bathroom but you need to pay. There're no vendors besides kayaks for rent. There's no entrance fee. There are around 20 permanent umbrellas you can use if you are one of the first ones to get in, otherwise bring your own."
+    "Playa Balandra was as beautiful as expected. We chose the afternoon time slot and arrived around 11:30 AM, finding about 15 cars already in line. While waiting, we rented umbrellas and chairs from a vendor, knowing we wouldn't get one of the free palapas with so many cars and a bus ahead of us. Unfortunately, the chairs were the type that only allow you to sit straight up, not the reclining beach chairs we had hoped for. An umbrella is essential at this beach. People were let in around noon, and we found plenty of parking. The water was stunning, though the color changes as the afternoon progresses due to the way the sun reflects off the ocean. The water was most beautiful during the first couple of hours and started to look more like an ordinary ocean after 2 PM. I can see why the morning slot might be more appealing. I highly recommend the hike to the Mirador. The panoramic views from the top were breathtaking. It was an easy hike, taking only about five minutes from the bottom. If you pack lightly, you can secure a more secluded spot on the other side of the Mirador, which is challenging to reach if you have a lot of gear. This area is on the way to the mushroom rock."
+    "It's an excellent choice if you're looking for a convenient, family-friendly beach close to the city. The beach is well-maintained and has all the essentials you need for a comfortable day by the water. One of the biggest perks is its accessibility. It's a quick and easy drive from downtown La Paz, and there's plenty of parking available. You don't have to worry about a long journey to find a great spot. The water is typically calm and shallow, which makes it perfect for kids to swim and play in. There are also palapas and lounge chairs you can rent, so you're not stuck laying a towel directly on the sand. The on-site restaurant and food stalls are a huge plus, offering a decent variety of food and drinks. The bathrooms are also clean and well-kept. The only reason I'm not giving it five stars is that it can get pretty crowded, especially on weekends and holidays. The atmosphere is more "busy public beach" than "tranquil escape." If you're looking for a quiet, secluded spot, this might not be it. However, if you're traveling with family or want a beach with amenities and a lively vibe, it's a fantastic option. It's a great place to spend a fun, hassle-free day soaking up the sun and enjoying the Sea of Cortez."
+
+  [CONTRASTE]
+    "muy bueno para conocer la historia"
+
+TOPICO 4 -- Tamano: 679 docs (7.8%)
+Keywords: excelente, historia, lugar, hermoso, museo, conocer, playa, buen
+
+  [PERTENECE]
+    "te invito a que verifiques muy bien con que agencia vas a tomar el tour los que estan en el malecon solo andan cazando gente y les hablan bonito para que compres pero el que a mi me toco baja costa salvaje y reina tours fue espantoso van a demasiada velocidad y sientes como literal el coxis te lastima ademas a mi me pico una mantaraya en la isla y no traian el botiquin adecuado pesimo servicio pregunten si los llevaran en lancha yo les recomiendo que sea un yet aunque mas caro enserio creanme que es horrible en lancha"
+    "las instalaciones están bien cuidadas, tiene pocos cajones para estacionarse, sin embargo es una zona segura. los puedes recorrer con calma en hora y media. un buen lugar para acercarse a la historia de sudcalifornia. visitalo ! well taken care facilities, few spots for parking, it s safe to park on the surrounding streets. this museum is a must, to learn about the history of baja california sur."
+    "esta catedral de la paz no tiene realmente nada que ofrecer a los visitantes se h pido construyendo poco a poco primero el edificio central luego una torre y luego la otra hasta terminarse completamente por ahi de 1901 es una catedral sin chiste tradicional una iglesia mas y solamente vale la pena visitarla por el conjunto arquitectonico que se forma con el jardin velasco y la zona comercial que circunda a dicho jardin se dice que fue construida sobre los vestigios de una vieja mision jesuita hasta ahi"
+    "la catedral de la paz es una iglesia pequena comparada con las grandes iglesias mexicanas ubicada a unas cuantas cuadras del malecon la plaza en la que esta ubicada nos recuerda la magia de la paz pues es un lugar tranquilo para tomar un helado y conocer la iglesia"
+    "increible lugar para nadar con lobos marinos vale la pena visitarlo con una empresa establecida que ofrezca buenas embarcaciones servicio y guias certificados para una aventura optima sitio ideal para los amantes del scuba snorkeling y playa"
+
+  [CONTRASTE]
+    "Excelente servicio y calidad de primera."
+
+TOPICO 5 -- Tamano: 667 docs (7.6%)
+Keywords: historia, museo, interesante, lugar, bajo, california, excelente, conocer
+
+  [PERTENECE]
+    "excelente espacio cultural de la ciudad, cuenta con una muy buena exposición de la historia de nuestra región. cuentan con algunas piezas de exhibición muy buenas, el personal es muy atento y realmente les apasiona la historia. sin embargo algunos espacios se muestran algo cortos y se nota que tal vez ya es necesaria una remodelación a fondo del edificio, como ejemplo el área de los sanitarios . pero a pesar de lo anterior es un espacio muy recomendable, tanto para locales como para los turistas que deseen adentrarse en la hermosa historia de nuestro estado."
+    "la información que se brinda es muy buena, tú haces el recorrido, y te informas leyendo en cada sala. en general las personas que están a cargo del lugar y de la vigilancia demuestran poca profesionalidad hablando todo el tiempo a alto volumen de cosas que no tienen que ver con el espacio (cosas personales), mandan un mensaje de desinterés por el turista, creo que deben trabajar mucho en eso. uno de los vigilantes estaba en la sala sentado viendo videos a muy alto volumen. recuerden que el turista viaja de muy lejos y cuenta mucho ese tipo de actitudes."
+    "visite este museo en 2019 y lo volví a conocer hace dos días (2024) esa vez con más conocimientos y aún más interés acerca de la baja california sur. mi experiencia fue aún más genial ya que mi involucracion con todo eso es más importante hoy que hace 5 años. la verdad, ese recorrido es un viaje en el tiempo, super bien presentado, ofreciendo una mezcla perfecta entre informaciónes escritas y visuales. entre mapas, objetos, maquetas y pinturas, saltamos en una inmersión sensacional ! si te interesa la historia de la bcs, entonces la visita del museo es mejor que ir al cine."
+    "es un excelente museo, tan bien pensado en su recorrido. la exposición antropológica sobre la baja es impresionante pues práctica tienen piezas originales antiquísimas y representaciónes dónde se observa el trabajo creativo y de investigación que las personas hicieron. valoro mucho este museo y solo lo he visitado una vez, de hecho iba de paso pues mi vuelo salía ese mismo día y tenía unas horas libres me voy con un gran sabor de boca y con tanto conocimiento."
+    "este es el lugar si quieres conocer la historia de la paz, baja california y la historia de méxico. me impresionó la resiliencia de los pobladores desde un inicio así como la iniciativa y lo emprendedores que son los paceños y los pobladores de esta zona en general. ojo que a pesar de estar lejos del centro del país los baja californianos tuvieron un papel importante en la defensa del territorio. toda la exposición es de gran calidad. no dejen de visitarlo. dejo una probadita."
+
+  [CONTRASTE]
+    "Buen diseño, incluyente u con facilidad para débiles visuales y para personas con necesidades especiales de movilidad"
+
+======================================================================
+FIN DEL REPORTE
+======================================================================

@@ -1,0 +1,394 @@
+{
+    "dataset_info": {
+        "DATASET": "rn-T",
+        "FUENTE": "TripAdvisor",
+        "REVIEWS": "3320",
+        "FECHA": "2026-06-17"
+    },
+    "models_info": [
+        {
+            "model": "XidooTopic",
+            "metadata": {
+                "Topicos encontrados": "5",
+                "Cobertura": "100%",
+                "Cohesion intra-cluster": "0.9836"
+            }
+        },
+        {
+            "model": "BERTopic",
+            "metadata": {
+                "Topicos encontrados": "20 (top-5 mostrados)",
+                "Cobertura": "67%"
+            }
+        },
+        {
+            "model": "LDA",
+            "metadata": {
+                "Topicos encontrados": "5",
+                "Cobertura": "100%"
+            }
+        }
+    ],
+    "models": [
+        {
+            "model": "XidooTopic",
+            "topics": [
+                {
+                    "topic_id": 1,
+                    "keywords": [
+                        "caminar",
+                        "gente",
+                        "agua",
+                        "arena",
+                        "sayulitar",
+                        "hermoso",
+                        "gran",
+                        "lugar"
+                    ],
+                    "pertenece": [
+                        "\"zona de playa amplio plano excelente vista montañas hermoso lugar ver atardecer\"",
+                        "\"hermosa playa me encanta caminar por la playa plana hermosa genial pasar el día quiero salir volver condominio\"",
+                        "\"Creo que es mejor caminar frente a la playa durante mucho tiempo. Ver muchos pelícanos alrededor. Temperatura del agua. Olas casi grandes dependiendo. Excelente lugar. Nadar. Jugar.\"",
+                        "\"playa nuevo vallarta paseo favorito para siempre bonito piso precioso\"",
+                        "\"visitando nuevo vallarta sillas de playa cerca vino tomar comida beber pescado\""
+                    ],
+                    "contraste": [
+                        "\"grandes olas jugar agua cálida sierra pequeñas olas para montar genial ver\""
+                    ]
+                },
+                {
+                    "topic_id": 2,
+                    "keywords": [
+                        "experiencia",
+                        "niño",
+                        "increíble",
+                        "personal",
+                        "tobogán",
+                        "parcar",
+                        "divertido",
+                        "tiempo"
+                    ],
+                    "pertenece": [
+                        "\"vine disfruté una semana buena comida buen clima disfruté momentos increíbles me siento seguro tiempo\"",
+                        "\"clima bastante cálido tiempo dicho normalmente mejor clima normalmente temporada de lluvias\"",
+                        "\"hermosa experiencia nieto amado regreso hermoso nosotros atento explicado bien tiempo nieto\"",
+                        "\"experiencia agradable agua paseos sucios trabajo antiguo traer niños disfrutar toboganes lugar esperando lado positivo horas baratas como delfines cautiverio ir sección\"",
+                        "\"parque visitado creer parque prácticamente parque parque poco correr ver gente tal vez dar parque\""
+                    ],
+                    "contraste": [
+                        "\"tomó un niño de cuatro años, un parque acuático de cinco años, eligió un encuentro, una aventura, nadar, un niño de cuatro años, cinco años, encontró entrenadores, un fotógrafo amigable, un buen trabajo, un encuentro genial, una aventura de cuatro años, un grupo realmente fantástico, encuentro con nosotros, otra familia, mucho tiempo, pasar dos delfines, dado, espere diapositivas, comida de trabajo, el lugar más atractivo, lleve a los niños, experimente los delfines, realmente recomendaría el lugar, también los niños se ven años más jóvenes, experimentan con delfines, gratis, cuatro, nosotros, pagado\""
+                    ]
+                },
+                {
+                    "topic_id": 3,
+                    "keywords": [
+                        "arena",
+                        "bahía",
+                        "caminar",
+                        "resort",
+                        "restaurante",
+                        "boogie",
+                        "largo",
+                        "hotel"
+                    ],
+                    "pertenece": [
+                        "\"hermoso y seguro resort de playa se quedó temprano en la playa, largo, ancho, mucho espacio para todos, muy buenas familias, incluidos niños pequeños, arena, rocas suaves, agua encontrada, mareas que proporcionan olas, suficiente tabla de boogie, tortugas que eclosionan temprano una mañana, ayudan a los pequeños, el agua de difícil acceso necesita un gran baño, increíbles puestas de sol disfrutadas todas las noches, playa favorita\"",
+                        "\"caminar cálido amor también rocas limpias disfrutar niños jugar curso de agua segura\"",
+                        "\"amor amor amado cada minuto delfín genial adultos niños hora de la piscina tabla de boogie paseo paseo en el vientre beso en la mano\"",
+                        "\"visitar tramo de nueva construcción resort de playa mayo acceso a la playa playa tramo largo arena blanca pequeño restaurante estacionamiento\"",
+                        "\"gran playa de arena blanca gran restaurante nuevo mesas de palapa sombrillas playa estacionamiento gratuito disponible hermosa bahía\""
+                    ],
+                    "contraste": [
+                        "\"visité nuevo vallarta temporada de lluvias muchos escombros lavados lugar maravilloso tiempos\""
+                    ]
+                },
+                {
+                    "topic_id": 4,
+                    "keywords": [
+                        "delfín",
+                        "león",
+                        "familia",
+                        "tobogán",
+                        "experiencia",
+                        "increíble",
+                        "niño",
+                        "hotel"
+                    ],
+                    "pertenece": [
+                        "\"experiencia divertida trajo a los niños años de edad definitivamente algo siempre recuerda que el gran viaje al resort terminó obteniendo tiempo compartido cosa nosotros boletos descubrimiento de delfines sentado medio día tiempo compartido contento paquete de encuentro con delfines tengo muchas interacciones cosa del delfín desearía opciones paquete completo podría en realidad entrenador de nado realmente genial buenos delfines también opción de foto compra bastante cara recuerda fotos correctas fotos pequeñas recuerdos bastante buenos vistos espectáculo de delfines espectáculo de leones marinos probablemente necesite un delfín un encuentro con delfines espectáculo de leones emocionado espectáculo de leones súper grande aunque realmente genial ver aunque el complejo junto al parque acuático buenos niños comenzó con explosión curso desde que se permitió parte fácil sigue siendo divertido\"",
+                        "\"excelente mal comienzo gran encuentro con delfines realmente increíble los delfines parecen felices entrenadores conocedores experiencia divertida viejo absolutamente esposo obtener buenas fotos ok gastar pequeño paquetes de una foto espectáculo de leones vale la pena diapositivas paseos divertido bastante bueno pequeño mal parque bastante correr piscina agua sucia podía ver las áreas del fondo obtuve una oferta increíble hotel haciendo muy bien vale la pena excursión\"",
+                        "\"parque limpio mejor área segura prueba uno a través de encuentro con leones ok grupo niños oportunidad vender fotos lugar los padres se paran lejos fotos foto obtener fotos incluyendo delfines simplemente pagar el segundo león mantenido piscina mucho más grande espectáculo experiencia total con delfines reales grupo de mejor precio esperar pasar el tiempo total tocar con delfines dos delfines nadar grupo grupos fotos paseo dos conseguir piscina dos negociar precio boleto toboganes bueno río lento ok\"",
+                        "\"tomó dos hijas descubrimiento de delfines toboganes divertidos niños río lento gran esposo tirolesas muro de escalada definitivamente niños más pequeños incluso van cosas actividades de nado con delfines increíble amado recomendaría altamente interacción con leones tengo mascota león nadé tiempo de descanso foto fotos compradas paquete de fotos dos hijas incluyen fotos tiempo parque fue a recoger imágenes de leones incluidas oferta dicho incluido a pesar de que las fotos tomadas en el parque salir camino ganar dinero las familias quieren recuerdos también tomaron una foto familiar nosotros pudimos obtener una impresa precio escandaloso pagar dicho podía imprimir familia desde que el esposo compró el paquete de fotos imprimir incluso precio escandaloso pagar pensamiento parte recuerdos derecho se fue pagando foto claro incluido especialmente la interacción con el león\"",
+                        "\"Me encantó el tiempo, delfín, un tobogán, esposo, años, fue divertido, río lento, agradable, excepto tener cámara de aire, ya que está disponible, decepcionado, los toboganes de la piscina, los toboganes del pequeño parecían viejos, diferentes, piscina, sucio, pasé el tiempo mirando a un pequeño, piscina como pequeños animales hechos por el hombre, aunque el tiempo, delfines, fotos divertidas, excelente precio, fotos altas, supongo que los delfines comen.\""
+                    ],
+                    "contraste": [
+                        "\"hijas atracción visita viaje familiar siente que vale la pena dinero gastado personal amigable programa profesional bien permitido muchas interacciones delfines instalaciones del parque acuático enorme delfín experiencia del león mañana pasada tarde toboganes funcionó bien hecho día completo obtuve dinero que valía la pena esperar mucho almuerzo incluido hecho hija recibió comida completa papas fritas incluyendo agradable se sintió bien personal instalación del parque acuático podría usar parecía bastante seguro necesita poco toboganes\""
+                    ]
+                },
+                {
+                    "topic_id": 5,
+                    "keywords": [
+                        "cocodrilo",
+                        "santuario",
+                        "taxi",
+                        "guir",
+                        "niño",
+                        "pesos",
+                        "lugar",
+                        "biólogo"
+                    ],
+                    "pertenece": [
+                        "\"gran visita para aprender cocodrilos, aunque muchos recorridos veterinarios fueron divertidos, educativos, también tortugas, animales, largos, perfectos, niños, incluso déjanos sostener al joven cocodrilo, nosotros, el cocodrilo, interesante, fácil de conseguir, el auto, tomó al conductor, sabe regresar, recogernos, taxi, mucho, también, traer, llevar, llevarnos.\"",
+                        "\"Me encantó la visita, sé ir, aunque sea un poquito, me hizo sentir, aprendí mucho, cocodrilos, también, manglares, vida silvestre, toqué al cocodrilo, incluso lo sostuve, cocodrilo bebé, pasión, animales de trabajo, quiere gente, costo, pesos, experiencia del recorrido, área de visita, realmente tengo.\"",
+                        "\"joya escondida años saber a través del santuario realizar una visita guiada precio razonable ver aprender mucho guía biólogo marino apasionado cocodrilos conservación interactivo aprendido mucho habló genial pequeño camino trillado mejor recorrido hecho sería bueno edades otro grupo de viaje familiar niños pequeños amado toma una hora visitar animales animales liberación de cocodrilos genial recomendaría encarecidamente increíbles recorridos de trabajo el taxi esperaría mucho\"",
+                        "\"tours hora de carrera recorrido de donación pesos por adulto pesos por camino camino de tierra pequeño y lleno de baches entrada derecha gente parque animales santuario tortugas diferentes especies cocodrilos también caminan los cocodrilos son liberados espectáculo hábitat tocar cocodrilo bebé una sierra guía ciega nos permitió tocar sostener como otros niños bastante grandes\"",
+                        "\"Fui esperando ver cocodrilos. Le dijeron que podía santuario. Fuimos a un restaurante. Nos rodearon. Cocodrilos bebés. Los que también mordieron. Vi animales esperando. Aprendí mucho.. bastante interesante.\""
+                    ],
+                    "contraste": [
+                        "\"fantástico tomó familia explosión no puedo explicar me encantaría también día de la foca genial genial hermosos animales tomó hija necesidades especiales increíble\""
+                    ]
+                }
+            ]
+        },
+        {
+            "model": "BERTopic",
+            "topics": [
+                {
+                    "topic_id": 1,
+                    "keywords": [
+                        "playa",
+                        "playas",
+                        "excelente",
+                        "realmente",
+                        "buena",
+                        "bahía",
+                        "pequeños",
+                        "como"
+                    ],
+                    "pertenece": [
+                        "\"playa de los muertos visitada sayulita playa para nadar perfecta familia lugar agradable y tranquilo disfrutar de las multitudes playa principal aunque surfear gran lugar establecer también sombra sombrilla necesita un poco de caminata fácil área de estacionamiento en la ciudad cementerio de la colina\"",
+                        "\"playa nuevo vallarta estupenda playa de arena suave zona tranquila fantásticos niños poco profundos camino bastante largo hermosas vistas de la playa\"",
+                        "\"playa hermosa tal vez un minuto de caminata sayulita camino de terracería cementerio grande derecho baño pesos familiares uso del parque alquiler familiar sillas sombrillas mantener playa pública playa pública vista a la playa\"",
+                        "\"hermosa y larga caminata por la playa excelentes puestas de sol muchas aves vistas todos los días desde gran uso arena perfecta incluso conchas encontradas turistas derecho capaz de obtener hermosa playa todos los días todos los días agua bien nadar nunca vi poco también agradable sierra familias niños muy divertido camino poco profundo olas caer\"",
+                        "\"caminar a lo largo de la orilla del agua ver diminuta arena dorada clara grande muy divertido amigable con la playa fabuloso\""
+                    ],
+                    "contraste": [
+                        "\"semana llena dijo playa de los muertos mucho menos mucho más limpia playa principal de sayulita poco caminar menos servicios la gente todavía traer pesos preguntar llegar conseguir sillas sombrilla pesos día camarones fresco bien caminar vale la pena\""
+                    ]
+                },
+                {
+                    "topic_id": 2,
+                    "keywords": [
+                        "santuario",
+                        "taxista",
+                        "cuidado",
+                        "taxi",
+                        "pesos",
+                        "excelente",
+                        "dinero",
+                        "trabajo"
+                    ],
+                    "pertenece": [
+                        "\"joya escondida años saber a través del santuario realizar una visita guiada precio razonable ver aprender mucho guía biólogo marino apasionado cocodrilos conservación interactivo aprendido mucho habló genial pequeño camino trillado mejor recorrido hecho sería bueno edades otro grupo de viaje familiar niños pequeños amado toma una hora visitar animales animales liberación de cocodrilos genial recomendaría encarecidamente increíbles recorridos de trabajo el taxi esperaría mucho\"",
+                        "\"los visitantes pasaron una hora nosotros recorrido personal el veterinario dio el recorrido también feliz respuesta preguntas decir cosas claramente cocodrilos apasionados animales mucha excelente información santuario trabajando proteger animales como otros dijeron ayudar a tocar muchos animales incluso un cocodrilo bueno quiero pesos por persona increíble\"",
+                        "\"primero lo vio pensó que el guía diría habló bastante esforzándose hacer que el esposo hablara como nativo respondió claramente un poco buenos animales nos dieron un recorrido de una hora pensó excelente nosotros sostenga al cocodrilo bebé un cocodrilo adulto venga también capaz de acercarse adulto ciego capaz de tocar correctamente piense porque el costo de soporte pesos el recorrido de una hora creo mucho seguro los guías probablemente sobrevivan\"",
+                        "\"visita mejor aprendido mucho cocodrilos animales bueno cocodrilos fantástico guía nos recorrió lugar hora nosotros animales preguntas unos km carretera precio taxista llévanos espéranos peso por persona vale la pena va apoyando santuario\"",
+                        "\"maravillosas vacaciones quería algo resort visitar santuario perfecto contar personal experto animales oportunidad ver cocodrilos experiencia genial lugar encantador recomendar a cualquiera\""
+                    ],
+                    "contraste": [
+                        "\"eligió nado real incluido minuto nado con delfines encuentro con leones acceso al parque excelente experiencia excelente manera obtener grupos de animales acuáticos gente pequeña con nado real grandes paquetes de entrenadores de delfines encuentro con leones gran tacto sentir interactuar aunque individual costoso mejor manera ir fotos consiguieron nado con delfines encuentro con leones a lo largo impreso comparado diapositivas de imágenes individuales piscina río lento genial genial quiero probar los grandes recomendaría lugar a cualquiera nadar con delfines disfrutando del día parque acuático\""
+                    ]
+                },
+                {
+                    "topic_id": 3,
+                    "keywords": [
+                        "mercado",
+                        "delicioso",
+                        "calidad",
+                        "mercados",
+                        "puerto",
+                        "pesos",
+                        "deportivo",
+                        "deliciosa"
+                    ],
+                    "pertenece": [
+                        "\"mercados únicos realmente disfruto del mercado gran variedad comida entorno delicioso a lo largo del puerto deportivo siempre excelente música en vivo artesanías comida hecha en vivo artículos hechos pescado bueno excelentes productos frescos como recién comprados comida deliciosa mercado me encanta ir todos los años delicioso hermoso\"",
+                        "\"área de tres mañanas ubicación del mercado a lo largo de la costa tamaño del mercado vendedores locales productos hechos excelente calidad música en vivo lugar amigable mañana preparada enorme selección interesante ropa recuerdos hechos a mano artistas locales pescado fresco casero comida preparada excelente comprado para llevar a casa un extremo baños del puerto deportivo área de puestos de comida\"",
+                        "\"mercado uno los mejores mercados disponibles todo lo disponible artículos de arte en vidrio hogar mejores artículos de comida música en vivo ubicado hermoso puerto deportivo próximo mercado de pescado fresco venga a visitarnos\"",
+                        "\"mercado un entorno a lo largo del puerto deportivo últimos varios obtenga muchos vendedores ropa hecha artesanos productos frescos productos locales productos horneados arte local comida alimentos preparados pasta fresca fresco fresco quiero hacer tamaño día siempre música en vivo manera encantadora pasar la mañana\"",
+                        "\"muchos mercados de alimentos orgánicos muchos alimentos frescos la calle también disfrutó de los vendedores locales pequeñas artesanías área de música todo buen mercado asegúrese de ir temprano se llena el día del mercado puerto deportivo puerto deportivo un puerto deportivo completo limpio increíble uno piensa increíble abrir traer el puerto deportivo también un poco genial recomendar el puerto deportivo tomar un viaje de un día en taxi también muchos excelentes pesos pesos excelente lugar\""
+                    ],
+                    "contraste": [
+                        "\"semana llena dijo playa de los muertos mucho menos mucho más limpia playa principal de sayulita poco caminar menos servicios la gente todavía traer pesos preguntar llegar conseguir sillas sombrilla pesos día camarones fresco bien caminar vale la pena\""
+                    ]
+                },
+                {
+                    "topic_id": 4,
+                    "keywords": [
+                        "delfines",
+                        "definitivamente",
+                        "interacción",
+                        "cuidado",
+                        "atracciones",
+                        "descubrimiento",
+                        "actividades",
+                        "realmente"
+                    ],
+                    "pertenece": [
+                        "\"mucha diversión hija de un año hija de un año disfrutó de los toboganes del parque acuático también experiencia con delfines delfines buenos delfines nosotros bonito lugar necesito descanso piscina del complejo quiero nadar con delfines\"",
+                        "\"encuentro con delfines capaz viaje de punto culminante grupo tres uno participar completamente experiencia con delfines días realmente increíbles cerca precio de delfines encantador parque razonable bien podría pintura descascarada delfines sin duda hizo que el personal fuera amable y servicial, aunque un poco lleno lo haría\"",
+                        "\"nadar con delfines gran experiencia viaje familiar resort sugeriría hacer nadar con delfines primero pasar tiempo de descanso disfrutando del parque acuático tengo precio de delfines mirar hacia atrás delfines definitivamente vale la pena traer zapatos para el agua quiero carrera de obstáculos dejar mucho camino\"",
+                        "\"Me encantó el lugar. Me tomó un año. Lo pasé genial. Los delfines obtuvieron entrada gratuita. Día del parque acuático. Pensé que iba a ver a los delfines nadar.\"",
+                        "\"minutos nuevo increíble interactuar con delfines razón también los delfines alrededor cuentan el espectáculo completo los delfines hacen que cualquiera le dé las manos a los delfines piensa que se requieren dos leones piscina sucia todo el tiempo en realidad todo el lugar realmente ensucia recomendar ir a cobrar fotos tengo tienda de regalos pequeña llave blanca años de antigüedad nos hizo pagar a pesar de que el nado con delfines pagado nos cobró llave blanca también cheque toma sentarse intenta vender todo lo que vale la pena lista de deseos\""
+                    ],
+                    "contraste": [
+                        "\"nado con delfines reales increíble primera interacción con delfines personal especial del parque conocedor amigable el parque necesita un poco de mantenimiento delfines contentos muchos visitantes disfrutan mucho usar el parque acuático sin embargo divertido seguro que algo sería parques acuáticos linda piscina día de playa niños\""
+                    ]
+                },
+                {
+                    "topic_id": 5,
+                    "keywords": [
+                        "leones",
+                        "decepcionados",
+                        "excelente",
+                        "descubrimiento",
+                        "especialmente",
+                        "interacción",
+                        "definitivamente",
+                        "acuático"
+                    ],
+                    "pertenece": [
+                        "\"delfines increíbles hay que decirlo encuentro con leones experiencia con delfines leones de agua todos deben envejecer realmente como pequeños minutos pensar alguna vez\"",
+                        "\"delfines disfruté mucho muchas veces encuentro con leones fue encontrado por primera vez atención atenta guía nos permitió actividades que incluían el cierre nos pararían en el agua nos encantó darnos un gran beso en el campo gran experiencia nado con delfines encuentro con leones tiempo que vale la pena tiempo dinero ideal para familias\"",
+                        "\"fui a la experiencia con delfines espectáculo de leones usar la piscina mencioné la experiencia del encuentro con delfines niños inolvidables esposa niña pequeña ir verificar proceso lento podría algo velocidad sería aún mejor experiencia ver necesidades del parque\"",
+                        "\"toboganes excelente agua en general sucia todo el parque necesita leones realmente sitio lo siento mucho lejos delfines pequeños seguro personal bien deseo\"",
+                        "\"experiencia increíble nadar con delfines entrenadores de leones realmente trabajan bien tratados genial lo haría\""
+                    ],
+                    "contraste": [
+                        "\"visité el parque experiencia de leones casi delfines en lugar de leones parque acuático experiencia de leones oportunidad de tomar fotografías toqué al león nadé y obtuve una foto a continuación también di fotos familiares fotos adicionales bastante experiencia de leones fotos valor increíble parque de descanso sin embargo muy bueno a mi hija le encantaron los toboganes de agua un poco a todos sección de niños pequeños río lento piscina regular toboganes de agua todo el personal amable cree bien siempre además ve a pensar que vale la pena todo el día\""
+                    ]
+                }
+            ]
+        },
+        {
+            "model": "LDA",
+            "topics": [
+                {
+                    "topic_id": 1,
+                    "keywords": [
+                        "playa",
+                        "agua",
+                        "caminar",
+                        "arena",
+                        "pequeño",
+                        "hermoso",
+                        "ola",
+                        "lugar"
+                    ],
+                    "pertenece": [
+                        "\"tomar min fácil encontrar bien camino seguir permanecer en el camino a la izquierda girar quieto colina pasar puestos de frutas girar a la izquierda hacia la izquierda cabeza colina seguir camino camino del lado derecho centro de sayulita encontró estacionamiento pesos día pequeña calle estacionamiento pueblo mirar mucho varios grande obtener playa seguir a la izquierda sur ir correr seguir camino de tierra a lo largo del agua venir como camino privado área de pozo arco entrada villa hotel pasar lindo lugar derecho agua restaurante de playa sayulita pasar restaurante ir arco ver cementerio quedarse camino izquierda abajo colina pasado cementerio encontrar playa quiero sillas sombrillas sillas paraguas nosotros comida bebidas sillas sillones arena bonitas aguas pequeñas arena fácil nadar necesitar agua bahía rocas lado sur snorkel salvavidas fue sombra derecha palmeras quiero sentarse vendedores vienen muchos agua clara también podría mucho estacionamiento seguir camino parque colina calle cementerio\"",
+                        "\"nuevo vallarta cinco veces mes se quedó tres resorts diferentes regresar año nuevo vallarta bahía ubicada nuevo vallarta marina norte pueblo resort playas siempre prístinas limpiar mucha arena los niños ven tortugas vienen agua huevos noche una tarde playa para poner tortugas bebé frente a la arena tortugas protegidas personal del resort tomó tortugas bebé arena ayudar a las tortugas jóvenes caminaron a lo largo de la playa millas temprano hermoso pueblo de la ciudad de nuevo vallarta en lugar de pueblo área turística hermosa muchas personas vendedores de playa vendedores de playa se van dicho generalmente más cerca resorts agua a menudo también varios vendedores playa el año pasado preguntando persona calificar persona tres nosotros ir playas agua pública playa azul oscuro millas millas complejos turísticos color marrón arena cómodo caminar recomendar borde del agua evitar que la arena se ponga el pie poder olas pequeño paseo tabla de boogie nunca sentí resaca agua\"",
+                        "\"hermoso un tramo final de la playa tramo llamado hermoso paseo ver encontrar playa tomar lugar playa increíble tomar lugar mejor manera hermosa mejor restaurante de playa ver final día de playa comida de restaurante genial siempre comprobar la ciudad dar un paseo playa norte surf surf extremo sur vendedores de playa pequeño mejor pequeño varios restaurantes de arena alquilar sombrilla de playa silla día varios vendedores mejor verse increíble mejor uno olas mucho uno mejor siempre vendedores de pesos restaurantes lugares tomar restaurantes de playa agua conseguir tiempos difíciles ver siempre niños amado ver local siempre mucha diversión en la playa agua ver pueblo de playa\"",
+                        "\"primera vez México tal vez amado se quedó agua clara arena azul arena blanca arena marrón nunca playa de arena blanca gente bastante buena dice playa agua sucia pozo piscina río natural océano cerca río limo hace que el agua sea clara también olas mucho dio piscinas de un año playa manos de playa cada vez agua manera más caliente las piscinas podían caminar agua larga distancia sin llegar a rocas profundas en cualquier lugar gente de agua playa sucia arena arenosa arena arena dejada alrededor manos arena fangosa toallas de baño cualquier cosa arena basura playa saber playa sucia tal vez ser querido personas intentando vender poco avanzar necesita intentar hacer poco\"",
+                        "\"fui a la playa un par de veces un par de veces hotel de playa arena bonito lote arena agua clara encontré algo lado pacífico méxico puede verse llamado va viaje méxico obtener descanso vida resort ir a la playa pronto arena caliente toallas usadas caminar arena abrir paso agua del océano los pies deben sentirse pronto mejor usar zapatos yendo a la playa playas actividad ocupada gente surfear nadando vendedores varios incluyendo cualquiera de las dos playas gran momento asegúrese de llevar drogado cualquiera de las familias podría conseguir por favor nadando tengo bonita nadando playa privada agua enorme como tengo piscina agua pacífico resort playas agua diversión todos\""
+                    ],
+                    "contraste": [
+                        "\"zona de amor decir uno encontrar ir comida callejera entera\""
+                    ]
+                },
+                {
+                    "topic_id": 2,
+                    "keywords": [
+                        "delfín",
+                        "foto",
+                        "parque",
+                        "experiencia",
+                        "niño",
+                        "tobogán",
+                        "playa",
+                        "acuático"
+                    ],
+                    "pertenece": [
+                        "\"tour reservado grupo resort mejor oferta consiguió horas de parque acuático delfines disfrute del parque acuático primer parque acuático líneas llenas toboganes de agua circuito de cuerdas tirolesa dijo líneas felices probé el circuito de cuerdas realmente divertido aunque desafiante mucho parece no nivelar el nivel de los niños recomendar el circuito de cuerdas tomó minutos personal nosotros muy amable y servicial niño también probó tirolesa tiempo divertido usar actividades por boleto de admisión hizo uso encuentro con delfines lindos casilleros gratis área de espera de delfines consiguió grupo de delfines dado grupo de delfines tal vez el último día del grupo muy divertido piscina de delfines grande limpio conseguí tocar delfines ver actuar entrenador personal cercano increíble amigable experiencia agradable completa preguntas respondidas explicado bien entrenadores increíbles interacción con nosotros hecho bien persona obtuvo mejora con delfines nado paquete de delfines seguro fotos familiares delfines tomados ver fotos individuales familia tomar fotos delfines fotos individuales entrenador fotógrafo deseo también foto de grupo grande final finalmente llegó el momento comprar fotos total fotos tomadas grupo preguntado por familia fotos negociadas familia aún costosa probablemente ir al parque minutos quiero mucho escuchado pagado pagado medio desde feliz experiencia bien pagado sin mucho otros mejor encuentro con delfines disfrutar viaje mucho\"",
+                        "\"entrenador de delfines niños pequeños personas un gran descubrimiento de delfines hecho vender boletos sin preocuparse grupo de seguridad los niños alcanzan a la hija años super yendo capaz pararse los niños se sientan afuera agua tomar interactuar delfines mantener el agua ayudar entrenador apresurado el próximo año anciana señora cariñosa año también obtener ayuda ayudar a mantenerse a salvo delfín tirado entrenador de un año diciendo retirado ya hecho pagado paquete de imagen frontal totalmente dinero fotos apresuradas último entrenador familiar incluso darle al fotógrafo la oportunidad de ser bueno uno mencionado dijo cualquier cosa desde ya descargar ver calidad sin experiencia mencionada a lo largo de las familias cliente persona quiere opciones de ayuda recuperar agua ver león obtener fotos niños años preguntó quería gracias ver león agradable min tengo beso eligió descubrimiento de delfines hijas primera experiencia con delfines nadado recomendado gastar dinero en lugar descubrimiento de delfines razón dar fotógrafo increíble podría tiempo dio entrenador de leones realmente amigable bueno compra obtener boleto de comida opciones incluidas gastar dinero comida aunque se supone que paquete incluido vendería fotos familiares quiero niños en línea saber todavía quiero ir precio diferente la gente quiere ahorrar dinero obtener programa libro pagar precio\"",
+                        "\"pasó el día reservando en el parque agente de playa local viaje externo incluido taxi almuerzo pagando adultos los niños fueron gratis pagando adulto decepcionado ir verificar opciones proporcionadas paquetes de fotos disponibles comprar imágenes caras sin embargo a la izquierda fotos impresas disco alrededor probablemente fotos del viaje calidad fantástica reservada nado real encuentro con león esposa años años años edad años edad años años edad podría nadar empuje de pies beso dorsal toque de manos años de edad beso limitado contacto con manos pagar cargo con entrenadores poco tiempo obtener vida requerida nadar alrededor de la piscina piscina de delfines soporte de piscina profundo requerido sujetar a los niños capaces sentarse en la piscina nosotros delfines profesional excelente grupo de control persona de delfines obtuvo experiencia completa grupo de dos delfines fantástico cada dado La línea también nos dio información. Los delfines recomiendan encarecidamente pagar un nado extra real. Ponte de pie. Empuje de pies de los delfines. Realmente experiencia. Pasé una hora en la piscina. Experiencia realmente completa. Vi el espectáculo. Espectáculo de leones grandes. día recomendaría altamente la experiencia\"",
+                        "\"niños agradables tiempo personal de delfines extremadamente agradable excepto espectáculo de delfines hecho decir como familia creer desde quiero excursión entender edad niños delfines de agua paquete permitido años de experiencia delfines agua capaz de tocar hacer señas delfines chico mayor capaz de nadar con delfines más jóvenes ok niños entrada gratuita pagando parque acuático para adultos casi todo el parque parque bien trabajando niños usan chaleco salvavidas desafío niños difíciles tirolesa gran año permitido escalar pared divertido niños nunca hicieron aventura con delfines muchas fotos tomadas desde la primera experiencia familiar fotos compradas precio siempre hacer costo de la foto costo familiar seguro foto familiar costaría paquetes de fotos regulares fotos digitales fotos foto fotos digitales fotos elegidas digital fotos feliz otra pareja grupo fotos digitales pagadas fotos costo por persona entrada paga hamburguesa gratis todo lo demás bueno agradable buen momento probablemente regresen chicos lo suficientemente grandes vean cada diapositiva\"",
+                        "\"compró el paquete de nado con delfines reales parecía un poco caro pesos relajante diversión vacaciones manera dicho paquete incluido minutos agua nado con delfines beso de delfines aleta pie empuje nado dorsal también precio foto incluye almuerzo muy incluido primer curso informativo del parque seguridad de delfines tiempo de la mano siguiente interacción con delfines persona increíble grupo hecho relajante personal saber exactamente esperar varios pies cara agradable deseo fotógrafo interacción con leones increíble persona grupo se sintió un poco nervioso enorme aprendido mucho divertido incluso tratamiento facial almuerzo especial elegido mejor también incluido casilleros tarde espectáculos de delfines y leones uso de día completo parque acuático tubo incluido incluyendo toboganes piscinas por todos lados miró área de juego paquete de fotos extra poco caro bien vale la pena costo gran parque diurno pozo limpio toboganes piscinas parque abierto personal amable y servicial que hace que toda aventura valga la pena\""
+                    ],
+                    "contraste": [
+                        "\"La experiencia maravillosa y bien vista de los delfines dura lo suficiente.\""
+                    ]
+                },
+                {
+                    "topic_id": 3,
+                    "keywords": [
+                        "delfín",
+                        "mercado",
+                        "experiencia",
+                        "excelente",
+                        "tiempo",
+                        "comida",
+                        "increíble",
+                        "animal"
+                    ],
+                    "pertenece": [
+                        "\"bastante poco mercado pesos taxi mercado minutos vendedores establecer mucha gente mercado enorme a lo largo del puerto deportivo un extremo baños del puerto deportivo área de puestos de comida extremo del puerto deportivo también área de puestos de comida baños limpiar uno de los puestos mejor traer muchos artículos únicos artesanos increíble vidrio grande hermoso bastante mercado de vendedores también mercado muchos muchos obtienen productos orgánicos frescos como pesos horneados puestos que venden muchos comida en el puerto deportivo venta de pesos tamaño ir hacia el final puerto deportivo diferente tamaño de pesos de venta buenos pesos enorme desayuno fue mercado comería mercado un mercado definitivamente área del puerto deportivo encontrado pequeño mercado artesanal local plaza de la ciudad hacia el autobús verificar ciudad mercado local autobús pesos autobús\"",
+                        "\"muchos mercados de alimentos orgánicos muchos alimentos frescos la calle también disfrutó de los vendedores locales pequeñas artesanías área de música todo buen mercado asegúrese de ir temprano se llena el día del mercado puerto deportivo puerto deportivo un puerto deportivo completo limpio increíble uno piensa increíble abrir traer el puerto deportivo también un poco genial recomendar el puerto deportivo tomar un viaje de un día en taxi también muchos excelentes pesos pesos excelente lugar\"",
+                        "\"mercado realmente primera pareja ir enorme llegar temprano caminar mercado alto gastar artículos únicos lugar realmente agradable gente agradable artículos únicos lote diferentes mercados área muchos artículos ver comida comprada bueno todo artesanía buena calidad mercado de pescado divertido pescado fresco experiencia divertida lleno de gente gran lugar mañana\"",
+                        "\"área de tres mañanas ubicación del mercado a lo largo de la costa tamaño del mercado vendedores locales productos hechos excelente calidad música en vivo lugar amigable mañana preparada enorme selección interesante ropa recuerdos hechos a mano artistas locales pescado fresco casero comida preparada excelente comprado para llevar a casa un extremo baños del puerto deportivo área de puestos de comida\"",
+                        "\"entorno del mercado ir temprano dos veces cerca del mercado de pescado caminar al lado ver artesanías terminar desayuno lotes de comida increíble variedad comer hacia la comida comprobar lugar lugares de pan comida fruta excelente fresco necesito pescado ir temprano tomar fresco puerto deportivo excelente mucha diversión ir temprano vendedores tempranos tomar lugares de ropa\""
+                    ],
+                    "contraste": [
+                        "\"maravilloso lugar increíble definitivamente recomiendo el lugar de otros\""
+                    ]
+                },
+                {
+                    "topic_id": 4,
+                    "keywords": [
+                        "cocodrilo",
+                        "animal",
+                        "lugar",
+                        "recorrido",
+                        "playa",
+                        "santuario",
+                        "tomar",
+                        "bien"
+                    ],
+                    "pertenece": [
+                        "\"una cosa oportunidad sostener bebé cocodrilo fue venir cualquiera yendo preparado decidido taxi tal vez km quedarse tomó taxi obteniendo señalización de la carretera principal condujo tal vez dos camino muy lleno de baches algo bueno probablemente obtener el conductor del taxi impresionado buen camino mantenido como se fue a la izquierda yendo a la derecha encontré recorrido esperar tal vez minutos otro taxista esperando tour llamar taxi venir a buscar lugar venir taxista esperar tomar una hora taxista finalizar la llamada avisar otra hora taxi de regreso encantadora espera lindo curso dicho consiguiendo buena propina final felices nosotros regresamos esperando dicho feliz traer recorrido dicho como cocodrilos mucho santuario rescatar cocodrilos heridos animales como podrían sobrevivir en estado salvaje saber parece que muchas personas muchos cocodrilos miraron alto ver alrededor obtener visitas incluso yendo uno uno mantenido pequeño guía precio informativo peso razonable más dinero va bien porque la atracción parece informativa más agarrar cocodrilo bebé se puso bien ir preparado viaje de regreso saber incluso yendo recorrido puede esperar minutos incluso horas recorrido recorrido nosotros necesitamos regresar algo interesante experiencia buena causa venga a montar señalización vial\"",
+                        "\"No puedo decir lo suficiente increíble nos dio un recorrido increíble un recorrido familiar conductor de taxi a lo largo de un recorrido poco salvaje camino secundario accidentado muchos van camino santuario natural preparado naturaleza traer insecto tomar taxi seguro esperar taxi recomendado esperar debido donación de camino ir al santuario peso por adulto peso por viaje de ida y vuelta taxi resort más hora de tiempo de espera costo del recorrido peso va mucho recorrido de cocodrilos lado complejo fui recorrido de cocodrilos nunca vi cocodrilo obtener mascota cocodrilos bebé seguro ver cocodrilos personal de animales animales de cuidado marino rehabilitar animales animales liberados salvaje liberar cocodrilos santuario parte ciega sentirse bien donaciones ayudando a la conservación de la vida silvestre aprender mucho gran experiencia educativa para niños\"",
+                        "\"lado lado día alguna vez santuario de cocodrilos animal educado como animales muy retenido medio enorme nunca pregunté varias personas encontradas sabía taxista nos condujo minutos área del hotel pequeño santuario señalización taxista nos esperó venir recorrido pago pesos por persona vale la pena visitar el recorrido nos costó permanecer caminado una hora retenido crocs aprendido alrededor de dos cocodrilos ciegos hábitats guardados permanecer crocs locales explicado hecho ayuda lesionado liberado en vivo vio tortugas animales heridos regresar salvaje guía turístico increíblemente apasionado recuperando animales muy izquierdo cuidado familiar santuario de animales súper genial ver personal sujetar animales cuidado, en pocas palabras, vale la pena conducir dinero experiencia\"",
+                        "\"gran lugar visitar niños viendo conmovedor parque de cocodrilos en vivo camino bastante principal pista recomiendo tomar taxista esperar hora que valga la pena el tiempo tomaría una hora caminata fácil autopista probablemente buen taxi venga a recoger conductor de taxi esperando pesos entrada parque pesos persona guía muy bien informado amigable fue camino experiencia de cocodrilo para niños hija de un año pequeño santuario de un año necesita amor dinero mucha experiencia vale la pena mucho dinero animales animales interesados ​​crocs salvaje cocodrilos salvajes manglar divertido aventura gastar dinero tomar agua disfrutar horas regresar\"",
+                        "\"tour pesos por adulto pesos por visita guiada pesos por adulto pesos por visita guiada altamente recomendada pesos adicionales por persona obtener mucho caminando aprendido muchos diferentes animales trabajar santuario recorrido crocs animales heridos rescatar verdaderamente cada historia de animal escuchar escuchar visita guiada especies pequeño santuario nos tomó una hora ir recorrido caminar esperar recorrido tiene la persona del recorrido dijo esperar guía gran fin ver animales rescatados tocar cocodrilo bebé crocs tiempo nosotros ver intentar pareja cocodrilos consiguiendo cocodrilos bebé la siguiente pareja vino preparada insecto especialmente taxista esperando traer agua mantenerse fresco\""
+                    ],
+                    "contraste": [
+                        "\"a la familia le encantaba jugar con las olas, poder tomar bellas fotografías, mantener la vista, niños, océano.\""
+                    ]
+                },
+                {
+                    "topic_id": 5,
+                    "keywords": [
+                        "delfín",
+                        "parque",
+                        "playa",
+                        "comida",
+                        "acuático",
+                        "agua",
+                        "tobogán",
+                        "nadar"
+                    ],
+                    "pertenece": [
+                        "\"lugar del parque la gente se fue años pintura desconchada mucho alrededor de cada personal del parque siguiente nada toallas disponibles deseo tomar las toallas del hotel pagar el depósito dijo que las toallas estarían disponibles al día siguiente quería comprar un regalo soporte de toallas hora siguiente boleto esperar gerente finalmente nos encuentra caliente ninguno personal parecía preocuparse mucho los casilleros parece bastante estructura de pie comida incluida tarifa buscando encuentro con delfines muy agradable realmente me gustó a todos amables se tomaron el tiempo para hablar todos dijeron delfines estrella parque estrella recomiendo ir a otro lugar leer reseñas reservar cualquier cosa parque\"",
+                        "\"parque uno sabe amable probar parque acuático parque para niños sucio pobre pintar todo toboganes de agua toboganes dos parques áreas de sol cosa vieja mesas de plástico expectativas probar fantásticos parques acuáticos alrededor anunciado en realidad cualquier cosa dos atracciones acuáticas abiertas dinero extra tirolesas participar experiencia con delfines puede sin embargo pasar parece piscinas pequeñas comida área buscada personal sucio parece cuidado lugar de limpieza comida en general pobre viejo parque necesita precio barato sin embargo razón\"",
+                        "\"tarde ir a nadar delfines ir ir a nadar ir ver quiero nadar mostró parque acuático súper emocionado gente del parque líneas cortas nos toboganes quería sin mucho tiempo de espera vino nadando delfines puso cosas casillero fue nadando increíble dos nosotros un delfín dándonos mucho tiempo personal delfín lo primero que consiguió el casillero fue también al día siguiente consiguió la mañana pasó todo el día pensé que la comida se decidió más tarde parque acuático se pasó todo el tiempo agua camino terminar vacaciones\"",
+                        "\"estrellas parque acuático estrellas delfín espectáculo de leones reseñas nado con delfines nadar visto león programa de delfines amado genial cerrar parque acuático toda la experiencia vino parque acuático parque abierto amable bien pintura desconchones diapositivas lado lado reloj adulto paseo decir uno diapositivas alguna vez abierto amor rápido se sintió como rápido paseo volviendo\"",
+                        "\"parque divertido rápido y emocionante toboganes acuáticos área para niños toboganes de río lento día fue suficiente tengo entrada al parque opción de almuerzo comida hamburguesas pollo caliente visto delfín espectáculo de leones incluido entrada al parque fácil viaje en taxi genial obtener resort pasar el día el parque necesita mantenimiento pintar los niños pensaron que era emocionante\""
+                    ],
+                    "contraste": [
+                        "\"Impresionante divertido delfines dulce gentil fotógrafo buenas fotografías\""
+                    ]
+                }
+            ]
+        }
+    ]
+}

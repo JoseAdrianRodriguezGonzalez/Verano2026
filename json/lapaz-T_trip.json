@@ -1,0 +1,389 @@
+{
+    "dataset_info": {
+        "DATASET": "lapaz-T",
+        "FUENTE": "TripAdvisor",
+        "REVIEWS": "4088",
+        "FECHA": "2026-06-17"
+    },
+    "models_info": [
+        {
+            "model": "XidooTopic",
+            "metadata": {
+                "Topicos encontrados": "5",
+                "Cobertura": "100%",
+                "Cohesion intra-cluster": "0.9953"
+            }
+        },
+        {
+            "model": "BERTopic",
+            "metadata": {
+                "Topicos encontrados": "44 (top-5 mostrados)",
+                "Cobertura": "76%"
+            }
+        },
+        {
+            "model": "LDA",
+            "metadata": {
+                "Topicos encontrados": "5",
+                "Cobertura": "100%"
+            }
+        }
+    ],
+    "models": [
+        {
+            "model": "XidooTopic",
+            "topics": [
+                {
+                    "topic_id": 1,
+                    "keywords": [
+                        "león",
+                        "snorkel",
+                        "playa",
+                        "increíble",
+                        "espíritu",
+                        "paz",
+                        "barco",
+                        "viaje"
+                    ],
+                    "pertenece": [
+                        "\"la mejor experiencia navegando alrededor de una isla bastante grande observar ballenas tortugas bucear entorno de arrecife rodeado parar remoto espectacular playa virgen disfrutar de un almuerzo único, bueno y ligero consultar tours playa de navegación minutos en coche paz\"",
+                        "\"uno lugares hermosos isla espíritu santo playas increíbles increíbles áreas de acceso remoto aunque el acceso en barco requiere totalmente vale la pena una experiencia natural impresionante\"",
+                        "\"naturaleza increíble visita isla espíritu santo naturaleza increíble formaciones rocosas vida playas algo hay que ver paseo en bote de dos horas vale la pena perderse\""
+                    ],
+                    "contraste": [
+                        "\"tour pensar tomar tour isla espíritu santo considerar mejores guías respetar la naturaleza cómodo feliz saber cuidar ambiente\""
+                    ]
+                },
+                {
+                    "topic_id": 2,
+                    "keywords": [
+                        "restaurante",
+                        "paz",
+                        "caminar",
+                        "lugar",
+                        "largo",
+                        "camino",
+                        "gente",
+                        "noche"
+                    ],
+                    "pertenece": [
+                        "\"camino pavimentado junto al agua al otro lado de la calle restaurantes tiendas hoteles a lo largo del camino paz parece limpio lotes para perros familias caminan personas andan en bicicleta gran lugar tomar fotografías caminar en un extremo malecón\"",
+                        "\"Me alojé en el hotel varias veces disfrute de una milla y media caminata Malecón central buen ejercicio bien iluminado paseos nocturnos muchas personas corriendo trotar rodillo caminando etc seguro muchas familias niños especialmente hermosos atardeceres oportunidades excelentes cosas se podría decir gente recoger perros lugares caminar azulejos falta ver paso\"",
+                        "\"corazón paz frente al mar gente siempre andando en bicicleta caminando corriendo disfrutando de estatuas a lo largo del camino restaurantes a lo largo de la calle lateral noche familias caminaban todos los días de la semana también entretenimiento\"",
+                        "\"años disfrutar viendo ciudades malecón agradable paseo millas junto a la bahía de paz día noche cambios ejercicio mañana caminantes música de crucero buen lugar ocupado mirando ciudad paz un ambiente hace años parecía pacífico convertirse en turista bueno completo malos conductores malo bien llamado tráfico carretera muchos conductores faltan paradas ambiente policial paz podría un par de días mejores áreas disfrutar\"",
+                        "\"ver grandes esculturas de arte callejero escenario de la calle calles laterales nocturnas malecón me sentí seguro caminando por la zona de noche\""
+                    ],
+                    "contraste": [
+                        "\"Paraíso, es mejor ir en barco. Conocer realmente el lugar. Dile exactamente los mejores lugares para bucear. Excelentes niños, poco profundo, no te lo pierdas. Nunca vayas. Paz.\""
+                    ]
+                },
+                {
+                    "topic_id": 3,
+                    "keywords": [
+                        "balandra",
+                        "paz",
+                        "arenar",
+                        "caminar",
+                        "lugar",
+                        "agua",
+                        "ver",
+                        "estacionamiento"
+                    ],
+                    "pertenece": [
+                        "\"Ven y debes ver la comida de Balandra increíble.\"",
+                        "\"Manejó horas para llegar a la playa Balandra, aunque es una playa hermosa, piense en hacer un viaje de un día completo, definitivamente visite, asegúrese de estacionarse a la vuelta de la esquina, rocas, toda la playa visible, agua para caminar, poco profunda, caminó en aguas más profundas, aguas abiertas, vea que las rocas desaparecidas parecen seguras, puede ver.\"",
+                        "\"Visité la playa Balandra por primera vez años, sin duda, tiempo, agua, cambios increíbles, mejor llegar temprano, obtener un lugar de palapa cerca de la roca, desearía pasar el día como años, perder el lugar.\"",
+                        "\"hermosa playa tranquila se permiten botes varias palapas sentarse aguas poco profundas y claras muchos bancos de arena deben caminar un poco nadar perfecto pequeños\"",
+                        "\"balandra hermosa playa ubicada área protegida camino llegar tomar recorrido en bote viajar a menudo recorrido a lo largo del camino hacer snorkel costo extra tiempo tal vez almorzar playa dar una caminata larga playa entera hora agradable experiencia decir hermosa playa mundo seguro\""
+                    ],
+                    "contraste": [
+                        "\"gran playa niños aguas poco profundas casi agua playa de marea baja use uno de los mejores recorridos para visitantes del mundo estacionamiento real\""
+                    ]
+                },
+                {
+                    "topic_id": 4,
+                    "keywords": [
+                        "pena",
+                        "viaje",
+                        "agua",
+                        "hermoso",
+                        "día",
+                        "gran",
+                        "experiencia",
+                        "gente"
+                    ],
+                    "pertenece": [
+                        "\"ir a la cabeza principal buena bebida la mejor parte del viaje tragos grandes excelentes precios servicio personal amable\"",
+                        "\"hermosa experiencia maravillosa guía turístico agradable recorrido experto incluido almuerzo bebidas todos van al paraíso escondido\"",
+                        "\"gran viaje de un día paz personal agradable buen servicio excelente almuerzo guía experto compañía de turismo capitán del barco también amable seguro\""
+                    ],
+                    "contraste": [
+                        "\"activo todas las noches semana diversión excelente lugar disfrutar cena paseo mucho ver\""
+                    ]
+                },
+                {
+                    "topic_id": 5,
+                    "keywords": [
+                        "playa",
+                        "colores",
+                        "hermoso",
+                        "isla",
+                        "espíritu",
+                        "increíble",
+                        "viaje",
+                        "barco"
+                    ],
+                    "pertenece": [
+                        "\"no puedo venir paz visitar santo hermoso color agua vida más allá de limpiar increíbles lugares de anclaje\"",
+                        "\"increíble ver playa caminar milla sin nadar agua hermosa caminata pintoresca alrededores obtener hermosas aguas las aguas del océano parecen color piedra\"",
+                        "\"ver lugar mágico llenarse de colores único increíble caminar muchos metros\"",
+                        "\"bahía aguas poco profundas hermoso color turquesa agua tibia podría caminar probablemente una milla agua todavía hasta la cintura\""
+                    ],
+                    "contraste": [
+                        "\"hermosa isla llena hermosas playas vírgenes colores turquesa nadar leones snorkel caminar partes isla genial tour imprescindible visitar paz\""
+                    ]
+                }
+            ]
+        },
+        {
+            "model": "BERTopic",
+            "topics": [
+                {
+                    "topic_id": 1,
+                    "keywords": [
+                        "isla",
+                        "islas",
+                        "coral",
+                        "leones",
+                        "como",
+                        "pena",
+                        "bahía",
+                        "realmente"
+                    ],
+                    "pertenece": [
+                        "\"muchas maneras de ver la isla espíritu santo definitivamente recomiendo encontrar uno incluye actividades quiero nadar leones almorzar hermosa playa andar en kayak ver tortugas consiguieron snorkel arrecife sorprendido número pez tropical vi nadando leones agua clara abundante hermoso pez agua fría asegúrese de ponerse traje de neopreno también cerca de la playa pies agua pequeñas rayas guía dijo picado tres veces viaje de un día viaje de por vida familia altamente recomendado\"",
+                        "\"Seguro que esperas recorrer la isla excelente lote aprender el mejor lugar nadar leones hacer snorkel relajarte playa cristalina excelente excursión de un día\"",
+                        "\"barco privado familia cuatro pesos nosotros excursiones de un día horas buscadas hora isla islotes buceó colonia de leones entretenido lugar fácil de perder la vida detuvo el almuerzo todos los demás muchas playas uno de visita encontraría privado uno detenido otro snorkel minuto corriendo de regreso terminado excelente viaje a la playa horas perfectas\"",
+                        "\"tomar un viaje de un día isla espíritu santo combinar parada nadar tiburones ballena aún mejor guía nos llevó agradable snorkeling playa nadar leones se detiene en el camino colocar pájaros detectar uno de patas azules también fragata colonia de aves vio gran apareamiento resaltar leones de agua toneladas pescado almuerzo fresco ceviche playa fría increíble necesidad traje de neopreno agua fría fui contento viaje se fue temprano operadores viento llega la tarde traer capas reventadas luz rápido viaje de regreso puerto\"",
+                        "\"fue genial paseo en panga isla hizo snorkel nos equipó trajes de neopreno equipo leones camino de regreso se detuvo hermosa playa desierta conjunto de capitán tipos de almuerzo ceviche enorme bebidas completas incluyendo cerveza playa reservada algo tours pesos hotel nosotros viaje\""
+                    ],
+                    "contraste": [
+                        "\"esposa tour en barco isla organizado a través del hotel paz uno de los mejores días de la vida decir lugar increíble crucero vi delfines ballenas bien bucear con esnórquel leones salvajes ensenada de almuerzo superior practicó snorkel alrededor del arrecife de coral preparar el almuerzo playa absolutamente imprescindible\""
+                    ]
+                },
+                {
+                    "topic_id": 2,
+                    "keywords": [
+                        "paz",
+                        "frente",
+                        "hermoso",
+                        "caminando",
+                        "realmente",
+                        "pasarela",
+                        "largo",
+                        "actividad"
+                    ],
+                    "pertenece": [
+                        "\"caminando por el malecón pequeñas tiendas alrededor helado de pescado a lo largo del camino altamente permanecer paz\"",
+                        "\"amor realmente amor tiempo pasado primer viaje paz viaje destacado malecón limpiar bien mucha gente caminando rodillo uno llegar a cualquiera camino hermosa vista agua caminar a lo largo uno vender cualquier cosa todos disfrutando caminar vistas maravillosas paz convertirse en lugar favorito gran parte malecón\"",
+                        "\"malecón paz hermoso lotes yendo mucho vistas al mar siga caminando de compras al otro lado de la calle a lo largo de caminar bien seguro policía en todas partes tráfico mucho bicicletas rodillo parece querer ver todo el malecón caminata bastante larga incluso colocar los pies océano sentarse playa disfrutar del tiempo paz hermoso pueblo relajante\"",
+                        "\"malecón bonito paseo hermosa vista agua pececillo agua buena distancia disfrutar buen paseo ver azulejos faltantes par de veces mirando colgado cerca barcos también limpiar tabla caminar todos los días cruzar calle querer caminar tiendas conseguir comida\"",
+                        "\"maravilloso paseo paseo por el agua paz malecón amigos familias caminar millas diariamente especialmente al final de la tarde sin embargo visitar el malecón de manera completamente enorme\""
+                    ],
+                    "contraste": [
+                        "\"disfrutar hermoso malecón hermosas esculturas ejercicio dar un largo paseo helado tomar sol ponerse el momento adecuado nunca olvidar belleza paz dar regalo disfrutando caminar ciudad\""
+                    ]
+                },
+                {
+                    "topic_id": 3,
+                    "keywords": [
+                        "restaurantes",
+                        "buenos",
+                        "restaurante",
+                        "hermoso",
+                        "heladerías",
+                        "excelente",
+                        "cafés",
+                        "realmente"
+                    ],
+                    "pertenece": [
+                        "\"paz lugar realmente agradable agua clara hermosa brisa cálida incluso disfrutar malecón lugares de helados restaurantes tiendas frente lugares del malecón alquilar bicicletas camino verificar restaurante bueno\"",
+                        "\"paz ciudad bastante limpia malecón esculturas casi hermosas muchas tiendas restaurantes gente especialmente amigable brinda un ambiente cómodo caminar disfruta genial siéntete absolutamente seguro lugar al norte\"",
+                        "\"pasear por malecón paz buen ejercicio ofrece a los visitantes restaurantes bares tiendas disponibles especialmente ciudad un cambio zona de perros locales bastante residentes disfrutaron de paseos nocturnos amigos\"",
+                        "\"malecón paz bahía un lado restaurantes tiendas parte activo ocupado especialmente eventos tramos largos y tranquilos perfecto paseo muchos lugareños como ejercicio a lo largo de los horarios de estacionamiento mejor caminar andar en bicicleta tráfico\"",
+                        "\"paz malecón gran lugar dar un paseo ver la puesta de sol cenar disfrutar del clima cálido gente amable relajado tranquilo vendedores ambulantes como descanso junto al mar muchos buenos restaurantes al otro lado de la calle experiencia agradable\""
+                    ],
+                    "contraste": [
+                        "\"restaurantes mucho mejores paz a lo largo del malecón gran lugar pasear por la playa zona turística mexicana poder caminar sin intentar vender tiempo\""
+                    ]
+                },
+                {
+                    "topic_id": 4,
+                    "keywords": [
+                        "playas",
+                        "playa",
+                        "hermosa",
+                        "hermoso",
+                        "hermosas",
+                        "estacionamiento",
+                        "cuidado",
+                        "agua"
+                    ],
+                    "pertenece": [
+                        "\"playa hermosas playas playa de agua buena comida\"",
+                        "\"otra hermosa playa especial olas desierto\"",
+                        "\"gran visita a la playa playas también hermosas menos concurridas\"",
+                        "\"playa definitivamente hermosa playa especialmente para los más pequeños playa realmente impresionante debe paz agua tranquila hasta las rodillas profundidad cálida\"",
+                        "\"hermosa playa llena de gente, playa turística muy privada, ciudad fácil de manejar a poca distancia\""
+                    ],
+                    "contraste": [
+                        "\"una hermosa playa visitar parece mucha distancia realmente bastante hermosa agua cristalina hermosa agua azul profunda haciendo genial querer disfrutar del agua nadar en realidad ver caminando agua clara playa agradable arena suave lindas áreas rocosas bastante pintoresco área de estacionamiento se llena rápido puede querer ir temprano tomar autobús posible baños como prepararse\""
+                    ]
+                },
+                {
+                    "topic_id": 5,
+                    "keywords": [
+                        "verde",
+                        "isla",
+                        "colores",
+                        "diversidad",
+                        "coloridos",
+                        "hermoso",
+                        "como",
+                        "leones"
+                    ],
+                    "pertenece": [
+                        "\"lugar mundo lugar increíble mucho historia un día como visitar isla espíritu santo siempre nueva aventura ver delfines ballenas rayos bucear leones color increíble azul verde agua perfecto hacer áreas de buceo también suerte tal vez encontrar tortuga ver especies peces también buceo en kayak caminar playa acampar\"",
+                        "\"pensar que le gustó viaje isla espíritu santo mente colores tierra agua arena blanca peces delfines leones rayas a veces incluso ballena cielo nocturno lleno de estrellas pacífico tranquilo encontrar amigo barco tomar\"",
+                        "\"isla del amor tengo campamento bahía días de playa vistas en grupo color increíble agua fantástico\"",
+                        "\"hermoso acampado días noches playa baja color agua diversidad vida marina esperar planear otro viaje\"",
+                        "\"playa absolutamente impresionante agua preciosa que ofrece vistas increíbles hermosa arena blanca lugar tranquilo gran lugar pasar la tarde tomando color\""
+                    ],
+                    "contraste": [
+                        "\"fuimos guía de tours maravilloso nos dijo mucho paz más diversión guía turístico isla colores asombrosos pájaros formaciones rocosas increíble snorkeling nadar leones mundo afortunado nadar león juguetón viejo tengo jugar increíble amor gente paz playas limpio realmente espero permanecer en el camino\""
+                    ]
+                }
+            ]
+        },
+        {
+            "model": "LDA",
+            "topics": [
+                {
+                    "topic_id": 1,
+                    "keywords": [
+                        "playa",
+                        "lugar",
+                        "león",
+                        "agua",
+                        "islar",
+                        "viaje",
+                        "hermoso",
+                        "nadar"
+                    ],
+                    "pertenece": [
+                        "\"isla joya playas desiertas calas formaciones increíbles aguas cristalinas excepto la temporada natural tiene lugar temperatura del agua invierno fresco verano caluroso visibilidad bucear increíbles bahías claras cerca de los islotes los peces pueden ser capturados durante todo el año pueden sorprender bancos gigantes ballenas delfines aleta azul olvidar a cualquiera visto años fragatas piqueros de patas azules especies fabulosas pequeñas cuevas a lo largo de hermosas bahías incluso las tortugas pueden definitivamente ser el mejor turista paz se olvidó de los islotes de la reserva del león\"",
+                        "\"reserva de la biosfera protegida accesible generalmente en panga paseos en bote en la isla muchas veces los viajes disponibles la playa toma media hora recorrer la isla recorrer las cuevas de la isla bucear con esnórquel nadar leones ofrecen un delicioso almuerzo en la playa cuesta menos reservar viaje a la ciudad vivir paz tomar un bote privado disfrutar del almuerzo con esnórquel hermosa playa de arena blanca asegúrese de que los pies eviten los rayos colgar arena dependiendo de la época del año ver ballenas delfines tortugas rayas muchos peces hermosos\"",
+                        "\"tomar un viaje de un día isla espíritu santo combinar parada nadar tiburones ballena aún mejor guía nos llevó agradable snorkeling playa nadar leones se detiene en el camino colocar pájaros detectar uno de patas azules también fragata colonia de aves vio gran apareamiento resaltar leones de agua toneladas pescado almuerzo fresco ceviche playa fría increíble necesidad traje de neopreno agua fría fui contento viaje se fue temprano operadores viento llega la tarde traer capas reventadas luz rápido viaje de regreso puerto\"",
+                        "\"visitar paz último viaje de un día mayo isla espíritu santo tours día entero increíble fabuloso maravilloso poner paisaje cielo azul turquesa islas volcánicas guías turísticos maravilloso bien nos llevó bucear leones cachorros el barco roca podría geología gran cañón agua impresionante almuerzo se deslizó corte primero también complacido el recorrido preparado dar alto iría operador turístico recomiendo totalmente a cualquiera que paz haga viaje a la isla un verdadero placer\"",
+                        "\"espíritu santo tiempos tiempo absoluto viaje agradable casi olvidar maravilla venir a menudo ver tiburones ballena delfines criaturas recorridos también tomar cuevas explicar formaciones rocosas obtener colonia de leones increíble diferentes épocas año ver bebés rocas colgando rocas lleno leones nadar fascinante curioso venir a la derecha máscara comprobar uno de los mejores recorridos que los visitantes deben visitar paz primero agua hermoso color\""
+                    ],
+                    "contraste": [
+                        "\"lotes de playa de arena\""
+                    ]
+                },
+                {
+                    "topic_id": 2,
+                    "keywords": [
+                        "playa",
+                        "agua",
+                        "lugar",
+                        "caminar",
+                        "malecón",
+                        "mucho",
+                        "hermoso",
+                        "islar"
+                    ],
+                    "pertenece": [
+                        "\"mucho trabajo escuchó cosas increíbles playa decidió venir cabo quedarse noche paz podría experimentar la playa sin que le trajeran paraguas refrigerador bocadillos bebidas salió del hotel condujo minutos por la mañana fila de espera consiguió mucha gente sabe que los paraguas enrollan dos paraguas nosotros un año de edad paraguas de cabeza primero vino hija lastimada marido paraguas revisando dijo uno todavía dijo uno nos golpeó tomó atrás conjunto conjunto arena sin largo paraguas alrededor el marido tomó fue a pedir ayuda necesaria paraguas usar arena final usar bolsa de paraguas paraguas de arena quiero que las cosas vengan por segunda vez gente de playa paraguas ver día ventoso idea paraguas preparado barajar evitar rayo picado paraguas nuevo también hija picó algo agua mirando otro podría diminuta medusa doloroso izquierda pequeño rojo poco largo nadando alrededor quiero mirar vino agua área izquierda trajo se sintió cómodo flotando pies agua volvería recorrido en bote agua agradable hermoso sitio ver mucha basura playa recogido muchos encontraron dos bien cargar área de bits mucha gente gente alrededor\"",
+                        "\"hermoso quiero relajante foto viaje de un día a la playa nosotros condujimos cabo tomó horas parar el camino almuerzo dos maneras llegar cabo camino fue ruta en su mayoría dos autopista va montañas agradable empinado obtener montañas ponerse detrás del camión auto muy difícil moverse lo suficiente ver auto dirección venir conductor camino de regreso decidió vivir tomó ruta cabo pesos menos incluso logró llegar tiempo pensó suceder usado tomar vista hermosa amigos casa de la familia vieja hija usó algo muy bueno agua hecho cintura alta profundo caminar lejos tal vez incluso playa seguro en toda la ensenada hija amiga fue a remar dijo súper fácil alquilar tablas amaba bocadillos bebidas comprar bien sombrillas sillas alquilar sombrilla alquilada una mesa cuatro sillas pesos creo que obtuve el último paraguas consciente definitivamente necesito paraguas clima agradable creo que mucha gente en la playa muchos menos días fueron mucho espacio a nuestro alrededor una de las mejores playas del mundo cerca incluso un poco en coche vete a experimentar la playa\"",
+                        "\"llegó el día temprano paz tours tiburones ballena decidió aventurarse playas locales disfrutar del clima cálido nosotros temprano en la mañana llegamos a la playa poco sabemos tiempo autos muchos tienen playa bonita agua cristalina a través de la bahía caminar fácilmente por la playa de rocas en forma de hongo incluso cruzar el lado de la bahía mucho más lejos mira arena suave pies fáciles muy recomendable zapatos acuáticos quiero moverse roca en forma de hongo rocas agua doloroso sucede paso uno quiero acercarme foto podría fácilmente pasar un poco todo el día playas horas\"",
+                        "\"nunca camine correr paseo malecón sin nueva nueva playa niños viaje hacer arte disfrutar ciudad variedad incluso hermosas puestas de sol temprano en la mañana pensar mirando atrapar casi por la mañana mantener la pasarela limpia música patinar encantador a lo largo de millas enteras más caminar frente a la playa hacer punto al otro lado de la calle muelle de cruceros disfrutando increíble helado casero paz casi años una cosa paz tiempo parcial años temprano en la mañana corre paseos malecón\"",
+                        "\"balandra vio fotos realmente se parece a una persona una vez playas favoritas mundo especialmente temprano en la mañana manejar fácilmente estacionamiento alquilar kayak hombre derecho playa agua disfrutar agua increíble siempre clara fondo derecho calma cálido debe recordar playa arrastrar los pies arena rayos picar siempre arrastrar pagar multa ser picado todos los locales exactamente lastimar genial decir mejor arrastrar los pies aunque disfrutar de la roca en forma de hongo anclar los botes esperar regresar\""
+                    ],
+                    "contraste": [
+                        "\"arena blanca agua hermosa azul turquesa\""
+                    ]
+                },
+                {
+                    "topic_id": 3,
+                    "keywords": [
+                        "playa",
+                        "agua",
+                        "pena",
+                        "valer",
+                        "caminar",
+                        "lugar",
+                        "pequeño",
+                        "hermoso"
+                    ],
+                    "pertenece": [
+                        "\"playa balandra paz increíble playa, señorita, deje de visitar el área, incluso conduzca por la playa, escénico, espacio de estacionamiento agradable, playa limitada, vaya temprano a la playa, una caminata corta, una colina, obtenga una vista completa, playa en forma, en realidad, tres playas, colina visible, aunque también una, vista, roca icónica en forma de hongo, cima de la colina, una, caminata por la roca, segunda playa, agua, olas bastante poco profundas, bastante tranquilas, haciendo la playa perfecta, familias, varias palapas, mejor venga temprano, kayaks disponibles, vendedores de alquiler, venta de bocadillos, cocos, estacionamiento, baños abiertos, impresionante playa, instalaciones sanitarias. La playa balandra debe visitar el área de destino.\"",
+                        "\"playa balandra hermosa remota llena tarde arena bastante grande a lo largo de aguas poco profundas sería genial familias niños pequeños varias palapa sombrillas imagínese bastante temprano día muchas diversión camino agua puede querer usar zapatos para el agua explorar formaciones rocosas marea marea baja baños instalaciones pareja camionetas área de estacionamiento venta de fruta fresca comida bebidas tranquila ensenada rocas abierto vale la pena visitar creo que vale la pena\"",
+                        "\"playa balandra paz encuentre tranquilas aguas tranquilas familias perfectas todo laguna playas privadas accesibles kayak paddle board alquilar playa principal nadar marea baja casi caminar por las playas días ventosos playas bien protegidas aunque balandra absolutamente hermosa comida bebida servicios km balandra encontrar bares restaurantes palapas disfrutar palapa bar restaurante mejor a lo largo lleno vivir playas de montaña hogar años olvidar ver hongo roca balandra famoso\"",
+                        "\"animal nosotros animales rescatados cuidado sería agradable podría correr muchos voluntarios realmente animales pequeña área voluntaria nosotros nosotros serpiente nosotros pequeño dos personas alrededor ven a ver pequeño tomar aviario diversión conseguir pequeña gorra comida para pájaros caminar loros un aviario grande los pájaros podrían comida gorra grande seguro buena alimentación para pájaros gorra pequeña pájaro conejitos mantenido aviario poco alimento alimentar cosa divertida serpiente alrededor animales muchas tortugas serpientes grande pequeña tienda de regalos pesos realmente pesos realmente uno\"",
+                        "\"bastante gratis playa snorkeling alquiler de kayaks baños limpio estacionamiento principal permitir acceso limitado mediodía pm gente tiempo de estacionamiento limitado llegó a la playa girar un último autos estacionar lote de playa tirar línea autos perder el tiempo manejando línea de regreso palapas limitadas sombra traer todo no necesita nada vendido comida de playa toallas de agua protector solar sillas revisar mesa fue marea baja caminar lejos bonita caminata colina seta roca estacionamiento limitado\""
+                    ],
+                    "contraste": [
+                        "\"increíblemente hermosa tranquila incluso cerrada hermosa cala protegida\""
+                    ]
+                },
+                {
+                    "topic_id": 4,
+                    "keywords": [
+                        "islar",
+                        "león",
+                        "agua",
+                        "playa",
+                        "snorkel",
+                        "hacer",
+                        "viaje",
+                        "barco"
+                    ],
+                    "pertenece": [
+                        "\"bien tomado, calas aisladas, gente haciendo snorkel, agua, izquierda, paz, continuo, paseo por toda la isla, pasando por hermosas playas, calas, obviamente, bonitas formaciones, snorkel, dicho viaje largo, pasando, debe ir muy bien, horas, finalmente, pase por toda la isla, pequeña roca, océano, varios barcos ya guían, hablaban inglés, nosotros saltamos agua juntos, viaje, roca, sierra, leones, atrás, minutos en bote, intenté ver peces, atrás, bote, pensó en otra playa, snorkel, cayó, playa servida, delicioso ceviche, pasamos el día de descanso, parado, alrededor de la playa, hora, viaje de regreso, paz, aparentemente, vista, cosa, snorkeling, barco, horas, minutos, guías de snorkeling, agradable, explicó, nada, nosotros, proporcionamos información, inglés, menos día, agradable, vio delfines ballenas gente agradable bucear\"",
+                        "\"Nos echó a perder la elección de la compañía de viajes tours capitán tour en barco buen sabía guía de inglés ahorro dos uno hablaba bastante inglés también en serio barco diciéndonos pasajeros seis playa pago nadando tiburones ballena bien los leones paran tiburones ballena duraron minutos agua turbia sierra ir isla espíritu los leones hicieron casi todo esposa capaz de conseguir nariz nariz cachorro de león leones alrededor de nosotros curioso hizo snorkel se fue a bucear agua alrededor de los leones mucha sorpresa agradable almuerzo terminado hermosa playa de arena isla parecía otro barco turístico súper panga a lo largo de la playa muchos menos pasajeros el guía debe decir que el capitán hizo todo lo posible para que la experiencia fuera agradable posible llevarnos cerrar acantilados, incluso tomar un barco, regresar a la cueva el próximo año, plan de paz, hacer un viaje espiritual, una compañía turística de buena reputación\"",
+                        "\"tolerar agua fría viento libro tour conocido barco frío nunca haría tour reservado nosotros baja tours guías fantástico camino de agua fría nosotros nadar leones manejar ver tiburón ballena delfines resaltar tour atrás evitar tour barco pequeño sentir cada marido tiene sol viento frío bien todo el tiempo un dedo isla parar decir días continuos viaje paz regresó tierra marido cena decidido haría un tour a tiempo parcial año frío nosotros grandes deportes acuáticos la gente sabe pareja vino paz muchos deportes acuáticos disponibles amor agua orilla creo que pagado por persona incluye almuerzo aletas traje de neopreno usar costoso paseo en barco nosotros\"",
+                        "\"años queriendo visitar finalmente reservado viaje baja tours dicho mejor fiesta prepararnos persona super panga sombra sala de descanso izquierda paz capitán guía nos hizo sentir de inmediato comenzamos isla hizo camino norte arco de la cueva tomó snorkel cueva gran tiempo configurar equipo organizar grupo visitó roca estrecha panga fue arco norte buceó leones guía turístico biólogo marino bien nadar vida silvestre hora abrió camino lado oeste playa de la isla llamado set sombras nosotros increíble ceviche nadamos descanso tarde comenzó camino de regreso parando a lo largo del camino ver pájaros viejo área de perlas muy esperando tripulación súper amable conocedor\"",
+                        "\"Lo pasamos genial cuatro días en kayak viaje de campamento baja aventuras al aire libre viaje bien organizado personal amigable grupo conocedor derecho tomó bote paz fue al norte cima santo nadar leones primer viaje trabajo conjunto tiendas de campaña tomar kayaks guías campamento conjunto feliz ayuda viaje de tiendas de campaña familia un cocinero limpio desayuno desayuno en kayak dos horas siguiente campamento almuerzo fue de excursión snorkeling vi muchas criaturas acuáticas leones tortugas mantarrayas ballenas pájaros muchos peces diferentes durmiendo tienda de campaña en la playa totalmente genial mente\""
+                    ],
+                    "contraste": [
+                        "\"debes ver baja hermosas aguas gran vida ver león tarde\""
+                    ]
+                },
+                {
+                    "topic_id": 5,
+                    "keywords": [
+                        "catedral",
+                        "iglesia",
+                        "bonito",
+                        "hermoso",
+                        "visitar",
+                        "historia",
+                        "plaza",
+                        "ciudad"
+                    ],
+                    "pertenece": [
+                        "\"afuera iglesia realmente bonita como afuera mira arquitectura afuera realmente impresionante dentro vidrieras linda iglesia frente iglesia simple nada iglesia alrededor interior lugar de la iglesia deja de visitar decir\"",
+                        "\"catedral catedrales impresionantes una toma muy impresionante construida dice camino impresionante nada de la iglesia importante iglesia al otro lado diría construcción impresionante toma tiempo iglesia todavía construida\"",
+                        "\"pequeña iglesia construida vidrieras antiguas tiempo real bloques de iglesias vale la pena caminar edificio todavía mucha historia rápida fechas historia de la ciudad bastante bien visitar uno\"",
+                        "\"iglesia principal visitando la ciudad encuentre la catedral tiempo abierto plaza vieja parque del café de la ciudad afuera de la iglesia bien vale la pena visitar\"",
+                        "\"sencilla bonita iglesia uno arquitectura tiempo de madera asistiría al servicio todavía día especial caminar sería bonita plaza del pueblo al otro lado de la calle muchas bonitas catedrales vistas\""
+                    ],
+                    "contraste": [
+                        "\"ciudad trabajando paseo marítimo luciendo bien bonito lugar caminar junto al agua paseo andar en bicicleta rodillo bonito lugar relajarse familia\""
+                    ]
+                }
+            ]
+        }
+    ]
+}

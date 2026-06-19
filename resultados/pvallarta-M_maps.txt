@@ -1,0 +1,213 @@
+======================================================================
+DATASET: pvallarta-M | FUENTE: Google Maps | REVIEWS: 2000 | FECHA: 2026-06-17
+======================================================================
+
+NOTA: Cada topico incluye 5 reviews [PERTENECE] y 1 [CONTRASTE] que pertenece a otro topico. Esto ayuda a los LLMs a distinguir limites entre topicos.
+
+--- XidooTopic ---
+Topicos encontrados: 9 | Cobertura: 100% | Cohesion intra-cluster: 0.9797
+
+TOPICO 1 -- Tamano: 1391 docs (73.2%)
+Keywords: bastante, tema, mejor, experiencia, general, familia, bien, mismaloya
+
+  [PERTENECE]
+    "Me encantó Muelle de Los Muertos. Es de esos lugares que sí representan bien el destino. Además, para mí, el tema de la vista superó lo esperado. Fuimos en pareja al atardecer. En temporada alta imagino que cambia bastante. Vale mucho la pena. Se nota cuando un lugar está bien llevado."
+    "Mercado del mar no me terminó de convencer. La experiencia fue más cansada que entretenida. Encima, el tema de los precios bajó bastante la experiencia. Fuimos con niños un domingo. Hay buenos puntos para tomar fotos. Yo me lo saltaría la próxima vez. La fama del lugar me hizo esperar bastante más."
+    "Terminamos molestos con Avistamiento de ballenas. Terminó siendo más cansado que disfrutable. Encima, el tema de los precios bajó bastante la experiencia. Fuimos en familia un domingo. Hay buenos puntos para tomar fotos. Yo me lo saltaría la próxima vez. Hay mejores alternativas para aprovechar el día."
+    "Ir a Parque Lázaro Cárdenas cumplió, aunque esperaba un poco más. No me pareció mal, pero tampoco memorable. Lo mejor fue la vista, pero el tema de la señalización dejó mucho que desear. Fuimos con mis papás al mediodía. Entre semana se siente mucho más llevadero. Puede gustarte más si eliges bien la hora. Con unos ajustes podría mejorar muchísimo."
+    "Ir a Parque Lázaro Cárdenas cumplió, aunque esperaba un poco más. No me pareció mal, pero tampoco memorable. Lo mejor fue la limpieza, pero el tema del mantenimiento necesita mejorar. Fuimos con amigos entre semana. Fuimos temprano y se disfrutó más. Puede gustarte más si eliges bien la hora. La experiencia depende bastante del momento del día."
+
+  [CONTRASTE]
+    "Volvería sin pensarlo a Bar con terraza en el Malecón. La música acompañó sin molestar. Además, en general, el tema de la tranquilidad estuvo muy bien. Fuimos con niños un domingo. Conviene ir con tiempo y sin prisa. Definitivamente volvería. Nos quedamos con ganas de volver con más tiempo."
+
+TOPICO 2 -- Tamano: 116 docs (6.1%)
+Keywords: río, cualar, además, bastante, ambiente, mercado, mejor, visita
+
+  [PERTENECE]
+    "Volvería sin pensarlo a Mercado Municipal Río Cuale. Hay mucha variedad para curiosear. Además, para mí, el tema de la atención estuvo muy bien. Fuimos con niños en vacaciones. Nos movimos a pie sin complicarnos. Definitivamente volvería. Se nota cuando un lugar está bien llevado."
+    "Quedé fascinado con Mercado Municipal Río Cuale. Hay mucha variedad para curiosear. Además, para mí, el tema de la limpieza destacó bastante. Fuimos con niños en vacaciones. El clima nos tocó a favor y eso mejoró todo. Lo volvería a incluir en otro viaje. Se nota cuando un lugar está bien llevado."
+    "Volvería sin pensarlo a Mercado Municipal Río Cuale. Se encuentran recuerdos bonitos. Además, en general, el tema de la limpieza marcó una diferencia positiva. Fuimos con niños al atardecer. Fuimos temprano y se disfrutó más. Es una parada muy recomendable. Incluso con gente, se pudo disfrutar bastante."
+    "Pasar por Mercado Municipal Río Cuale tuvo cosas buenas y otras mejorables. Está bien para dar una vuelta, aunque no todo destaca. Lo mejor fue la atención, pero el tema de la limpieza terminó siendo un problema. Fuimos en familia en vacaciones. En temporada alta imagino que cambia bastante. Puede gustarte más si eliges bien la hora. La experiencia depende bastante del momento del día."
+    "Excelente visita a Mercado Municipal Río Cuale. Vale la pena caminarlo con calma. Además, para mí, el tema de la ubicación marcó una diferencia positiva. Fuimos en plan tranquilo de noche. Con calor fuerte conviene llevar agua y bloqueador. Lo volvería a incluir en otro viaje. Se nota cuando un lugar está bien llevado."
+
+  [CONTRASTE]
+    "Pasar por Mercado de artesanías del Malecón tuvo cosas buenas y otras mejorables. Hay algunos puestos interesantes y otros muy normales. Lo mejor fue la organización, pero el tema del tiempo de espera se notó bastante. Fuimos con amigos entre semana. Llegamos al atardecer y la luz ayudó muchísimo. Está bien para conocerlo una vez. Se disfruta más si vas con expectativas realistas."
+
+TOPICO 3 -- Tamano: 77 docs (4.1%)
+Keywords: centro, además, bastante, ambiente, servicio, papás, tema, quedar
+
+  [PERTENECE]
+    "Excelente visita a Café del centro. El servicio fue amable. Además, la verdad, el tema del ambiente estuvo muy bien. Fuimos en pareja un domingo. Con calor fuerte conviene llevar agua y bloqueador. Lo volvería a incluir en otro viaje. Fue de esas visitas que te dejan buen sabor de boca."
+    "En general nos fue bien en Café del centro. Es buen sitio para descansar un rato. Además, en general, el tema del ambiente destacó bastante. Fuimos con mis papás de noche. Entre semana se siente mucho más llevadero. Sí regresaría. Se nota cuando un lugar está bien llevado."
+    "Salimos contentos de Café del centro. El ambiente invita a quedarse. Además, la verdad, el tema de la atención destacó bastante. Fuimos en pareja en vacaciones. El clima nos tocó a favor y eso mejoró todo. Sí regresaría. Todo se sintió bastante cómodo."
+    "Quedé fascinado con Café del centro. El ambiente invita a quedarse. Además, en general, el tema de la vista destacó bastante. Fuimos en familia un domingo. Con calor fuerte conviene llevar agua y bloqueador. Es una parada muy recomendable. Nos quedamos con ganas de volver con más tiempo."
+    "Una gran sorpresa fue Café del centro. El ambiente invita a quedarse. Además, en general, el tema de la organización estuvo muy bien. Fuimos con amigos por la mañana. Entre semana se siente mucho más llevadero. Es una parada muy recomendable. Todo se sintió bastante cómodo."
+
+  [CONTRASTE]
+    "Volvería sin pensarlo a Restaurante frente al mar en Marina. El sabor estuvo por encima de lo esperado. Además, honestamente, el tema del ambiente destacó bastante. Fuimos con niños un domingo. Conviene ir con tiempo y sin prisa. Lo volvería a incluir en otro viaje. Se nota cuando un lugar está bien llevado."
+
+TOPICO 4 -- Tamano: 68 docs (3.6%)
+Keywords: mar, experiencia, tema, mejor, frente, además, familia, cumplir
+
+  [PERTENECE]
+    "Ir a Restaurante frente al mar en Marina cumplió, aunque esperaba un poco más. El lugar tiene potencial, aunque no todo salió parejo. Lo mejor fue la experiencia general, pero el tema de los precios terminó siendo un problema. Fuimos con mis papás entre semana. En temporada alta imagino que cambia bastante. Tiene potencial si cuidan algunos detalles. Se disfruta más si vas con expectativas realistas."
+    "Restaurante frente al mar en Marina no me terminó de convencer. Salimos inconformes con la experiencia. Encima, el tema de la organización se notó bastante. Fuimos en familia por la mañana. En temporada alta imagino que cambia bastante. No sentí que el costo o el tiempo se justificaran. Hay mejores alternativas para aprovechar el día."
+    "Una gran sorpresa fue Restaurante frente al mar en Marina. La atención fue rápida y amable. Además, honestamente, el tema de la experiencia general estuvo muy bien. Fuimos con niños entre semana. Conviene ir con tiempo y sin prisa. Me quedé con ganas de repetir. Incluso con gente, se pudo disfrutar bastante."
+    "Salimos contentos de Restaurante frente al mar en Marina. La vista suma bastante a la experiencia. Además, la verdad, el tema del servicio marcó una diferencia positiva. Fuimos en familia entre semana. En temporada alta imagino que cambia bastante. Lo volvería a incluir en otro viaje. Todo se sintió bastante cómodo."
+    "Valió la pena conocer Restaurante frente al mar en Marina. La vista suma bastante a la experiencia. Además, la verdad, el tema de la limpieza marcó una diferencia positiva. Fuimos con mis papás al mediodía. Entre semana se siente mucho más llevadero. Definitivamente volvería. Todo se sintió bastante cómodo."
+
+  [CONTRASTE]
+    "Tuve una experiencia floja en Café del centro. La visita terminó siendo más incómoda de lo esperado. Encima, el tema de los precios dejó mucho que desear. Fuimos solo entre semana. El clima nos tocó a favor y eso mejoró todo. Yo me lo saltaría la próxima vez. Me fui con la sensación de que pudo estar mucho mejor."
+
+TOPICO 5 -- Tamano: 57 docs (3.0%)
+Keywords: además, bastante, dentro, tema, señora, domingo, semana, visita
+
+  [PERTENECE]
+    "Quedé fascinado con Parroquia de Nuestra Señora de Guadalupe. Por dentro luce muy bonita. Además, la verdad, el tema de la limpieza marcó una diferencia positiva. Fuimos en pareja entre semana. Con calor fuerte conviene llevar agua y bloqueador. Lo volvería a incluir en otro viaje. Incluso con gente, se pudo disfrutar bastante."
+    "Buena visita a Parroquia de Nuestra Señora de Guadalupe. Por dentro luce muy bonita. Además, para mí, el tema de la ubicación marcó una diferencia positiva. Fuimos con niños un domingo. Fuimos temprano y se disfrutó más. Lo volvería a incluir en otro viaje. Todo se sintió bastante cómodo."
+    "La peor parte del viaje fue Parroquia de Nuestra Señora de Guadalupe. Había demasiada gente para apreciarla bien. Encima, el tema de la organización terminó siendo un problema. Fuimos en pareja en vacaciones. Conviene ir con tiempo y sin prisa. Con varios cambios podría mejorar, pero hoy no lo recomendaría. La fama del lugar me hizo esperar bastante más."
+    "Nos gustó bastante Parroquia de Nuestra Señora de Guadalupe. Es parte importante del carácter del lugar. Además, honestamente, el tema de la experiencia general me dejó muy buena impresión. Fuimos con amigos un domingo. El clima nos tocó a favor y eso mejoró todo. Definitivamente volvería. Todo se sintió bastante cómodo."
+    "De lo mejor del viaje fue Parroquia de Nuestra Señora de Guadalupe. Por dentro luce muy bonita. Además, en general, el tema de la organización estuvo muy bien. Fuimos con niños un domingo. En temporada alta imagino que cambia bastante. Definitivamente volvería. Todo se sintió bastante cómodo."
+
+  [CONTRASTE]
+    "De lo mejor del viaje fue Centro Histórico. Hay de todo a poca distancia. Además, la verdad, el tema del servicio marcó una diferencia positiva. Fuimos en familia de noche. Nos movimos a pie sin complicarnos. Lo recomiendo sin problema. Nos quedamos con ganas de volver con más tiempo."
+
+--- BERTopic ---
+Topicos encontrados: 39 (top-5 mostrados) | Cobertura: 89%
+
+TOPICO 1 -- Tamano: 171 docs (8.6%)
+Keywords: cuidada, vacaciones, pareja, esperado, playa, pero, deja, tiempo
+
+  [PERTENECE]
+    "Excelente visita a Playa Los Muertos. Nos tocó una playa bastante disfrutable. Además, en general, el tema del servicio destacó bastante. Fuimos en plan tranquilo al atardecer. Fuimos temprano y se disfrutó más. Lo volvería a incluir en otro viaje. Todo se sintió bastante cómodo."
+    "Mi visita a Playa Mismaloya estuvo bien, sin más. Se deja disfrutar, pero con expectativas moderadas. Lo mejor fue la vista, pero el tema de la saturación de gente necesita mejorar. Fuimos con niños al mediodía. Entre semana se siente mucho más llevadero. Está bien para conocerlo una vez. No fue perfecto, pero sí tuvo momentos rescatables."
+    "Quedé fascinado con Playa Los Muertos. Nos tocó una playa bastante disfrutable. Además, la verdad, el tema de la organización estuvo muy bien. Fuimos con amigos por la mañana. Fuimos temprano y se disfrutó más. Lo volvería a incluir en otro viaje. Incluso con gente, se pudo disfrutar bastante."
+    "Excelente visita a Playa Camarones. Nos tocó una playa bastante disfrutable. Además, en general, el tema de la vista fue de lo mejor. Fuimos con amigos por la mañana. Nos movimos a pie sin complicarnos. Es una parada muy recomendable. Nos quedamos con ganas de volver con más tiempo."
+    "Buena visita a Playa Mismaloya. Nos tocó una playa bastante disfrutable. Además, honestamente, el tema del ambiente fue de lo mejor. Fuimos en plan tranquilo un domingo. El clima nos tocó a favor y eso mejoró todo. Definitivamente volvería. Todo se sintió bastante cómodo."
+
+  [CONTRASTE]
+    "Muy mala experiencia en Resort frente a la playa. Hubo detalles incómodos desde la llegada. Encima, el tema del tiempo de espera fue lo más flojo. Fuimos con amigos en vacaciones. Con calor fuerte conviene llevar agua y bloqueador. Yo me lo saltaría la próxima vez. La fama del lugar me hizo esperar bastante más."
+
+TOPICO 2 -- Tamano: 102 docs (5.1%)
+Keywords: bahía, calidad, tranquilidad, vacaciones, esperado, relación, buena, cuando
+
+  [PERTENECE]
+    "De lo mejor del viaje fue Mirador de la Cruz. Desde arriba se aprecia muy bien la bahía. Además, honestamente, el tema de la relación calidad-precio destacó bastante. Fuimos solo por la mañana. Conviene ir con tiempo y sin prisa. Definitivamente volvería. Incluso con gente, se pudo disfrutar bastante."
+    "Muy buena experiencia en Playa Colomitos. La vista de la bahía se disfruta muchísimo. Además, para mí, el tema de la tranquilidad me dejó muy buena impresión. Fuimos con niños entre semana. La zona alrededor tiene bastante movimiento. Sí regresaría. Todo se sintió bastante cómodo."
+    "Buena visita a Playa Gemelas. La vista de la bahía se disfruta muchísimo. Además, en general, el tema de la relación calidad-precio destacó bastante. Fuimos con niños al mediodía. Entre semana se siente mucho más llevadero. Lo recomiendo sin problema. Se nota cuando un lugar está bien llevado."
+    "Una gran sorpresa fue Mismaloya. La vista de la bahía se disfruta muchísimo. Además, honestamente, el tema del servicio me dejó muy buena impresión. Fuimos en plan tranquilo por la mañana. En temporada alta imagino que cambia bastante. Lo volvería a incluir en otro viaje. Nos quedamos con ganas de volver con más tiempo."
+    "Me encantó Playa Los Muertos. La vista de la bahía se disfruta muchísimo. Además, la verdad, el tema del ambiente sumó muchísimo. Fuimos en familia al mediodía. El clima nos tocó a favor y eso mejoró todo. Lo recomiendo sin problema. Nos quedamos con ganas de volver con más tiempo."
+
+  [CONTRASTE]
+    "La experiencia en Paseo en barco por la bahía fue regular. La idea del tour es buena, pero le faltan detalles. Lo mejor fue el servicio, pero el tema del acceso bajó bastante la experiencia. Fuimos con niños por la mañana. Conviene ir con tiempo y sin prisa. Puede gustarte más si eliges bien la hora. No fue perfecto, pero sí tuvo momentos rescatables."
+
+TOPICO 3 -- Tamano: 73 docs (3.6%)
+Keywords: tour, vacaciones, visitas, visita, ubicación, esperaba, es, apresurado
+
+  [PERTENECE]
+    "Pasar por Tour a Yelapa tuvo cosas buenas y otras mejorables. La idea del tour es buena, pero le faltan detalles. Lo mejor fue el servicio, pero el tema de la señalización terminó siendo un problema. Fuimos con niños por la mañana. Entre semana se siente mucho más llevadero. No me arrepiento de haber ido. Se disfruta más si vas con expectativas realistas."
+    "Salimos contentos de Tour en cuatrimoto. El guía explicó todo con claridad. Además, honestamente, el tema de la vista marcó una diferencia positiva. Fuimos en familia un domingo. El clima nos tocó a favor y eso mejoró todo. Vale mucho la pena. Nos quedamos con ganas de volver con más tiempo."
+    "La experiencia en Excursión a las cascadas fue regular. La idea del tour es buena, pero le faltan detalles. Lo mejor fue la tranquilidad, pero el tema de la atención dejó mucho que desear. Fuimos con amigos entre semana. El clima nos tocó a favor y eso mejoró todo. Puede gustarte más si eliges bien la hora. No fue perfecto, pero sí tuvo momentos rescatables."
+    "Pasar por Excursión a las cascadas tuvo cosas buenas y otras mejorables. La idea del tour es buena, pero le faltan detalles. Lo mejor fue la organización, pero el tema del ruido dejó mucho que desear. Fuimos con amigos entre semana. Fuimos temprano y se disfrutó más. Tiene potencial si cuidan algunos detalles. No fue perfecto, pero sí tuvo momentos rescatables."
+    "La experiencia en Tour a Yelapa fue regular. La idea del tour es buena, pero le faltan detalles. Lo mejor fue la ubicación, pero el tema de la señalización dejó mucho que desear. Fuimos con amigos en vacaciones. La zona alrededor tiene bastante movimiento. No me arrepiento de haber ido. No fue perfecto, pero sí tuvo momentos rescatables."
+
+  [CONTRASTE]
+    "Quedé fascinado con Tour a Yelapa. No se sintió apresurado. Además, para mí, el tema de la tranquilidad destacó bastante. Fuimos en plan tranquilo entre semana. Hay buenos puntos para tomar fotos. Lo recomiendo sin problema. Fue de esas visitas que te dejan buen sabor de boca."
+
+TOPICO 4 -- Tamano: 72 docs (3.6%)
+Keywords: siente, cómodo, marina, cuando, pareja, sintió, encantó, por
+
+  [PERTENECE]
+    "Me encantó Marina Vallarta. Se siente muy representativo de la ciudad. Además, en general, el tema de la vista fue de lo mejor. Fuimos en pareja en vacaciones. La zona alrededor tiene bastante movimiento. Es una parada muy recomendable. Se nota cuando un lugar está bien llevado."
+    "Salimos contentos de Marina Vallarta. Da para regresar varias veces. Además, la verdad, el tema de la experiencia general sumó muchísimo. Fuimos en familia al atardecer. El clima nos tocó a favor y eso mejoró todo. Vale mucho la pena. Todo se sintió bastante cómodo."
+    "La experiencia en Paseo por Marina al atardecer fue regular. No está mal para caminarlo una vez. Lo mejor fue el servicio, pero el tema del mantenimiento dejó mucho que desear. Fuimos en familia un domingo. Fuimos temprano y se disfrutó más. Puede gustarte más si eliges bien la hora. Con unos ajustes podría mejorar muchísimo."
+    "Salí muy inconforme de Marina Vallarta. No fue tan agradable como imaginaba. Encima, el tema de la atención dejó mucho que desear. Fuimos en familia entre semana. Conviene ir con tiempo y sin prisa. Yo me lo saltaría la próxima vez. Me fui con la sensación de que pudo estar mucho mejor."
+    "Mi visita a Marina Vallarta estuvo bien, sin más. Tiene encanto, aunque esperaba un poco más. Lo mejor fue la experiencia general, pero el tema del tiempo de espera necesita mejorar. Fuimos con niños al mediodía. Con calor fuerte conviene llevar agua y bloqueador. Puede gustarte más si eliges bien la hora. Con unos ajustes podría mejorar muchísimo."
+
+  [CONTRASTE]
+    "Una gran sorpresa fue Marina Vallarta. Da para regresar varias veces. Además, en general, el tema de la relación calidad-precio superó lo esperado. Fuimos con niños de noche. En temporada alta imagino que cambia bastante. Lo recomiendo sin problema. Nos quedamos con ganas de volver con más tiempo."
+
+TOPICO 5 -- Tamano: 64 docs (3.2%)
+Keywords: siente, cómodo, cuando, esperado, como, movimiento, boca, por
+
+  [PERTENECE]
+    "Salimos contentos de Plaza de Armas. Se siente como un punto central del destino. Además, honestamente, el tema de la organización estuvo muy bien. Fuimos en pareja al mediodía. Nos movimos a pie sin complicarnos. Sí regresaría. Fue de esas visitas que te dejan buen sabor de boca."
+    "Una gran sorpresa fue Plaza de Armas. Nos pareció un buen punto de encuentro. Además, honestamente, el tema de la organización fue de lo mejor. Fuimos en pareja al atardecer. Entre semana se siente mucho más llevadero. Definitivamente volvería. Fue de esas visitas que te dejan buen sabor de boca."
+    "Buena visita a Plaza de Armas. Se siente como un punto central del destino. Además, para mí, el tema de la atención estuvo muy bien. Fuimos con amigos de noche. El clima nos tocó a favor y eso mejoró todo. Lo recomiendo sin problema. Todo se sintió bastante cómodo."
+    "Me encantó Plaza de Armas. Se siente como un punto central del destino. Además, para mí, el tema del servicio marcó una diferencia positiva. Fuimos con mis papás entre semana. Fuimos temprano y se disfrutó más. Es una parada muy recomendable. Fue de esas visitas que te dejan buen sabor de boca."
+    "Fue una decepción total visitar Plaza de Armas. La sentí muy saturada. Encima, el tema de la atención estuvo por debajo de lo esperado. Fuimos con mis papás por la mañana. Fuimos temprano y se disfrutó más. Yo me lo saltaría la próxima vez. No sentí que el tiempo invertido valiera la pena."
+
+  [CONTRASTE]
+    "Nos gustó bastante Avistamiento de ballenas. El recorrido estuvo bien armado. Además, honestamente, el tema del ambiente superó lo esperado. Fuimos en familia al atardecer. En temporada alta imagino que cambia bastante. Lo volvería a incluir en otro viaje. Fue de esas visitas que te dejan buen sabor de boca."
+
+--- LDA ---
+Topicos encontrados: 5 | Cobertura: 100%
+
+TOPICO 1 -- Tamano: 555 docs (27.8%)
+Keywords: bien, volver, tiempo, buen, disfrutar, mejor, gana, valer
+
+  [PERTENECE]
+    "Quedé fascinado con Parque Lázaro Cárdenas. Nos gustó para hacer una pausa. Además, la verdad, el tema de la vista marcó una diferencia positiva. Fuimos en plan tranquilo al mediodía. Hay buenos puntos para tomar fotos. Lo volvería a incluir en otro viaje. Se nota cuando un lugar está bien llevado."
+    "Salimos contentos de Tour de tacos y mariscos. La logística salió mejor de lo esperado. Además, para mí, el tema de la experiencia general marcó una diferencia positiva. Fuimos en familia por la mañana. Llegamos al atardecer y la luz ayudó muchísimo. Lo volvería a incluir en otro viaje. Se nota cuando un lugar está bien llevado."
+    "En general nos fue bien en Restaurante frente al mar en Marina. El sabor estuvo por encima de lo esperado. Además, la verdad, el tema de la relación calidad-precio superó lo esperado. Fuimos con amigos en vacaciones. Hay buenos puntos para tomar fotos. Lo volvería a incluir en otro viaje. Nos quedamos con ganas de volver con más tiempo."
+    "Valió la pena conocer Tour gastronómico por el centro. El guía explicó todo con claridad. Además, honestamente, el tema de la atención superó lo esperado. Fuimos en familia de noche. Llegamos al atardecer y la luz ayudó muchísimo. Me quedé con ganas de repetir. Incluso con gente, se pudo disfrutar bastante."
+    "De lo mejor del viaje fue Los Arcos de Mismaloya. El guía explicó todo con claridad. Además, honestamente, el tema de la relación calidad-precio marcó una diferencia positiva. Fuimos con niños por la mañana. Hay buenos puntos para tomar fotos. Vale mucho la pena. Nos quedamos con ganas de volver con más tiempo."
+
+  [CONTRASTE]
+    "Salimos contentos de Tour de snorkel en Los Arcos. La actividad estuvo muy bien llevada. Además, para mí, el tema de la ubicación superó lo esperado. Fuimos en familia de noche. Nos movimos a pie sin complicarnos. Definitivamente volvería. Todo se sintió bastante cómodo."
+
+TOPICO 2 -- Tamano: 413 docs (20.6%)
+Keywords: volver, mejor, convenir, llevar, buen, visita, playa, agua
+
+  [PERTENECE]
+    "Valió la pena conocer Hotel boutique en Zona Romántica. El check-in fue rápido y amable. Además, la verdad, el tema de la experiencia general marcó una diferencia positiva. Fuimos en plan tranquilo al mediodía. Con calor fuerte conviene llevar agua y bloqueador. Es una parada muy recomendable. Fue de esas visitas que te dejan buen sabor de boca."
+    "Excelente visita a Mercado Municipal Río Cuale. Vale la pena caminarlo con calma. Además, para mí, el tema de la ubicación marcó una diferencia positiva. Fuimos en plan tranquilo de noche. Con calor fuerte conviene llevar agua y bloqueador. Lo volvería a incluir en otro viaje. Se nota cuando un lugar está bien llevado."
+    "Valió la pena conocer Parque Lázaro Cárdenas. Tiene ambiente familiar. Además, honestamente, el tema de la relación calidad-precio me dejó muy buena impresión. Fuimos con niños un domingo. Con calor fuerte conviene llevar agua y bloqueador. Es una parada muy recomendable. Fue de esas visitas que te dejan buen sabor de boca."
+    "Buena visita a Hotel boutique en Zona Romántica. El check-in fue rápido y amable. Además, honestamente, el tema de la relación calidad-precio estuvo muy bien. Fuimos con niños en vacaciones. Con calor fuerte conviene llevar agua y bloqueador. Vale mucho la pena. Fue de esas visitas que te dejan buen sabor de boca."
+    "Quedé fascinado con Parroquia de Nuestra Señora de Guadalupe. Por dentro luce muy bonita. Además, la verdad, el tema de la limpieza marcó una diferencia positiva. Fuimos en pareja entre semana. Con calor fuerte conviene llevar agua y bloqueador. Lo volvería a incluir en otro viaje. Incluso con gente, se pudo disfrutar bastante."
+
+  [CONTRASTE]
+    "Playa Colomitos no me terminó de convencer. No me tocó la parte más cuidada. Encima, el tema de la atención terminó siendo un problema. Fuimos solo de noche. El clima nos tocó a favor y eso mejoró todo. Con varios cambios podría mejorar, pero hoy no lo recomendaría. Me fui con la sensación de que pudo estar mucho mejor."
+
+TOPICO 3 -- Tamano: 353 docs (17.6%)
+Keywords: encima, tiempo, sentir, mejor, esperar, experiencia, zona, semana
+
+  [PERTENECE]
+    "Salí medio decepcionado de Malecón de Puerto Vallarta. La visita se sintió más floja de lo que imaginaba. Encima, el tema del tiempo de espera estuvo por debajo de lo esperado. Fuimos en familia un domingo. El clima nos tocó a favor y eso mejoró todo. No sentí que el costo o el tiempo se justificaran. No sentí que el tiempo invertido valiera la pena."
+    "Tour de snorkel en Los Arcos no me terminó de convencer. La logística fue mala desdel inicio. Encima, el tema de la organización terminó siendo un problema. Fuimos en plan tranquilo un domingo. Conviene ir con tiempo y sin prisa. Con varios cambios podría mejorar, pero hoy no lo recomendaría. No sentí que el tiempo invertido valiera la pena."
+    "Hotel boutique en Zona Romántica no me terminó de convencer. La estancia se hizo pesada por varios detalles. Encima, el tema del acceso terminó siendo un problema. Fuimos en plan tranquilo un domingo. El clima nos tocó a favor y eso mejoró todo. No sentí que el costo o el tiempo se justificaran. Hay mejores alternativas para aprovechar el día."
+    "Salí medio decepcionado de Tour gastronómico por el centro. Faltó comunicación clara. Encima, el tema del tiempo de espera terminó siendo un problema. Fuimos en pareja un domingo. La zona alrededor tiene bastante movimiento. Hay mejores opciones en la zona. No sentí que el tiempo invertido valiera la pena."
+    "Fue una decepción total visitar Mercado de artesanías del Malecón. No encontré gran cosa que valiera la pena. Encima, el tema de la saturación de gente dejó mucho que desear. Fuimos con mis papás entre semana. La zona alrededor tiene bastante movimiento. No sentí que el costo o el tiempo se justificaran. Me fui con la sensación de que pudo estar mucho mejor."
+
+  [CONTRASTE]
+    "De lo mejor del viaje fue Hotel boutique en Zona Romántica. La ubicación ayuda muchísimo. Además, la verdad, el tema de la organización marcó una diferencia positiva. Fuimos en pareja de noche. Nos movimos a pie sin complicarnos. Definitivamente volvería. Todo se sintió bastante cómodo."
+
+TOPICO 4 -- Tamano: 347 docs (17.3%)
+Keywords: bien, mejor, experiencia, poder, mejorar, buen, playa, muchísimo
+
+  [PERTENECE]
+    "Pasar por Playa Los Muertos tuvo cosas buenas y otras mejorables. Tiene ratos agradables, aunque depende mucho de la hora. Lo mejor fue la relación calidad-precio, pero el tema de la saturación de gente fue lo más flojo. Fuimos con amigos al atardecer. Hay buenos puntos para tomar fotos. Puede gustarte más si eliges bien la hora. Hay detalles que cambian bastante según la hora."
+    "Pasar por Resort frente a la playa tuvo cosas buenas y otras mejorables. Cumple para dormir, pero no destaca. Lo mejor fue la relación calidad-precio, pero el tema de la saturación de gente terminó siendo un problema. Fuimos con niños en vacaciones. En temporada alta imagino que cambia bastante. Puede gustarte más si eliges bien la hora. No fue perfecto, pero sí tuvo momentos rescatables."
+    "La experiencia en Paseo en lancha al atardecer fue regular. Se disfruta, aunque el ritmo pudo ser mejor. Lo mejor fue la relación calidad-precio, pero el tema del acceso necesita mejorar. Fuimos en plan tranquilo al mediodía. El clima nos tocó a favor y eso mejoró todo. Puede gustarte más si eliges bien la hora. La experiencia depende bastante del momento del día."
+    "Pasar por Playa Gemelas tuvo cosas buenas y otras mejorables. La vista ayuda bastante, aunque hay detalles mejorables. Lo mejor fue la tranquilidad, pero el tema del tiempo de espera dejó mucho que desear. Fuimos solo al atardecer. En temporada alta imagino que cambia bastante. Puede gustarte más si eliges bien la hora. Con unos ajustes podría mejorar muchísimo."
+    "Conocer Paseo en barco por la bahía estuvo correcto, pero no me sorprendió. La idea del tour es buena, pero le faltan detalles. Lo mejor fue la ubicación, pero el tema del tiempo de espera estuvo por debajo de lo esperado. Fuimos con niños un domingo. El clima nos tocó a favor y eso mejoró todo. Puede gustarte más si eliges bien la hora. Con unos ajustes podría mejorar muchísimo."
+
+  [CONTRASTE]
+    "Me encantó Resort frente a la playa. La ubicación ayuda muchísimo. Además, para mí, el tema del servicio sumó muchísimo. Fuimos en plan tranquilo al atardecer. Hay buenos puntos para tomar fotos. Es una parada muy recomendable. Incluso con gente, se pudo disfrutar bastante."
+
+TOPICO 5 -- Tamano: 332 docs (16.6%)
+Keywords: buen, dejar, visita, experiencia, bien, mejor, boca, zona
+
+  [PERTENECE]
+    "Excelente visita a Mercado de artesanías del Malecón. Vale la pena caminarlo con calma. Además, en general, el tema del servicio me dejó muy buena impresión. Fuimos con niños por la mañana. Hay buenos puntos para tomar fotos. Lo recomiendo sin problema. Fue de esas visitas que te dejan buen sabor de boca."
+    "Muy mala experiencia en Paseo en lancha al atardecer. Parecía que nadie coordinaba bien la actividad. Encima, el tema del ruido necesita mejorar. Fuimos en pareja al mediodía. Nos movimos a pie sin complicarnos. Con varios cambios podría mejorar, pero hoy no lo recomendaría. Me fui con la sensación de que pudo estar mucho mejor."
+    "Quedé fascinado con Paseo en barco por la bahía. La actividad estuvo muy bien llevada. Además, en general, el tema de la atención me dejó muy buena impresión. Fuimos en pareja al mediodía. Llegamos al atardecer y la luz ayudó muchísimo. Definitivamente volvería. Fue de esas visitas que te dejan buen sabor de boca."
+    "Volvería sin pensarlo a Playa Mismaloya. La vista de la bahía se disfruta muchísimo. Además, honestamente, el tema de la atención fue de lo mejor. Fuimos en plan tranquilo en vacaciones. Hay buenos puntos para tomar fotos. Me quedé con ganas de repetir. Fue de esas visitas que te dejan buen sabor de boca."
+    "Quedé fascinado con Playa Conchas Chinas. La vista de la bahía se disfruta muchísimo. Además, para mí, el tema de la ubicación me dejó muy buena impresión. Fuimos en familia de noche. Hay buenos puntos para tomar fotos. Es una parada muy recomendable. Fue de esas visitas que te dejan buen sabor de boca."
+
+  [CONTRASTE]
+    "La visita a Paseo por Marina al atardecer me dejó dudas. La experiencia terminó siendo más pesada que entretenida. Encima, el tema del mantenimiento necesita mejorar. Fuimos en plan tranquilo al mediodía. En temporada alta imagino que cambia bastante. Yo me lo saltaría la próxima vez. Hay mejores alternativas para aprovechar el día."
+
+======================================================================
+FIN DEL REPORTE
+======================================================================

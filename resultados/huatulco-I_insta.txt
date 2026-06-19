@@ -1,0 +1,213 @@
+======================================================================
+DATASET: huatulco-I | FUENTE: Instagram | REVIEWS: 2423 | FECHA: 2026-06-17
+======================================================================
+
+NOTA: Cada topico incluye 5 reviews [PERTENECE] y 1 [CONTRASTE] que pertenece a otro topico. Esto ayuda a los LLMs a distinguir limites entre topicos.
+
+--- XidooTopic ---
+Topicos encontrados: 6 | Cobertura: 100% | Cohesion intra-cluster: 0.9970
+
+TOPICO 1 -- Tamano: 914 docs (39.9%)
+Keywords: mujer, pie, fotografía, canva, playa, fiesta, cartel, vista
+
+  [PERTENECE]
+    "sero ploriaa servidor emulador geenss archenti flores morearea jorge velarde imagen del anuncio del vehículo gorecore bbloom joel torres gapmoe promoción de facebook lorem ipsum dolor sit amet cliente florido ticket de servicio falso"
+    "niña de pie siguiente estilo de mariposa gigante quetzecoatl mariposas monarca mariposa arte pop mural museo de arte fondo tlaquepaque mural de la pared mariposa de guanajuato mariposas mariposas voladoras arte popular mexicano muralismo mexicano ravi supa alas de mariposa"
+    "niña de pie al lado mariposa gigante mariposa mariposas monarca david choe alas de mariposa mariposas de pájaros pájaros de mariposas mariposas negras mariposas mariposas voladoras fondo del museo de mariposas artgem muy detallado museo de arte de cuerpo completo artista maena bill galería lowe obras de arte de varias capas"
+    "noche de la ciudad muchas luces festival vista panorámica noche foto tomada ektachrome noche del festival de verano fotografía hdr bullicioso pueblo mágico tropical atmósfera nocturna de la ciudad costera gente bulliciosa noche de vista panorámica vista nocturna iluminación de calidad de la ciudad paisaje nocturno hdr en la noche de la ciudad escena oscura luz tenue"
+    "mujer camisa gris pantalones negros se encuentra frente pared blanca mariposa grande hecha botellas de plástico media mujer media mariposa alas de mariposa enormes alas simétricas mariposa mariposa del arte pop hermosas alas mariposas estilo foto de quetzecoatl mariposa mecánica alas de polilla iridiscente"
+
+  [CONTRASTE]
+    "mujer sentada frente palabra amor masqua magali tlaquepaque iamag okuda sam miguel voque inspirado robert macaulay stevenson massys épico oxaguian megascans imaginfx imagenet magitech megaciudad imágenes jamaica"
+
+TOPICO 2 -- Tamano: 621 docs (27.1%)
+Keywords: océano, tropical, azul, vegetación, fondo, foto, impresionante, isla
+
+  [PERTENECE]
+    "playa pequeña isla playa media vegetación tropical isla de los monos espiral centelleante isla nubela isla cueva mar azul barco isla desierta fondo de la isla fondo de la isla clima tropical isla hecha playa de caviar borde exterior dos islas de tamaño mediano"
+    "barco atracado playa cerca del agua fondo de la isla fondo de la isla aire flotante de la isla fondo del paraíso fondo de playa isla mar azul borde exterior de la playa bar de playa fiesta en la playa de la isla ibiza coloso rodas isla del tesoro isla de aruba coloso rodas"
+    "barco sentado playa cerca del agua playa de aruba borde exterior fondo de la isla fondo de la isla california hermosa playa fondo paraíso fondo de playa isla ayahausca playa perdida hermoso océano fondo de la costa de la isla barcos fondo de agua"
+    "barco agua cerca de la playa playa vegetación tropical vista mar isla fondo foto tomada barco foto tomada fondo de la isla del barco foto panorámica de la isla de los monos fondo del paraíso fondo de la costa tropical ciudad costera fondo de playa méxico hermosas imágenes panorámicas"
+    "pequeña isla océano medio isla de playa australiana mar azul fondo de la isla playa vegetación tropical barco isleño isla desierta islas dispersas playa borde exterior isla de gilligan dos islas de tamaño mediano isla de los monos playa perdida isla abel tasman gran barrera de coral"
+
+  [CONTRASTE]
+    "hombre de pie playa brazos arriba gildhardho vitorugo jayison devadas fondo julio lacerda diego fazio chiascuro boroque auronplay fondo paraíso bailando playa tropical tropicalismo fondo costa alegria"
+
+TOPICO 3 -- Tamano: 609 docs (26.6%)
+Keywords: oaxaco, playa, bahia, chahue, huatulcomexico, maguey, chachacual, cacaluto
+
+  [PERTENECE]
+    "paquete aventurero mejores maneras disfrutar proximas vacaciones explorando costas oaxaca visitando bahias huatulco huatulco mxn persona incluye dias noches hospedaje desayunos tour bahias impuestos incluidos incluye transportacion destino pktaventurero santacruz organo maguey cacaluta chachacual huatulco eecollective informes"
+    "resaltar huatulco siete bahías recorridos en bote estándar más o menos lo mismo obtener parada de snorkel chachacual parada para almorzar maguey reservar ciudad costo querer tratar charter bote privado ver bahías recorrido en bote favorito guardar la publicación más tarde consultar la publicación del blog mochilero méxico transporte público dar corazón rojo usar lista de deseos vida artículos de la lista de deseos marcados méxico visitarmexico igersmexico viajar a méxico viajar a méxico canal de viajes de méxico viajes travelblogger reiseblogger travelbug explorar el mundo pasión de viajar destinos hermosos tblogger goexplore huatulco oaxaca huatulcomexico yoamohuatulco chachacual bahiasdehuatulco playa mexicoplaya mexicanaplaya playavibes vida en la playa playasdeinstagram oaxacalotienetodo"
+    "bahia chahue huatulquito corazon corazón rojo destellos festejando aniversario dos corazones viene spam fotos subi huatulco huatulco bahias chahue chahue oaxaca oaxtravel huatulcomexico"
+    "chachacual faz parte passeio das baias huatulco esse lugar muito bom snorkel visibilidade excelente paisagem sem comentarios nao tem filtro nao precisa chachacual huatulco mexico visitmexico tripsincriveis loucosporviagem missaovt amoviajar bestdestinations mar trip travel blog blogdeviagem travelblog"
+    "prefiero dormido despierto duele estes mending heart cacalutabeach bahiaelorgano huatulco bahiasdehuatulco bahiasdehuatulco dtmf cacaluta"
+
+  [CONTRASTE]
+    "playa bonita heart suit huatulco magueyhuatulco bahiamaguey mar"
+
+TOPICO 4 -- Tamano: 58 docs (2.5%)
+Keywords: puesto, foto, kanagawa, espectáculo, atardecer, ektachromir, fondo, espectacular
+
+  [PERTENECE]
+    "persona caminando playa puesta de sol foto sincera gal gadot película quieta gal gadot resplandor solar detrás mujer niña viendo la puesta de sol hermosa chica horizonte puesta de sol en la playa puesta de sol en la playa chica mirando las olas del océano mirando la puesta de sol puesta de sol en la playa de pie"
+    "fondo de puesta de sol de playa muestra puesta de sol de playa playa de puesta de sol puesta de sol de playa relajante fondo de puesta de sol de playa salida del sol playa de puesta de sol hdr k hdr k tiro gran angular k hdr k hdr puesta de sol iluminada puesta de sol de playa de pie foto de playa australiana océano"
+    "persona volando cometa playa kauai rosas grises nubes kauai espectáculos puesta de sol en la playa foto relajante de la puesta de sol en la playa playa del océano puesta de sol playa de la puesta del sol puesta de sol fondo de playa hawai playa de hawai"
+    "playa al atardecer pequeña isla distancia puesta del sol prefectura de kanagawa muestra puesta de sol en la playa playa del atardecer amanecer playa del atardecer salida del sol por la mañana fondo del atardecer en la playa fondo del amanecer amanecer hermoso amanecer foto tomada ektachrome puesta del sol salida del sol salida del sol temprano en la mañana hdr k"
+    "kayak playa puesta de sol barco isla desierta espectáculos puesta de sol en la playa puesta de sol prefectura de kanagawa bote de remos abel tasman aoshima playa perdida hora dorada pismo california pequeñas canoas puesta de sol en la playa cortesía de mbari relajante puesta de sol en la playa un bote pequeño canoa"
+
+  [CONTRASTE]
+    "espectáculos de distancia de roca de playa puesta de sol en la playa cañón de malibu costa de california hora dorada pismo playa perdida de california borde exterior de la playa fondo de playa en calma de california hermosa foto de playa fondo de playa océano fondo de arena de playa puesta de sol playa de pie puesta de sol en la playa"
+
+TOPICO 5 -- Tamano: 51 docs (2.2%)
+Keywords: local, huatulco, rosa, bahia, heart, pushpin, tallar, color
+
+  [PERTENECE]
+    "ven celebrar festividades dia muertos blu huatulco deleitate platillos temporada sparkles jack lantern diademuertos platillodetemporada bluhuatulco chahue"
+    "lociones originales cherries sparkles round pushpin h bajada principal local color rosa lociones santacruzhuatulco huatulco ropamujer"
+    "modelo disponible sparkles cherries round pushpin h bajada principal local color rosa entregas domicilio bahias solo envia santacruzhuatulco huatulco ropaycalzado navidad"
+    "modelo disponible sparkles cherries round pushpin h bajada principal local color rosa entregas domicilio bahias solo envia santacruzhuatulco huatulco ropaycalzado"
+    "pantalon pinzas two hearts cherries aceptan pagos tarjetas transferencias ubicados sector bajada principal local color entregas domicilio bahias bahiasdehuatulco santacruzhuatulco pantalonpinzas"
+
+  [CONTRASTE]
+    "tour bahias catamaran red heart huatulco oaxaca puertoescondido familia aventura diversion playa maguey cacaluta organo caradepiedra bufadora faro catamaran colectivo baile"
+
+--- BERTopic ---
+Topicos encontrados: 29 (top-5 mostrados) | Cobertura: 67%
+
+TOPICO 1 -- Tamano: 369 docs (15.3%)
+Keywords: oaxacamexico, huatulcomexico, villas, huatulcooaxaca, villaszaashila, huatulqueando, puertoescondido, oaxaca
+
+  [PERTENECE]
+    "bello huatulco cara sonriente con gafas de sol agua ola palmera sol con cara fuego noviembre bahiasdehuatulco playa cacaluta oaxaca huatulco"
+    "visitando bahias huatulco corazón azul agua ola sol bahias tangolunda chahue santacruz conejos maguey cacaluta organo chachacual sanagustin santamaría huatulco paraíso oaxaca oaxacavibes viajes vacaciones yate yate amigos theteam viaje playa mejores amigos mejores momentos momentos perfectos tomarme de vuelta enamorado hermosa playa"
+    "paquetes huatulco vivirlo descubre disfruta arte vivir viaje huatulco mezcal respira hace falta huatulco vida ecoviajescaribbean ubicacion oaxaca mexico etiquetas ecoviajescaribbean editor sugerimos seguirnos tags sugeridos backhand index pointing down backhand index pointing down descubresienteydisfrutaelartedevivir huatulco viajarahuatulco mexico oaxaca bahiasdehuatulco cacaluta chachacual chahue conejos organo maguey sanagustin santacruz tangolunda viajes destinos beach travel love vacation huatulcomexico visitmexico mexicana beautiful nature instatravel"
+    "paraíso agua morada ola corazón purpura corazón azul sol bahiadechachacual chachacual laindia playa sol viajes huatulco oaxaca"
+    "cacaluta amor agua ola cangrejo espiral concha cacaluta huatulco oaxaca bahias huatulco playa cacaluta playa"
+
+  [CONTRASTE]
+    "playa chachacual bahias huatulco oaxaca playa hermosa disfrutar aguas turquesa chachacual playasdehuatulco playasdemexico playasdeoaxaca mexicodesconocido mexicomaravilloso mexicolindo huatulcooaxaca huatulcomexico huatulco oaxacatravel oaxacalotienetodo amorxmexico bahiasdehuatulco bahias vivemexico huatulcomiamor huatulcotravel stacruzhuatulco"
+
+TOPICO 2 -- Tamano: 355 docs (14.7%)
+Keywords: playas, playa, tropical, vegetación, isla, palmas, hermosa, escena
+
+  [PERTENECE]
+    "playa de arena pequeña isla distancia fondo de playa impresionante hermosa playa hermosa playa méxico playa mágica fondo de arena de playa playa tropical fondo de playa mediterráneo fondo de día soleado fondo de playa tranquila hermosas imágenes panorámicas playa de hawai entorno de playa playa de día soleado entorno de playa serena cielo fondo del océano"
+    "gente de playa caminando borde exterior de la playa playa perdida playa de dos valles vegetación tropical hermosa playa playa de arena de playa changquan playa llena de gente entorno de playa playa tropical playa impresionante hermosa playa playa de arena blanca mar de arena varada en la playa"
+    "playa orilla arenosa playa de árboles vegetación tropical borde exterior de la playa playa perdida impresionante hermosa playa playa australiana playas blancas hermosa playa fondo de la costa de la playa de arena blanca colinas mágicas de la playa fondo de la playa del océano playa de arena blanca costa del sol hermosa playa mágica de palmeras playa de arena"
+    "playa cielo azul claro playa de árboles verdes vegetación tropical playa perdida playa australiana impresionante hermosa playa playas blancas mar verde barco isla desierta isla mar azul playa mágica foto tomada barco centelleante espiral nubela isla gilligan s playa de arena blanca"
+    "playa agua azul clara orilla arenosa impresionante imagen de anuncio de playa hermosa hermosa playa fondo de playa paisaje de playa borde exterior de playa playa de arena mar verde foto realista playa de arena blanca playa dos valles fondo de isla playa perdida playa de arena blanca océano verde costa del sol"
+
+  [CONTRASTE]
+    "mujer caminando por la playa fondo de playa posando playa océano usando sombrero ancho para el sol caminando playa caminando arena hermosa playa playa tropical fiesta en la playa playa de pie playa de pie día soleado baile en la playa playa tropical playa de varamiento"
+
+TOPICO 3 -- Tamano: 100 docs (4.1%)
+Keywords: vestido, vestidos, vestida, romanticismo, floral, fotografía, traso, elegante
+
+  [PERTENECE]
+    "mujer vestido colorido diadema azul folklórico hermosa mujer mexicana vestido de día muertos maquillaje sacerdotisa maya catrina de color azul ropa tradicional usando tatuajes shipibo shipibo usando traje de hombre colorido disfraz acentos azules selena quintanilla pérez"
+    "mujer vestido colorido de pie al lado tabla de surf vestido de flores arremolinado vestido de moda maximalista vestido con chitón floral vestido hecho cuentas vestido floral art novuea moderno vestido de moda maximalista mujer vietnamita patrones coloridos vestido floral art nouveau hermosa mujer mexicana con vestido africano diseño de vestuario hizo el amor"
+    "grupo chicas jovenes vestidos coloridos vestidos largos cholitas bolivianas retrato de cuerpo completo grupo angeles vestidos de gasa blanca usando vestidos niños disfraces diversos vestidos largos rosados ​​violetas celebración comunitaria niños chicas jóvenes mujeres jóvenes gemas preciosas usando ropa hermosa grupo chicas lindas vestido plateado elegante"
+    "tienda de exhibición de vestidos de tres manne ropa elegante vestidos de noche elegantes ángeles vestidos de gasa blanca ropa de moda mujer cuerpo completo vestidos largos de color rosa violeta vestidos rojos blancos ropa elegante maniquíes ropa de moda vestido de ropa hermosa vestido de gasa cubiertas del cuerpo de tela cristales de neón ropa de seda intrincada"
+    "mujer vestido azul rosado parte superior hermosa mujer mexicana folklorico vistiendo colorido traje de hombre patrones coloridos selena quintanilla perez mexicana hermosa mujer mexicana bronceada con tatuajes shipibo inspiración mexicana araceli gilbert de color azul ropa tradicional inspirada frida kahlo"
+
+  [CONTRASTE]
+    "grupo de personas posando foto con vestido morado sin tirantes princesa banquete real vistiendo corsé morado tutú vistiendo tutú romántico morado con tiara vestido morado tema de color violeta princesa primer plano cortinas moradas vestidos largos rosados ​​violetas vestido real reina vestida tema violeta fiesta de cumpleaños"
+
+TOPICO 4 -- Tamano: 91 docs (3.8%)
+Keywords: gopro, foto, panorama, fotografía, cámara, trailcam, camino, celebración
+
+  [PERTENECE]
+    "grupo de personas de pie alrededor grupo grande de personas carnaval barranquilla caminar cortejo fúnebre desfile ajuste ramos flotantes desfile render concurso de belleza cinematográfico plano gran angular comunidad celebración desfile del orgullo hecho papel piñata brasil carnaval colorido multitud desfile de moda pasarela boda foto"
+    "hombre tomando foto espejo del coche podría borrar más tarde ver detrás del espejo mrbeast camisa chaleco reflejo visera del teléfono arca portada del álbum espejo interior discordia imagen de perfil fotografía bosque capturado reflejo visera del iphone technoviking camisa masculina selfie elon musk marte"
+    "persona casco amarillo caminar puente de madera bosque de la selva vía de tren imagen ángulo bajo ir vista profesional punto de vista de google vista panorámica grado capturar espesa selva equirectangular caminar viejo puente de madera"
+    "cacaluta bella quinceanera dara ezbai woman dancing camera maravilloso huatulco clima cambia solo horas regalandonos diferentes iluminaciones ahi fotografos debemos aprovechar cada momento obtener imagenes unicas quinceanera dara ezbai aragon ramos foto yvan luna asistente geraldine luna lugar bahia cacaluta huatulco horario dos cambios ropa sesionenhuatulco sesiondefotos sesionesfotograficas sesionesenplaya xvanos quinceaneraphotography quinceaneras sesionquincean"
+    "lunallena luna llena febrero amaneceres amanecer chahue pesca caña de pescar fotografía de paisaje nikonmx cámara cara de nerd"
+
+  [CONTRASTE]
+    "dos mujeres sentadas barco agua magali villeneuve monet canva sentado pequeño barco de bambú foto de vacaciones dos mujeres fotografía de barco foto océano medio charretera devant pose mujer sosteniendo a otra mujer postal marco alrededor imagen fotografía de cuerpo completo"
+
+TOPICO 5 -- Tamano: 81 docs (3.4%)
+Keywords: océano, océanos, tropical, flotando, flotante, acantilado, hermoso, isla
+
+  [PERTENECE]
+    "pequeña isla océano medio mar azul fondo de la isla fondo costa rocosa aguas azules changquan hermosa foto del océano fondo de la costa del océano océano abierto mar verde foto del mar océano medio océanos azules profundos océano azul vista del acantilado del océano roca"
+    "barco océano flotante océano turquesa foto de aguas azules océano medio océano volador océano aguas de zafiro debajo del océano flotante agua azul verde océano azul agua azul clara fondo del océano mar detallado mares claros hermosa foto del océano agua azul del océano"
+    "pequeña isla océano medio isla mar azul volando isla rocosa mar de roca océanos azules profundos montañas océano isla fondo detrás montañas turquesa aguas azules océano roca paisaje foto océano medio montañas océanos fondo de isla foto tomada barco"
+    "barco océano flotante océano turquesa aguas azules foto del océano flotante océano medio océano azul aguas de zafiro debajo mares claros océano volador agua verde azul océano de agua azul clara agua azul mar detallado hermoso océano océano en calma agua azul claro fondo del océano"
+    "isla persona agua azul oscuro aguas azules océanos azul profundo foto de agua azul foto del océano medio tomada en barco foto de agua azul profunda foto tomada en barco océano curso de gofl nadando agua azul verde océano nadando fondo de océano abierto hermoso océano"
+
+  [CONTRASTE]
+    "hombre nadando océano isla gilligan bucear gran barrera de coral sirenas distancia buzo mar buzo mar verde mar hundido barco aguas verdes flotando bajo el agua lago foto océano medio nadando océano astronauta océano perdido"
+
+--- LDA ---
+Topicos encontrados: 5 | Cobertura: 100%
+
+TOPICO 1 -- Tamano: 797 docs (32.9%)
+Keywords: huatulco, playa, oaxaco, bahia, vestido, chahue, cacaluta, visto
+
+  [PERTENECE]
+    "dejes lado huatulco fish momento pensar destinos playa mexico facil voltear caribe mexicano culpo tal vez pacifico hacia jalisco nayarit ultimamente considerado huatulco fish anos visitaba joya pacifico independientemente viaje razon especial volvio enamorar huatulco todos familias amigos parejas destino desarrollado turisticamente fonatur alla ochentas conforma bahias conjunto dan lugar parque nacional bahias declarado reserva natural protegida ademas destino certificado earthcheck globe showing europe africa elegir huatulco elegir desconectarse naturaleza impactantes formaciones rocosas mar caracter vez pacifico continuacion basicos disfrutar destino sparkles busca inclusive alguna opciones airbnb caso elegir villa crucecita excelente opcion sparkles imperdible recorrido bahias bordo yate embarcacion turistica bajar buscas practicar snorkel chachacual opcion menor afluencia visitantes diferencia san agustin singular forma corazon cacaluta must recomendamos westcoast huatulco dmc sparkles comer caso excelentes chefs face with hand over mouth grupo asi disfrutamos diversos platillos comodidad villa marisco trata centro huatulco podemos recomendar grillo marinero buen servicio quedamos satisfechos comida sparkles actividades backhand index pointing right medium skin tone visita parque nacional huatulco backhand index pointing right medium skin tone realiza rafting cualquiera rios region backhand index pointing right medium skin tone animate experimentar pesca deportiva backhand index pointing right medium skin tone disfruta sparkles dias solo vas huatulco noches armas"
+    "water wave smiling face with heart eyes si vas huatulco olvides visitar lugares beach with umbrella bahia chahue playa certificada playa limpia playa principal llama chahue varios clubs playa ofrecen servicio restaurante alberca desert island bahia santa cruz santa cruz encuentran muelle cruceros marina embarcaciones turisticas yates pesqueros restaurantes mercado artesanias teatro aire libre beach with umbrella playa entrega favoritas turistas conocida aguas tranquilas bancos coral cuevas invitan toda familia nadar snorkelear desert island bahia san agustin bahia grande huatulco excelente nadar snorkelear gustar mariscos ofrecen restaurantes huatulcoteespera huatulcomexico earthcheck camera with flash max"
+    "water wave smiling face with heart eyes si vienes huatulco olvides visitar lugares beach with umbrella bahia chahue playa certificada playa limpia playa principal llama chahue varios clubs playa ofrecen servicio restaurante alberca desert island bahia santa cruz santa cruz encuentran muelle cruceros marina embarcaciones turisticas yates pesqueros restaurantes mercado artesanias teatro aire libre beach with umbrella playa entrega favoritas turistas conocida aguas tranquilas bancos coral cuevas invitan toda familia nadar snorkelear desert island bahia san agustin bahia grande huatulco excelente nadar snorkelear gustar mariscos ofrecen restaurantes camera with flash max"
+    "huatulco region turistica oaxaca compuesta bahias playas solo accesibles mar camino tierra hacen unicas encontrar pocas personas banandose personal favoritas bahia chahue descansar recostarse play bahia san agustin cantidad arrecifes vida marina encuentras orilla playa vienes renta lancha disfrutas bahias playas acceso solo mar practicar snorkel disfrutar mar bahia san agustin solo tomar bus aeropuerto bajando interseccion hacia santa maria huatulco tomar taxi colectivo san agustin mxn ida vuelta crucecita santa cruz luggage water wave beach with umbrella woman and man holding hands desert island spiral shell fish tropical fish blowfish tbt huatulco bahiasanagustin bahiasanagustin bahiasanagustinhuatulco bahiashuatulco bahiashuatulco bahiashuatulcooaxaca oaxaca oaxaca bonito oaxacamexico oaxacatravel chahue visitoaxaca visitmexico visitmexico"
+    "mexico mexico oaxaca ultima parada oaxaca bahia santa cruz huatulco zona exclusiva bastante turistica famosa nueve bahias playas virgenes rica biodiversidad ideal realizar surf buceo snorkel exploracion selvas naturaleza aventura descanso visitamos playa entrada encanto llegar playa encontramos monton coaties animal nuevo nunca visto ademas ningun miedo humanos parece habitualmente dan comer confiados playa bonita agua cristalina rodeada vegetacion snorkel divertido bastante diversidad ultima actividad compania amigo gerardo gracias dias juntos sido placer coincidir pucelano mexico vemos casa folded hands encantado oaxaca lleno tradiciones naturaleza playas mucha vida animal terrestre marina ahora toca explorar chiapas winking face costi santacruzhuatulco snorkel huatulco oaxaca mexico"
+
+  [CONTRASTE]
+    "mujer de pie arena letrero en forma de corazón alanis guillen julia fuentes ruanjia chuquicamata andrea rocha tula yutja guanajuato tlaquepaque vista panorámica centrada niña persona de pie frente a marischa becker bian luan méxico"
+
+TOPICO 2 -- Tamano: 461 docs (19.0%)
+Keywords: playa, arena, foto, fondo, océano, puesto, fotografía, blanco
+
+  [PERTENECE]
+    "playa cielo azul claro arena blanca desierto de arena dorada profunda playa australiana arena desierta colores arenosos colores arenosos almohadas amarillas arenosas mar de arena color de arena playa de mar de arena fondo de arena playa perdida playa de arena paredes de color arena bancos de arena playas blancas impresionante hermosa playa playa de arena blanca"
+    "grupo de barcos agua flotante vista de drones fotografía de drones fotografía de drones k fotografía de drones color de foto de drone foto aérea drone toma aérea drone lleno de gente tiro en la playa drone hd fotografía aérea drone tiro amplio drone playa perdida cala espumosa disparo de drone impresionante hermosa playa imágenes de drones"
+    "barco de playa casa de playa playa australiana chiringuito fotografía aérea hd playa tropical playa de arena blanca playa de vegetación tropical fotografía con drones fotografía con drones playa perdida toma aérea drone vista desde drones australia playa tropical paraíso entorno de playa ángulo de cámara de drones hermosa playa de isla tropical cala espumosa"
+    "vista aérea isla kolua caribe color foto aérea vista de drone helicóptero jamaica hd fotografía aérea fotografía de drone hermosa mágica palm beach dji vista superior playa tropical vegetación fotografía aérea vista de helicóptero aguas de zafiro debajo colores jamaica drone ángulo de cámara hermosa playa de isla tropical caribe turquesa agua"
+    "vista aérea playa filipinas cámara de drones tiro en ángulo color de drone foto aérea drone dji vista superior vista aérea drone playa australiana fotografía de drones vista de drone perspectiva de drone vista de punto de drone k fotografía con drones tiro amplio con drones fotografía aérea hd fotografía con drones metraje de drone metraje aéreo"
+
+  [CONTRASTE]
+    "citas huellas de arena huellas de arena huellas de arena canva carlos berlanga hugo sanchez bonilla vicente juan masip miltos manetas dotado canva inspirado miltos manetas dia paz arena para caminar"
+
+TOPICO 3 -- Tamano: 451 docs (18.6%)
+Keywords: playa, fondo, hermoso, tropical, puesto, océano, arena, comida
+
+  [PERTENECE]
+    "hombre tomando uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno uno mismo uno uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno mismo uno"
+    "lote de playa árboles verdes cuerpo agua hermosa playa mágica de palmeras jamaica okinawa japón impresionante hermosa playa caribe centelleante espiral nubela hermosa playa filipinas playa tropical hermosa playa de la isla tropical paraíso tropical playa mágica playa de arena blanca playa de arena blanca ciudad costera tropical paraíso de playa tropical"
+    "olas de playa rompiendo arena playa australiana impresionante hermosa playa australia hermosa playa playa de arena playa de arena blanca playa de playas blancas vegetación tropical playa de arena blanca entorno de playa paisaje de verano australiano playa tropical fondo de playa tranquilo playas fondo de playa paisaje de playa playa perdida"
+    "playa formación rocosa cielo azul playa australiana impresionante playa hermosa fondo de playa paisaje de playa playa perdida playa hermosa vegetación tropical de playa entorno de playa sereno borde exterior de la playa hermoso paisaje de playa oscuro entorno de playa fondo de playa tranquilo fondo de la costa de méxico fondo de arena de playa de australia"
+    "playa árbol cuerpo playa de agua vegetación tropical playa tropical playa perdida impresionante playa hermosa playa dos valles playa de arena cala espumosa hermosa playa de isla tropical playa tropical paraíso hermosa playa playa mágica hermosa playa mágica de palmeras foto tomada ektachrome brasil playa de arena blanca"
+
+  [CONTRASTE]
+    "pareja tomados de la mano playa kauai kauai playa de hawai huellas arena pareja de hawai caminando mano mano larga distancia foto foto escena romántica playa waikiki hombre proponer novia caminando playas de arena bailando playa tropical playa de arena encabezado"
+
+TOPICO 4 -- Tamano: 398 docs (16.4%)
+Keywords: barco, océano, piscinar, azul, fondo, cielo, playa, visto
+
+  [PERTENECE]
+    "barco agua cerca de un acantilado rocoso llegando a tierra bote pequeño en primer plano barcos de pesca bote pequeño en primer plano acantilados rocosos méxico costa rocosa barco de pesca océanos de color azul profundo aguas azules entorno de fondo del océano fondo de la isla bote pequeño agua fondo de barcos inspirado en aruba robert macaulay stevenson acantilado rocoso"
+    "bedroom units range have sparkles sea view sparkles open plan kitchen sparkles living room sparkles dining room sparkles bedrooms full bath sparkles full guest bath sparkles plunge pool sparkles balconies generously spaced units high design unidades recamaras van cuentan con vista mar cocina abierta estancia comedor recamaras cada bano completo bano completo visitas piscina privada terrazas unidades generosos espacios gran diseno mobile phone love letter contacto zaashila villaszaashila caminorealzaashila villaszaashilatangolunda tangolundahuatulco huatulcooaxaca huatulco oaxaca beachlife realestate huatulqueando luxury lifestyle mexico condos villas"
+    "unidades recamaras van cuentan con sparkles vista mar sparkles cocina abierta sparkles estancia sparkles comedor sparkles recamaras cada bano completo sparkles bano completo visitas sparkles piscina privada sparkles terrazas unidades generosos espacios gran diseno bedroom units range have view open plan kitchen living room dining room bedrooms full bath full guest bath plunge pool balconies generously spaced units high design mobile phone wapp love letter contacto zaashila villaszaashila caminorealzaashila villaszaashilatangolunda tangolundahuatulco huatulcooaxaca huatulco oaxaca beachlife realestate huatulqueando luxury lifestyle mexico condos villas"
+    "villas zaashila concepto inmobiliario inigualable diseno sumergido asombroso entorno natural sparkles sunrise palm tree water wave contamos villas venta recamaras cada caracteristicas unicas sparkles sparkles sparkles visitanos dizzy villas zaashila real estate concept unparalleled design set amidst exquisite natural beauty bedroom villas sale unique features visit mobile phone love letter contacto zaashila villaszaashila caminorealzaashila villaszaashilatangolunda tangolundahuatulco huatulcooaxaca huatulco oaxaca beachlife realestate huatulqueando luxury lifestyle mexico condos villas"
+    "vista de la piscina océano piscina infinita ibiza piscina infinita espejos piscina de bienestar océanos azules profundos piscina griega piscina de ensueño agua azul celeste océano azul sentarse borde piscina agente inmobiliario foto de listado mar azul estado de ánimo azul profundo foto del océano azul océano medio aguas azules"
+
+  [CONTRASTE]
+    "colo lago apartamento amueblado corazón ciudad airbnb anuncio imagen residencial anuncio apartamento tlaquepaque canva protal casa urbana fotografía de bienes raíces casa comercial casa sala abierta adularia realistoc diseño residencial oficina en casa apuntalar interior de la casa base"
+
+TOPICO 5 -- Tamano: 316 docs (13.0%)
+Keywords: agua, azul, playa, verde, océano, mujer, arena, blanco
+
+  [PERTENECE]
+    "grupo gente nadando océano tiro bajo el agua nadando en agua nadando profundo bajo el agua media cara agua playa waikiki lado del agua flotante perfil bajo el agua sumergido bajo el agua perspectiva bajo el agua pov foto de agua bajo el agua fuego de campamento océano bajo el agua foto polaroid bajo el agua nadando bajo el agua pies agua agua profunda"
+    "playa de arena agua clara arena vista submarina pov bajo el agua mar cristalino agua azul cristalina agua cristalina bajo el agua océano tiro bajo el agua parcialmente bajo el agua perspectiva submarina sumergido bajo el agua paisaje submarino agua cristalina de neón agua azul clara fondo submarino bajo el agua río brillante agua clara textura del agua agua transparente paisaje submarino"
+    "playa pequeña isla distancia azul agua verde aguas azules océano azul verde colores azules agua azul clara océano azul turquesa verde mar azul agua azul océano azul agua azul azul méjico verde azul agua azul profunda hermosa playa océanos azul profundo isla mar azul picton azul"
+    "playa rocas de agua clara jamaica aguas azules agua azul clara aruba caribe agua turquesa playa caribeña vegetación tropical hermosa playa charcos agua turquesa agua verde azul agua turquesa aguas verdes agua azul celeste ángulo de cámara bajo nivel del agua seuss dr agua azul agua azul cristalina"
+    "barcos de playa agua cielo azul agua azul verde agua azul celeste agua azul clara hermoso océano mar verde aguas azules colores azul verde hermosa playa olas azules agua impresionante hermosa playa fondo de playa océano azul océano azul mar azul fondo verde del océano océano turquesa"
+
+  [CONTRASTE]
+    "playa cielo azul arboles playa jamaica dos valles playa en pie boracay tailandia hermosa playa isla de los monos isla mar azul playa tropical playa tropical espumoso ensenada cielo azul soleado playa perdida cielo azul claro océano azul agua azul celeste claro soleado"
+
+======================================================================
+FIN DEL REPORTE
+======================================================================

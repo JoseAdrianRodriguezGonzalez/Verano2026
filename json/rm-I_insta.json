@@ -1,0 +1,371 @@
+{
+    "dataset_info": {
+        "DATASET": "rm-I",
+        "FUENTE": "Instagram",
+        "REVIEWS": "1553",
+        "FECHA": "2026-06-17"
+    },
+    "models_info": [
+        {
+            "model": "XidooTopic",
+            "metadata": {
+                "Topicos encontrados": "4",
+                "Cobertura": "100%",
+                "Cohesion intra-cluster": "0.9941"
+            }
+        },
+        {
+            "model": "BERTopic",
+            "metadata": {
+                "Topicos encontrados": "7 (top-5 mostrados)",
+                "Cobertura": "70%"
+            }
+        },
+        {
+            "model": "LDA",
+            "metadata": {
+                "Topicos encontrados": "5",
+                "Cobertura": "100%"
+            }
+        }
+    ],
+    "models": [
+        {
+            "model": "XidooTopic",
+            "topics": [
+                {
+                    "topic_id": 1,
+                    "keywords": [
+                        "akumal",
+                        "playadelcarmenmexico",
+                        "puertoaventura",
+                        "puntamaromar",
+                        "playa",
+                        "heart",
+                        "wave",
+                        "puntaallen"
+                    ],
+                    "pertenece": [
+                        "\"ven parte oscura luna pesar iluminanda directamente planeta refleja luz sol llega luna leonardo vinci primeros explicarla llamo luz cenicienta luna astropic puertoaventuras\"",
+                        "\"lugares quedan memoria siempre cenotes riviera maya bucea lugar amamos llamar hogar herb sweat droplets playadelcarmen bullsharkdiving cenotediving cozumel puertomorelos mahahual portbodiving buceomexico rivieramaya visitmexico cenotes buceo scubadiving scuba driftdiving caverndiving tulum wreckdiving costabrava visitcostabrava divemexico divecostabrava catalunya estartit illesmedes lescala calelladepalafrugell travel divinglife mesqueunclub\"",
+                        "\"punta allen siempre excelente idea heart hands medium skin tone ok hand medium skin tone puntaallen siankaan tulum rivieramaya pablozenon\"",
+                        "\"feliz cumpleanos confetti ball wrapped gift regalo globos puertomaya puertoaventuras hbd\"",
+                        "\"riviera maya buceamos tiempo detiene cenotes guardan silencio luz magia bajo agua aqui amamos bucear haras white heart playadelcarmen bullsharkdiving cenotediving cozumel puertomorelos mahahual portbodiving buceomexico rivieramaya visitmexico cenotes buceo scubadiving scuba driftdiving caverndiving tulum wreckdiving costabrava visitcostabrava divemexico divecostabrava catalunya estartit illesmedes lescala calelladepalafrugell travel divinglife mesqueunclub\""
+                    ],
+                    "contraste": [
+                        "\"buceo vida profunda vida orgullosa colores siempre más brillantes gratis bandera del arco iris máscara de buceo ola de agua corazón azul corazón verde corazón amarillo corazón rojo corazón púrpura corazón naranja corazón en crecimiento teléfono correo omdelfin com info com globo con meridianos comerrezarbucearrepetir comunidad lgbt omdelfinlgbttours lgbtqfriendlybuceo puertomorelosbuceo lgbtfriendly lgbtmexico omdelfin lgbtfamily lgbttravel lgbtomdelfin lgbt puertomorelos lgbtqviajar lgbtqpride omdelfinbuceoescuela de buceomexico lgbtqbuceo amigable con orgullo rivieramaya lgbtqmexico mexico\""
+                    ]
+                },
+                {
+                    "topic_id": 2,
+                    "keywords": [
+                        "teléfono",
+                        "akumal",
+                        "whatsapp",
+                        "receptor",
+                        "casa",
+                        "azul",
+                        "disfrutar",
+                        "tulum"
+                    ],
+                    "pertenece": [
+                        "\"paraiso privado caribe water wave marca engloba conceptos residenciales hoteleros pensados buscan conexion autentica naturaleza mar estilo vida region arquitectura sostenible tecnicas ecoeficientes proyecto integra armoniosamente entorno priorizando conservacion ecosistema ademas unidades residenciales hotel boutique suites proyecto incorpora propuestas unicas root experiencia gastronomica basada concepto farm table avocado strawberry seedling celebra relacion cocina tierra comunidad nautilusrealestate playadelcarmen caribbeanlife vidafrentealmar playarealestate innovacioninmobiliaria rivieramaya bienesraices xcalacoco theroot\"",
+                        "\"aqui tiempo detiene habitacion pensada descansar verdad herb hotel mx playadelcarmenmexico quintaavenida rooftop\"",
+                        "\"méxico ola de agua conecta paraiso boca paila concha espiral corazón azul ultima parada tour espera momento magico laguna encuentra mar caminar playa nadar aguas cristalinas simplemente contemplar inmensidad caribe convierte regalo alma hierba vive instante equilibrio naturaleza acompañado quieres estados unidos onda de agua conectar paraíso boca paila espiral concha corazón azul parada final tour momento mágico espera laguna se encuentra caminar por la orilla nadar aguas cristalinas simplemente tomar vista impresionante regalo alma rodeado naturaleza seres queridos hierba abrazo pausa pacífica armonía mundo natural teléfono móvil con flecha reservar ahora herenciamaya siankaan bocapaila turismoconproposito ecoviajes comunidad amantes de la naturalezatours turismosostenible mayakaan beachescape turismo regenerativo destinos verdescostas salvajes slowtravel mundomaya impresionantesvistas destinos ryhernandez\"",
+                        "\"casualidad cada experiencia resultado mentalidad decidio creer avanzar conformarse compartirlo familia aun camino construyendo proposito gratitud coherencia folded hands water wave xelha viajeconproposito familia estilodevida libertaddetiempo\"",
+                        "\"vibraciones del dormitorio de ensueño brilla cómodo acogedor lleno boho chic encanto hierba imagina despertar cada mañana brillante dormitorio aireado luz natural detalles únicos ambiente relajado oferta del caribe mexicano isla desierta hermosa casa paamul combina comodidad moderna encanto auténtico riviera maya vivir lugar perfecto relajarse invertir simplemente disfrutar paz paraíso quedarse cerca cancún playa carmen mareado hacer sueño estilo de vida realidad espacio mágico redondo chincheta ubicación paamul riviera maya teléfono receptor contacto hoy detalles palapahomes paamulhouseforsale bohodecor mexicanrealestate en ventaenpaamul paamul rivieramayaliving beachcasa de ensueñodormitorio\""
+                    ],
+                    "contraste": [
+                        "\"viajar com crianca criar memorias ficam pra sempre child girl cancun existem passeios pensados encantar pequenos grinning face with big eyes diversao seguranca experiencias toda familia viajei cuida tudo pra voce viver melhor viagem palm tree airplane cancun xcaret xelha xenses\""
+                    ]
+                },
+                {
+                    "topic_id": 3,
+                    "keywords": [
+                        "carmen",
+                        "mexico",
+                        "tulum",
+                        "méxico",
+                        "playadelcarmenmexico",
+                        "cancun",
+                        "playadelcarmen",
+                        "xcalacoco"
+                    ],
+                    "pertenece": [
+                        "\"sol playa alma feliz sun water wave lugares visitan sola vez cancun tulum playadelcarmenmexico mexico mexico\"",
+                        "\"tulum isla siankaan hombre nadando mujer bote de remos cocodrilo pájaro playa con sombrilla caña de pescar máscara de buceo gafas riviera maya tulum boca paila siankaan caribe mexicano recuerdos sra\"",
+                        "\"tormenta dejo vision serenidad regalo especial aqui observo desert island water wave pirate flag mexico playa xcalacoco\"",
+                        "\"ahora venimos rinconcito rivieramaya playa xcalacoco playadelcarmen darnos masajito water wave andas caribe mexicano desert island aqui buena eleccion relajarte\"",
+                        "\"filtro necesario corazón azul corazón azul claro playa día de playa xpu ha riviera maya happyme\""
+                    ],
+                    "contraste": [
+                        "\"vamos playa bahiaprincipe akumal\""
+                    ]
+                },
+                {
+                    "topic_id": 4,
+                    "keywords": [
+                        "pastel",
+                        "fiesta",
+                        "cancun",
+                        "bodo",
+                        "fotografía",
+                        "dj",
+                        "paamul",
+                        "internacional"
+                    ],
+                    "pertenece": [
+                        "\"wedding dec djdebodas wedding boda weddingdj weddingplanner weddingcake weddingparty weddingphotography djlifestyle djinternational internationaldj bluevenadoweddings bluevenado paamul seaside tulum rivieramaya cancun akumal bride groom playadelcarmen orlymixer\"",
+                        "\"burbujas burbujas medalla deportiva medalla deportiva medalla deportiva lha burbujas destellos cara sonriente con ojos sonrientes instagram dmline carta de amor xelha\"",
+                        "\"fleeks adajia daontae nov party djdebodas boda boda bodadj planificador de bodas pastel de bodafiesta de bodafotografía de boda djestilo de vida dj internacional internacionaldj bluevenadobodas bluevenado paamul playa tulum rivieramaya cancun akumal novia novio playadelcarmen orlymixer\"",
+                        "\"wedding sydney logan nov djdebodas wedding boda weddingdj weddingplanner weddingcake weddingparty weddingphotography djlifestyle djinternational internationaldj bluevenadoweddings bluevenado paamul seaside tulum rivieramaya cancun akumal bride groom orlymixer\"",
+                        "\"boda jessica louis oct djdebodas boda boda bodadj planificador de bodas pastel de bodas fiesta de boda fotografía de boda djestilo de vida dj internacional internacionaldj bluevenadobodas bluevenado paamul playa tulum rivieramaya cancun akumal novia novio orlymixer\""
+                    ],
+                    "contraste": [
+                        "\"bajo circuito celebra anos historia grande birthday cake partying face convocatoria enero cuesta abajo multiforo urbano reunio proyectos escenicos fechas enero hoy cartelera completa abarcara practicamente primer artistas fechas mencionar son tear off calendar sabado rock pop bocapaila rubimente samanez telegrama tear off calendar sabado latin pop sofish sarah sarah neiko tear off calendar jueves metal anima tempo vulgar addiction red waves face screaming in fear sorpresas siguen artistas destacada trayectoria reconocimiento unido celebracion momento fechas artistas confirmados son spiral calendar enero spiral calendar enero spiral calendar febrero spiral calendar febrero spiral calendar febrero exanautas oportunidad unica disfrutar muchas sorpresas talento marcaran decada historia bajo grandes vialidades cdmx star struck vayan soplar velitas bajo circuito birthday cake guitar bajocircuito anos enerocuestaabajo cdmx musicaenvivo celebracion anos bocapaila rubimente samanez sofish dimitriylasbrujas antidoping bambisdientesdeleche disidente eventoscdmx cdmx exatv exarfrsh\""
+                    ]
+                }
+            ]
+        },
+        {
+            "model": "BERTopic",
+            "topics": [
+                {
+                    "topic_id": 1,
+                    "keywords": [
+                        "casa",
+                        "seguridad",
+                        "puertomorelos",
+                        "hotel",
+                        "house",
+                        "puertoaventuras",
+                        "vacaciones",
+                        "puntamaroma"
+                    ],
+                    "pertenece": [
+                        "\"experimente lo mejor en puerto aventuras vivir casa con olas de agua con jardín condominio moderno ofrece amplias habitaciones baños completos cocina abierta barra de desayuno unidad de lavandería hermosa terraza vistas al canal disfrute de acceso piscina compartida impresionante salón en la azotea perfecto relajante entretenido invertir puerto aventuras significa unirse a uno riviera maya comunidades seguras y bien planificadas marinas restaurantes playas a pasos de distancia mirando casa retiro de vacaciones inversión inteligente propiedad versatilidad necesita teléfono móvil con flecha contacto sandra landesman hoy puertoaventuras rivieramayarealestate canalview condoliving Sandlandproperties realtateinvesting\"",
+                        "\"paraiso existe frente mar palm tree condominio segundo nivel regala vistas directas caribe acceso playa vivir cada dia calma belleza cuenta recamaras cama king banos completos area social concepto abierto conecta sala comedor cocina extendiendose hacia terraza privada frente mar totalmente amueblado equipado elevador area lavado cortinas anticiclonicas acabados pensados confort ubicado villas mar puerto aventuras comunidad exclusiva albercas infinity gimnasio playa privada seguridad ideal vivir vacacionar invertir verdadera vida frente mar sparkles envelope with arrow escribeme informacion sofnparadise vidafrentealmar beachfrontliving puertoaventuras\"",
+                        "\"arena dorada turquesa agua tranquilidad total nada se compara playa privada día ramal punta allen selva oculta siente el tiempo se ralentiza ondas sonoras cálido sol piel puro sentido libertad naturaleza dar palmera sol puntaallen tulumvibes paraíso oculto naturalezaescape méxicovida en la playa mágica gpnretreat renacimiento espectáculo agradecer bebida bebida tropical\"",
+                        "\"mejor vista acompanar cena puerto aventuras riviera maya palm tree disfruta sazon comida mexicana increible vista exclusiva marina tulum playa carmen cerca paamul chemuyil xpuha akumal sun puertoaventuras puertoaventurasmexico doschiles chemuyil akumal paamul playadelcarmen cancun marina\"",
+                        "\"multas piden mar hoy llamando nombre ven serenity desconectate ruido conectate contigo reserva espacio frente mar whatsapp round pushpin xpu carretera federal playa carmen tulum serenitybeachclub serenityvibes beachclublife barefootluxury slowliving oceanmood escapadaperfecta Luxurybeach xpuha rivieramaya caribemexicano wellnessbythesea\""
+                    ],
+                    "contraste": [
+                        "\"finalmente sueño finalmente carrete pez grande lookie consiguió tomó casi minutos carrete chico malo admitir necesitaba ayuda a mitad de camino charla final carretel adrenalina temblando minutos cara con lágrimas de alegría medregal también conocido como martillo poderoso pez grande que habita en el arrecife a menudo llamado burro de arrecife lucha obstinada popular pesca deportiva alcanzar pies libra méxico pescar medregal océano playadelcarmenmexico\""
+                    ]
+                },
+                {
+                    "topic_id": 2,
+                    "keywords": [
+                        "boda",
+                        "bodafotografía",
+                        "bodas",
+                        "bodadj",
+                        "bodaplanner",
+                        "bodafiesta",
+                        "burbujas",
+                        "bluevenadobodas"
+                    ],
+                    "pertenece": [
+                        "\"mikaela Aidan abr djdebodas boda boda bodadj planificador de bodas pastel de boda fiesta de bodafotografía de boda djestilo de vida dj internacional internacionaldj bluevenadobodas bluevenado paamul playa tulum rivieramaya cancun akumal novia novio orlymixer\"",
+                        "\"arianne kyle mar djdebodas boda boda bodadj planificador de bodas pastel de boda fiesta de bodafotografía de boda djestilo de vida djinternacional internacionaldj bluevenadobodas bluevenado paamul playa tulum rivieramaya cancun akumal novia novio orlymixer\"",
+                        "\"anna david mar djdebodas boda boda bodadj planificador de bodas pastel de boda fiesta de bodafotografía de boda djestilo de vida dj internacional internacionaldj bluevenadobodas bluevenado paamul playa tulum rivieramaya cancun akumal novia novio orlymixer\"",
+                        "\"boda haley connor oct djdebodas boda boda bodadj planificador de bodas pastel de boda fiesta de bodafotografía de boda djestilo de vida djinternacional internacionaldj bluevenadobodas bluevenado paamul playa tulum rivieramaya cancun akumal novia novio orlymixer\"",
+                        "\"boda lou christian jun djdebodas boda boda bodadj planificador de bodas pastel de bodas fiesta de boda fotografía de boda djestilo de vida dj internacional internacionaldj bluevenadobodas bluevenado paamul playa tulum rivieramaya cancun akumal novia novio orlymixer\""
+                    ],
+                    "contraste": [
+                        "\"se reúne gran día kari jeff impresionante boda en la playa ejemplo perfecto historia de amor contada color vibrante ceremonia íntima recepción llena de diversión estrella golpeada naranja corazón grifo guardar inspiración amor anillos de bodas coloridos lugares en islas desiertas cámara con flash lápiz labial ramo sofá y lámpara hombre cocinar vasos tintineantes pastel de frutas artes escénicas notas musicales mangobodas paamul destinobodasméxico méxicoplanificador de bodas planificación de bodas expertos en bodas bluevenadoweddings\""
+                    ]
+                },
+                {
+                    "topic_id": 3,
+                    "keywords": [
+                        "perrofeliz",
+                        "cuidado",
+                        "perroentrenamiento",
+                        "dogsofinstagram",
+                        "dogmodel",
+                        "perro",
+                        "pequeños",
+                        "pequenos"
+                    ],
+                    "pertenece": [
+                        "\"pequenos hoy corazón rojo huellas de patas amante de los perros amante de los gatos perro del día halloween dogsofinstagram vida de perro fotografía de perro modelo de perro mamá perro entrenamiento canino aseo de perros aseo instado perro peluquero de perros vida de gato gatos memes de gato foto de gato gato del día veterinaria perros perrofeliz gatopersa gatofeliz playadelcarmen playacar xcalacoco cancun\"",
+                        "\"pequenos semana corazón rojo huellas de patas amante de los perros amante de los gatos perro del día halloween dogsofinstagram vida de perro fotografía de perro modelo de perro mamá perro entrenamiento canino aseo de perros aseo instado perro peluquero de perros vida de gato gatos memes de gato foto de gato gato del día veterinaria perros perrofeliz gatopersa gatofeliz playadelcarmen playacar xcalacoco cancun\"",
+                        "\"pequenos hoy huellas de patas corazón rojo amante de los perros amante de los gatos perro del día halloween dogsofinstagram vida de perro fotografía de perro modelo de perro mamá perro entrenamiento canino aseo de perros aseo instado perro peluquero de perros vida de gato gatos memes de gato foto de gato gato del día veterinaria perros perrofeliz gatopersa gatofeliz playadelcarmen playacar xcalacoco cancun\"",
+                        "\"pequenos dias corazón rojo huellas de patas amante de los perros amante de los gatos perro del día halloween dogsofinstagram vida de perro fotografía de perro modelo de perro mamá perro entrenamiento canino aseo de perros aseo instado perro peluquero de perros vida de gato gatos memes de gato foto de gato gato del día veterinaria perros perrofeliz gatopersa gatofeliz playadelcarmen playacar xcalacoco cancun\"",
+                        "\"pequenos hoy huellas copo de nieve corazón rojo amante de los perros amante de los gatos perro del día halloween dogsofinstagram vida de perro fotografía de perro modelo de perro mamá perro entrenamiento canino aseo de perros aseo instado perro peluquero de perros vida de gato gatos memes de gato foto de gato gato del día veterinaria perros perrofeliz gatopersa gatofeliz playadelcarmen playacar xcalacoco cancun\""
+                    ],
+                    "contraste": [
+                        "\"akumal quintana roo akumal playa akumal bahía akumal akumalmexico lectura tiempo lectura en la playa fotografía blanco y negro fotografía blanco y negro foto blanco y negro fotógrafo blancoynegro blancoynegrofotografia fotoblancoynegro viajes viajes viajes a méxico fotógrafo viajes fotos\""
+                    ]
+                },
+                {
+                    "topic_id": 4,
+                    "keywords": [
+                        "tankah",
+                        "tankahbay",
+                        "tankahpark",
+                        "tulumrealestate",
+                        "cenoteazul",
+                        "caleta",
+                        "tulum",
+                        "tulumbienesraices"
+                    ],
+                    "pertenece": [
+                        "\"tankah tankah bay frente al mar condominio frente al mar tulum méxico\"",
+                        "\"reserve naturelle tankah tankah cenote cenoteazul mexique mexico yucatan\"",
+                        "\"pedacito paraiso tulum tankah tankahbay tankahtulum\"",
+                        "\"advertencia antal tankah advertencia construccion acintaarq construcción construccion arquitecturamexicana arquitectura diseñomexicano mexicandesign visitadeobra tulum tulumbienesraices bienes raices tankah\"",
+                        "\"cenotes corazón naranja parte enamorada lugar azules aguas destellos méxico cenotes tankah agua ola\""
+                    ],
+                    "contraste": [
+                        "\"tankah tulum méxico méxico méxico méxico tankah hermosa selva vista al mar vibraciones de playa belleza instagood relajarse reisefieber meksyk dzungla tulum cenote yucatán rivieramaya playa snorkel méxico podroze karaiby caribe ameryka zwiedzanie\""
+                    ]
+                },
+                {
+                    "topic_id": 5,
+                    "keywords": [
+                        "recomendacion",
+                        "recomendaciones",
+                        "calidad",
+                        "transportacion",
+                        "actividades",
+                        "relaciones",
+                        "vacaciones",
+                        "vacacionales"
+                    ],
+                    "pertenece": [
+                        "\"gracias amigos apoyo confianza paquete actividades cancun rivieramaya asi mismo compartir parte experiencia handshake light skin tone mexico podemos apoyar folded hands light skin tone folded hands light skin tone folded hands light skin tone sol riviera cancun planners tours transfers reservaciones mobile phone reservas com mail selfie light skin tone bell cancun cancunnosune visitacancun agencia gestion servicios turisticos opera fisicamente cancun trabajamos conjunto operadoras reconocidas destino medio convenios ofreciendo mejores tours cancun actividades parques zonas arqueologicas actividades acuaticas completamente comprometidos brindando servicios calidad seguimiento puntual todas actividades calidez servicio cliente razon dia dia abrimos brecha confianza manteniendonos preferencia recomendacion buscamos relaciones fortalezcan ganar ganar clientes trabajando mano atendiendo requerimientos planeando logistica acorde tiempos tal motivo apoyamos objetivamente mejores recomendaciones gestionando paquetes vacacionales abarcando transportacion hospedaje actividades tranquilidad trabajo responsabilidad solrivieracancun toursencancunsrc vacaciones cancun parati seguidores caribemexicano src toursencancun sololosmejores cozumelmexico cozumelisland islamujeres buceo traslados yatesdelujo yates scooter scooterrental xcaret xelha grupoxcaret\"",
+                        "\"gracias amigo apoyo confianza paquete actividades cancun rivieramaya asi mismo compartir parte experiencia handshake light skin tone mexico podemos apoyar folded hands light skin tone folded hands light skin tone folded hands light skin tone sol riviera cancun planners tours transfers reservaciones mobile phone reservas com mail selfie light skin tone bell cancun cancunnosune visitacancun agencia gestion servicios turisticos opera fisicamente cancun trabajamos conjunto operadoras reconocidas destino medio convenios ofreciendo mejores tours cancun actividades parques zonas arqueologicas actividades acuaticas completamente comprometidos brindando servicios calidad seguimiento puntual todas actividades calidez servicio cliente razon dia dia abrimos brecha confianza manteniendonos preferencia recomendacion buscamos relaciones fortalezcan ganar ganar clientes trabajando mano atendiendo requerimientos planeando logistica acorde tiempos tal motivo apoyamos objetivamente mejores recomendaciones gestionando paquetes vacacionales abarcando transportacion hospedaje actividades tranquilidad trabajo responsabilidad solrivieracancun toursencancunsrc vacaciones cancun parati seguidores caribemexicano src toursencancun sololosmejores cozumelmexico cozumelisland islamujeres buceo traslados yatesdelujo yates scooter scooterrental xcaret xelha grupoxcaret\"",
+                        "\"gracias amigas apoyo confianza paquete actividades cancun rivieramaya asi mismo compartir parte experiencia handshake light skin tone mexico podemos apoyar folded hands light skin tone folded hands light skin tone folded hands light skin tone sol riviera cancun planners tours transfers reservaciones mobile phone reservas com mail selfie light skin tone bell cancun cancunnosune visitacancun agencia gestion servicios turisticos opera fisicamente cancun trabajamos conjunto operadoras reconocidas destino medio convenios ofreciendo mejores tours cancun actividades parques zonas arqueologicas actividades acuaticas completamente comprometidos brindando servicios calidad seguimiento puntual todas actividades calidez servicio cliente razon dia dia abrimos brecha confianza manteniendonos preferencia recomendacion buscamos relaciones fortalezcan ganar ganar clientes trabajando mano atendiendo requerimientos planeando logistica acorde tiempos tal motivo apoyamos objetivamente mejores recomendaciones gestionando paquetes vacacionales abarcando transportacion hospedaje actividades tranquilidad trabajo responsabilidad solrivieracancun toursencancunsrc vacaciones cancun parati seguidores caribemexicano src toursencancun sololosmejores cozumelmexico cozumelisland islamujeres buceo traslados yatesdelujo yates scooter scooterrental xcaret xelha grupoxcaret\"",
+                        "\"gracias apoyo confianza paquete actividades cancun rivieramaya asi mismo compartir parte experiencia handshake light skin tone mexico podemos apoyar folded hands light skin tone folded hands light skin tone folded hands light skin tone sol riviera cancun planners tours transfers reservaciones mobile phone reservas com mail selfie light skin tone bell cancun cancunnosune visitacancun agencia gestion servicios turisticos opera fisicamente cancun trabajamos conjunto operadoras reconocidas destino medio convenios ofreciendo mejores tours cancun actividades parques zonas arqueologicas actividades acuaticas completamente comprometidos brindando servicios calidad seguimiento puntual todas actividades calidez servicio cliente razon dia dia abrimos brecha confianza manteniendonos preferencia recomendacion buscamos relaciones fortalezcan ganar ganar clientes trabajando mano atendiendo requerimientos planeando logistica acorde tiempos tal motivo apoyamos objetivamente mejores recomendaciones gestionando paquetes vacacionales abarcando transportacion hospedaje actividades tranquilidad trabajo responsabilidad solrivieracancun toursencancunsrc vacaciones cancun parati seguidores caribemexicano src toursencancun sololosmejores cozumelmexico cozumelisland islamujeres buceo traslados yatesdelujo yates scooter scooterrental xcaret xelha grupoxcaret\"",
+                        "\"rivieramaya asi mismo compartir parte experiencia handshake light skin tone mexico podemos apoyar folded hands light skin tone folded hands light skin tone folded hands light skin tone sol riviera cancun planners tours transfers reservaciones mobile phone reservas com mail selfie light skin tone bell cancun cancunnosune visitacancun agencia gestion servicios turisticos opera fisicamente cancun trabajamos conjunto operadoras reconocidas destino medio convenios ofreciendo mejores tours cancun actividades parques zonas arqueologicas actividades acuaticas completamente comprometidos brindando servicios calidad seguimiento puntual todas actividades calidez servicio cliente razon dia dia abrimos brecha confianza manteniendonos preferencia recomendacion buscamos relaciones fortalezcan ganar ganar clientes trabajando mano atendiendo requerimientos planeando logistica acorde tiempos tal motivo apoyamos objetivamente mejores recomendaciones gestionando paquetes vacacionales abarcando transportacion hospedaje actividades tranquilidad trabajo responsabilidad solrivieracancun toursencancunsrc vacaciones cancun parati seguidores caribemexicano src toursencancun sololosmejores cozumelmexico cozumelisland islamujeres buceo traslados yatesdelujo yates scooter scooterrental xcaret xelha grupoxcaret\""
+                    ],
+                    "contraste": [
+                        "\"pasa dia lleno aventura diversion tankah gotas de sudor hoja revoloteando en el viento disfruta tour toda familia amigos mientras conectas entorno selvatico cultura zona maya estrella golpeada tour incluye minibus transporte privado ida vuelta recogida hotel airbnb gotas de sudor entrada cenotes tankah hombre levantando la mano guia privado persona bote de remos equipo visitar cenotes incluye kayaks tirolesas ensalada verde comida buffet comida local bebidas incluidas hombre levantando la mano personal vip recorrido minibus regreso hotel airbnb contactanos mayor información pasar el día aventura completa diversión tankah gotas de sudor hoja revoloteando en el viento disfruta del tour toda la familia amigos conecta selva ambiente cultura área maya star strike tour incluye minibus ida y vuelta transporte privado recoger hotel airbnb gotas de sudor entrada cenotes tankah hombre levantando la mano guía privado persona bote de remos equipo visita cenotes incluye kayaks tirolesas ensalada verde comida buffet comida local bebidas saborizadas incluido hombre levantando la mano personal vip tour minibus regreso hotel airbnb información de contacto teléfono móvil con flecha correo reservaciones com botón marca de verificación enviar envianos mensaje fotos videos cristopher narvaez theviptourexperience tankahtulum tankah cenotes cenotesmexico cenotestulum rivieramaya tankahmayaagroturismo comunitario comunidadmaya tour tour privado vacaciones\""
+                    ]
+                }
+            ]
+        },
+        {
+            "model": "LDA",
+            "topics": [
+                {
+                    "topic_id": 1,
+                    "keywords": [
+                        "playa",
+                        "tulum",
+                        "corazón",
+                        "casa",
+                        "puerto",
+                        "agua",
+                        "aventura",
+                        "méxico"
+                    ],
+                    "pertenece": [
+                        "\"bienvenido tiful tulum residencias de lujo hierba diseño moderno se encuentra con la naturaleza tranquilidad inspirado cultura maya cada espacio tiful equilibra lujo armonía proporcionando un estilo de vida elevado el corazón de tulum brilla chincheta redonda ubicación privilegiada ubicado distrito de tulum cerca de la avenida coba tiful ofrece fácil acceso gastronomía vibrante puntos de referencia culturales boutiques impresionantes olas de agua del caribe la ubicación agrega un valor de inversión excepcional experiencia de conveniencia mezcla privacidad libertad espacio de relajación tributo raíces ancestrales de tulum fusionando belleza natural moderna elegancia estilo de vida paz simplicidad descubrir paraíso respirar profundamente dejar que tiful enriquecer alma mareado sobre con flecha consultar lista de precios hoy índice de revés apuntando hacia la derecha tono de piel claro información com bienes raíces méxico playadelcarmen rivieramaya tulum tankah cancún puertoaventuras caribe inversión propiedad estilo de vida expatriado roi estancia vacaciones cozumel playa del carmen bienes raíces tulum bienes raíces condominio en venta nuevo desarrollo rivieramayarealestate inversión propiedades estilo de vida alquileres vacacionales retirodestinos estilo de vida alquileres vacacionales nuevo comienzo tulum buenas vibraciones\"",
+                        "\"ola de agua bahía de tankah condominios de lujo la naturaleza se encuentra con la elegancia descubre nueva colección condominios de lujo ubicado en la jungla caribeña prestigiosa bahía de tankah impresionantes vistas al mar piscina en la azotea spa espacio de trabajo ofrece minutos de estilo de vida inigualables tulum residencia exclusiva permite experimentar la vida frente a la playa combinación perfecta naturaleza de lujo a partir de mxn chincheta redonda bahía de tankah experiencia de oportunidad perdida hierba viva de lujo índice de revés apuntando hacia la derecha tono de piel claro contacto equipo de ventas hoy info com bienes raíces méxico playadelcarmen rivieramaya tulum tankah cancun puertoaventuras inversión caribeña propiedad estilo de vida expatriado roi estancia vacaciones cozumel playa del carmen bienes raíces tulum bienes raíces condominio en venta nuevo desarrollo riviera maya real inversión inmobiliaria propiedades estilo de vida alquileres de vacaciones retiro destinos estilo de vida alquileres de vacaciones nuevo comienzo tulum buenas vibraciones\"",
+                        "\"excelente oportunidad de desarrollo frente a la playa puerto morelos viva méxico presente excepcional oportunidad de inversión hectáreas metros frente a la playa directa ubicada puerto morelos quintana roo propiedad ideal inversionistas desarrolladores que buscan crear proyectos de resort hotelero amplio terreno de gran escala conceptos de hotel mixtos de lujo estratégicamente posicionado playa carmen cancun área beneficios alta demanda fuerte flujo turístico creciente valor inmobiliario haciendo uno corredores de crecimiento atractivos caribe mexicano puerto morelos principal estado portuario casa de renombre internacional segundo sistema de arrecifes de coral más grande mundo famoso rica biodiversidad marina activo natural atrae a millones de turistas durante todo el año destino también ofrece una amplia gama de deportes acuáticos turismo ecológico actividades potenciando atractivo sustentable experiencial gama alta desarrollos hoteleros ronda chincheta ubicación puerto morelos quintana roo isla desierta tamaño del terreno hectáreas agua ola frente a la playa metros hotel zonificación uso ideal hotel resort desarrollo precio usd nota imagen real referencia nda pof zoom introducción llamada visita persona lugar lujo bienes raíces enviar mensaje privado puertomorelos méxico caribe mexicano vivamexico\"",
+                        "\"excelente oportunidad de desarrollo frente a la playa puerto morelos viva méxico presente excepcional oportunidad de inversión hectáreas metros frente a la playa directa ubicada puerto morelos quintana roo propiedad ideal inversionistas desarrolladores que buscan crear proyectos de resort hotelero amplio terreno de gran escala conceptos de hotel mixtos de lujo estratégicamente posicionado playa carmen cancun área beneficios alta demanda fuerte flujo turístico creciente valor inmobiliario haciendo uno corredores de crecimiento atractivos caribe mexicano puerto morelos principal estado portuario casa de renombre internacional segundo sistema de arrecifes de coral más grande mundo famoso rica biodiversidad marina activo natural atrae a millones de turistas durante todo el año destino también ofrece una amplia gama de deportes acuáticos turismo ecológico actividades potenciando atractivo sustentable experiencial gama alta desarrollos hoteleros ronda chincheta ubicación puerto morelos quintana roo isla desierta tamaño del terreno hectáreas agua ola frente a la playa metros hotel zonificación uso ideal hotel resort desarrollo precio usd nda pof zoom introducción llamada visita persona lugar lujo bienes raíces enviar mensaje privado puertomorelos méxico caribe mexicano vivamexico\"",
+                        "\"onda de agua casa azul marina living round chincheta puerto aventuras wake marina exclusivo dormitorio baño condominio perfecto buscando espacio privacidad refinado lujo riviera maya piscina privada en la azotea fogata gimnasio seguridad destellos experiencia estilo caribeño sobre con flecha contacto alquileres ventas administración de propiedades ventas alquileres administración de propiedades sobre ventas com teléfono receptor whatsapp yx fn luisa english espanol lily english espanol onda de agua casa azul marina living round chincheta puerto aventuras despierta frente marina exclusivo condominio recamaras baños disenado buscan espacio privacidad lujo discreto riviera maya techo privado alberca fogata gimnasio seguridad destellos vive caribe estilo tranquilidad sobre con flecha contactanos rentas ventas administracion propiedades ventas rentas administracion propiedades sobre ventas com teléfono receptor whatsapp yx fn luisa english espanol lily english espanol bluehouse puertoaventuras rivieramayaliving Luxurycondo vacationrental marinaview caribbeanlifestyle estilo de vida rivieramaya\""
+                    ],
+                    "contraste": [
+                        "\"soft glam rivieramayawedding playadelcarmen tulum puertoaventuras akumal\""
+                    ]
+                },
+                {
+                    "topic_id": 2,
+                    "keywords": [
+                        "tulum",
+                        "mexico",
+                        "playa",
+                        "playadelcarmen",
+                        "rivieramaya",
+                        "sparkl",
+                        "cancun",
+                        "bocapailar"
+                    ],
+                    "pertenece": [
+                        "\"balloon glowing star celebra dia nino grande glowing star balloon kaan travel oportunidad bloqueo imperdible sparkles magnifico hotel xcaret mexico sparkles calendar abril mayo girl child ninos hospedan gratis menores anos regala peques unas vacaciones magicas llenas diversion naturaleza aventuras inolvidables herb hotel incluido lujo roller coaster acceso ilimitado parques xcaret xel tropical fish rios cenotes animales actividades ninos party popper experiencias pensadas toda familia blue heart diversion aprendizaje sonrisas garantizadas sparkles vive dia nino merece aventuras juegos momentos recordaran toda vida fire cupo limitado bloqueo quedes envelope with arrow escribenos deja kaan travel encargue crear unas vacaciones magicas hijos mobile phone mail reservaciones rainbow mejores recuerdos comienzan viajando juntos rainbow kaantravel hotelxcaret diadelnino ninosgratis vacacionesenfamilia xcaret xelha bloqueoespecial rivieramaya viajaresvivir familiasfelices palm tree roller coaster tropical fish\"",
+                        "\"round pushpin boca paila quintana roo ubicada tulum dentro impresionante reserva biosfera sian deciduous tree boca paila destinos remotos virgenes riviera maya water wave extensas playas arena blanca palm tree manglares mar turquesa aguas tranquilas boca paila ideal buscan contacto puro naturaleza aqui puedes disfrutar actividades pesca deportiva fishing pole kayak canoe simplemente relajarte playa casi desierta beach with umbrella mientras disfrutas sonido mar vistas espectaculares recuerda llegar playas destino debes adentrarse naturaleza seguir senderos llevaran orillas playa debido ubicacion remota boca paila lugar perfecto desconectar vivir experiencia autentica rincones intactos mexico automobile mobile phone with arrow conocias sitio comenta destino loudspeaker recomendamos sigas contenido bocapaila rivieraexplorer playastropicales caribbeanvibes tulumadventure quintanarootravel paraisomexicano\"",
+                        "\"sparkles water wave vive paraiso grupo kaan travel water wave sparkles planeando unas vacaciones epicas smiling face with sunglasses sun bloqueos grupos hotel xcaret menores anos hospedan gratis child party popper hotel hospedate hoteles espectaculares mexico roller coaster acceso incluido parques xcaret xel fork and knife with plate disfruta experiencia culinaria unica sabores van enamorar family man woman girl boy ideal familias grandes men with bunny ears grupos amigos graduation cap graduaciones quieren celebrar grande money bag precios variables segun fecha asi pienses calendar aparta hoy mismo lugar asegura unas vacaciones inolvidables grupo especial rainbow sparkles mobile phone mail reservaciones backhand index pointing right kaan travel encargamos solo preparate disfrutar smiling face with heart eyes airplane kaantravel hotelxcaret viajaengrupo vacacionesenfamilia xcaret xelha menoresgratis graduaciones viajesconamigos parquesxcaret experienciaxcaret viajesinolvidables\"",
+                        "\"desert island solo mxn puedes comenzar construir casa cerca playa ganar pase anual xcaret admission tickets hibiscus luumha preventa terrenos residenciales cerca punta maroma playa carmen amenidades campestres estilo vida natural alta plusvalia deciduous tree sun with face wrapped gift tiempo limitado pagar enganche valor terreno mxn regalamos pase anual xcaret mexico pushpin pase terreno adquirido speech balloon comenta info escribenos whatsapp conocer terrenos disponibles tear off calendar vigente abril identification card exclusivo residentes ine quintana roo house with garden espacios round pushpin solo minutos playa mobile phone with arrow consulta terminos condiciones numero indicado xcaretgratis terrenoconpremio luumha rivieramaya terrenosenventa puntamaroma xcaret inversionsegura enganchedesde mil patrimoniofamiliar paseanual patrimonio familia bendiciones terrenos disponible playadelcarmen inversion inversionsegura gratis\"",
+                        "\"palm tree riviera maya mexico melhor dos melhores blue heart airplane procuras refugio perfeito caribe aqui esta direto sem complicacoes com tudo incluido calendar setembro outubro airplane voo direto lisboa airplane cancun luggage bagagem incluida minibus transfers tropical drink tudo incluido secrets akumal riviera maya star adultos hotel secrets akumal riviera maya junior suite tropical view double bed sparkles resort exclusivo adultos ideal relaxar aproveitar melhor riviera maya sparkles quartos espacosos com vista tropical deslumbrante sparkles localizacao perfeita praia snorkeling com tartarugas tranquilidade absoluta sparkles experiencias gastronomicas incriveis entretenimento premium money bag pessoa adultos blue circle taxas suplementos aereos incluidos wrapped gift inclui ainda shield seguro viagem woman pilot assistencia destino telephone receiver reservas informacoes mobile phone chamada rede movel nacional mail sfconsultora viagens com airplane consultora viagens rnavt warning valores disponibilidade sujeitos confirmacao rivieramaya mexico maravilloso akumal akumalbeach vacaciones playas paraiso tropicalvibesonly resortluxury\""
+                    ],
+                    "contraste": [
+                        "\"pedacito paraiso tulum tankah tankahbay tankahtulum\""
+                    ]
+                },
+                {
+                    "topic_id": 3,
+                    "keywords": [
+                        "playa",
+                        "cancun",
+                        "méxico",
+                        "tulum",
+                        "carmen",
+                        "playadelcarmen",
+                        "vida",
+                        "servicio"
+                    ],
+                    "pertenece": [
+                        "\"regresaron dias soleados smiling face with sunglasses sun with face gracias amigos apoyo confianza paquete actividades cancun rivieramaya asi mismo compartir parte experiencia handshake light skin tone mexico podemos apoyar folded hands light skin tone folded hands light skin tone folded hands light skin tone sol riviera cancun planners tours transfers reservaciones mobile phone reservas com mail selfie light skin tone bell cancun cancunnosune visitacancun agencia gestion servicios turisticos opera fisicamente cancun trabajamos conjunto operadoras reconocidas destino medio convenios ofreciendo mejores tours cancun actividades parques zonas arqueologicas actividades acuaticas completamente comprometidos brindando servicios calidad seguimiento puntual todas actividades calidez servicio cliente razon dia dia abrimos brecha confianza manteniendonos preferencia recomendacion buscamos relaciones fortalezcan ganar ganar clientes trabajando mano atendiendo requerimientos planeando logistica acorde tiempos tal motivo apoyamos objetivamente mejores recomendaciones gestionando paquetes vacacionales abarcando transportacion hospedaje actividades tranquilidad trabajo responsabilidad solrivieracancun toursencancunsrc vacaciones cancun parati seguidores caribemexicano src toursencancun sololosmejores cozumelmexico cozumelisland islamujeres buceo traslados yatesdelujo yates scooter scooterrental xcaret xelha grupoxcaret\"",
+                        "\"gracias amigos apoyo confianza paquete actividades cancun rivieramaya asi mismo compartir parte experiencia handshake light skin tone mexico podemos apoyar folded hands light skin tone folded hands light skin tone folded hands light skin tone sol riviera cancun planners tours transfers reservaciones mobile phone reservas com mail selfie light skin tone bell cancun cancunnosune visitacancun agencia gestion servicios turisticos opera fisicamente cancun trabajamos conjunto operadoras reconocidas destino medio convenios ofreciendo mejores tours cancun actividades parques zonas arqueologicas actividades acuaticas completamente comprometidos brindando servicios calidad seguimiento puntual todas actividades calidez servicio cliente razon dia dia abrimos brecha confianza manteniendonos preferencia recomendacion buscamos relaciones fortalezcan ganar ganar clientes trabajando mano atendiendo requerimientos planeando logistica acorde tiempos tal motivo apoyamos objetivamente mejores recomendaciones gestionando paquetes vacacionales abarcando transportacion hospedaje actividades tranquilidad trabajo responsabilidad solrivieracancun toursencancunsrc vacaciones cancun parati seguidores caribemexicano src toursencancun sololosmejores cozumelmexico cozumelisland islamujeres buceo traslados yatesdelujo yates scooter scooterrental xcaret xelha grupoxcaret\"",
+                        "\"gracias amigo apoyo confianza paquete actividades cancun rivieramaya asi mismo compartir parte experiencia handshake light skin tone mexico podemos apoyar folded hands light skin tone folded hands light skin tone folded hands light skin tone sol riviera cancun planners tours transfers reservaciones mobile phone reservas com mail selfie light skin tone bell cancun cancunnosune visitacancun agencia gestion servicios turisticos opera fisicamente cancun trabajamos conjunto operadoras reconocidas destino medio convenios ofreciendo mejores tours cancun actividades parques zonas arqueologicas actividades acuaticas completamente comprometidos brindando servicios calidad seguimiento puntual todas actividades calidez servicio cliente razon dia dia abrimos brecha confianza manteniendonos preferencia recomendacion buscamos relaciones fortalezcan ganar ganar clientes trabajando mano atendiendo requerimientos planeando logistica acorde tiempos tal motivo apoyamos objetivamente mejores recomendaciones gestionando paquetes vacacionales abarcando transportacion hospedaje actividades tranquilidad trabajo responsabilidad solrivieracancun toursencancunsrc vacaciones cancun parati seguidores caribemexicano src toursencancun sololosmejores cozumelmexico cozumelisland islamujeres buceo traslados yatesdelujo yates scooter scooterrental xcaret xelha grupoxcaret\"",
+                        "\"gracias amigas apoyo confianza paquete actividades cancun rivieramaya asi mismo compartir parte experiencia handshake light skin tone mexico podemos apoyar folded hands light skin tone folded hands light skin tone folded hands light skin tone sol riviera cancun planners tours transfers reservaciones mobile phone reservas com mail selfie light skin tone bell cancun cancunnosune visitacancun agencia gestion servicios turisticos opera fisicamente cancun trabajamos conjunto operadoras reconocidas destino medio convenios ofreciendo mejores tours cancun actividades parques zonas arqueologicas actividades acuaticas completamente comprometidos brindando servicios calidad seguimiento puntual todas actividades calidez servicio cliente razon dia dia abrimos brecha confianza manteniendonos preferencia recomendacion buscamos relaciones fortalezcan ganar ganar clientes trabajando mano atendiendo requerimientos planeando logistica acorde tiempos tal motivo apoyamos objetivamente mejores recomendaciones gestionando paquetes vacacionales abarcando transportacion hospedaje actividades tranquilidad trabajo responsabilidad solrivieracancun toursencancunsrc vacaciones cancun parati seguidores caribemexicano src toursencancun sololosmejores cozumelmexico cozumelisland islamujeres buceo traslados yatesdelujo yates scooter scooterrental xcaret xelha grupoxcaret\"",
+                        "\"gracias apoyo confianza paquete actividades cancun rivieramaya asi mismo compartir parte experiencia handshake light skin tone mexico podemos apoyar folded hands light skin tone folded hands light skin tone folded hands light skin tone sol riviera cancun planners tours transfers reservaciones mobile phone reservas com mail selfie light skin tone bell cancun cancunnosune visitacancun agencia gestion servicios turisticos opera fisicamente cancun trabajamos conjunto operadoras reconocidas destino medio convenios ofreciendo mejores tours cancun actividades parques zonas arqueologicas actividades acuaticas completamente comprometidos brindando servicios calidad seguimiento puntual todas actividades calidez servicio cliente razon dia dia abrimos brecha confianza manteniendonos preferencia recomendacion buscamos relaciones fortalezcan ganar ganar clientes trabajando mano atendiendo requerimientos planeando logistica acorde tiempos tal motivo apoyamos objetivamente mejores recomendaciones gestionando paquetes vacacionales abarcando transportacion hospedaje actividades tranquilidad trabajo responsabilidad solrivieracancun toursencancunsrc vacaciones cancun parati seguidores caribemexicano src toursencancun sololosmejores cozumelmexico cozumelisland islamujeres buceo traslados yatesdelujo yates scooter scooterrental xcaret xelha grupoxcaret\""
+                    ],
+                    "contraste": [
+                        "\"ganas viajar quitan acumulan lleguemos fire espiritutrotamundos globe showing americas xelha\""
+                    ]
+                },
+                {
+                    "topic_id": 4,
+                    "keywords": [
+                        "perro",
+                        "gato",
+                        "vida",
+                        "playa",
+                        "puerto",
+                        "amante",
+                        "mark",
+                        "check"
+                    ],
+                    "pertenece": [
+                        "\"pasa dia lleno aventura diversion tankah gotas de sudor hoja revoloteando en el viento disfruta tour toda familia amigos mientras conectas entorno selvatico cultura zona maya estrella golpeada tour incluye minibus transporte privado ida vuelta recogida hotel airbnb gotas de sudor entrada cenotes tankah hombre levantando la mano guia privado persona bote de remos equipo visitar cenotes incluye kayaks tirolesas ensalada verde comida buffet comida local bebidas incluidas hombre levantando la mano personal vip recorrido minibus regreso hotel airbnb contactanos mayor información pasar el día aventura completa diversión tankah gotas de sudor hoja revoloteando en el viento disfruta del tour toda la familia amigos conecta selva ambiente cultura área maya star strike tour incluye minibus ida y vuelta transporte privado recoger hotel airbnb gotas de sudor entrada cenotes tankah hombre levantando la mano guía privado persona bote de remos equipo visita cenotes incluye kayaks tirolesas ensalada verde comida buffet comida local bebidas saborizadas incluido hombre levantando la mano personal vip tour minibus regreso hotel airbnb información de contacto teléfono móvil con flecha correo reservaciones com botón marca de verificación enviar envianos mensaje fotos videos cristopher narvaez theviptourexperience tankahtulum tankah cenotes cenotesmexico cenotestulum rivieramaya tankahmayaagroturismo comunitario comunidadmaya tour tour privado vacaciones\"",
+                        "\"pasa dia lleno aventura diversion tankah gotas de sudor hoja revoloteando en el viento disfruta tour toda familia amigos mientras conectas entorno selvatico cultura zona maya estrella golpeada contactanos mayor informacion pasa el día aventura completa diversión tankah gotas de sudor hoja revoloteando en el viento disfruta tour toda la familia amigos conectar selva ambiente cultura área maya estrella información de contacto teléfono móvil con flecha correo reservaciones com botón marca de verificación enviar envianos mensaje fotos videos cristopher narvaez theviptourexperience tankahtulum tankah cenotes cenotesmexico cenotestulum rivieramaya tankahmayaagroturismo comunitario tour comunidadmaya tour privado vacaciones vacaciones\"",
+                        "\"pasa dia lleno aventura diversion tankah gotas de sudor star strike disfruta tour toda familia amigos mientras conectas entorno selvatico hoja revoloteando en el viento cultura zona maya contactanos mayor informacion pasar el día aventura completa diversión tankah gotas de sudor star strike disfrutar tour toda la familia amigos conectar selva ambiente hoja revoloteando en el viento cultura área maya información de contacto teléfono móvil con flecha correo reservaciones com botón marca de verificación enviar envianos mensaje fotos videos cristopher narvaez theviptourexperience tankahtulum tankah cenotes cenotesmexico cenotestulum rivieramaya tankahmayaagroturismo comunitario tour comunidadmaya tour privado vacaciones\"",
+                        "\"pasa dia lleno aventura diversion tankah star strike disfruta tour toda familia amigos mientras conectas entorno selvatico hoja revoloteando en el viento gotas de sudor cultura zona maya contactanos mayor informacion pasar el día aventura completa diversión tankah star strike disfrutar tour toda la familia amigos conectar selva ambiente hoja revoloteando en el viento gotas de sudor cultura área maya información de contacto teléfono móvil con flecha correo reservaciones com botón marca de verificación enviar envianos mensaje fotos videos cristopher narvaez theviptourexperience tankahtulum tankah cenotes cenotesmexico cenotestulum rivieramaya tankahmayaagroturismo comunitario tour comunidadmaya tour privado vacaciones\"",
+                        "\"adios goteras sumacasa hammer and wrench umbrella with rain drops impercool impermeabilizante acrilico alta calidad color blanco ideal proteger techos concreto climas extremos viene presentacion listo aplicar lotion bottle momento impermeabilizar llegue lluvia check mark button proteccion anos check mark button reduce temperatura interior check mark button facil aplicar secado rapido convenience store visitanos sucursales round pushpin colosio round pushpin huayacan round pushpin puerto morelos round pushpin punta maroma round pushpin puerto aventuras round pushpin centro maya round pushpin gonzalo guerrero playa carmen round pushpin tulum credit card aceptamos pagos efectivo tarjeta transferencia delivery truck envios disponibles cancun tulum impercool anos sumacasa impermeabilizanteqroo singoteras construyeconsumacasa ferreteria albaniles materialesdeconstruccion realestaterivieramaya quintanaroo playadelcarmen colosiocancun huayacancancun puertomorelos solidaridad puntamaroma ferreteriaplayadelcarmen puertoaventuras tulumconstruccion albanileriaquintanaroo materialessumacasa construccioncaribe remodelacioncaribe construccioncondescuento impercoolcemix construccionconcalidad quintanarooconstruye realestatequintanaroo letsplaya cancunnosune\""
+                    ],
+                    "contraste": [
+                        "\"puertomorelos elementos ssc participo curso primer respondiente impartido fiscalia general parte programa profesionalizacion impulsado alcaldesa\""
+                    ]
+                },
+                {
+                    "topic_id": 5,
+                    "keywords": [
+                        "boda",
+                        "akumal",
+                        "playa",
+                        "rivieramaya",
+                        "tulum",
+                        "vida",
+                        "paamul",
+                        "casa"
+                    ],
+                    "pertenece": [
+                        "\"casa con jardin casa con jardin casa brisas party popper party popper round pushpin ubicacion xpu quintana roo money bag precio telefono receptor informes destellos caracteristicas cama recamaras servicio shower banos servicio house terreno house construccion artista paleta excelentes acabados playa con sombrilla minutos playa niveles cuenta paneles solares domótica sistema riego automatico purificacion agua alarma seguridad entrega inmediata destellos haz lugar hogar nuevo casa con jardín realtate realtor xpuha xpuhamexico xpuhabeach xpuhavacation xpuhacaribemexicano nexo nexocapital nexorealestate\"",
+                        "\"house with garden house with garden casa brisas party popper party popper round pushpin ubicacion xpu quintana roo money bag precio telephone receiver informes sparkles caracteristicas bed recamaras servicio shower banos servicio house terreno house construccion artist palette excelentes acabados beach with umbrella minutos playa niveles cuenta paneles solares domotica sistema riego automatico purificacion agua alarma seguridad entrega inmediata sparkles haz lugar nuevo hogar house with garden realestate realtor xpuha xpuhamexico xpuhabeach xpuhavacation xpuhacaribemexicano nexo nexocapital nexorealestate\"",
+                        "\"nuevo hogar permite llegar playas cercanas xcalacoco punta esmeralda menos minutos lugar converge comodidad crecimiento urbano ciudad podras disfrutar entorno fomenta bienestar socializacion rodeados arquitectura moderna integra armonicamente naturaleza amenidades como white small square salon eventos white small square area asador picnic white small square terraza barra white small square alberca white small square asoleaderos white small square pergolas individuales alrededor alberca white small square juegos infantiles white small square areas verdes white small square parque mascotas white small square andador white small square gimnasio cerrado nautilusrealestate residenciasexclusivas vidaenelcaribe xcalacoco estilodevidarivieramaya playadelcarmenmexico inversioninmobiliaria caribemexicano bellezanatural rivieramaya viveenlanaturaleza paraisomexicano\"",
+                        "\"renta villa pushpin puerto aventuras hermosa casa exquisito gusto small orange diamond habitaciones small orange diamond banos small orange diamond cuarto servicio small orange diamond doble cocina small orange diamond piscina privada small orange diamond terraza small orange diamond salida directa campo golf small orange diamond roof top vista selva small orange diamond petfriendly mascotas educadas small orange diamond incluido alberquero servicio limpieza usd largo plazo disponible puertoaventuras puertoaventurasrealestate\"",
+                        "\"corazon blanco corazon blanco isabel mar djdebodas boda boda bodadj planificador de bodas pastel de bodas fiesta de bodas fotografía de boda djestilo de vida dj internacional internacionaldj bluevenadobodas bluevenado paamul playa tulum rivieramaya cancun akumal novia novio orlymixer\""
+                    ],
+                    "contraste": [
+                        "\"calma aliviado rostro brilla paamul\""
+                    ]
+                }
+            ]
+        }
+    ]
+}
