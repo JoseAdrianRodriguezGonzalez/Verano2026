@@ -1,0 +1,34 @@
+---
+
+        Topic ID: 1
+        Decision: INCOHERENT – DISCARD
+        Proposed Topic Label (max 6 words): Family Travel & Resort Services
+        Short Analytical Description: This topic combines references to family vacations, hotel amenities like pools and restaurants, helpful staff, and a general sense of positive experiences. However, the keywords are fragmented ("g," "p," "l," etc.) and mixed with unrelated terms such as “equipo de energía,” making it difficult to establish a coherent theme.
+
+        Topic ID: 2
+        Decision: VALID
+        Proposed Topic Label (max 6 words): Tulum Exploration & Tourist Traps
+        Short Analytical Description: This topic focuses on experiences at Tulum, including visiting cenotes and ruins, but also highlights potential tourist traps like jewelry vendors and inflated prices. The documents describe both positive aspects of the visit and negative encounters with sales tactics.
+
+        Topic ID: 3
+        Decision: VALID
+        Proposed Topic Label (max 6 words): Cenote Snorkeling & Exploration
+        Short Analytical Description: This topic centers around exploring cenotes, specifically focusing on snorkeling activities, observing marine life like turtles and fish, and the use of equipment such as masks and snorkel gear.
+
+        Topic ID: 4
+        Decision: VALID
+        Proposed Topic Label (max 6 words): Cruise Ship Excursions to Tulum
+        Short Analytical Description: This topic describes experiences during a cruise ship excursion to Tulum, including visiting cenotes with guided tours, dealing with potential issues like long lines and inflated prices, and capturing photos of the scenery.
+
+        Topic ID: 5
+        Decision: VALID
+        Proposed Topic Label (max 6 words): Cenote Exploration & Cave Systems
+        Short Analytical Description: This topic revolves around exploring different cenotes, particularly those that are cave systems with stalactites, stalagmites and other geological formations. The documents describe the experience of swimming in these caves, observing wildlife like bats and fish, and learning about their geology from guides.
+
+        ---
+
+        Overlapping Topics:
+        Topics 2 and 5 overlap significantly due to their shared focus on cenotes and underwater exploration.
+
+        Proposed Merged Topic Label: Cenote Exploration & Underwater Tourism
+        Merged Topic IDs: 2, 5

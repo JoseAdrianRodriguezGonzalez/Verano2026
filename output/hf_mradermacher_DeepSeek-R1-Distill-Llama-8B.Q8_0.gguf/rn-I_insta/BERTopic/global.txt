@@ -1,0 +1,44 @@
+ Now, analyze each topic:
+
+        Topic ID: 1:
+        Keywords:
+            p, p, n, v, d, p, n, i
+        Documents:
+            Document 1 describes a trip to San Pancho, Nayarit, mentioning surfing and relaxation.
+            Document 2 talks about modern villas in Sayulita, Riviera Nayarit, with mentions of family vacations and nature.
+            Document 3 discusses February in Sayulita as a small paradise, highlighting natural beauty and surf town vibe.
+            Documents 4 and 5 focus on December events, food, and San Pancho's charm.
+
+        Analysis:
+            Keywords include 'p' (probably "playa" or beach), 'n' for nature, 'v' for vacation/villa, etc. 
+            The documents consistently talk about locations like Sayulita and San Pancho in Riviera Nayarit.
+            All content revolves around tourism, specifically beaches, surfing, family vacations, and natural settings.
+
+        Decision: VALID
+        Proposed Topic Label:
+            "Tourism in Riviera Nayarit"
+        Short Analytical Description:
+            This topic focuses on the attractions and experiences related to visiting Sayulita and San Pancho in Riviera Nayarit. The documents highlight beach activities, surfing, family-friendly accommodations, and natural beauty.
+
+        Topic ID: 2:
+        Keywords:
+            t, t, t, m, n, f, t, t
+        Documents:
+            All documents mention "fire san blas tattoo fest," a specific event in San Blas, Nayarit.
+            The keywords include 't' (likely "tatuador" or tattoos), 'm' for marina or music, etc.
+
+        Analysis:
+            Keywords strongly relate to the San Blas Tattoo Festival. Documents discuss events, dates, and activities at this festival.
+            All documents are centered around promoting the tattoo fest, with mentions of artists, attendees, and event details.
+
+        Decision: VALID
+        Proposed Topic Label:
+            "San Blas Tattoo Fest"
+        Short Analytical Description:
+            This topic is about the San Blas Tattoo Festival in Nayarit. The documents detail event specifics such as dates, locations, artist participation, and activities like live music and tattoo showcases.
+
+        Topic ID: 3:
+        Keywords:
+            v, p, b, p, h, l, p, a
+        Documents:
+            Discusses

@@ -1,0 +1,35 @@
+
+**Analysis:**
+
+Here's the analysis of each topic, following your specified format:
+
+**Topic ID: 1**
+- Decision: VALID
+- Proposed Topic Label (max 6 words): Restaurant Service Issues & Pets
+- Short Analytical Description: This topic centers around a negative dining experience due to service errors like forgotten drinks and food spills. The key detail is the restaurant's policy allowing pets, which significantly impacted the reviewer’s enjoyment and led to them requesting takeout instead of eating in.
+
+**Topic ID: 2**
+- Decision: INCOHERENT – DISCARD
+- Proposed Topic Label (max 6 words): Nature Landscape & Tour Experience
+- Short Analytical Description: The documents describe a scenic tour through Huatulco's bays, including snorkeling and dolphin sightings. However, the keywords are unrelated to any specific theme or experience shared by all of them.
+
+**Topic ID: 3**
+- Decision: VALID
+- Proposed Topic Label (max 6 words): Cascadas Mágicas – Copalitilla Visit
+- Short Analytical Description: This topic focuses on a visit to Las Cascada Magicas in Copalittla, Oaxaca. The documents detail the beautiful waterfalls, hiking trails, and tour services offered, highlighting both positive aspects like stunning scenery and logistical considerations such as costs and accessibility.
+
+**Topic ID: 4**
+- Decision: VALID
+- Proposed Topic Label (max 6 words): Huatulco Beach – Access & Amenities
+- Short Analytical Description: This topic revolves around a specific beach in Huatulco, discussing the access route, amenities like rentals and restrooms, as well as pricing for these services. The review also mentions challenges related to crowds and limited shade.
+
+**Topic ID: 5**
+- Decision: VALID
+- Proposed Topic Label (max 6 words): Beach Access & Camping Experience
+- Short Analytical Description: This topic describes the access route to a beach in Huatulco, highlighting both paved sections and unpaved trails. It also covers costs associated with entry, rentals, camping, and amenities like restrooms. The review emphasizes challenges related to crowds and limited shade.
+
+**Overlap Analysis:**
+
+Topics 4 and 5 are semantically overlapping because they both discuss access routes and experiences at beaches in Huatulco. They share the keywords "beach," "access,” “rentals”, and “cost.”
+
+- Proposed Merged Topic Label: Hu

@@ -1,0 +1,25 @@
+
+        Topic ID: 1
+        Decision: VALID
+        Proposed Topic Label (max 6 words, neutral and descriptive): Beachfront Luxury Vacation Rental
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text) The topic centers around descriptions of luxury beachfront villas with amenities like pools, tennis courts, and ocean access. Keywords such as “villa,” "beach," “vista mar” and references to services ("check mark") suggest a focus on high-end vacation rentals catering to guests seeking relaxation and upscale experiences.
+
+        Topic ID: 2
+        Decision: INCOHERENT – DISCARD
+        Proposed Topic Label (max 6 words, neutral and descriptive): Hotel Security Staff Recruitment
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text) The keywords “guardia seguridad,” "contrato directo," and references to security procedures indicate a topic related to recruiting hotel staff for security roles. However, documents also mention aspects like spa services and room features that are unrelated to this primary theme.
+
+        Topic ID: 3
+        Decision: VALID
+        Proposed Topic Label (max 6 words, neutral and descriptive): Local Seafood Restaurants & Fishermen
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text) This topic revolves around restaurants specializing in seafood, particularly from local fishermen near Cruz de Huanacaxtle. Keywords like “pescado,” "mariscos," and mentions of a connection to fishing communities highlight this theme’s focus on fresh ingredients and supporting local businesses.
+
+        Topic ID: 4
+        Decision: INCOHERENT – DISCARD
+        Proposed Topic Label (max 6 words, neutral and descriptive): Weekend Family Events & Promotions
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text) The topic discusses weekend events at hotels like Krystal Grand, including promotions for families. However, it also contains unrelated details about gifts, car rentals, and various services offered by the hotel, making a clear thematic connection difficult to establish.
+
+        Topic ID: 5
+        Decision: VALID
+        Proposed Topic Label (max 6 words, neutral and descriptive): San Blas Tattoo Festival & Artists
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text) This topic is centered around the "San Blas Tattoo Fest," featuring artists like Rafael Aguirre. Keywords such as “tattoo,” "artist," and references to events and

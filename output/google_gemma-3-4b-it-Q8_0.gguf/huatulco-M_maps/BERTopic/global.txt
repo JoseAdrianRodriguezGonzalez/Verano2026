@@ -1,0 +1,33 @@
+
+```text
+- Topic ID: 1
+  - Decision: VALID
+  - Proposed Topic Label (max 6 words): Beach Activities and Coastal Access
+  - Short Analytical Description: This topic focuses on descriptions of beaches in Huatulco, detailing access methods like boats or roads. It includes mentions of restaurants nearby, water conditions (cleanliness, waves), activities such as snorkeling, swimming, and observing marine life, alongside observations about the beach's overall atmosphere and cleanliness.
+
+- Topic ID: 2
+  - Decision: VALID
+  - Proposed Topic Label (max 6 words): Cacaluta Beach Access & Exploration
+  - Short Analytical Description: This topic centers around access to Cacaluta beach, including hiking routes with associated costs, transportation options (taxi or private car), and the beach's characteristics like its tranquil waters and sandy surface. It also highlights amenities available such as restaurants, rentals, and shade.
+
+- Topic ID: 3
+  - Decision: VALID
+  - Proposed Topic Label (max 6 words): Huatulco Restaurant Reviews & Experiences
+  - Short Analytical Description: This topic is dedicated to reviews of restaurants in Huatulco. It discusses food quality, service levels, pricing, ambiance and specific dishes mentioned by reviewers alongside the experiences shared about dining at different establishments.
+
+- Topic ID: 4
+  - Decision: VALID
+  - Proposed Topic Label (max 6 words): Beach Access & Rental Costs
+  - Short Analytical Description: This topic describes access to beaches in Huatulco, including transportation options and associated costs such as parking fees or boat rentals. It also mentions amenities available at the beach like tables for rent and basic services like restrooms and showers.
+
+- Topic ID: 5
+  - Decision: VALID
+  - Proposed Topic Label (max 6 words): Beaches in Huatulco Overview
+  - Short Analytical Description: This topic provides an overview of various beaches within Huatulco, highlighting their characteristics such as water clarity, wave conditions, and accessibility. It also mentions related services like boat tours, restaurants, parking facilities, and general cleanliness observations.
+
+- Overlapping Topics:
+    - Topic 1 & 5 share a common theme regarding the description of beaches in Huatulco.
+
+- Proposed Merged Topic Label (if applicable): Beaches of Huatulco
+  - Topic IDs to Merge: 1 & 5
+```

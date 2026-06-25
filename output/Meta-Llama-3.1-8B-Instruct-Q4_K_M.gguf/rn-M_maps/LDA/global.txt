@@ -1,0 +1,13 @@
+ Your analysis of the topics must be based on a careful comparison and contrast of their keywords, documents, and any explicit contextual information. You should not make assumptions or introduce external knowledge that is not supported by the provided text.
+
+         Given these rules, analyze each topic strictly according to its own data without considering other topics.
+
+
+Topic ID: 1:
+Keywords:
+l, h, l, b, a, a, p, o
+Documents:
+1: "Bello Pueblo pequeño con una playa hermosa no sé puede meter al mar sino Eres un experto en el Agua o con alguna experiencia en natación es más bien para los surf porque las olas son muy bravas altas, le falta muchas cosas los precios son muy elevados por lugares con instalaciones muy carentes no es un ambiente familiar puesto que en casi todas partes el olor a marihuana abunda y son los locales la gente que vive en el lugar, los turistas que a eso van. Lo bueno del Lugar los bellos atardeceres la Selva letsguide playa surf paraiso surfing petfrendly"
+2: "Excelente playa, tienes muchos negocios cerca y el trato de la gente que trabaja en ellos es muy bueno, los baños están bien ubicados y a buen precio, hay lugar para cargar el celular y muchos restaurantes a pie de playa, la arena es muy buena y el agua rica, hay muchas olas pero no es muy profundo el mar, excelente para salir a correr ya que es una playa larga y sin tanta gente. Me encantó el lugar y el ambiente es muy relajado."
+3: "Playa ideal para contemplar, si sabes nadar bien resulta atractiva debido a que tiene un oleaje fuerte buena también para practicar surf o aprender , muchas opciones de comida al rededor. La playa está muy limpia y es muy larga. Arena y mar con un ambiente tranquilo y sin grandes hoteles al rededor, una de mis playas favoritas sin duda alguna."
+4: "Lugar súper tranquilo, la arena está más suavecita que la de sayulita que es puro guijarro, aquí si se respeta un poco más el precio de las cosas, no tienen aumentos raros en los lugares y hay un público más mexicano que

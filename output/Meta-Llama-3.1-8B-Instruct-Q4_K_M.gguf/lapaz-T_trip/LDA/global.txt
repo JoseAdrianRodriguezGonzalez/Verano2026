@@ -1,0 +1,35 @@
+ Here is the analysis of each topic:
+
+Topic ID: 1:
+Decision: VALID
+Proposed Topic Label: "Isla Joya Beaches"
+Short Analytical Description: This topic focuses on Isla Joya, a location known for its beaches and crystal-clear waters. The documents describe various activities such as snorkeling, swimming with sea lions, and observing wildlife like dolphins and whales.
+
+Topic ID: 2:
+Decision: INCOHERENT – DISCARD
+Proposed Topic Label: 
+Short Analytical Description:
+
+Topic ID: 3:
+Decision: VALID
+Proposed Topic Label: "Playa Balandra"
+Short Analytical Description: This topic is centered around Playa Balandra, a beach known for its tranquility and clear waters. The documents highlight the area's scenic beauty, snorkeling opportunities, and nearby wildlife.
+
+Topic ID: 4:
+Decision: VALID
+Proposed Topic Label: "Isla Espíritu Santo Tours"
+Short Analytical Description: This topic revolves around tours to Isla Espíritu Santo, where visitors can engage in activities like snorkeling with sea lions, observing marine life, and exploring the island's natural wonders.
+
+Topic ID: 5:
+Decision: INCOHERENT – DISCARD
+Proposed Topic Label: 
+Short Analytical Description:
+
+
+         After analyzing all topics:
+
+- There are two VALID topics that appear to be semantically overlapping.
+- The proposed merged topic label is "Isla Espíritu Santo Beaches and Wildlife."
+- Topics 1, 3, and 4 should be merged.
+
+Note: Topic IDs 2 and 5 were classified as INCOHERENT – DISCARD due to the lack of semantic coherence in their respective keywords and documents.

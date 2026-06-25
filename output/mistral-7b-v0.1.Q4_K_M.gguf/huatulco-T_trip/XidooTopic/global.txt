@@ -1,0 +1,28 @@
+ Output:
+        Topic ID: 1:
+        Decision: VALID
+        Proposed Topic Label (max 6 words, neutral and descriptive): "Beach activities"
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+        1. Keywords indicate that this topic is related to beach-related tourism activities.
+        2. Documents mention swimming, snorkeling, buying souvenirs, and visiting restaurants.
+        3. The location of these activities is not explicitly mentioned but can be inferred from the context.
+        Topic ID: 2:
+        Decision: VALID
+        Proposed Topic Label (max 6 words, neutral and descriptive): "Food"
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+        1. Keywords indicate that this topic is related to food-related tourism activities.
+        2. Documents mention buying souvenirs from restaurants and vendors, eating seafood dishes, and visiting beaches for recreational purposes.
+        3. The location of these activities is not explicitly mentioned but can be inferred from the context.
+        Topic ID: 3:
+        Decision: VALID
+        Proposed Topic Label (max 6 words, neutral and descriptive): "Snorkeling"
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+        1. Keywords indicate that this topic is related to snorkeling-related tourism activities.
+        2. Documents mention visiting beaches for recreational purposes, buying souvenirs from restaurants and vendors, and enjoying seafood dishes.
+        3. The location of these activities is not explicitly mentioned but can be inferred from the context.
+        Topic ID: 4:
+        Decision: VALID
+        Proposed Topic Label (max 6 words, neutral and descriptive): "Snorkeling"
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+        1. Keywords indicate that this topic is related to snorkeling-related tourism activities.
+        2. Documents mention visiting beaches for recreational purposes, buying souvenirs from restaurants and vendors,

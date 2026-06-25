@@ -1,0 +1,21 @@
+Topic ID: 6:
+Keywords:
+m, l, p, r, s, m, t, c
+Documents:
+1: "moteleslapaz lapazmexico motel bajacaliforniasur moteldelujo lujo serviciobar roomservice frases parejas relacionesdepareja erotico sensual romantico placer mujeres hombres pasion bajacaliforniasur motelesmexico motelesbajacaliforniasur moteldelujo potrodelamor servicebar roomservice frases"
+2: "moteleslapaz lapazmexico motel bajacaliforniasur moteldelujo lujo serviciobar roomservice frases parejas relacionesdepareja erotico sensual romantico placer mujeres hombres pasion bajacaliforniasur motelesmexico motelesbajacaliforniasur moteldelujo potrodelamor servicebar roomservice frases"
+3: "moteleslapaz lapazmexico motel bajacaliforniasur moteldelujo lujo serviciobar roomservice frases parejas relacionesdepareja erotico sensual romantico placer mujeres hombres pasion bajacaliforniasur motelesmexico motelesbajacaliforniasur moteldelujo potrodelamor servicebar roomservice frases"
+4: "moteleslapaz lapazmexico motel bajacaliforniasur moteldelujo lujo serviciobar roomservice frases parejas relacionesdepareja erotico sensual romantico placer mujeres hombres pasion bajacaliforniasur motelesmexico motelesbajacaliforniasur moteldelujo potrodelamor servicebar roomservice frases"
+5: "moteleslapaz lapazmexico motel bajacaliforniasur moteldelujo lujo serviciobar roomservice frases parejas relacionesdepareja erotico sensual romantico placer mujeres hombres pasion bajacaliforniasur motelesmexico motelesbajacaliforniasur moteldelujo potrodelamor servicebar roomservice frases"
+```json
+{
+  "analysis": [
+    {
+      "Topic ID": "1",
+      "Decision": "VALID",
+      "Proposed Topic Label": "Fitness and Lifestyle – Mexico”,
+      "Short Analytical Description": "This topic centers around fitness, lifestyle, and personal branding in the Baja California region of Mexico. Keywords relate to gym culture, photography, fit dads, family activities, and local businesses."
+    },
+    {
+      "Topic ID": "2",
+      

@@ -1,0 +1,26 @@
+ 3. Provide the analytical description for each topic:
+
+        - Topic ID: 1:
+          Keywords: l, b, e, h, s, l, t, a
+          Documents:
+            1: "Los Baños solo Servia uno."
+           2: "Excelente ojalá no la privaticen"
+           3: "Excelente lugar para pasar una linda tarde y degustar una rica nieve"
+           4: "Todo el tiempo lo cierran los policistas..."
+           5: "Strong service and attentive service."
+
+        - Analytical Description:
+          The documents suggest a theme of restricted access to the beach due to police enforcement, with mentions of various amenities like kayaks, paddle, kayak, etc. There is no explicit mention of any geographical or contextual information that would allow for further analysis.
+
+        - Topic ID: 2:
+          Keywords: r, l, p, s, e, e, b, p
+          Documents:
+           1: "- Hay renta de Kayaks - Senderismo por Balandra - Solo hay baños secos (no cobran pero puedes dejar propina ya que es proyecto de personas voluntarias) - Cuando yo fíl dejaban pasar por grupos: uno a las 7am aprox. Y el otro a la 1pm aprox. Te dan límite de tiempo para estar ahí (2hrs aprox) Recomendación: llevar Aqua Shoes (para llegar al hongo hay mucha piedra)"
+           2: "Me encantó. Tienen como llegar, amplio estacionamiento, comida, bebidas, renta de paddle, kayak y demás, palapas gratis (llega temprano) y personal del lugar muy honesto y servicial."
+        - Analytical Description:
+          The documents suggest a theme of recreational activities with various amenities and services. There is no explicit mention of any geographical or contextual information that would allow for further analysis.
+
+        - Topic ID: 3:
+          Keywords: c, f, t, d, e, t, b, h
+           Documents:
+            1: "Lugar muy especial, sobtadamente en esta época del año, es notorio lo que ha sido mejorado. Ideal para correr o rodar por las mañanas temprano y más tarde para recorrerlo de forma tranquilo"

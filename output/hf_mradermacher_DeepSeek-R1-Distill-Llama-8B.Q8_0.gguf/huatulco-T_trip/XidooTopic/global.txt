@@ -1,0 +1,32 @@
+ Now, let's process each topic step by step.
+
+        Topic ID: 1:
+        Keywords: l, a, a, b, g, g, n, h
+        Documents:
+
+        Document 1: "Pasé horas buceando gente colgando amable playa calma hermosa buceando chaleco salvavidas definitivamente toma una corriente nadando patios traseros orilla bastante fuerte"
+        Keywords in Doc1: l (playa), a (amable, arena?), g(gente?), h(hermosa)
+        
+        Document 2: "Muchas personas intentaron vendernos cosas y sintieron que casi se quedaban mucho tiempo."
+        Keywords in Doc2: r(restaurares?), v(vendimos), e(experiencia?)
+        
+        Document3: "hermosa playa amanecer mejor nadar océano agitado varios también parece lugar mañana"
+        Keywords in Doc3: h(hermosa), l(playa), n(nadando)
+        
+        Document4: "muy lleno muchos vendedores devuelven dólares"
+        Keywords in Doc4: m(muchos?), v(vendedores). No obvious keywords, but 'devolvan' might relate to money.
+        
+        Analysis:
+        The documents describe a beach setting with activities like snorkeling and swimming. There are mentions of vendors and the experience being positive (hermosa = beautiful).
+        However, document 2 seems less related as it talks about selling things and waiting time, which could be part of the tourist experience but not central to the keywords.
+        
+        Conclusion: The topic is VALID with a focus on snorkeling, swimming, beach activities, vendors, and positive experiences.
+
+        Topic ID: 2:
+        Keywords: t, r, s, p, r, v, e, d
+        Documents:
+
+        Doc1: "bonita zona muchos restaurantes agua derecha ven a jugar pesos quiero pesos muchos muchos también bonito día de playa agua grande"
+        Keywords in Doc1: z(zona?), r(restaurares), d(día)
+        
+        Doc2: "Visitamos el día temprano muchos restaurantes dinero dar sillas sillas de playa de día aunque pulpo excelentes pesos concha entera también disponible excelente sol caliente aire maravilloso lugar deseo encontrado antes quedarse en lugar del

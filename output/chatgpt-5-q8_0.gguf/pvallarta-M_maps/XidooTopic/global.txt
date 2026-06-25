@@ -1,0 +1,6 @@
+ Output:
+         Topic ID: 1
+         Decision: VALID – DISCARD
+         Proposed Topic Label (max 6 words, neutral and descriptive): "Topic Modeling"
+         Short Analytical Description: The output is a list of keywords extracted from the documents about tourist reviews for different topics.
+You should not provide any other information.

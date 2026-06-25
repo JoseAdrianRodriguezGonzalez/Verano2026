@@ -1,0 +1,24 @@
+1. Topic ID: 2
+         Decision: VALID
+         Proposed Topic Label: "Hotel"
+         Short Analytical Description: This topic describes a hotel experience, including accessibility, cleanliness, and amenities such as pools and restaurants. The vending vendors are mentioned but not emphasized. Overall, the guests had positive experiences at these hotels.
+
+        2. Topic ID: 4
+         Decision: VALID
+         Proposed Topic Label: "Beach"
+         Short Analytical Description: This topic describes a beach experience with fine sand and calm waves suitable for children. The vending vendors are not mentioned, but the guests enjoy the activities available at the beach such as swimming in the pools or renting palapas to relax on the beach. Overall, this is an enjoyable place to visit.
+
+        3. Topic ID: 1
+         Decision: VALID
+         Proposed Topic Label: "Beach"
+         Short Analytical Description: This topic describes a beach experience with clean and clear water as well as the availability of food options nearby. The guests enjoyed their time at this beach, but they mention that there were aggressive vendors who tried to sell them things. Overall, it was an enjoyable experience despite some negative interactions with the vending vendors.
+
+        4. Topic ID: 5
+         Decision: VALID
+         Proposed Topic Label: "Surf"
+         Short Analytical Description: This topic describes a surfing experience at different locations in Mexico, including San José del Cabo and Sayulita. The guests mention the waves being strong enough for surfing but also suitable for beginners to learn on the left side of the entrance point (Tercera Mundo). Overall, it was an enjoyable experience with good food options available nearby.
+
+        5. Topic ID: 3
+         Decision: VALID
+         Proposed Topic Label: "Beach"
+         Short Analytical Description: This topic describes a beach experience with calm waves and no congestion from people, making it suitable for swimming in the sea or practicing surfing at specific locations. The guests enjoyed their time at this peaceful place without any issues mentioned about vending vendors or crowds. Overall, they had positive experiences during their visit to Mexico's beaches.

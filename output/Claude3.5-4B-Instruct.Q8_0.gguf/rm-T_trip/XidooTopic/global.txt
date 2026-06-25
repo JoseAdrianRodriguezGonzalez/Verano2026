@@ -1,0 +1,36 @@
+ Topic ID: 6:
+Keywords:
+t, i, a, c, m
+Documents:
+1: "mejor experiencia de viaje que he tenido en mi vida no puedo creer lo hermoso todo es tan natural y así como está sin necesidad de hacer nada más que simplemente estar allí"
+2: "es un lugar increíble para visitar si estás interesado en la naturaleza o quieres pasar el día tranquilo sin distracciones"
+3: "me encanta ver los pájaros aquí todo es tan hermoso y natural"
+4: "estoy completamente fascinado por este paisaje natural estoy impresionado con lo bello que es"
+5: "es un lugar extraordinario para disfrutar de la naturaleza sin necesidad de hacer nada más que simplemente estar allí"
+
+Topic ID: 7:
+Keywords:
+p, r, n
+Documents:
+1: "me encanta el parque natural en general me gusta mucho este tipo de lugares"
+2: "es un lugar increíble para visitar si estás interesado en la naturaleza o quieres pasar el día tranquilo sin distracciones"
+3: "me encanta ver los pájaros aquí todo es tan hermoso y natural"
+4: "estoy completamente fascinado por este paisaje natural estoy impresionado con lo bello que es"
+
+Topic ID 8:
+Keywords: a, v
+Documents:
+1: "una experiencia increíble en la vida me encanta ver los pájaros aquí todo es tan hermoso y natural"
+2. "estoy completamente fascinado por este paisaje natural estoy impresionado con lo bello que es"
+
+Topic ID 9:
+Keywords: c, r
+Documents:
+1: "mejor experiencia de viaje que he tenido en mi vida no puedo creer lo hermoso todo es tan natural y así como está sin necesidad de hacer nada más que simplemente estar allí"
+2. "es un lugar increíble para visitar si estás interesado en la naturaleza o quieres pasar el día tranquilo sin distracciones"
+
+Topic ID 10:
+Keywords: f, a
+Documents:
+1. "una experiencia increíble en la vida me encanta ver los pájaros aquí todo es tan hermoso y natural"
+2. "estoy completamente fascinado por

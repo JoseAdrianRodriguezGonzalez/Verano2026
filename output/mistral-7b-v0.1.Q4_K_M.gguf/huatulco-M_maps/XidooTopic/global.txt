@@ -1,0 +1,9 @@
+ Output:
+         Topic ID: 1: VALID – Tourist Reviews of the Coastal Region of Oaxaca, Mexico
+         Proposed Topic Label: "Coastal Region of Oaxaca"
+         Short Analytical Description: The documents describe tourist experiences in the coastal region of Oaxaca, specifically mentioning places like Huatulco and Puerto Escondido. They highlight the beauty of beaches, snorkeling opportunities, restaurants, and local cuisine. Some reviews also comment on the friendliness of locals and the cleanliness of the area. Overall, these documents suggest a topic related to tourism in coastal Oaxaca.
+         Topic ID: 2: INCOHERENT – DISCARD
+         Topic ID: 3: VALID – Tourist Reviews of Huatulco, Mexico
+         Proposed Topic Label: "Huatulco"
+         Short Analytical Description: The documents describe tourist experiences in the town of Huatulco. They highlight its natural beauty and cleanliness, mentioning places like La Entrega beach and its coral reefs. Some reviews also comment on activities such as snorkeling and paseos (tours) to visit nearby bays. Overall, these documents suggest a topic related to tourism in Huatulco.
+         Topic ID: 4: INCOHERENT – DISCARD

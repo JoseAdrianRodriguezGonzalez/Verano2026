@@ -1,0 +1,29 @@
+ Now, proceed to analyze each topic.
+
+        First, let's look at Topic 1:
+        Keywords: l, l, l, p, l, p, e, t
+        So the keywords are 'l', 'p', 'e', 't'. Since they're all single letters and repeated multiple times, it might be challenging to interpret. However, looking at the documents:
+
+        Document 1 talks about "playa es tan hermosa y limpia", which is Spanish for "the beach is so beautiful and clean". So keywords like l (limpia = clean), p (playa = beach). e could stand for 'equipo' or something else, but in context, it's talking about the beach. t might be related to 'tiempo', time.
+
+        Document 2: "agua muy limpia", again mentioning cleanliness.
+        Document3: talks about playa limpia and olas (waves), so l is clean, e could relate to 'equipo' or maybe 'eje'? Not sure, but in context of the beach, it's likely related. t might be time.
+
+        So keywords are centered around describing a clean, beautiful beach with some vendors and cleanliness aspects.
+        
+        Now Topic 2:
+        Keywords: h, f, e, s, b, d
+        Looking at documents:
+
+        Document1: "playa prÃ¡cticamente sÃ³lo tiene acceso por medio de los hoteles", so 'h' is likely hotel. 'f' maybe 'familia'? Or could be another word.
+        But in this context, it's about access via hotels.
+
+        Document2 mentions vendedores (vendors) and the need to relax. So s might stand for 'vendedor', but that seems off because keywords are h,f,e,s,b,d.
+
+        Wait, maybe looking at all documents:
+
+        Topic 2 has words like hoteles (hotels), playa privada (private beach?), vendedores (vendors), alberca principal (main pool). So the topic is about hotel access to a private beach and issues with vendors. 'h' could be hotels, 'f' maybe family? Not sure.
+
+        But looking at keywords: h,f,e,s,b,d – perhaps standing for Hotel, Family, Experience, Service, Beach, Development?
+
+        The documents talk more about the logistics of accessing the beach through hotels, presence of vendors,

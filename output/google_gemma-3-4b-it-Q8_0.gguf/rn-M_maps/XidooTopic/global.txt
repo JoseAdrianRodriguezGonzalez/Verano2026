@@ -1,0 +1,37 @@
+Topic ID: 4:
+Keywords:
+s, t, p, s, e, r, a, i
+Documents:
+1: "Este hotel es muy bueno y tiene un excelente servicio. La comida es deliciosa y el personal siempre está dispuesto a ayudar."
+2: “Es una buena opción para pasar unas vacaciones en familia.”
+3: “La playa es limpia y tranquila, ideal para relajarse.”
+4: “El ambiente del lugar es agradable y familiar”
+5: "Siempre se puede disfrutar de un buen servicio al cliente. La comida siempre está bien preparada."
+
+---
+
+Topic ID: 1
+Decision: VALID
+Proposed Topic Label: Beach Relaxation and Family Enjoyment
+Short Analytical Description: The topic revolves around positive experiences at beaches, characterized by descriptions of pleasant sand, calm waves, family enjoyment, and recommendations for the destination. Keywords like "playa," "familia," "agradable" consistently appear in the documents.
+
+Topic ID: 2
+Decision: VALID
+Proposed Topic Label: Coastal Activities and Local Experiences
+Short Analytical Description: This topic focuses on activities along the coast such as dining, surfing, enjoying sunsets, and exploring local areas like a boardwalk or malecón. The keywords "comida," “mar,” “ciudad” suggest this theme.
+
+Topic ID: 3
+Decision: VALID
+Proposed Topic Label: Bohemian Beach Destination
+Short Analytical Description: This topic describes a relaxed beach destination with an artistic/hippie vibe, featuring mentions of festivals, local friendliness, and alternative accommodations like Airbnb or camping. Keywords such as "festival," “amables,” and “hippie” are indicative of this theme.
+
+Topic ID: 4
+Decision: INCOHERENT – DISCARD
+Short Analytical Description: The keywords and documents do not form a coherent topic; they describe general hotel satisfaction, service quality, and pleasant vacation experiences without establishing a clear common thread.
+---
+**Overlapping Topics:**
+
+Topics 1 and 3 appear to have some overlap due to the shared theme of beaches but with slightly different nuances (family-oriented vs. bohemian).
+
+Proposed Merged Topic Label: Beach Destinations & Local Culture
+Merged Topic IDs: 1, 3

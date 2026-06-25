@@ -1,0 +1,30 @@
+ Now, I need to analyze each topic based on the given rules. Let's start with Topic 1.
+
+Topic ID: 1
+Keywords:
+e, e, b, h, c, h, e, p
+
+Documents:
+
+1: "hermoso lugar y muy bien cuidado"
+2: "Bonito lugar y muy cuidado"
+3: "Un lugar hermoso, y bien resguardado hasta donde hay posibilidades,"
+4: "Hermoso lugar Y muy bien cuidado para preservar lo bonito q está Felicidades Un paraíso"
+5: "Es un lugar muy familiar, bien vigilado con atracciones para la gente y su maravillosa vista. Esta muy limpio"
+
+Looking at the keywords first: e (probably 'lugar'), b ('bien'), h ('hermoso'), c ('cuidado'), p ('parque' or something similar). So keywords are about location, beauty, care, park.
+
+Now looking at documents:
+
+1: "hermoso lugar y muy bien cuidado" – beautiful place and well taken care of.
+2: "Bonito lugar y mucho cuidado" – nice place and very careful (maybe 'cuidado' is care)
+3: "Un lugar hermoso, y bien resguardado hasta donde hay posibilidades," – a beautiful place, well guarded as far as possible
+4: "Hermoso lugar Y muy bien cuidado para preservar lo bonito q está Felicidades Un paraíso" – Beautiful place and very well taken care of to preserve the beauty. Paradise.
+5: "Es un lugar muy familiar, bien vigilado con atracciones para la gente y su maravillosa vista. Esta muy limpio" – It's a very family-friendly place, well watched over with attractions for people and its wonderful view. Very clean.
+
+So all documents talk about the location being beautiful, well maintained or guarded, clean, etc. The keywords support that: 'lugar' (place), 'hermoso' (beautiful), 'cuidado' (care/taken care of). So this topic is coherent around a place's beauty and maintenance.
+Proposed label could be "Beautifully Maintained Place" but maybe shorter like "Well-Cared-for Location".
+
+Topic ID: 2
+Keywords:
+b, b, p, l, p, r, p,

@@ -1,0 +1,17 @@
+ Output must be structured as described above.
+
+Your task is to provide a detailed and comprehensive analysis of the topic modeling output, ensuring that you adhere strictly to the rules provided. Your response should not include any external knowledge or assumptions beyond what's explicitly stated in your input.
+```python
+# BEGIN SOLUTION
+
+Topic ID: 1:
+Keywords: f, m, l, l, l, p, f, m
+Documents: 
+- "bajo control pacenos lapazmx bajacaliforniasur labajasur fitmenover fitmens fitmenstyle fitmendaily fitdadlife fitdadfitness lapazmexico labaja bajacaliforniasurmexico fitdaddy papafit gymmen gymculture gymhealth ejerciciofisico gymtimebaby bcs lapazbcs mensfitness fitmen fitdad fitdads fotografos fotografoiniciante fotografomexicano fotografos mx"
+- "poder pacenos lapazmx bajacaliforniasur labajasur fitmenover fitmens fitomenstyle fitmendaily fitdadlife fitdadfitness lapazmexico labaja bajacaliforniasurmexico fitdaddy papafit gymmen gychofisico fitness time baby bcs lapazbcs mensfitness fitmen fitdad fitdads fotografos fotografoiniciante fotografomexicano fotografos mx"
+- "clima permite playa pacenos lapazmx bajacaliforniasur labajasur fitmenover fitmens fitomenstyle fitmendaily fitdadlife fitdadfitness lapazmexico labaja bajacaliforniasurmexico fitdaddy papafit gymmen gychofisico fitness time baby bcs lapazbcs mensfitness fitmen fitdad fitdads fotografos fotografoiniciante fotografomexicano fotografos mx"
+
+Topic ID: 2:
+Keywords: m, p, m, c, m, o, l, r
+Documents: 
+- "medidas cms ancho cms largo opciones pago transferencia bancaria deposito efectivo tarjeta credito decoracioninteriores designinspiration fedexshipping fedex hechoamano hechoenmexico homedecoration homedesign ideasdecoracion interior interiordecor interiordesigns interiorismomexico interiorismoonline interiorstyle interiorstyling regalosoriginales remodelaciones

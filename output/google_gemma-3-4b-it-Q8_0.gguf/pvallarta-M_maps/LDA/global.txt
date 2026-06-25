@@ -1,0 +1,13 @@
+Topic ID: 6:
+Keywords:
+b, v, e, b, m, p, z, s
+Documents:
+1: "Pasar por Parque Lázaro Cárdenas tuvo cosas buenas y otras mejorables. Tiene ratos agradables, aunque depende mucho de la hora. Lo mejor fue la relación calidad-precio, pero el tema del ruido terminó siendo un problema. Fuimos con amigos al atardecer. Hay buenos puntos para tomar fotos. Puede gustarte más si eliges bien la hora. Es una parada muy recomendable."
+2: "Pasar por Hotel boutique en Zona Romántica tuvo cosas buenas y otras mejorables. Cumple para dormir, pero no destaca. Lo mejor fue la relación calidad-precio, pero el tema del ruido necesita mejorar. Fuimos con niños en vacaciones. En temporada alta imagino que cambia bastante. Puede gustarte más si eliges bien la hora. No fue perfecto, pero sí tuvo momentos rescatables."
+3: "Pasar por Playa Los Muertos tuvo cosas buenas y otras mejorables. Tiene ratos agradables, aunque depende mucho de la hora. Lo mejor fue la relación calidad-precio, pero el tema del ruido terminó siendo lo más flojo. Fuimos con amigos al atardecer. Hay buenos puntos para tomar fotos. Puede gustarte más si eliges bien la hora. Es una parada muy recomendable."
+4: "Pasar por Parque Lázaro Cárdenas tuvo cosas buenas y otras mejorables. Tiene ratos agradables, aunque depende mucho de la hora. Lo mejor fue la relación calidad-precio, pero el tema del ruido terminó siendo un problema. Fuimos con niños en vacaciones. En temporada alta imagino que cambia bastante. Puede gustarte más si eliges bien la hora. Es una parada muy recomendable."
+5: "Pasar por Playa Gemelas tuvo cosas buenas y otras mejorables. La vista ayuda bastante, aunque hay detalles mejorables. Lo mejor fue la relación calidad-precio, pero el tema del ruido dejó mucho que desear. Fuimos solo al atardecer. En temporada alta imagino que cambia bastante. Puede gustarte más si eliges bien la hora. Con unos ajustes podría mejorar muchísimo."
+
+Decision: INCOHERENT – DISCARD
+Proposed Topic Label: Unclear Theme
+Short Analytical Description: The keywords and documents do not present a coherent theme, lacking clear semantic connections between the terms

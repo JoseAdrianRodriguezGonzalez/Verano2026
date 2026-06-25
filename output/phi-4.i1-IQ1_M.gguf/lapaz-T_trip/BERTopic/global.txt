@@ -1,0 +1,27 @@
+ 5. Provide the analytical description for each topic, strictly based on keywords and documents.
+
+        - Analyze all topics with a focus on the coherence of information provided by the given keywords.
+        - Use only the data from the keyword-document pairs to determine if there is semantic overlap between any two or more topics.
+        - If you are uncertain about whether multiple topics should be merged, propose to DISCARD rather than inventing thematic interpretations.
+
+**Solution:** Analytical Descriptions:
+
+- Topic ID: 1
+  The keywords suggest a theme of underwater exploration with activities like snorkeling and kayaking. There's an emphasis on the presence of marine life such as leons (likely misinterpretation for 'león', which refers to lions) and turtles, indicating that these creatures are observed in their natural habitat within the water environment. This aligns well with a description where tourists engage in activities like snorkeling at a "hermosa playa" or beautiful beach.
+
+- Topic ID: 2
+  The keywords here suggest an urban setting involving pedestrian traffic and local businesses such as restaurants, shops, and bars that are part of city life. There's also mention of the need for bicycle parking which implies areas where people can gather without much interaction with marine life, unlike in a beach environment.
+
+- Topic ID: 3
+  Keywords here suggest an urban setting similar to topic 2 but differs by including elements like "malecón" (street) and mentions of local businesses. The focus seems on the community aspect rather than individual activities or exploration as seen in other topics.
+
+- Topic ID: 4
+  This set focuses solely on a beach environment, with keywords that suggest an activity centered around water such as swimming, snorkeling, and observing marine life like dolphins (delfines) and turtles. The mention of "playa" indicates the presence or setting at a beautiful place for leisure activities.
+
+- Topic ID: 5
+  Keywords here are more aligned with topic 4 but seem to focus on an island environment that's described as both an adventure and a destination, possibly hinting towards tourism aspects such as visiting, snorkeling, and observing marine life. The mention of "island" suggests the place is not just for leisure activities like in topics 1 or 2.
+
+Analytical Descriptions:
+
+- Topic ID: 1
+  This topic seems to be consistent with a beach environment where underwater activities are taking place. There's an emphasis on

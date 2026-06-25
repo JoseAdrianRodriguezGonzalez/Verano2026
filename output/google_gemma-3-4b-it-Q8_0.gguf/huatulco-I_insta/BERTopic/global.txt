@@ -1,0 +1,32 @@
+Analysis:
+
+        Topic ID: 1
+        Decision: VALID
+        Proposed Topic Label (max 6 words): Huatulco Beach and Ocean Views
+        Short Analytical Description: The topic focuses on descriptions of the beaches, ocean waves, sun, palm trees, and overall beauty of Huatulco. Keywords like "huatulco," “bahias,” “playa”, “ola” consistently appear alongside terms relating to water features and natural elements.
+
+        Topic ID: 2
+        Decision: VALID
+        Proposed Topic Label (max 6 words): Beach Landscapes and Imagery
+        Short Analytical Description: This topic centers around images of beaches, often featuring sand, waves, and various coastal environments like tropical or Mediterranean settings. The keywords emphasize the visual appeal and photographic qualities associated with beach scenes.
+
+        Topic ID: 3
+        Decision: VALID
+        Proposed Topic Label (max 6 words): Mexican Traditional Dress & Art
+        Short Analytical Description: This topic is defined by terms related to traditional Mexican clothing, particularly elaborate dresses like "cholitas" and “trajes”. It also includes references to cultural symbols such as the Day of the Dead imagery (“catrina”) and artistic styles.
+
+        Topic ID: 4
+        Decision: VALID
+        Proposed Topic Label (max 6 words): Carnival Celebrations & Street Scenes
+        Short Analytical Description: The topic revolves around descriptions of street parades, festivals like "carnaval," and related activities such as floats and costumes. Keywords include “desfile,”“multitud”and elements associated with celebration.
+
+        Topic ID: 5
+        Decision: VALID
+        Proposed Topic Label (max 6 words): Island and Ocean Scenery
+        Short Analytical Description: This topic is defined by images of islands, oceans, and coastal landscapes. Keywords like "isla," “océano,” and terms related to water features consistently appear in the documents.
+
+        Overlapping Topics:
+        Topics 1 and 5 are semantically overlapping due to their shared focus on beaches and ocean scenery.
+
+        Proposed Merged Topic Label: Coastal Landscapes & Waterscapes
+        Merged Topic IDs: 1, 5

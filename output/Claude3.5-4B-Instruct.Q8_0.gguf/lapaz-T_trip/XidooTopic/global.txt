@@ -1,0 +1,44 @@
+ Topic ID: 1
+Decision: VALID
+
+Proposed Topic Label:
+Island Exploration and Marine Life Viewing
+
+Short Analytical Description:
+The keywords "l, s, p, i, e, p, b, v" align with the documents describing experiences on an island involving marine life observation. Document 3 mentions observing turtles while swimming in a reef area near a remote beach. The term "isla" (island) is explicitly mentioned twice in document 1 and once in document 2.
+
+Topic ID: 2
+Decision: VALID
+
+Proposed Topic Label:
+Urban Coastal Pathway Experience
+
+Short Analytical Description:
+The keywords "r, p, c, l, l, c, g, n" correspond to the documents describing experiences along a coastal pathway. Document 1 mentions walking on a paved path by water and another path nearby. Documents 2-3 repeatedly reference Malecón pathways for walking, biking, jogging, etc., with multiple instances of "paz" (peace) being associated with these areas.
+
+Topic ID: 3
+Decision: VALID
+
+Proposed Topic Label:
+Balandra Beach Visit Experience
+
+Short Analytical Description:
+The keywords "b, p, a, c, l, a, v, e" match the documents describing visits to Balandra beach. Document 1 directly mentions seeing food at Balandra and visiting it for an entire day trip in document 2. The term "Balandra" is explicitly mentioned four times across all three documents.
+
+Topic ID: 4
+Decision: VALID
+
+Proposed Topic Label:
+Main Port Boat Tour Experience
+
+Short Analytical Description:
+The keywords "p, v, a, h, d, g, e, g" align with the documents describing boat tours from a main port. Document 1 mentions going to the head of the main port and having excellent drinks there. Documents 2-3 repeatedly refer to being on a boat tour ("viaje de un día paz") and mention expert guides.
+
+Topic ID: 5
+Decision: VALID
+
+Proposed Topic Label:
+Coastal Beauty Viewing Experience
+
+Short Analytical Description:
+The keywords "p, c, h, i, e, i, v, b" match the documents describing experiences of viewing coastal beauty. Document 1 mentions seeing colorful water and life beyond cleaning in an anchorage area. Documents 2-4 repeatedly describe observing beautiful beaches with clear turquoise waters that are

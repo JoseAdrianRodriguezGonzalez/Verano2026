@@ -1,0 +1,22 @@
+ Now, let's process the topics one by one.
+
+        Topic ID: 1:
+Keywords: p, p, e, r, b, b, p, c
+Documents:
+
+Document 1: "playa de los muertos visitada sayulita playa para nadar perfecta familia lugar agradable y tranquilo disfrutar de las multitudes playa principal aunque surfear gran lugar establecer también sombra sombrilla necesita un poco de caminata fácil área de estacionamiento en la ciudad cementerio de la colina"
+Keywords in Document 1: p, e, r, b, c
+Document 2: "playa nuevo vallarta estupenda playa de arena suave zona tranquila fantásticos niños poco profundos camino bastante largo hermosas vistas de la playa"
+Keywords in Doc 2: s, t, c, t, p, e, d, t → but only relevant to the topic are p (playa), e (arena?), etc. But wait, keywords for this topic were given as p, p, e, r, b, b, p, c.
+
+Wait, perhaps I need to extract keywords from each document and see if they align with the provided list of keywords.
+
+But according to rule 1: base analysis only on the provided information; so we have a set of keywords for topic ID 1 as [p, p, e, r, b, b, p, c].
+
+Wait, but looking at Document 1:
+
+"playa de los muertos visitada sayulita playa para nadar perfecta familia lugar agradable y tranquilo disfrutar de las multitudes playa principal aunque surfear gran lugar establecer también sombra sombrilla necesita un poco de caminata fácil área de estacionamiento en la ciudad cementerio de la colina"
+
+The words here are: playa (p), sayulita, para nadar (e?), familia, agradable, tranquilo, multitudes, principal, surfear, gran lugar, sombra, sombrilla, caminata, fácil, estacionamiento en la ciudad, cementerio de la colina.
+
+So keywords in Doc1: p is present multiple times. e? Let's see if 'e' appears as a keyword. The word "familia" (family) doesn't match 'e'. Wait the provided keywords are [p,p,e,r,b,b,p

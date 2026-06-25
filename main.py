@@ -17,7 +17,12 @@ def generate_batch(source):
         os.makedirs(os.path.join("output", models),exist_ok=True)
         for files in sorted(os.listdir("json")):
             os.makedirs(f"output/{models}/{os.path.splitext(files)[0]}",exist_ok=True)
+            dire=f"output/{models}/{os.path.splitext(files)[0]}"
+            if os.path.exists(dire) and len(os.listdir(dire))==3:
+                print(f"Saltando, ya existe {dire}")
+                continue
             path_file=os.path.join("json",files)
+            print(f"Procesando {path_file} con {models}")
             llm.request_global_interpretation(path_file,f"output/{models}/{os.path.splitext(files)[0]}")
 
 def main():

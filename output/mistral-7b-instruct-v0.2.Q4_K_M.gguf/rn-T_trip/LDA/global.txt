@@ -1,0 +1,21 @@
+ Based on the provided information, I will analyze each topic as follows:
+
+         Topic ID: 1:
+         Decision: VALID
+         Proposed Topic Label: Beach Vendors and Activities
+         Analytical Description: This topic appears to revolve around beach-related experiences involving vendors and various activities. Keywords such as "bebé," "comida," "pesos," "pueblo," and "playa" are frequently mentioned, indicating a focus on tourist areas near the shore where people can find food, merchandise, and entertainment. The documents discuss visiting markets for unique items, finding good deals, trying local cuisine, and even interacting with wildlife like delfins (dolphins) in aquatic parks.
+
+         Topic ID: 2:
+         Decision: VALID
+         Proposed Topic Label: Dolphin Interaction at Aquatic Parks
+         Analytical Description: The documents in this topic discuss various experiences people had while visiting aquatic parks to interact with dolphins (delfines). Keywords like "parque acuático," "delfines," and "experiencia" are common, suggesting that the main theme is about tourists' encounters with these marine mammals in organized settings. The documents describe taking tours, swimming with dolphins, feeding them, and even learning from trainers or guides.
+
+         Topic ID: 3:
+         Decision: VALID
+         Proposed Topic Label: Market Exploration and Local Experiences
+         Analytical Description: This topic appears to be about tourists exploring local markets for unique items and experiences. Keywords like "mercado," "vendedores," "local," and "artesanal" are frequently mentioned, indicating a focus on shopping in authentic settings where people can find handmade crafts or traditional food. The documents describe visiting various markets, interacting with vendors, trying new foods, and even learning about the local culture through these experiences.
+
+         Topic ID: 4:
+         Decision: VALID
+         Proposed Topic Label: Cocodrilo Sanctuaries and Encounters
+         Analytical Description: The documents in this topic discuss tourists' visits to crocodile (cocodrilos) sanctuaries, where they can learn about these animals

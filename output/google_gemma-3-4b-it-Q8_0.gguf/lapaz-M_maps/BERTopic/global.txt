@@ -1,0 +1,31 @@
+Topic ID: 1:
+Decision: VALID
+Proposed Topic Label (max 6 words): Beautiful and well-maintained places
+Short Analytical Description: The topic revolves around descriptions of locations as “beautiful,” "well cared," and "preserved."  The documents consistently highlight the positive condition and appearance of these areas.
+
+Topic ID: 2:
+Decision: VALID
+Proposed Topic Label (max 6 words): Beach activities and tourism
+Short Analytical Description: This topic focuses on beach-related experiences, including walking along the shore, restaurants nearby, peacefulness, and scenic views.  It also includes mentions of touristy areas like La Paz.
+
+Topic ID: 3:
+Decision: VALID
+Proposed Topic Label (max 6 words): Local history museums in Baja
+Short Analytical Description: The topic centers on visits to local museums showcasing the history of Baja California Sur, featuring exhibits about prehistory, colonial periods, and revolutions.  The documents emphasize informative descriptions and Spanish language learning opportunities.
+
+Topic ID: 4:
+Decision: VALID
+Proposed Topic Label (max 6 words): Cathedrals and town squares
+Short Analytical Description: This topic is dedicated to observations of cathedrals, noting their architecture, statues, stained glass windows, and surrounding public spaces like parks and benches. The documents describe the cathedral as a community gathering place.
+
+Topic ID: 5:
+Decision: VALID
+Proposed Topic Label (max 6 words): Spectacular sunsets and reserves
+Short Analytical Description: This topic is centered around descriptions of spectacular views and well-maintained areas, specifically mentioning sunset observations within reserves or protected locations. The documents consistently use the word “spectacular” to describe these experiences.
+
+Overlapping Topics:
+Topics 1 and 5 share keywords like ‘e’ (excellent), 'v' (view) and ‘s’ (spectacular).
+
+Proposed Merged Topic Label: Beautiful Scenic Locations
+Merged Topic IDs: 1, 5
+        -   Due to the shared focus on positive descriptions of locations with scenic views.

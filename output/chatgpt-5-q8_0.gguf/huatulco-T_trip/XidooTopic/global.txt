@@ -1,0 +1,33 @@
+ Output Format: For each topic, provide the requested information in a table format. Each row should contain:
+
+        | Topic ID       | Decision          | Proposed Topic Label  (max 6 words)   |
+        |----------------|--------------------|-------------------------------|
+        | 1             | VALID            | "Incoherent – DISCARD"           |
+        | 2             | INCOHERENT – DISCARD | "INCOHERENT”                       |
+        | 3             | INCOHERENT – DISCARD | "INCOHERENT”                       |
+        | 4             | INCOHERENT – DISCARD | "INCOHERENT”                       |
+        | 5             | VALID            | "Incoherent – DISCARD"           |
+
+        Output Format: For each topic, provide the requested information in a table format. Each row should contain:
+
+          | Topic ID       | Decision              | Proposed Topic Label (max 6 words)   |
+          |----------------|--------------------|-------------------------------|
+          | 1             | VALID               | "Incoherent – DISCARD"           |
+        | 2             | INCOHERENT – DISCARD    | "INCOHERENT”                       |
+        | 3             | INCOHERENT – DISCARD    | "INCOHERENT”                       |
+         | 4             | INCOHERENT – DISCARD   | "INCOHERENT”                       |
+
+        Output Format: For each topic, provide the requested information in a table format. Each row should contain:
+
+            | Topic ID       | Decision              | Proposed Topic Label (max 6 words) |
+            |----------------|--------------------|-------------------------------|
+          | 1             | VALID               | "Incoherent – DISCARD"           |
+        | 2             | INCOHERENT – DISCARD    | "INCOHERENT”                       |
+        | 3             | INCOHERENT – DISCARD    | "INCOHERENT”                       |
+         | 4             | INCOHERENT – DISCARD   | "INCOHERENT”                       |
+
+        Output Format: For each topic, provide the requested information in a table format. Each row should contain:
+
+                | Topic ID       | Decision              | Proposed Topic Label (max 6 words) |
+                |----------------|--------------------|-------------------------------|
+          | 1             | VALID               | "Incoherent

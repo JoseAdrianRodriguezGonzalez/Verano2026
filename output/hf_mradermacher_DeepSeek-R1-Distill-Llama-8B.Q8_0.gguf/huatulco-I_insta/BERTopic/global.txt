@@ -1,0 +1,38 @@
+ After analyzing all topics, determine if any VALID topics are semantically overlapping and propose a merged topic label.
+
+        Now let's process each topic step by step.
+</think>
+
+### Topic 1
+- **Topic ID:** 1  
+- **Decision:** VALID  
+- **Proposed Topic Label:** "Playa y turismo en Huatulco" (Beach and tourism in Huatulco)  
+- **Short Analytical Description:** The documents describe a beautiful beach destination with clear ocean views, activities like surfing, and cultural elements such as traditional clothing. Keywords include terms related to the beach, sun, water, and specific locations like Bahías de Huatulco and Cacaluta.
+
+### Topic 2
+- **Topic ID:** 2  
+- **Decision:** VALID  
+- **Proposed Topic Label:** "Playa y naturaleza" (Beach and nature)  
+- **Short Analytical Description:** The documents focus on the natural beauty of beaches, including details about sand, water colors, vegetation, and ocean views. Keywords highlight aspects like playas blancas (white sands), mar azul (blue sea), and tropical settings.
+
+### Topic 3
+- **Topic ID:** 3  
+- **Decision:** VALID  
+- **Proposed Topic Label:** "Vestuario y moda mexicana" (Mexican clothing and fashion)  
+- **Short Analytical Description:** The documents discuss colorful traditional outfits, including dresses and accessories inspired by Mexican culture. Keywords include terms related to folkloric attire, vibrant colors, and cultural influences.
+
+### Topic 4
+- **Topic ID:** 4  
+- **Decision:** VALID  
+- **Proposed Topic Label:** "Carnaval y celebraciones" ( Carnival and celebrations)  
+- **Short Analytical Description:** The documents describe a lively carnival atmosphere with parades, costumes, and vibrant settings. Keywords include terms like desfile (parade), carnaval (carnival), and multitud (crowd).
+
+### Topic 5
+- **Topic ID:** 5  
+- **Decision:** VALID  
+- **Proposed Topic Label:** "Paisaje y naturaleza marítima" (Marine landscape and nature)  
+- **Short Analytical Description:** The documents focus on coastal landscapes, including islands, ocean views, and beach photography. Keywords include terms related to the ocean, marine life, and scenic views.
+
+---
+
+### Analysis of Overlapping

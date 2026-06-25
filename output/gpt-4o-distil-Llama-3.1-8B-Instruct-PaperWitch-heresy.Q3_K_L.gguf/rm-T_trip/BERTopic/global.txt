@@ -1,0 +1,48 @@
+ After analyzing the input information, please proceed to provide:
+
+        - Topic ID:
+        - Decision: (VALID / INCOHERENT – DISCARD)
+        - Proposed Topic Label (max 6 words):
+        - Short Analytical Description
+
+          Repeat this structure for each topic. If any topics are semantically overlapping and should be merged, indicate the proposed merge after analyzing all VALID topics.
+
+          Finally, if there is strong semantic overlap between two or more topics that would make them better represented as a single entity, propose how to merge these Topic IDs into a new label with an updated description, keeping in mind not to introduce external knowledge.  "    
+
+
+
+
+Topic ID: 1
+Decision: VALID 
+Proposed Topic Label: “Tourist Experiences and Reviews”
+Short Analytical Description:
+This topic appears to be about tourist experiences at resorts or destinations like Xcaret, based on the mention of specific locations (Xcaret), activities (tour operators, snorkeling), complaints about tour quality, and overall travel planning. The keywords suggest a mix between tourism services, customer reviews, and general vacationing.
+
+Topic ID: 2
+Decision: VALID 
+Proposed Topic Label: “Cenote Visits”
+Short Analytical Description:
+This topic seems to focus on visiting cenotes (natural swimming holes), with specific mentions of places like Dos Ojos Cenote. Keywords highlight snorkeling activities, entrance fees, and the importance of guides for safe exploration.
+
+Topic ID: 3
+Decision: VALID 
+Proposed Topic Label: “Snorkeling Experiences”
+Short Analytical Description:
+This topic centers around snorkeling experiences at locations possibly related to tourist spots or beaches (e.g., Dos Ojos). Keywords emphasize snorkel gear, tortuga sightings, and the importance of guides for safety.
+
+Topic ID: 4
+Decision: VALID 
+Proposed Topic Label: “Animal Encounters”
+Short Analytical Description:
+This topic appears focused on interactions with animals at a zoo-like setting. The keywords highlight animal types (e.g., cocodrilos), interaction experiences, educational value, and the importance of guides.
+
+Topic ID: 5
+Decision: VALID 
+Proposed Topic Label: “Cavern Exploration”
+Short Analytical Description:
+This topic seems to be about exploring caves or caverns under water. Keywords mention snorkeling gear, unique formations (stalactites/stalagmites), guided tours for safety and educational value.
+
+
+After analyzing all topics:
+
+- There

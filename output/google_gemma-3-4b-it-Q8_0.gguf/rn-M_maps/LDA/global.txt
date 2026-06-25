@@ -1,0 +1,25 @@
+
+- Topic ID: 1
+- Decision: INCOHERENT – DISCARD
+- Proposed Topic Label (max 6 words, neutral and descriptive): Beach Amenities & Tourist Complaints
+- Short Analytical Description (2–3 sentences strictly grounded in the provided text) The keywords relate to beach descriptions ("playa hermosa," "olas bravas") but are mixed with complaints about noise levels, marijuana smells, and poor cleanliness.  The documents present a conflicting picture of a tourist destination, highlighting both positive aspects like sunsets and surfing opportunities alongside negative experiences related to local behavior and facility conditions.
+
+- Topic ID: 2
+- Decision: VALID
+- Proposed Topic Label (max 6 words, neutral and descriptive): San Pancho Beach & Surfing
+- Short Analytical Description (2–3 sentences strictly grounded in the provided text) This topic centers around descriptions of the beach itself ("playa bonita," "olas") and its suitability for activities like surfing. The documents emphasize the beach's tranquility compared to Sayulita, along with observations about wave conditions and accessibility for different skill levels.
+
+- Topic ID: 3
+- Decision: VALID
+- Proposed Topic Label (max 6 words, neutral and descriptive): Camping Experience & Accommodation Issues
+- Short Analytical Description (2–3 sentences strictly grounded in the provided text) The topic revolves around a camping experience at San Pancho, with concerns raised about noise levels from campers' social activities.  The documents detail issues related to cleanliness, facility maintenance, and perceived lack of consideration for other guests by the campground owner.
+
+- Topic ID: 4
+- Decision: VALID
+- Proposed Topic Label (max 6 words, neutral and descriptive): San Pancho Beach & Coastal Activities
+- Short Analytical Description (2–3 sentences strictly grounded in the provided text) This topic focuses on descriptions of San Pancho beach as a destination for relaxation and coastal activities. The documents highlight its cleanliness, suitability for swimming and surfing, and proximity to restaurants and other amenities.
+
+- Topic ID: 5
+- Decision: VALID
+- Proposed Topic Label (max 6 words, neutral and descriptive): Beach Fishing & Coastal Relaxation
+- Short Analytical Description (2–3 sentences strictly grounded in the provided text) The topic is centered on beach activities such as fishing and enjoying coastal scenery.  The documents describe observations of fishermen, a relatively quiet atmosphere compared to other beaches, and mentions of renting loungers for relaxation.

@@ -1,0 +1,43 @@
+ Now, analyze each topic based on the rules provided.
+
+        Let's start with Topic ID: 1
+        Keywords:
+        h, p, o, b, v, c, c, v
+
+        Documents:
+
+        Document 1 describes Huatulco as a tourist destination in Mexico, mentioning beaches, natural beauty, and activities like snorkeling. It also refers to specific locations within Huatulco such as Bahías de Huatulco.
+
+        Document 2 talks about the same location with similar themes: beautiful beaches, clear waters, snorkeling spots, and family-friendly activities.
+
+        Document 3 is nearly identical in content to document 1 but slightly varied wording. It reinforces the theme of Huatulco's attractions for tourists.
+
+        Document 4 again mentions specific locations like Santa Cruz and Bahías de Huatulco, further detailing the natural beauty and tourist spots.
+
+        Document 5 discusses snorkeling activities, clear waters, and the biodiversity around Huatulco.
+
+        Analysis:
+        All documents focus on describing Huatulco as a beautiful beach destination in Mexico with specific locations. The keywords include terms related to beaches (playa), natural settings (mar, agua azul), and tourist attractions like snorkeling. There's no indication of inconsistency or unrelated topics; the content is coherent.
+        
+        Conclusion: VALID
+        Proposed Topic Label: "Huatulco Beaches and Snorkeling"
+        Short Analytical Description:
+        The documents describe Huatulco as a popular beach destination in Mexico, focusing on its beautiful beaches, clear waters, snorkeling activities, and natural attractions.
+
+        Next, Topic ID: 2
+        Keywords:
+        p, a, f, f, o, p, f, b
+
+        Documents:
+
+        All documents describe aspects of tropical islands or beaches. They mention beach views from drones, white sand, clear water, snorkeling spots, and the beauty of the surroundings.
+
+        Analysis:
+        The keywords include terms like playa (beach), mar (sea), and activities related to snorkeling. The content consistently discusses the natural beauty of coastal areas with emphasis on visual elements captured by drones.
+        
+        Conclusion: VALID
+        Proposed Topic Label: "Tropical Beaches from Drone Views"
+        Short Analytical Description:
+        The documents focus on showcasing tropical beaches through drone photography, highlighting their pristine landscapes and activities like snorkeling.
+
+        Next, Topic ID: 3

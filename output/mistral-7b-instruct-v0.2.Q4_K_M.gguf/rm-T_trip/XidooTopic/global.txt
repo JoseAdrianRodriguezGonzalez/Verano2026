@@ -1,0 +1,26 @@
+ Based on the provided information, here is my analysis for each topic:
+
+         Topic ID: 1:
+         Decision: VALID
+         Proposed Topic Label: Tourist Experiences and Family Fun
+         Short Analytical Description: This topic appears to revolve around various tourist experiences and family-oriented activities. Keywords like "guía," "familiar," "gran viaje," and "relajante" suggest tours, travel, and enjoyable time spent with family. The documents mention visits to cenotes, restaurants, and parks, which further support this interpretation.
+
+         Topic ID: 2:
+         Decision: VALID
+         Proposed Topic Label: Tourist Attractions and Adventures
+         Short Analytical Description: This topic seems to focus on various tourist attractions and adventures, as indicated by keywords like "interesante," "ver," "valorar," and "snorkel." The documents mention visits to cenotes, parks, ruins, and even underwater experiences.
+
+         Topic ID: 3:
+         Decision: VALID
+         Proposed Topic Label: Beach Vacations and Snorkeling
+         Short Analytical Description: This topic appears to center around beach vacations and snorkeling activities, as suggested by keywords like "playa," "bebidas," "snorkel," and "tortugas." The documents mention autobús rides, beaches, and various experiences related to snorkeling.
+
+         Topic ID: 4:
+         Decision: VALID
+         Proposed Topic Label: Underwater Adventures and Cenotes
+         Short Analytical Description: This topic seems to revolve around underwater adventures and cenote visits, as indicated by keywords like "bucear," "subterráneo," "cueva de murciélagos," and "cenotes." The documents mention various experiences related to underwater exploration and visiting cenotes.
+
+         Topic ID: 5:
+         Decision: VALID
+         Proposed Topic Label: Cenote Exploration and Adventures
+         Short Analytical Description: This topic appears to focus on cenote exploration and adventures, as suggested by keywords like "cenote," "visitar," "guía

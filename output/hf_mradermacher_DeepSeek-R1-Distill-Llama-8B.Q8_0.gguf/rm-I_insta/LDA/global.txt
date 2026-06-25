@@ -1,0 +1,27 @@
+ Now, analyze the topics and decide whether each is VALID or INCOHERENT – DISCARD.
+
+        Let's start with Topic ID: 1:
+Keywords: p, t, c, c, p, a, a, m
+Documents:
+
+Looking at the documents for Topic ID 1, they all seem to be talking about real estate investments in Tulum and surrounding areas. The keywords include words like "p" (presumably property), "t" (Tulum?), "c" (condominio or something similar). The documents mention locations like Playa del Carmen, Riviera Maya, Cancun, etc., and talk about buying properties, vacation rentals, investments in real estate.
+
+So the topic is clearly focused on real estate investment opportunities in specific tourist areas. Therefore, it's semantically coherent.
+Proposed Topic Label: "Tulum Real Estate Investment"
+Short Analytical Description: The documents discuss various aspects of real estate investment in Tulum and neighboring locations, including properties for sale, vacation rentals, and the potential benefits of such investments.
+
+Proceeding to Topic ID 2:
+Keywords: t, m, p, p, r, s, c, b
+Documents:
+
+Looking at the keywords first—t (tour?), m (maybe "mayares" or something), p (property again?), r (resorts?), s (services?), c (condominio), b (beach?).
+
+The documents mention things like "balloon glowing star", which might be events, but then there's a lot about hotels and resorts. The first document talks about a hotel xcaret with activities for kids, roller coasters, etc., and mentions family vacations.
+
+Second document seems to talk more about locations in Tulum biosphere reserve, water waves, palm trees, fishing, kayaking—so natural aspects but also some resort-related stuff like "agua" (water) and "playa" (beach).
+
+Third document again has a lot of hotel xcaret mentions with activities, group vacations. Fourth document seems to be about cenotes and tours in tankah.
+
+Fifth document talks about Secrets Akumal Riviera Maya, which is an adults-only resort with luxurious suites, snorkeling, etc.
+
+So the keywords include both family-oriented resorts (like Hotel Xcaret) and adult-focused luxury resorts (Secrets). The documents also mention natural attractions like cenotes and beaches but are primarily promotional for different types of resorts. So it's about promoting

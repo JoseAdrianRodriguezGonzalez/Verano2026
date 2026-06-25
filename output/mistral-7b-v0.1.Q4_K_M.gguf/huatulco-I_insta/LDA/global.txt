@@ -1,0 +1,21 @@
+ Output:
+         Topic ID: 1:
+         Decision: (VALID / INCOHERENT – DISCARD)
+         Proposed Topic Label: "Huatulco - Beach and Nature"
+         Short Analytical Description: Huatulco is a beach destination in the state of Oaxaca, Mexico. The documents describe various beaches and natural landscapes such as bays, coves, cliffs, forests, vegetation, coral reefs, marine life, snorkeling opportunities, and water sports like surfing and kayaking.
+         Topic ID: 2:
+         Decision: (INCOHERENT – DISCARD)
+         Proposed Topic Label: "Aerial View of Beaches"
+         Short Analytical Description: The documents describe aerial views of beaches, including tropical islands and palm trees. The images show various beach landscapes with clear blue waters from different angles such as drones or helicopters.
+         Topic ID: 3:
+         Decision: (VALID / INCOHERENT – DISCARD)
+         Proposed Topic Label: "Beach Body and Fitness"
+         Short Analytical Description: The documents describe beach activities focusing on physical fitness, body image, and health. They mention exercises such as running, swimming, yoga, or meditation while enjoying the ocean views. Some of them also include tips for maintaining a healthy lifestyle at the beach.
+         Topic ID: 4:
+         Decision: (VALID / INCOHERENT – DISCARD)
+         Proposed Topic Label: "Beach Life and Real Estate"
+         Short Analytical Description: The documents describe beach life, real estate options, and vacation rentals. They mention various amenities such as ocean views, open-plan kitchens, living rooms, dining areas, bedrooms with full bathrooms, plunge pools, balconies, high design units, mobile phone love letters for contacting the property owner, and luxury lifestyle in beachfront villas or condos.
+         Topic ID: 5:
+         Decision: (VALID / INCOHERENT – DISCARD)
+         Proposed Topic Label: "Beach Vacation and Water Sports"
+         Short Analytical Description: The documents describe a vacation at the

@@ -1,0 +1,22 @@
+--------------------
+        Output:
+        1. Topic ID: 1
+            Decision: VALID
+            Proposed Topic Label (max 6 words, neutral and descriptive): "Tourism in La Paz"
+            Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+                The topic is about tourism in La Paz. It mentions landmarks such as Casa de la Cultura, Museo del Estudio Bajío and Plaza de las Artes. There are references to tourist attractions like Parque Ecológico and Centro Histórico.
+                The topic also discusses the importance of tourism in La Paz's economy and highlights its role as a cultural hub. It mentions events such as "Festival Internacional de Cine en Guadalajara" and "Museo del Estudio Bajío".
+        2. Topic ID: 2
+            Decision: VALID
+            Proposed Topic Label (max 6 words, neutral and descriptive): "Tattoos in La Paz"
+            Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+                The topic is about tattoos in La Paz. It mentions tattoo artists such as Tatuaje Lapaz, Raul Hernandez and Estudio de Tatuajes. There are references to different types of tattoos like "Tattoo Stencil" and "Blackwork".
+        3. Topic ID: 3
+            Decision: VALID
+            Proposed Topic Label (max 6 words, neutral and descriptive): "Fitness in La Paz"
+            Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+                The topic is about fitness in La Paz. It mentions gyms like Gym Men Over, Gym Culture and Fit Dad Life. There are references to different types of workouts such as "Fitness" and "Gym Health".
+        4. Topic ID: 4
+            Decision: VALID
+            Proposed Topic Label (max 6 words, neutral and descriptive): "Sexuality in La Paz"
+            Short Analytical Description (2–3

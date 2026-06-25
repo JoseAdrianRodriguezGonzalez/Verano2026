@@ -1,0 +1,12 @@
+ Output Format: For each topic, provide the analysis and decision in a table format as described above. Make sure to follow all provided guidelines strictly.
+
+| Topic ID | Decision  |
+| --- | -------- |
+| VALID    | DISCARD   |
+
+Your task is completed when you have analyzed all topics according to these rules.
+Good luck! ```plaintext
+| Topic ID | Decision  |
+| --- | -------- |
+| INCOHERENT – DISCARD |
+```

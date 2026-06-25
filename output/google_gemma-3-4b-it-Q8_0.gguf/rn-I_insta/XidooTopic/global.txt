@@ -1,0 +1,33 @@
+Topic ID: 4:
+Keywords:
+r, r, s, t, m, a, d, c
+Documents:
+1: "redes sociales facebook instagram twitter linkedin youtube tiktok reels videos fotos imagenes compartir experiencias conectar amigos familiares redes sociales digital marketing social media influencer content creator contenido visual"
+2: “conectar con personas de todo el mundo red social global plataforma online comunidad virtual interactuar compartir ideas noticias información entretenimiento”
+3: “descubre nuevas tendencias en internet explorar contenidos interesantes encontrar inspiración descubrir productos servicios aprender cosas nuevas expandir conocimientos habilidades digitales”
+4: "redes sociales conectar amigos familiares compartir experiencias contenido visual influencer marketing digitalmarketing socialmedia"
+5: "comunidad global plataforma online interactuar compartir ideas noticias información entretenimiento redes sociales conectar con personas de todo el mundo"
+
+---
+
+**Analysis:**
+
+Topic ID: 1
+- Decision: VALID
+- Proposed Topic Label (max 6 words): Beach Tourism and Relaxation
+- Short Analytical Description: The topic revolves around beach activities, specifically whale watching, swimming, sunbathing, and related events in Guayabitos and surrounding areas. Keywords like "whale," “beach,” “playa”, “sun,” “relaxing” consistently appear alongside mentions of specific locations such as Rincon de Guayabitos and San Pancho.
+
+Topic ID: 2
+- Decision: VALID
+- Proposed Topic Label (max 6 words): Real Estate Investment in Bucerias
+- Short Analytical Description: This topic focuses on real estate investment opportunities within the Bucerías area of Mexico, particularly regarding houses with gardens and amenities like pools. The keywords "casa," “house,” “renta”, "condominio", along with terms related to property features (garden, pool) and financial aspects (price, payment options), strongly suggest this theme.
+
+Topic ID: 3
+- Decision: VALID
+- Proposed Topic Label (max 6 words): Mexican Restaurant Dining Experience
+- Short Analytical Description: The topic centers around dining experiences at restaurants in Mexico, specifically focusing on traditional Mexican cuisine like tacos and tlayudas. Keywords such as "tacos," “comida mexicana,”  “restaurant”, and references to specific dishes (“spaghetti”) indicate a culinary theme with an emphasis on authentic flavors and ambiance.
+
+Topic ID: 4
+- Decision: VALID
+- Proposed Topic Label (max 6 words): Social Media Marketing & Trends
+- Short Analytical Description

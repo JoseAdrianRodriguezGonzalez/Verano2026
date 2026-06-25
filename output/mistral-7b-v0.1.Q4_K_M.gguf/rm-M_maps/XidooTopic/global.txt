@@ -1,0 +1,25 @@
+ Output:
+         Topic ID: 1:
+        Decision: VALID
+        Proposed Topic Label: "Beach"
+        Short Analytical Description: "Lovely beach, great place to relax and enjoy the sea."
+
+        Topic ID: 2:
+        Decision: INCOHERENT – DISCARD
+        Proposed Topic Label: ""
+        Short Analytical Description: "Incoherent topic. Keywords do not seem related or form a common theme. Documents are also unrelated and lack coherence."
+
+        Topic ID: 3:
+        Decision: INCOHERENT – DISCARD
+        Proposed Topic Label: ""
+        Short Analytical Description: "Incoherent topic. Keywords do not seem related or form a common theme. Documents are also unrelated and lack coherence."
+
+        Topic ID: 4:
+        Decision: INCOHERENT – DISCARD
+        Proposed Topic Label: ""
+        Short Analytical Description: "Incoherent topic. Keywords do not seem related or form a common theme. Documents are also unrelated and lack coherence."
+
+        Topic ID: 5:
+        Decision: INCOHERENT – DISCARD
+        Proposed Topic Label: ""
+        Short Analytical Description: "Incoherent topic. Keywords do not seem related or form a common theme. Documents are also unrelated and lack coherence."

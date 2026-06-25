@@ -1,0 +1,31 @@
+ Topic ID: 1
+        Decision: VALID
+        Proposed Topic Label:
+        Beach Life in Puerto Vallarta
+
+        Short Analytical Description:
+The keywords and documents consistently mention "puertovallartabeach" or variations thereof, indicating a strong focus on beach-related experiences. The repeated use of terms like "vacation," "paradise," "tropicalvibes," and "beachlife" further reinforces this theme. While some reviews briefly touch upon other aspects such as ziplines (Topic ID 1) or nearby attractions, the overwhelming emphasis remains on beach activities in Puerto Vallarta.
+
+        Topic ID: 2
+        Decision: VALID
+        Proposed Topic Label:
+        Photography of Puerto Vallarta
+
+        Short Analytical Description:
+The keywords "f" and "p" along with recurring phrases like "fotos," "photography," and references to specific locations (e. g., "puertovallartamexico") suggest a focus on visual documentation in Puerto Vallarta. The documents often mention taking or sharing photos, sometimes including details about the photographer's equipment ("nikoncoolpixa"). While some reviews touch upon other aspects of life in Puerto Vallarta, such as food and nightlife (Topic ID 5), this topic primarily centers around photography.
+
+        Topic ID: 3
+        Decision: VALID
+        Proposed Topic Label:
+        Beauty and Glamour in Puerto Vallarta
+
+        Short Analytical Description:
+The keywords "p," "v," "c" along with terms like "hermosa," "bronceado feliz," and references to beauty products ("joyería de playa") indicate a focus on aesthetic experiences. The documents frequently use words related to attractiveness, happiness in the face of beauty, and personal appearance enhancements. While some reviews mention other aspects such as travel safety (Topic ID 3) or general beach life (Topic ID 1), this topic specifically emphasizes beauty-related activities.
+
+        Topic ID: 4
+        Decision: VALID
+        Proposed Topic Label:
+        Nightlife in Puerto Vallarta
+
+        Short Analytical Description:
+The keywords "v," "f," and recurring phrases like "noche inolvidable" (unforgettable night) suggest a focus on evening entertainment. The documents often mention activities such as cruises, fireworks ("espectaculos increibles"), dinners under the stars ("cena luz velas magia pura"), and music ("ritmosdel

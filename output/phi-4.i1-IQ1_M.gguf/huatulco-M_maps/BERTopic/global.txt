@@ -1,0 +1,9 @@
+ "¡Que es una playa muy tranquila, no hay mucha gente y en la orilla se puede hacer un rato. La playa está limpia con el tiempo que pasa por ella para los visitantes de las playas del Huatulco"
+2: "¿Qué tal si me doy cuenta? Están bien atestados a su vez, pero no es una buena parte de la playa y en lugar de eso se hace un rato. No hay mucha gente, el agua está fresca para nadar."
+3: "La playa es muy tranquila y pequeña como todas las playas del Huatulco ?? Es super limpio y hermoso con su tiempo que pasa por la orilla en una isla de los arrecifes. Hay un lugar donde se puede rentar, comer o hacerlo todo lo demás."
+4: "Es tranquilo pero pequeño como es el agua tranquilamente para nadar. No hay mucha gente y no hay basura delante de las playas de Huatulco que son muy limpio con su tiempo en la orilla por los arrecifes"
+5: "No, me gusta una playa de Huatulco pero tranquila y pequeña como todas las playas. Es un lugar para rentar o comer sin basura delante de la oralla donde se hace todo lo demás."
+6: "Es muy tranquilamente en el tiempo que pasa por los arrecifes, no hay mucha gente con una base para rentar o hacerlo todo y nadie está haciendo las playas. Es un lugar limpio como todas las playas del Huatulco ??"
+7: "No estoy seguro si me gusta esto? Están bien atestados a su vez pero es tranquilo, no muy buen parte de la playa con el tiempo que pasa por ella para los visitantes en una orilla. No hay mucha gente y agua está fresca para nadar."
+8: "Es un lugar pequeño como todas las playas del Huatulco ?? Es super limpio y hermoso con su tiempo que hace pasar a la orora, no hay rentado o comer sin basura de los arrecifes. Hay una base en el área donde se puede hacer todo lo demás."
+9: "Es tranquilo pero pequeño como es agua está fresca para nadar? No hay mucha gente

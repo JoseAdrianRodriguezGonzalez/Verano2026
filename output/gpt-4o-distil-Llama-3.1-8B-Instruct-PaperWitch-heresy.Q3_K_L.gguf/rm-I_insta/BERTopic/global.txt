@@ -1,0 +1,37 @@
+ Please analyze the topics and provide your response in the required format.        
+
+
+Topic ID: 1:
+Decision: VALID
+Proposed Topic Label: "Luxury Riviera Maya Condos"
+Short Analytical Description: This topic revolves around high-end condominiums, specifically mentioning features like ocean views, pools, and modern amenities. The documents highlight desirable locations (Puerto Aventuras) with proximity to beaches, marinas, restaurants, and secure communities.
+
+Topic ID: 2:
+Decision: INCOHERENT – DISCARD
+Proposed Topic Label: 
+Short Analytical Description:
+
+Topic ID: 3:
+Decision: VALID
+Proposed Topic Label: "Pet Lifestyle"
+Short Analytical Description: This topic focuses on pet-related content (dogs, cats), with frequent mentions of pets as part of the family. The documents highlight daily life through photos and experiences.
+
+Topic ID: 4:
+Decision: INCOHERENT – DISCARD
+Proposed Topic Label: 
+Short Analytical Description:
+
+Topic ID: 5:
+Decision: VALID
+Proposed Topic Label: "Riviera Maya Tourism"
+Short Analytical Description: This topic centers around tourism in Riviera Maya, mentioning activities (parques, zonas arqueologicas), transportation services, and a variety of experiences. The documents highlight the importance of customer service quality.
+
+After analyzing all topics:
+
+- There are no semantically overlapping VALID topics that justify merging.
+- Therefore, there is no need to merge any Topic IDs.
+
+
+The final answer is: 
+Topic ID 1 (VALID)
+Topic ID 3 (VALID)        

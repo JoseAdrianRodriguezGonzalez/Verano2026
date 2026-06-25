@@ -1,0 +1,73 @@
+ Output Format: Each output line should contain the following information:
+
+        - Topic ID:
+        - Decision (VALID / INCOHERENT – DISCARD):
+        - Proposed Topic Label (max 6 words, neutral and descriptive):
+        - Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+'''
+
+topic_id = "1"
+decision = "INCOHERENT – DISCARD"
+
+# Identify if any VALID topics are semantically overlapping
+valid_topics = set()
+for i in range(len(topic_ids)):
+    for j in topic_ids[i+1:]:
+        valid_topics.add((topic_ids[i], topic_ids[j]))
+
+if len(valid_topics) > 0:
+    decision = "VALID – DISCARD"
+else:
+    # Analytical Description: This analysis is based on the provided keywords and documents to identify semantic overlap.
+    short_desc = """
+Semantic Overlap Analysis:
+
+1. Keywords matching between Topic IDs (puertovallartamexico, puertovallarta):
+   - Puerto Vallarta
+   - Vallsa
+   - Valsita
+
+2. Documents mentioning "villas" or related topics:
+   - Villa de la Luna
+   - Villa del Sol
+   - Villa Poblana
+
+3. Shared keywords in documents: 
+   - Beaches and sunsets
+   - Artistic photography
+   - Travel experiences
+
+4. Geographical overlap:
+   - Puerto Vallarta, Jalisco (Puerto Vallarta is mentioned twice)
+
+5. Potential for semantic consistency or thematic coherence:
+
+Final Analysis:
+- The analysis shows a high degree of shared keywords between the provided topics.
+- There are no obvious overlaps that suggest an incoherent theme.
+
+Conclusion: Based on this analysis and absence of significant overlap, it appears there's little to no potential for meaningful semantic integration. """
+
+topic_id = "2"
+decision = "VALID – DISCARD"
+
+# Analytical Description:
+short_desc += """
+Final Analysis:
+
+1. Keywords matching between Topic IDs (puertovallartamexico):
+   - Puerto Vallarta
+   - Vallsa
+
+2. Documents mentioning "villas" or related topics:
+   - Villa de la Luna
+   - Villa del Sol
+   - Villa Poblana
+
+3. Shared keywords in documents: 
+   - Beaches and sunsets
+   - Artistic photography
+   - Travel experiences
+
+4. Geographical overlap:
+   - Puerto Vallarta, Jal

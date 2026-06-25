@@ -1,0 +1,29 @@
+Analysis:
+
+        Topic ID: 1
+        Decision: INCOHERENT – DISCARD
+        Proposed Topic Label (max 6 words): Mexican Beach and Travel
+        Short Analytical Description (2–3 sentences): The keywords suggest a focus on travel experiences in Mexico, specifically mentioning locations like "lapaz," "bajacaliforniasur" and “mexico”.  However, the documents contain mixed elements including beach activities ("playa", "arena"), natural scenery (“sol”, “cactus”), and general sentiments of happiness or relaxation. The combination is not semantically coherent.
+
+        Topic ID: 2
+        Decision: VALID
+        Proposed Topic Label (max 6 words): Fitness & Wellness Lifestyle
+        Short Analytical Description (2–3 sentences): This topic centers around fitness, health, and wellness routines, as indicated by keywords like “fitmen,” "gym," and "ejerciciofisico." The documents describe activities related to exercise, personal care ("pacenos"), and a lifestyle focused on well-being.
+
+        Topic ID: 3
+        Decision: VALID
+        Proposed Topic Label (max 6 words): Hotel & Romance in Lapaz
+        Short Analytical Description (2–3 sentences): This topic revolves around hotel services and romantic experiences, with keywords such as “motel,” "erotico," "romantico," and references to locations like "lapaz." The documents describe offers for couples, amenities, and a focus on creating memorable moments within the hotel.
+
+        Topic ID: 4
+        Decision: VALID
+        Proposed Topic Label (max 6 words): Interior Design & Architecture
+        Short Analytical Description (2–3 sentences): This topic focuses on interior design and architectural elements, with keywords like "decoracioninteriores," “diseño,” and references to locations such as San Jose del Cabo. The documents describe features of homes or buildings, including materials, layouts, and aesthetic qualities.
+
+        Topic ID: 5
+        Decision: VALID
+        Proposed Topic Label (max 6 words): Hotel Promotions in Lapaz
+        Short Analytical Description (2–3 sentences): This topic is dedicated to hotel promotions and offers, using keywords like “visitanos,” "purple heart," and references to locations such as "lapaz." The documents describe special deals and marketing messages aimed at attracting guests.
+
+        Overlapping Topics:
+        Topics 1, 2, 4 & 

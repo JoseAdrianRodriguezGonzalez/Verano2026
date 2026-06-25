@@ -1,0 +1,69 @@
+ Topic ID: 5:
+Keywords:
+d, d, c, p
+Documents:
+1: "desde donde comienzas descubriendo lapaz bcs"
+2: "descubierto lapaz desde donde comenzaste"
+3: "descubre la ciudad de lapaz mexico"
+4: "descubre el pais mexico"
+
+Topic ID: 6:
+Keywords:
+h, h, v
+Documents:
+1: "desde donde comienzas descubriendo lapaz bcs"
+2: "descubierto lapaz desde donde comenzaste"
+3: "descubre la ciudad de lapaz mexico"
+4: "descubre el pais mexico"
+
+Topic ID: 7:
+Keywords:
+r, r
+Documents:
+1: "desde donde comienzas descubriendo lapaz bcs"
+2: "descubierto lapaz desde donde comenzaste"
+3: "descubre la ciudad de lapaz mexico"
+4. "descubre el pais mexico"
+
+Topic ID 8:
+Keywords:
+c, v
+Documents:
+1: "desde donde comienzas descubriendo lapaz bcs"
+2: "descubierto lapaz desde donde comenzaste"
+3: "descubre la ciudad de lapaz mexico"
+4. "descubre el pais mexico"
+
+Topic ID 9:
+Keywords:
+d, d
+Documents:
+1: "desde donde comienzas descubriendo lapaz bcs"
+2: "descubierto lapaz desde where comenzaste"
+3: "descubre la ciudad de lapaz mexico"
+4. "descubre el pais mexico"
+
+Topic ID 10:
+Keywords:
+d, d
+Documents:
+1: "desde donde comienzas descubriendo lapaz bcs"
+2: "descubierto lapaz desde where comenzaste"
+3: "descubre la ciudad de lapaz mexico"
+4. "descubre el pais mexico"
+
+Topic ID 11:
+Keywords:
+d, d
+Documents:
+1: "desde donde comienzas descubriendo lapaz bcs"
+2. "descubierto lapaz desde where comenzaste"
+3. "descubre la ciudad de lapaz mexico"
+4. "descubre el pais mexico"
+
+Topic ID 12:
+Keywords:
+d, d
+Documents:
+1: "desde donde comienzas descubriendo lapaz bcs"
+2.

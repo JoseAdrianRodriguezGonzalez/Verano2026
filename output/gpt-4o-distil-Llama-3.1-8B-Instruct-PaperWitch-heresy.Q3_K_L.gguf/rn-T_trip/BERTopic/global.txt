@@ -1,0 +1,57 @@
+ Please analyze the topics and follow the provided structure.
+
+         For each topic, provide:
+        - Topic ID
+        - Decision: (VALID / INCOHERENT – DISCARD)
+        - Proposed Topic Label (max 6 words, neutral and descriptive):
+        - Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+
+And at the end:
+
+- Identify if any VALID topics are semantically overlapping.
+- If so, propose a merged topic label and indicate which Topic IDs should be merged.
+
+---
+
+Topic ID: 1:
+Decision: VALID
+Proposed Topic Label: "Playa con características"
+Short Analytical Description: The documents describe various beaches with mention of activities like surfing, swimming, and strolling along the shore. Some locations are mentioned (e.g., Sayulita), but they seem to be secondary details.
+
+Topic ID: 2:
+Decision: VALID
+Proposed Topic Label: "Santuario de cocodrilos"
+Short Analytical Description: The documents focus on visiting a crocodile sanctuary, with detailed descriptions of the experience and interactions with staff. Prices are mentioned for visits or tours.
+
+Topic ID: 3:
+Decision: INCOHERENT – DISCARD
+Proposed Topic Label: 
+Short Analytical Description:
+
+Topic ID: 4:
+Decision: VALID
+Proposed Topic Label: "Delfines y parque acuático"
+Short Analytical Description: The documents describe a water park with dolphin interactions, highlighting fun activities and experiences. Prices are mentioned.
+
+Topic ID: 5:
+Decision: INCOHERENT – DISCARD
+Proposed Topic Label: 
+Short Analytical Description:
+
+
+---
+
+VALID topics identified:
+
+- Topic ID: 1 ("Playa con características")
+- Topic ID: 2 ("Santuario de cocodrilos")
+- Topic ID: 4 ("Delfines y parque acuático")
+
+Semantic Overlap:
+There is no strong overlap between the VALID topics. Each focuses on a distinct activity or location (beach, crocodile sanctuary, water park with dolphins). However:
+
+- Topics "Playa con características" and "Delfines y parque acuático" both involve aquatic environments but serve different purposes.
+  - No clear semantic overlap for merging.
+
+Therefore:
+No merged topic label is proposed. Each VALID topic remains distinct based on the provided analysis.

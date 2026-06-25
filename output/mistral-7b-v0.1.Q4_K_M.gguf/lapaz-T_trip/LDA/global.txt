@@ -1,0 +1,28 @@
+ After analyzing all topics:
+         - Topic ID 1 is valid.
+         Proposed Label: "Crystal clear waters and white sand beaches"
+         Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+         1. The topic describes a beach with crystal-clear water, white sand, and beautiful views of the ocean.
+         2. It includes references to snorkeling and exploring coral reefs.
+         3. There are also mentions of swimming and enjoying the sun on the beach.
+         - Topic ID 2 is valid.
+         Proposed Label: "Beautiful beaches with clear waters"
+         Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+         1. The topic describes a beautiful beach with crystal-clear water and white sand.
+         2. It includes references to swimming, snorkeling, and exploring coral reefs.
+         3. There are also mentions of relaxing on the beach under an umbrella or enjoying a picnic lunch.
+         - Topic ID 3 is valid.
+         Proposed Label: "Beautiful beaches with clear waters"
+         Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+         1. The topic describes a beautiful beach with crystal-clear water and white sand.
+         2. It includes references to swimming, snorkeling, and exploring coral reefs.
+         3. There are also mentions of relaxing on the beach under an umbrella or enjoying a picnic lunch.
+         - Topic ID 4 is valid.
+         Proposed Label: "Snorkeling in crystal-clear waters"
+         Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+         1. The topic describes snorkeling experiences in crystal-clear water, with references to seeing colorful fish and coral reefs.
+         2. It includes mentions of swimming in the ocean and enjoying the sun on the beach.
+         3. There are also references to taking photos underwater or exploring caves by kayak.
+         - Topic ID 5 is valid.
+         Proposed Label: "Beautiful beaches with crystal-clear waters"
+         Short Anal

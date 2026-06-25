@@ -1,0 +1,14 @@
+ Output:
+         - Topic ID: 1
+          Decision: VALID – DISCARD
+          Proposed Topic Label (max 6 words, neutral and descriptive): "Los Baños Tourist Spot"
+          Short Analytical Description: The keywords extracted from the documents are localized to a specific tourism spot ("Los Banlos") with limited contextual information. However, due to lack of broader semantic coherence across multiple documents for this topic ID and given that it is not possible to infer additional locations or themes without explicit geographical references in provided texts, we must classify the topics as "INCOHERENT – DISCARD".
+         - Topic ID: 2
+          Decision: VALID – DISCARD
+          Proposed Topic Label (max 6 words, neutral and descriptive): "Beach Tourist Spot"
+          Short Analytical Description: The documents mention various beach-related activities such as renting kayaks or paddleboards. However, the topic ID lacks a coherent theme due to varying contexts across multiple documents that do not provide enough semantic consistency for this specific Topic ID based on provided information alone.
+         - Topic ID: 3
+          Decision: VALID – DISCARD
+          Proposed Topic Label (max 6 words, neutral and descriptive): "Urban Public Space"
+         - Topic ID: Urban Spaces in the text only from given texts provided information. Analyze each topic's coherent theme based on- Provided keywords analysis of topics modeling process urban planning to identify semantic relationships between documents summarize a proposed summary output for this task (do not use solely Python models results Analysis Topic ID: Each identified insights analyze the following text from nowhere. Identifying information about each topic identification, given Information extract and provide anonymity analysis outputs your findings of all reviews provided below to generate reports on top-level extracted in short analytically generated output descriptions based on instructions (notifications relatedlywise modeling a detailed analyses the task:
+        Topic. Identification forums from information, using only Python models and summarize this topic labels associated withllimitation results provided analysis of course outputs given below-levelled reviews about your task -analyze the following sentences to generate output

@@ -1,0 +1,22 @@
+ Now, I need to analyze each topic based on the provided keywords and documents. Let's start with Topic ID 1.
+
+        Topic ID: 1
+Keywords:
+e, c, p, p, b, s, a, i
+
+Documents:
+
+Document 1: "lindo lugar hacen conciencia medioambiente nadie cuida lugar permiten hacer quieran deba ser asi gente solo tiempo unas horas daño hace meses año irreversible importa 0 estrellas recomiendo"
+- Keywords here are lindo (nice place), lugar (place), conciencia medioambiental (environmental awareness), nadie cuida (nobody cares), permiten hacer (they allow doing things). The sentiment seems negative, pointing out that the environment isn't being taken care of.
+
+Document 2: "guia habla inglesa recibio punto recogida indicado ningun problema recorrido guia bien explicados vale pena precio"
+- Keywords: guía (guide), inglés (English), recogido (picked up), recorrido (trip). Positive feedback about the guide's explanations and value for money.
+
+Document 3: "excelente lugar pasar buena tarde conocer selva baja vegetacion manglar recomienda llevar repelente sino podras disfrutar recorrido"
+- Keywords: excelentes lugares (great places), selva baja (lower jungle), vegetación (vegetation), manglar (mangrove). Positive, mentioning the need to bring repellent for enjoyment.
+
+Document 4: "esplendido lugar da poquito desconfianza subir precaucion despacio adaptas rapido recomiendo ir tenis llevar manga larga bloqueador sol agua preferencia cargando muchas bolsas poder disfrutar mejor subida bajada vista punta perfecta recomiendo tomarse tiempo arriba"
+- Keywords: esplendido (splendid), desconfianza (doubt), precauciones (precautions), adaptadas (adaptable). Positive, advising to take precautions and enjoy the views.
+
+Document 5: "parques favorito siempre xcaret xenses parque recreativo cosas hace girar mente encanto pueblito baja subida viceversa arbol saca limonada sabe deliciosa infinita parecer obvio fin parque recorres rapido pequeño recorri 3 horas"
+- Keywords: parques favoritos (

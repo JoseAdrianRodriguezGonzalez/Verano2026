@@ -1,0 +1,38 @@
+ Now, let's process each topic.
+
+        Processing Topic 1:
+        
+        Keywords: l, g, p, e, m, v, a, v
+        Wait, I notice that 'v' appears twice. Maybe it's a typo? Or perhaps the list was meant to have other words. But according to what is given, keywords are l, g, p, e, m, v, a, v.
+
+Looking at the documents:
+
+Document 1: Talks about Playa El Anclote being beautiful but crowded.
+Document 2: Family enjoyed beach with soft sand and medium waves, highly recommended.
+Document3: Good beaches for family, no steep drops or stones. Consistent sand good for walking or running.
+Document4: Great beaches and tourist developments. Weather in July was nice, likes quiet beaches without crowds.
+Document5: Excellent beach to enjoy with family.
+
+So all documents are about the same place? Playa El Anclote?
+
+Wait, but let me check if any location is mentioned:
+
+Yes, "Playa El Anclote" is explicitly mentioned multiple times. So this topic seems coherent around describing a specific beach or coastal area.
+
+The keywords: l (maybe location?), g (good), p (playa? Spanish for beach), e (excellent), m (may be mar or medium waves), v (could be "viento", wind, but also maybe "very"), a (amable, nice). So the words are about describing positive aspects of a place, especially beaches.
+
+So this topic is VALID. The label could be something like "Playa El Anclote Evaluation" but since we need max 6 words and neutral/descriptive: perhaps "Beach Experience".
+
+Short analytical description: All documents describe Playa El Anclote as beautiful with good sand, family-friendly, and recommendable.
+
+Processing Topic2:
+
+Keywords: m, c, c, z, e, g, a, b
+
+Wait, two 'c's. Maybe it was supposed to be different words? As per given data, keywords are m, c, c, z, e, g, a, b.
+
+Looking at the documents:
+
+Document1: Día del padre (Father’s Day) dinner at Senor Frica and walking along malecón.
+Document2: Beautiful place worth visiting; be careful with strong waves if surfing.
+Document3: Sunsets are beautiful, delicious food at good prices.

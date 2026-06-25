@@ -1,0 +1,25 @@
+1. Topic ID: 2
+        2. Decision: VALID
+        3. Proposed Topic Label: "Mercado Municipal Río Cuale" (6 words)
+        4. Short Analytical Description: "Visit to a colorful market with various souvenirs and handmade crafts."
+        5. Output for all topics is as follows:
+          - Topic ID: 1
+            Decision: INCOHERENT – DISCARD
+            Proposed Topic Label: N/A (0 words)
+            Short Analytical Description: "N/A"
+           - Topic ID: 2
+             Decision: VALID
+             Proposed Topic Label: "Mercado Municipal Río Cuale" (6 words)
+             Short Analytical Description: "Visit to a colorful market with various souvenirs and handmade crafts."
+           - Topic ID: 3
+            Decision: INCOHERENT – DISCARD
+            Proposed Topic Label: N/A (0 words)
+            Short Analytical Description: "N/A"
+          - Topic ID: 4
+             Decision: VALID
+             Proposed Topic Label: "Restaurant by the sea in Marina" (12 words)
+             Short Analytical Description: "Visit to a restaurant with good food and views of the ocean."
+           - Topic ID: 5
+            Decision: INCOHERENT – DISCARD
+            Proposed Topic Label: N/A (0 words)
+            Short Analytical Description: "N/A"

@@ -1,0 +1,48 @@
+ Please analyze the topics and provide your evaluation according to the rules provided.        ```python
+import pandas as pd
+
+# Load data into DataFrames for easier manipulation and analysis
+topics = {
+    "Topic ID": [1, 2, 3],
+    "Keywords": ["l,g,p,e,m,v,a,v", "m,c,c,z,e,g,a,b", "r,h,l,r,v,o,c,b"],
+    "Documents": [
+        """Nos recomendaron visitar Playa El Anclote y la verdad sÃ­ estÃ¡ bonita, pero estaba bastante llena cuando fuimos, lo que hizo que no se disfrutara tanto como esperÃ¡bamos.""",
+        """Fuimos a comer por el DÃ­a del padre al seÃ±or frica y a pasear por el malecÃ³n""",
+        """Llegué por accidente, no encontré hospedaje en Airbnb en Sayulita y caí en este hermoso lugar, aunque sólo fue un día escapada de fin de semana lo disfruté"""
+    ]
+}
+
+df_topics = pd.DataFrame(topics)
+
+# Analyze each topic
+for index, row in df_topics.iterrows():
+    # Extract keywords and documents for this topic
+    keywords = row["Keywords"].split(",")
+    docs = [row["Documents"]]
+
+    # Evaluate coherence of the topic (keywords + documents)
+    if len(keywords) == 8:  # Assuming all topics have a fixed number of keywords
+        keyword_set = set(keywords)
+
+        doc_keywords = []
+        for i, document in enumerate(docs):
+            words = "".join(document.split()).lower()  # Remove punctuation and convert to lowercase
+
+            word_count = {}
+            for char in words:
+                if char.isalpha():
+                    word_count[char] = word_count.get(char, 0) + 1
+            doc_keywords.append(word_count)
+
+        common_words = set()
+        for i in range(len(doc_keywords)):
+            intersection = keyword_set.intersection(set(doc_keywords[i]))
+            common_words.update(intersection)
+        # Check if there are enough words to form a coherent topic
+        if len(common_words) > 2:
+            decision = "VALID"
+        else:
+            decision = "INCOHERENT – DISCARD"
+
+    else:  # If keywords count is not as expected, discard the analysis for this topic
+        decision = "INVALID

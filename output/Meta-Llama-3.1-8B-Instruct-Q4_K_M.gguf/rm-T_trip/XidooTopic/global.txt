@@ -1,0 +1,37 @@
+ Based on the provided information, analyze each topic and provide the required output.
+
+Topic ID: 1:
+Decision: VALID
+Proposed Topic Label: "Positive Tourist Experience"
+Short Analytical Description: The documents describe a positive experience at an unknown location with mentions of cenotes (natural swimming holes), family-friendly activities, and good service. The keywords support this interpretation as they include words like 'guía' (guide) and 'familiar', indicating a guided tour or activity.
+
+Topic ID: 2:
+Decision: VALID
+Proposed Topic Label: "Mixed Review"
+Short Analytical Description: This topic contains mixed reviews about an unknown location, with some positive comments on the scenery and activities but also negative remarks about prices and service. The keywords 'rio subterráneo' (underground river) suggest a specific attraction.
+
+Topic ID: 3:
+Decision: VALID
+Proposed Topic Label: "Turtle Bay Experience"
+Short Analytical Description: This topic appears to be related to the Turtle Bay experience, with mentions of snorkeling, tortugas (turtles), and guided tours. The keywords support this interpretation as they include words like 'guía' (guide) and 'snorkel'.
+
+Topic ID: 4:
+Decision: VALID
+Proposed Topic Label: "Cenote Experience"
+Short Analytical Description: This topic contains reviews about a cenote experience, with mentions of underground rivers, caves, and guided tours. The keywords support this interpretation as they include words like 'rio subterráneo' (underground river) and 'cavidades'.
+
+Topic ID: 5:
+Decision: VALID
+Proposed Topic Label: "Chaak Tun Cenotes"
+Short Analytical Description: This topic appears to be related to the Chaak Tun cenote experience, with mentions of guided tours, snorkeling, and underground caves. The keywords support this interpretation as they include words like 'guía' (guide) and 'cenote'.
+
+After analyzing all topics:
+
+Identified VALID Topics:
+1, 2, 3, 4, 5
+
+Semantic Overlap: Yes
+Topic IDs to be merged: Topic ID 4 ("Cenote Experience") and Topic ID 5 ("Chaak Tun Cenotes")
+Proposed Merged Label: "Underground River Experiences"
+
+Note that the semantic overlap is based on the common theme of underground river experiences, which includes cenotes, guided tours, snorkeling, and

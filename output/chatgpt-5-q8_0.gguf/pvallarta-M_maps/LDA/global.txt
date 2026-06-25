@@ -1,0 +1,31 @@
+ Output format:
+
+        - Topic ID: 1
+          Decision: VALID – INCOHERENT – DISCARD (The documents do not seem to share a clear common theme, and the keywords are too general. They don't provide enough information about tourist activities or attractions.)
+          Proposed Topic Label: "INCOHERENT – DISCARD"  
+        - Topic ID: 2
+          Decision: VALID – INCOHERENT – DISCARD (The documents do not seem to share a clear common theme, and the keywords are too general. They don't provide enough information about tourist activities or attractions.)
+          Proposed Topic Label: "INCOHERENT – DISCARD"  
+        - Topic ID: 3
+          Decision: VALID – INCOHERENT – DISCARD (The documents do not seem to share a clear common theme, and the keywords are too general. They don't provide enough information about tourist activities or attractions.)
+          Proposed Topic Label: "INCOHERENT – DISCARD"  
+        - Topic ID: 4
+          Decision: VALID – INCOHERENT – DISCARD (The documents do not seem to share a clear common theme, and the keywords are too general. They don't provide enough information about tourist activities or attractions.)
+          Proposed Topic Label: "INCOHERENT – DISCARD"  
+        - Topic ID: 5
+          Decision: VALID – INCOHERENT – DISCARD (The documents do not seem to share a clear common theme, and the keywords are too general. They don't provide enough information about tourist activities or attractions.)
+          Proposed Topic Label: "INCOHERENT – DISCARD" 
+
+This task is designed for you to analyze topic modeling output based on keyword extraction criteria provided in your instructions. The goal is to classify topics that do not seem coherent with the given documents and propose a merged label if possible, while adhering strictly to the rules outlined.
+```python
+Output format:
+
+- Topic ID: 1 (Valid)
+  Decision: VALID – INCOHERENT – DISCARD 
+    Proposed Topic Label: "INCOHERENT – DISCARD"  
+- Topic ID: 2 (Valid)
+  Decision: INVALID – COHESION, NOT SUFFICIENT INFORMATION
+    Proposed Topic Label: "INVALID – UNDEFINED"
+- Topic ID: 3 (Valid)
+  Decision: INVALID – COHESION, NOT SUFFICIENT INFORMATION
+    Proposed Topic Label

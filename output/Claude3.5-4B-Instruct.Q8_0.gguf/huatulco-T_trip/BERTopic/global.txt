@@ -1,0 +1,62 @@
+ Topic ID: 6:
+Keywords:
+c, c, s, r
+Documents:
+1: "playa de arena blanca hermoso lugar para caminar en la playa"
+2: "hermosas playas en el lado derecho del agua"
+3: "lindos lugares a visitar cerca de las playas"
+
+         Topic ID: 7:
+Keywords:
+c, c, b
+Documents:
+1: "playa bonita hermoso lugar para caminar en la playa"
+2: "hermosas playas en el lado derecho del agua"
+3. "lindos lugares a visitar cerca de las playas"
+
+         Topic ID 8:
+Keywords:
+c, c, p
+Documents:
+1: "playa bonita hermoso lugar para caminar en la playa"
+2. "hermosas playas en el lado derecho del agua"
+3. "lindos lugares a visitar cerca de las playas"
+
+         Topic ID 9:
+Keywords:
+c, c, e
+Documents:
+1: "playa bonita hermoso lugar para caminar en la playa"
+2. "hermosas playas en el lado derecho del agua"
+3. "lindos lugares a visitar cerca de las playas"
+
+         Topic ID 10:
+Keywords:
+c, c, s
+Documents:
+1: "playa bonita hermoso lugar para caminar en la playa"
+2. "hermosas playas en el lado derecho del agua"
+3. "lindos lugares a visitar cerca de las playas"
+
+         Topic ID 11:
+Keywords:
+c, c, r
+Documents:
+1: "playa bonita hermoso lugar para caminar en la playa"
+2. "hermosas playas en el lado derecho del agua"
+3. "lindos lugares a visitar cerca de las playas"
+
+         Topic ID 12:
+Keywords:
+c, c, p
+Documents:
+1: "playa bonita hermoso lugar para caminar en la playa"
+2. "hermosas playas en el lado derecho del agua"
+3. "lindos lugares a visitar cerca de las playas"
+
+         Topic ID 13:
+Keywords:
+c, c, b
+Documents:
+1: "playa bonita hermoso lugar para caminar en la playa"
+2.

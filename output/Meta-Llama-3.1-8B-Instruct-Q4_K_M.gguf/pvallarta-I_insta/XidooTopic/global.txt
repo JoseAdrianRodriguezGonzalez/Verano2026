@@ -1,0 +1,12 @@
+ ```
+# Topic Modeling Evaluation
+
+## Topic ID: 1
+Keywords:
+p, v, w, p, a, h, p, v
+Documents:
+1. "almendra caramelo brown heart bebidas cold brew perfectas acompanar brunch disfrutar postre favorito pasa saludarnos hoy domingo esperamos pm puertovallartamexico"
+2. "duo fragancias necesitas two hearts marykaydemexico marykaydemexico bahiadebanderas nuevonayarit puertovallartamexico consultoradebellezamarykay enviosatodomexico consultoradebellezamarykay maquillaje maquillajemarykay makeup givaudan garantia satisfaccion citlali g marykay citlaligardunomarykay"
+3. "duo fragancias necesitas marykaydemexico marykaydemexico bahiadebanderas nuevonayarit puertovallartamexico consultoradebellezamarykay enviosatodomexico consultoradebellezamarykay maquillaje maquillajemarykay makeup givaudan garantia satisfaccion citlali g marykay citlaligardunomarykay"
+4. "primera vez puerto vallarta algo especial caminar malecón crucero a través de la bahía de banderas perseguir cascadas jungla ver atardeceres sentirse irreal amanecer saborear mariscos locales explorar playas escondidas colomitos dejar que la ciudad colores sonidos tirar sobre con flecha viernes negro reservar vacaciones puerto vallarta teléfono móvil con flecha dar llamada computadora de escritorio ofertas de vacaciones todo incluido com ofertas de vacaciones puerto vallarta vibraciones vallarta aventuras playa puesta de sol escapada tropical méxico viaje pacífico a vallarta escape romántico"
+5. "tonos nuevos esperalos pronto marykaydemexico marykaydemexico bahiadebanderas nuevonayarit puertovallartamexico consultoradebellezamarykay enviosatodomexico consultoradebellezamarykay

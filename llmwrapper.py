@@ -28,7 +28,7 @@ class LlamaModel:
         self.model_name=model
         with suppress_stderr():
             self.model=Llama(model_path=model,
-                                n_ctx=4096,          
+                                n_ctx=16981,          
                                 n_gpu_layers=-1,  
                                 n_threads=8,
                                 verbose=False)

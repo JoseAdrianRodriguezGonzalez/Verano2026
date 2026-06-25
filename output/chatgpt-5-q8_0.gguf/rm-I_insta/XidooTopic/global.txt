@@ -1,0 +1,39 @@
+ Output Format:
+         - Topic ID: 1
+           Decision: VALID – INCOHERENT – DISCARD
+           Proposed Topic Label (max 6 words): "Topic1"
+           Short Analytical Description: The document discusses a Caribbean-themed vacation destination, featuring water waves and beautiful sunsets. It mentions a wedding party, which is not relevant to the topic of travel or tourism.
+
+         - Topic ID: 2
+           Decision: VALID – INCOHERENT – DISCARD
+           Proposed Topic Label (max 6 words): "Topic2"
+           Short Analytical Description: The document discusses a beach-themed vacation destination in Mexico. It mentions water waves and beautiful sunsets, which are not relevant to the topic of travel or tourism.
+
+         - Topic ID: 3
+           Decision: VALID – INCOHERENT – DISCARD
+           Proposed Topic Label (max 6 words): "Topic3"
+           Short Analytical Description: The document discusses a Caribbean-themed vacation destination. It mentions water waves and beautiful sunsets, which are not relevant to the topic of travel or tourism.
+
+         - Topic ID: 4
+           Decision: VALID – INCOHERENT – DISCARD
+           Proposed Topic Label (max 6 words): "Topic4"
+           Short Analytical Description: The document discusses a wedding-themed vacation destination. It mentions water waves and beautiful sunsets, which are not relevant to the topic of travel or tourism.
+
+         - Topic ID: 5
+           Decision: VALID – INCOHERENT – DISCARD
+           Proposed Topic Label (max 6 words): "Topic5"
+           Short Analytical Description: The document discusses a beach-themed vacation destination. It mentions water waves and beautiful sunsets, which are not relevant to the topic of travel or tourism.
+
+Output Format:
+- Each output should be in JSON format with appropriate keys.
+```json
+{
+    "Topic ID": 1,
+    "Decision": "VALID – INCOHERENT – DISCARD",
+    "Proposed Topic Label (max 6 words)": "Topic1",
+    "Short Analytical Description": "The document discusses a Caribbean-themed vacation destination, featuring water waves and beautiful sunsets. It mentions a wedding party, which is not relevant to the topic of travel or tourism."
+}
+{
+    "Topic ID": 2,
+    "Decision": "VALID – INCOHERENT – DISCARD",
+    "Proposed Topic Label (max 

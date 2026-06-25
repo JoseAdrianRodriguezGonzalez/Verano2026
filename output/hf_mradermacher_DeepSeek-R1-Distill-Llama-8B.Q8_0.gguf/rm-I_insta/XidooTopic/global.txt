@@ -1,0 +1,24 @@
+ Now, let's process each topic.
+
+        Topic ID: 1:
+Keywords:
+a, p, p, p, h, w, p
+Documents:
+
+Looking at the keywords for Topic 1: a, p, p, p, h, w, p. There are multiple 'p's and 'w's but also an 'h' and 'a'. The documents all seem to be in Spanish or another language (given names like "puertoaventuras" which is a location). However, the user mentioned that we shouldn't assume any locations unless they're explicitly stated. Looking at the documents:
+
+Document 1: Mentions places like "luna", "leonardo vinci", but also "puertoaventuras". So it's talking about dark moon, explaining it with light reflecting on planet Earth? Maybe something related to astronomy or natural phenomena.
+
+Wait, no—wait, let me read more carefully. The first document is: "ven parte oscura luna pesar iluminanda directamente planeta refleja luz sol llega luna leonardo vinci primeros explicarla llamo luz cenicienta luna astropic puertoaventuras"
+
+Hmm, this seems to be discussing the dark side of the moon, its weight, illuminating directly on Earth. It mentions "puertoaventuras" which is a location in Mexico.
+
+Document 2: Talks about diving locations like "cenotes", "cozumel", "portbodiving". So it's about scuba diving spots near Riviera Maya and other areas.
+
+Wait, but the keywords are 'a', 'p', etc. But looking at Document 1, maybe it's talking about astronomy or natural phenomena related to the moon? The mention of "luna" (moon) is explicit.
+
+But wait, in the first document: "ven parte oscura luna pesar iluminanda directamente planeta refleja luz sol llega luna leonardo vinci primeros explicarla llamo luz cenicienta luna astropic puertoaventuras"
+
+So it's about dark side of the moon, its weight, light reflecting from the sun. Then mentions "puertoaventuras" which is a specific location.
+
+But then Document 2: It talks about diving in places like Playa del Carmen and other locations—so that would be related to scuba diving, beaches, etc

@@ -1,0 +1,15 @@
+ Please proceed to analyze the topics and provide your output in the specified format.         ```python
+# Initialize lists for storing topic results
+topic_results = []
+merged_topics = []
+
+for i, (keywords, documents) in enumerate(zip([["i", "c", "l", "c", "p", "b", "r"],
+ ["p", "f", "h", "c", "r", "p", "l", "a"],
+ ["r", "b", "r", "h", "h", "e", "c", "r"],
+ ["p", "p", "h", "h", "h", "e", "c", "a"],
+ ["v", "i", "c", "d", "c", "h", "c", "l"]],
+
+ [["muchas maneras de ver la isla espíritu santo definitivamente recomiendo encontrar uno incluye actividades quiero nadar leones almorzar hermosa playa andar en kayak ver tortugas consiguieron snorkel arrecife sorprendido número pez tropical vi nadando leones agua clara abundante hermoso pez agua fría asegúrese de ponerse traje de neopreno también cerca de la playa pies agua pequeñas rayas guía dijo picado tres veces viaje de un día viaje de por vida familia altamente recomendado"],
+ ["Seguro que esperas recorrer la isla excelente lote aprender el mejor lugar nadar leones hacer snorkel relajarte playa cristalina excelente excursión de un día"],
+ ["barco privado familia cuatro pesos nosotros excursiones de un día horas buscadas hora isla islotes buceó colonia de leones entretenido lugar fácil de perder la vida detuvo el almuerzo todos los demás muchas playas uno de visita encontraría privado uno detenido otro snorkel minuto corriendo de regreso terminado excelente viaje a la playa horas perfectas"],
+ ["tomar un viaje de un día isla espíritu santo combinar parada nadar tiburones ballena aún mejor guía nos llevó agradable snorkeling playa nadar leones se detiene en el camino colocar pájaros detectar uno de patas azules también fragata colonia de aves vio gran apareamiento res

@@ -1,0 +1,57 @@
+ Please analyze the topics based on keywords and documents provided.  Use the format specified above to output your analysis.
+
+Topic ID: 1:
+Decision: VALID
+Proposed Topic Label: "Walking in a Different Time"
+Short Analytical Description: The topic revolves around walking, time differences, adventure, scenic views, art appreciation, and enjoying local experiences.
+
+Topic ID: 2:
+Decision: INCOHERENT – DISCARD
+Short Analytical Description: Keywords seem to describe different aspects of Puerto Vallarta (malecón, playa), but the documents appear fragmented without a clear cohesive theme beyond mentioning locations. The topic lacks semantic coherence.
+
+
+Topic ID: 3:
+Decision: VALID
+Proposed Topic Label: "Relaxation at Beachfront"
+Short Analytical Description: This topic focuses on relaxation and enjoyment near the beach (playa) with mentions of cerveza, vendors selling items like sombrillas, masajes de pies, and a lively atmosphere.
+
+
+Topic ID: 4:
+Decision: VALID
+Proposed Topic Label: "Waterfront Experience"
+Short Analytical Description: The documents highlight scenic views from waterfront spots including the malecón, paseo marítimo (maritime walk), restaurants with local food, and shopping along this route. It emphasizes a pleasant day out.
+
+
+Topic ID: 5:
+Decision: INCOHERENT – DISCARD
+Short Analytical Description: Keywords seem to cover various aspects of religious or cultural experiences but the documents focus on specific locations like an iglesia (church) without tying back cohesively with all keywords, suggesting semantic overlap is not strong enough for a valid topic label.
+
+
+         After analyzing topics:
+- There are no semantically overlapping VALID topics that require merging.
+- No further action needed based on provided data.  The analysis was done strictly and exclusively according to the rules given.
+
+---
+
+**FINAL ANALYSIS:**
+
+VALID TOPICS (3):
+1, 3, 4
+
+INCOHERENT – DISCARD TOPIC(S): 
+2, 5
+
+MERGING PROPOSAL:
+None due to lack of semantic overlap among VALID topics. **No merging is proposed based on the data provided and following instructions strictly**.
+
+---
+
+END OF ANALYSIS.
+```python
+# Define a function for each topic analysis as per format required
+
+
+def analyze_topic(topic_id):
+    # Based on keywords and documents, decide if it's valid or discard due to incoherence
+
+    if topic_id ==

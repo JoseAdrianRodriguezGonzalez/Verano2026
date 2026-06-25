@@ -1,0 +1,28 @@
+
+- Topic ID: 1
+- Decision: INCOHERENT – DISCARD
+- Proposed Topic Label (max 6 words): Unrelated keywords, no clear theme.
+- Short Analytical Description (2–3 sentences strictly grounded in the provided text): The keywords “s, r, l, t, e, h, g, b” are not semantically related and do not form a coherent topic based on the documents.  The tourist reviews associated with this topic discuss activities like diving, snorkeling, restaurants, and general travel experiences without establishing a clear common theme.
+
+- Topic ID: 2
+- Decision: VALID
+- Proposed Topic Label (max 6 words): Beach Activities & Family Travel
+- Short Analytical Description (2–3 sentences strictly grounded in the provided text): This topic centers around beach activities such as snorkeling, swimming, and exploring marine life. The documents highlight experiences enjoyed by families visiting beaches with clear descriptions of water conditions, equipment rentals, and nearby restaurants.
+
+- Topic ID: 3
+- Decision: VALID
+- Proposed Topic Label (max 6 words): Fishing & Coastal Exploration
+- Short Analytical Description (2–3 sentences strictly grounded in the provided text): The keywords “r, a, b, p, l, b, b, s” and documents relate to fishing experiences along the coast.  The reviews detail boat trips, local fishermen, seafood restaurants, and observations of marine life like fish and birds.
+
+- Topic ID: 4
+- Decision: VALID
+- Proposed Topic Label (max 6 words): Coastal Walkways & Beach Access
+- Short Analytical Description (2–3 sentences strictly grounded in the provided text): This topic focuses on descriptions related to coastal walkways, beaches, and access points along the shoreline. The reviews describe walking paths, beach conditions, sun exposure, and accessibility for various users including families with children.
+
+- Topic ID: 5
+- Decision: VALID
+- Proposed Topic Label (max 6 words): Local Community & River Experiences
+- Short Analytical Description (2–3 sentences strictly grounded in the provided text): The keywords “r, i, a, h, b, h, c, p” and associated documents describe interactions with local communities, including restaurant visits, mud baths, and experiences along a river that flows into the ocean. Reviews indicate an appreciation for authentic cultural encounters and natural beauty.
+
+- Overlapping Topics:
+    *   Topic

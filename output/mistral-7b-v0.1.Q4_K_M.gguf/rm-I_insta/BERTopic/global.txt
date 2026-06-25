@@ -1,0 +1,19 @@
+1. Topic ID: 1
+        Decision: INCOHERENT – DISCARD
+        Proposed Topic Label (max 6 words, neutral and descriptive):
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+
+        2. Topic ID: 2
+        Decision: VALID
+        Proposed Topic Label (max 6 words, neutral and descriptive):
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+
+        3. Topic ID: 3
+        Decision: INCOHERENT – DISCARD
+        Proposed Topic Label (max 6 words, neutral and descriptive):
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+
+        4. Topic ID: 4
+        Decision: VALID
+        Proposed Topic Label (max 6 words, neutral and descriptive):
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text)

@@ -1,0 +1,37 @@
+ Output:
+
+        - Topic ID: 1:
+          Decision: INVALID – DISCARD
+          Proposed Topic Label (max 6 words, neutral and descriptive): Playa Balandra, a beautiful coastal beach in La Paz.
+          Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+            The topic is about visiting a seaside location called Playa Balandra in La Paz. It's described as "beautiful" with stunning views of the ocean and beaches.
+
+        - Topic ID: 2:
+          Decision: INVALID – DISCARD
+          Proposed Topic Label (max 6 words, neutral and descriptive): No Vayan! They have a lot to offer but it seems like they're not doing their job.
+          Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+            The topic is about visiting an area called Playa Balandra with options for both adults and children. It's described as "very interesting" with multiple amenities, such as palapas.
+
+        - Topic ID: 3:
+          Decision: INVALID – DISCARD
+          Proposed Topic Label (max 6 words, neutral and descriptive): Very beautiful beach in La Paz.
+          Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+            The topic is about visiting a seaside location called Playa Balandra. It's described as "very beautiful" with stunning views of the ocean.
+
+        - Topic ID: 4:
+          Decision: INVALID – DISCARD
+          Proposed Topic Label (max 6 words, neutral and descriptive): A great place to visit in La Paz.
+          Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+            The topic is about visiting a seaside location called Playa Balandra. It's described as "great" with many amenities.
+
+        - Topic ID: 5:
+          Decision: INVALID – DISCARD
+          Proposed Topic Label (max 6 words, neutral and descriptive): An excellent place to visit in La Paz.
+          Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+            The topic is about visiting a seaside location called Playa Balandra. It's described as "an excellent" with many amenities.
+
+Output:
+
+        - Topic ID: 1:
+          Decision: INVALID – DISCARD
+          Proposed Topic Label (max 6 words, neutral and descriptive): Playa Balandra, a beautiful coastal beach in

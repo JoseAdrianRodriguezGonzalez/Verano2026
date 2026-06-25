@@ -1,0 +1,8 @@
+ Output Format:
+
+        - Topic ID:
+        - Decision: (VALID / INCOHERENT – DISCARD)
+        - Proposed Topic Label (max 6 words, neutral and descriptive):
+        - Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+
+Output should be formatted as shown below. If you are unsure about a decision or need clarification on an example topic ID, feel free to ask!

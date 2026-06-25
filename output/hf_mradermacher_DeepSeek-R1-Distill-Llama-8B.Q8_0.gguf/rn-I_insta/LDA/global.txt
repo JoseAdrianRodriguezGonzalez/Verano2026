@@ -1,0 +1,36 @@
+ Now, analyze the topics.
+
+First, process each topic individually:
+
+Topic ID: 1:
+Keywords: n, p, m, s, s, n, b, n
+Documents: All documents mention "villa" and describe amenities like beachfront location, swimming pools, tennis courts, etc. Keywords include 'n' (maybe 'villa'), 'p' ('playa', beach), 'm' (may be 'mar', sea). The documents talk about luxury vacation rentals with specific details.
+
+Proposed Topic Label: "Luxury Villa Rentals"
+Decision: VALID
+Short Analytical Description:
+The provided documents discuss luxurious villas offering high-end amenities such as beachfront locations, swimming pools, tennis courts, and elegant dining experiences. Keywords like 'villa,' 'playa,' and 'mar' align with a premium vacation rental theme.
+
+Topic ID: 2:
+Keywords: c, c, n, p, m, i, d, t
+Documents: Focus on condos for sale or rent, mentioning locations in Mexico (e.g., Bucerías), amenities like spas, gyms. Keywords include 'condo,' 'beachfront,' 'vacations.'
+
+Proposed Topic Label: "Beachfront Condos"
+Decision: VALID
+Short Analytical Description:
+The documents highlight beachfront condos available for sale or rent, emphasizing their location and amenities such as spa facilities, gym access, and proximity to tourist areas. Keywords like 'condo' and 'beachfront' indicate a focus on these properties.
+
+Topic ID: 3:
+Keywords: h, n, p, v, s, c, n, m
+Documents: Mix of resort features (e.g., beach with umbrellas), family activities, spa services, dining options. Keywords include 'resort,' 'vacations,' 'beach.'
+
+Proposed Topic Label: "Resort Amenities and Activities"
+Decision: VALID
+Short Analytical Description:
+The documents describe a variety of resort amenities such as beaches, spas, fitness classes, and dining experiences. They cater to families with activities like water polo or yoga sessions.
+
+Topic ID: 4:
+Keywords: m, b, n, c, p, t, m, p
+Documents: Focus on seafood restaurants (e.g., Pescadería Martínez), mentioning high-quality fish, mariscos, and cocktail offerings. Keywords include 'restaurant,' 'marisco.'
+
+Proposed Topic Label: "High

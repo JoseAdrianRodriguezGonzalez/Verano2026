@@ -1,0 +1,48 @@
+ Based on the provided information, please perform your analysis and provide a structured output as described above.        
+
+
+Topic ID: 1:
+Decision: VALID
+Proposed Topic Label: "Puerto Aventuras Living"
+Short Analytical Description: The topic is centered around Puerto Aventuras living experience, highlighting its amenities such as pool access, modern design, and proximity to beaches.
+
+Topic ID: 2:
+Decision: INCOHERENT – DISCARD
+No keywords can be inferred from the provided documents. All documents are about weddings (bodas) in a specific location but do not share any other common theme or keyword that could define this topic beyond its explicit mention of "weddings".
+
+Topic ID: 3:
+Decision: VALID
+Proposed Topic Label: "Pet Lovers"
+Short Analytical Description: The topic revolves around pets, specifically dogs and cats, with the documents mentioning various aspects such as training, grooming, and daily life.
+
+Topic ID: 4:
+Decision: INCOHERENT – DISCARD
+The keywords are related to a location (Tulum) but do not share any other common theme or keyword that could define this topic beyond its explicit mention of "tankah" which seems to be the name of an area rather than a descriptive concept.
+
+Topic ID: 5:
+Decision: VALID
+Proposed Topic Label: "Cancun Tourism"
+Short Analytical Description: The documents describe various aspects related to Cancun tourism, including activities, tours, and services provided by operators in the region.
+
+
+Based on your analysis:
+
+- Are there any semantically overlapping topics?
+- If so, propose a merged topic label and indicate which Topic IDs should be merged.        
+
+
+There are no semantically overlapping VALID topics that can be merged based solely on their keywords and documents provided.
+
+The final answer is: None to merge.         
+
+Note: The output must follow the exact structure described in the problem statement. If there's a need for any additional information or clarification, please let me know!        
+
+
+Here are some observations:
+
+- Topic 1 focuses on Puerto Aventuras living experience.
+- Topics 2 and 4 seem to be about specific locations (weddings and Tulum), but they don't share common themes beyond their explicit mentions. They're discarded due to incoherence.
+- Topic 3 revolves around pets, specifically dogs and cats.
+- Topic 5 describes various aspects related to Cancun tourism.
+
+Since there are no sem

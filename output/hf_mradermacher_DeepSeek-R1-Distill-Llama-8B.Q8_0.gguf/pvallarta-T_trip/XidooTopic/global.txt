@@ -1,0 +1,43 @@
+ Now, let's process each topic step by step.
+
+        For Topic ID: 1:
+        Keywords: p, c, g, l, v, a, a, v
+        So keywords are: [p, c, g, l, v, a]
+
+        Documents:
+
+        Doc1: "tiempo esposa ir a puerto vallarta ir a caminar malecón tiempo diferente aventura ver lugares vistos a veces almorzar incluso cenar a veces elegir disfrutar obras de arte mirar a la gente disfrutar de la brisa una experiencia amable"
+
+        Keywords in Doc1: p, c, g, l, v, a
+        (Note that "a" appears twice but it's the same keyword)
+
+        Doc2: "lugar encantador deja caminar gente caminando increíble"
+        Keywords in Doc2: g
+
+        Doc3: "El encantador centro de la ciudad definitivamente recomendaría un malecón fácil de caminar."
+        Keywords in Doc3: c, m (but 'm' is not a keyword here), but the keywords are p, c, v, etc. Wait, let me check.
+
+Wait, no. The topic's keywords for ID 1 are [p, c, g, l, v, a]. So looking at each document:
+
+Doc3: "El encantador centro de la ciudad definitivamente recomendaría un malecón fácil de caminar."
+Looking for p, c, g, l, v, a.
+
+"Centro de la ciudad": 'c' is present. Malecon: 'm', but not in keywords. So only 'c'.
+
+So overall, Doc3 has keyword 'c'.
+
+Now, looking at all documents:
+
+Doc1: Keywords [p,c,g,l,v,a]
+Doc2: g
+Doc3: c
+
+Are the keywords semantically coherent? Let's see.
+
+'p': puerto vallarta (from doc5 of topic 4 and others), but in this case, is 'p' mentioned here?
+
+Wait, no. Wait, for Topic ID1:
+
+Keywords are p,c,g,l,v,a.
+
+But looking at Doc1: "tiempo esposa ir a puerto vallarta..." So yes, the keyword 'p' (puerto) is present as part of the topic's keywords? Or wait, in this case, the keyword list

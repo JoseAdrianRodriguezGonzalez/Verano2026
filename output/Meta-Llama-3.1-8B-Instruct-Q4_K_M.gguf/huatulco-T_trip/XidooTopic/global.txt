@@ -1,0 +1,41 @@
+ Here is the output of your analysis:
+
+
+Topic ID: 1:
+Decision: INCOHERENT – DISCARD
+Proposed Topic Label: None
+Short Analytical Description:
+
+The keywords and documents provided do not appear to share a clear common theme. The presence of words like "gente," "colgar," "vender," and phrases such as "pasé horas buceando" suggest that the topic may be related to activities or events, but this is unclear.
+
+Topic ID: 2:
+Decision: VALID
+Proposed Topic Label: Beaches with Good Food Options
+Short Analytical Description:
+
+The keywords and documents provided appear to describe beaches with good food options. The presence of words like "restaurantes," "agua grande," "bonito día de playa," and phrases such as "visite muchas playas maravillosas" suggest that the topic is focused on beach destinations with pleasant amenities.
+
+Topic ID: 3:
+Decision: VALID
+Proposed Topic Label: Coastal Towns or Bays
+Short Analytical Description:
+
+The keywords and documents provided appear to describe coastal towns, bays, or areas with a strong marine presence. The presence of words like "bahía," "pueblo de pescadores," "océano," and phrases such as "viaje a la bahía" suggest that the topic is focused on these types of destinations.
+
+Topic ID: 4:
+Decision: VALID
+Proposed Topic Label: Snorkeling Beaches with Good Visibility
+Short Analytical Description:
+
+The keywords and documents provided appear to describe beaches suitable for snorkeling, particularly those with good visibility. The presence of words like "snorkel," "agua clara limpia como piscina," and phrases such as "visibilidad excelente" suggest that the topic is focused on these types of destinations.
+
+Topic ID: 5:
+Decision: VALID
+Proposed Topic Label: Snorkeling Spots with Coral Reefs or Good Visibility
+Short Analytical Description:
+
+The keywords and documents provided appear to describe snorkeling spots, particularly those with coral reefs or good visibility. The presence of words like "snorkel," "coral vivo," "área protegida para nadar," and phrases such as "viajar fuera de la bahía" suggest that the topic is focused on these types of destinations.
+
+After analyzing all topics:
+
+There are no semantically overlapping VALID topics to merge. Each valid topic has a distinct theme or focus

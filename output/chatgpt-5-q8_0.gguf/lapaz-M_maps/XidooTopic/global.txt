@@ -1,0 +1,46 @@
+ Output format:
+
+        - Topic ID:
+        - Decision: (VALID / INCOHERENT – DISCARD)
+        - Proposed Topic Label (max 6 words, neutral and descriptive):
+        - Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+
+Output should be structured as shown above. Each topic is represented by a unique ID number.
+```python
+Topic ID: 1:
+Keywords: l, b, e, h, s, l, t, a
+
+Decision: INCOHERENT – DISCARD
+Proposed Topic Label (max 6 words, neutral and descriptive): Incoherent topics overlap significantly.
+
+Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+
+The keywords for topic ID 1 are "l", "b", "e", "h", "s" which seem to be related to a place or location. However, there is no clear theme that can be inferred from these words alone.
+
+Topic IDs: 2:
+Keywords: r, l, p, s, e, e, b, p
+
+Decision: INCOHERENT – DISCARD
+Proposed Topic Label (max 6 words, neutral and descriptive): Incoherent topics overlap significantly.
+
+Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+
+The keywords for topic ID 1 are "r", "l", "p", "s" which seem to be related to a place or location. However, there is no clear theme that can be inferred from these words alone.
+
+Topic IDs: 3:
+Keywords: c, f, t, d, e, t, b, h
+
+Decision: INCOHERENT – DISCARD
+Proposed Topic Label (max 6 words, neutral and descriptive): Incoherent topics overlap significantly.
+
+Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+
+The keywords for topic ID 1 are "c", "f", "t" which seem to be related to a place or location. However, there is no clear theme that can be inferred from these words alone.
+
+Topic IDs: 4:
+Keywords: b, w, t, p, b, r, t, g
+
+Decision: INCOHERENT – DISCARD
+Proposed Topic Label (max 6 words, neutral and descriptive): Incoherent topics overlap significantly.
+
+Short Analytical Description (2–3 sentences strictly grounded in the provided

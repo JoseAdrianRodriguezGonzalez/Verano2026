@@ -1,0 +1,49 @@
+ Please analyze the topics and provide your output as requested.         ```python
+import pandas as pd
+
+# Define a function to process each topic
+def process_topic(topic_id, keywords, documents):
+    # Check for INCOHERENT – DISCARD if no clear theme emerges from keywords or documents
+    if len(keywords) == 0 and not any(documents):  
+        return "INCOHERENT - DISCARD"
+    
+    # Extract relevant information to form a proposed topic label
+    words = ' '.join([word.lower() for word in keywords])
+    doc_words = [doc.replace('\n', '').lower().split(' ')[:10] for doc in documents]
+    common_doc_word = set(doc_words[0]).intersection(*doc_words)
+    
+    # Form the Proposed Topic Label based on extracted information
+    topic_label = f"{words} {common_doc_word}"
+    if len(topic_label) > 6: 
+        topic_label = " ".join(topic_label.split()[:3]) + "..."
+
+    return {
+        'Topic ID': topic_id,
+        'Decision': 'VALID',
+        'Proposed Topic Label': topic_label,
+        'Short Analytical Description': f"Based on keywords {keywords} and documents, this appears to be about {topic_label}."
+    }
+
+# Process each topic
+topics = []
+for i in range(1, 6):
+    topics.append(process_topic(i, eval(f'Topic ID: {i}: Keywords'), [eval(doc) for doc in f"Topic ID: {i}:\nDocuments:".split('\n') if 'Document' not in doc]))
+
+# Display results
+print(pd.DataFrame(topics).set_index('Topic ID'))
+```
+
+
+
+After running the code, you should see a table with your analysis. If there are any semantically overlapping VALID topics, it will be indicated at the end of this response.
+
+
+
+**Analysis Output:**
+
+
+| Topic ID | Decision       | Proposed Topic Label             | Short Analytical Description                      |
+|:---------|:----------------|:----------------------------------|:---------------|
+| 1        | VALID           | s roh r l h r                       | Based on keywords ['s', 'r', 'o', 'l', 'h', 'r'] and documents, this appears to be about s roh r l h r. |
+| 2        | INCOHERENT – DISCARD | | |
+| 3        |

@@ -1,0 +1,28 @@
+- Topic ID: 1
+        - Decision: INCOHERENT – DISCARD
+        - Proposed Topic Label (max 6 words): Abstract, surrealist visual imagery
+        - Short Analytical Description: The keywords "m," "p," "f," "c," "v" and the documents contain a collection of seemingly unrelated terms like “sero ploriaa,” “gorecore,” and descriptions of various artistic elements. There is no clear semantic connection between these items, making it difficult to define a coherent topic.
+
+        - Topic ID: 2
+        - Decision: VALID
+        - Proposed Topic Label (max 6 words): Coastal paradise exploration
+        - Short Analytical Description: The keywords "o," "t," "a," and the documents describe scenes of beaches, islands, turquoise waters, tropical vegetation, and boat activities.  The consistent theme is a depiction of idyllic coastal environments, particularly in Mexico.
+
+        - Topic ID: 3
+        - Decision: VALID
+        - Proposed Topic Label (max 6 words): Huatulco tour package promotion
+        - Short Analytical Description: The keywords "o," "p," "b," and the documents focus on promoting a tourist package to Huatulco, Mexico.  They detail various activities like boat tours, snorkeling spots, visits to natural areas (“cacaluta”), and local attractions.
+
+        - Topic ID: 4
+        - Decision: VALID
+        - Proposed Topic Label (max 6 words): Sunset beach photography
+        - Short Analytical Description: The keywords "p," "f," "k," and the documents describe scenes of sunsets over beaches, featuring people enjoying the view or engaging in activities like kite flying.  The focus is on photographic representations of these moments.
+
+        - Topic ID: 5
+        - Decision: VALID
+        - Proposed Topic Label (max 6 words): Huatulco festive celebrations
+        - Short Analytical Description: The keywords "l," "h," “r”, and the documents relate to festivities, particularly Dia de Muertos (“day of the dead”), with mentions of decorations ("sparkles"), local businesses in Huatulco, and promotional materials.
+
+        Overlapping Topics: 2 and 4 share a focus on coastal scenes (Topic 2) and photography/visuals (Topic 4).
+        Merged Topic Label Proposal: Coastal Photography & Leisure
+        Topics to Merge: 2

@@ -1,0 +1,15 @@
+ Based on the provided information, I have analyzed each topic and made the following decisions:
+
+         Topic ID: 1: VALID - This topic appears to be about a tour or experience related to natural beauty, possibly involving caves, snorkeling, jungles, and water activities. The keywords include "river," "secret," "cave," "snakes," "tour," and " adventure."
+         Topic Label: Natural Wonders Tour
+         Short Analytical Description: This topic seems to revolve around a tour or experience that explores natural wonders, such as caves, rivers, jungles, and various wildlife. The documents mention snorkeling, underwater formations, and the use of equipment like helmets and life jackets.
+
+         Topic ID: 2: VALID - This topic appears to be about a visit or experience at a zoo or animal park where visitors can interact with animals, possibly including feeding them and learning about their habitats. The keywords include "zoologico," "loros," "cocodrilos," "monos," "guía," and "comida."
+         Topic Label: Animal Interaction Experience
+         Short Analytical Description: This topic appears to be related to a visit or experience at an animal park where visitors can interact with various animals, such as feeding them and learning about their habitats. The documents mention the presence of loros (parrots), cocodrilos (crocodiles), monos (monkeys), and guides who provide information and assistance.
+
+         Topic ID: 3: INCOHERENT – DISCARD - This topic appears to be disconnected, with no clear theme or common thread among the keywords or documents provided. The keywords include "p," "t," "g," "s," "p," "e," and do not seem to convey a consistent meaning or topic.
+         Topic Label: N/A (Discarded)
+         Short Analytical Description: This topic appears to be disconnected, with no clear theme or common thread among the keywords or documents provided. The documents mention various unrelated words, making it impossible to determine a meaningful label for this topic.
+
+         Topic ID: 4: INCOHERENT – DISCARD - The documents in this topic do not appear

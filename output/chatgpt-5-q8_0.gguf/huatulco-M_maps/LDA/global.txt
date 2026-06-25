@@ -1,0 +1,53 @@
+ Output format:
+
+        - Topic ID: 1:
+            Keyword Analysis (max 6 words):
+                - Keywords analyzed for topic modeling.
+            Decision: VALID
+            Proposed Topic Label: Playa de Huatulco
+            Short Analytical Description: "Playa of Huatulco is a beautiful, small beach with clear water and colorful fish. It's perfect for swimming or snorkeling."
+
+        - Topic ID: 2:
+            Keyword Analysis (max 6 words):
+                - Keywords analyzed for topic modeling.
+            Decision: VALID
+            Proposed Topic Label: Playas de Huatulco
+            Short Analytical Description: "Playas of Huatulco are beautiful beaches, with clear water and colorful fish. They're great places to swim or snorkel."
+
+        - Topic ID: 3:
+            Keyword Analysis (max 6 words):
+                - Keywords analyzed for topic modeling.
+            Decision: VALID
+            Proposed Topic Label: Playa de Huatulco
+            Short Analytical Description: "Playas of Huatulco are beautiful beaches, with clear water and colorful fish. They're great places to swim or snorkel."
+
+        - Topic ID: 4:
+            Keyword Analysis (max 6 words):
+                - Keywords analyzed for topic modeling.
+            Decision: VALID
+            Proposed Topic Label: Playa de Huatulco
+            Short Analytical Description: "Playas of Huatulco are beautiful beaches, with clear water and colorful fish. They're great places to swim or snorkel."
+
+        - Topic ID: 5:
+            Keyword Analysis (max 6 words):
+                - Keywords analyzed for topic modeling.
+            Decision: VALID
+            Proposed Topic Label: Playa de Huatulco
+            Short Analytical Description: "Playas of Huatulco are beautiful beaches, with clear water and colorful fish. They're great places to swim or snorkel."
+
+
+
+
+Output:
+
+        1:
+        - Keyword Analysis (max 6 words):
+                - Keywords analyzed for topic modeling.
+        - Decision: VALID
+        - Proposed Topic Label: Playa de Huatulco
+        - Short Analytical Description: "Playa of Huatulco is a beautiful, small beach with clear water and colorful fish. It's perfect for swimming or snorkeling."
+
+        2:
+        - Keyword Analysis (max 6 words):
+                - Keywords analyzed for topic modeling.
+        -

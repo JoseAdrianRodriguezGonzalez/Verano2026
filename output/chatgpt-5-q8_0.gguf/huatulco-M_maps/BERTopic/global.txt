@@ -1,0 +1,23 @@
+ Output must follow this structure exactly.
+
+         Topic ID: 1:
+Keywords: 
+e, c, b, e, h, p
+Documents:
+1: "Excelente la bahía del maguey en crucecita Huatulco, se llega en lancha privada o catamarán publico. Aunque también tiene acceso por carretera de 20 Mins."
+2: "La playa está muy limpio y tranquila con un oleaje suave a lo largo del día y que ha cambiado bastante desde la última vez, hay algunos restaurantes donde se puede comer pero no todo es excelente para todos. "
+3: "Esta pequeña bahía tiene un oleaje suave a lo largo del día y que ha cambiado bastante desde la última vez, hay algunas opciones de comida como las enmarañadas o los pescados con el ajillo."
+4: "La playa está muy limpio pero no es tan recomendable para todos. Hay restaurantes donde puedes comer pero todo depende mucho de tus gustos y si vas a una zona tranquila que te gusta, hay algunas opciones como las enmarañadas o los pescados con el ajillo."
+5: "La playa está muy limpio y tranquila con un oleaje suave a lo largo del día. Hay restaurantes donde puedes comer pero todo depende de tus gustos."
+
+Output must follow this structure exactly.
+
+Assistant:
+```json
+{
+  "Topic ID": "1",
+  "Decision": "VALID – INCOHERENT – DISCARD",
+  "Proposed Topic Label": "Bahía Huatulco - Limpio y tranquila con Oleaje suave a lo largo del día",
+  "Short Analytical Description": "The topic is about the cleanliness and calmness of Huatulco's beaches, with an emphasis on the oleague at low tide."
+}
+```

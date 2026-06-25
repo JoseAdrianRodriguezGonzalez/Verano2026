@@ -1,0 +1,20 @@
+ After processing all the topics, if there are any valid and semantically overlapping topics, propose a merged topic label.
+         If not, proceed to discard.
+
+Okay, let me try to work through this step by step. I'm supposed to analyze each of these five topics based on their keywords and documents, following strict rules without adding anything extra. 
+
+Starting with Topic ID 1: The keywords are e, r, c, f, r, u, p, q. Looking at the documents, they all seem to be about experiences related to cenotes or tours in Tulum. Words like "cenote," "viaje," and mentions of places like Tulum suggest this is a travel topic focusing on Mayan ruins, snorkeling, and cultural activities.
+
+Moving to Topic ID 2: Keywords are c, c, p, f, r, d, s, c. The documents here also talk about cenotes, specifically "dos ojos" (two eyes). They mention snorkeling, visiting different cenote locations, and some pricing issues. So this seems related but more specific to the cenote experiences at Dos Ojos.
+
+Topic ID 3: Keywords include s, s, t, r, e, b, h, v. The documents here are about snorkeling activities, protecting turtles, and exploring marine areas. They mention places like playa carmen and two ojos again but focus more on the snorkeling aspect rather than the cenotes themselves.
+
+Topic ID 4: Keywords a, z, a, i, a, i, c, c. The documents here are about a zoo with animals like crocodiles, snakes, and birds. There's no mention of cenotes or tours; it seems more focused on wildlife interaction at a zoológico.
+
+Topic ID 5: Keywords include c, c, f, r, p, p, a, c. The documents talk about exploring caves underwater, snorkeling in cenotes, visiting Mayan ruins, and having unique experiences like swimming through submerged cave systems.
+
+Now, looking for overlaps:
+
+- Topic IDs 1,2,3,5 all relate to Tulum's cenote areas but focus on different aspects: general tours (ID1), specific cenote visits (ID2), snorkeling activities (IDs3&5). However, the keywords and documents don't show a strong enough overlap beyond mentioning similar locations. 
+
+- Topic ID4 is about a zoo, which

@@ -1,0 +1,31 @@
+
+        Topic ID: 1
+        Decision: VALID
+        Proposed Topic Label (max 6 words, neutral and descriptive): Beach Vacation & Local Life
+        Short Analytical Description: This topic centers around experiences at the beach – swimming, sunbathing, enjoying restaurants, and observing local life. The documents describe a vibrant seaside area with shops, food vendors, and people socializing, emphasizing relaxation and simple pleasures.
+
+        Topic ID: 2
+        Decision: VALID
+        Proposed Topic Label (max 6 words, neutral and descriptive): Vallarta’s Historic Center & Festivals
+        Short Analytical Description: This topic focuses on the historical center of Puerto Vallarta, particularly during events like festivals. The documents describe a lively area with parades, music, vendors, churches, and cultural performances, highlighting community gatherings and traditions.
+
+        Topic ID: 3
+        Decision: INCOHERENT – DISCARD
+        Proposed Topic Label (max 6 words, neutral and descriptive):  Tequila Production & Local Travel
+        Short Analytical Description: The keywords and documents seem to mix information about tequila production with descriptions of travel experiences in the region. While there’s a connection through agave cultivation, the content is fragmented and lacks a clear thematic focus.
+
+        Topic ID: 4
+        Decision: VALID
+        Proposed Topic Label (max 6 words, neutral and descriptive):  Bay of Vallarta & Coastal Tours
+        Short Analytical Description: This topic revolves around excursions to the Bay of Banderas, including boat tours, wildlife sightings (whales, dolphins), and enjoying the coastal scenery. The documents describe experiences related to marine life observation and exploring the bay’s natural beauty.
+
+        Topic ID: 5
+        Decision: VALID
+        Proposed Topic Label (max 6 words, neutral and descriptive): Agave Distillery & Tequila Tasting
+        Short Analytical Description: This topic is centered around visiting an agave distillery and tasting different types of tequila and mezcal. The documents describe tours that explain the production process, offer tastings, and highlight the unique flavors of these spirits.
+
+        Overlapping Topics:
+        Topic IDs 3 and 5 are semantically overlapping due to their focus on tequila/agave.
+
+        Proposed Merged Topic Label: Tequila Production & Tasting Experiences
+        Merged Topic IDs: 3, 5

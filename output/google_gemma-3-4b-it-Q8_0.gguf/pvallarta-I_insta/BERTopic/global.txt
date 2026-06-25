@@ -1,0 +1,32 @@
+---
+        Analysis:
+
+        Topic ID: 1
+        Decision: VALID
+        Proposed Topic Label (max 6 words): Puerto Vallarta Beach Vacation
+        Short Analytical Description: The topic revolves around mentions of "puertovallartabeach," “vallarta,” and related terms like "vacation" and "beach life."  The documents consistently discuss beach activities, resorts, and general travel experiences in the area.
+
+        Topic ID: 2
+        Decision: INCOHERENT – DISCARD
+        Proposed Topic Label (max 6 words): Personal Photo Sharing
+        Short Analytical Description: The keywords include terms related to photos ("fotos," "favorita") and personal accounts (“curvywomen”).  The documents appear to be sharing individual experiences and memories, but the connection with Puerto Vallarta is weak.
+
+        Topic ID: 3
+        Decision: VALID
+        Proposed Topic Label (max 6 words): Positive Puerto Vallarta Reviews
+        Short Analytical Description: This topic focuses on positive feedback related to "puertovallartamexico," “playa,” and experiences like "vacaciones" and "gracias." The documents express gratitude, highlight beautiful beaches, and describe enjoyable trips.
+
+        Topic ID: 4
+        Decision: VALID
+        Proposed Topic Label (max 6 words): Puerto Vallarta Cruises & Events
+        Short Analytical Description: This topic is centered around “crucero,” “atardecer”, and events like "noche inolvidable". The documents describe experiences on cruises, dinners, and special occasions in Puerto Vallarta.
+
+        Topic ID: 5
+        Decision: INCOHERENT – DISCARD
+        Proposed Topic Label (max 6 words): Wellness & Personal Growth
+        Short Analytical Description: This topic includes keywords related to emotions ("sparkles," "emociones"), personal development (“crear recuerdos,” “liberacion”), and wellness concepts. The documents discuss feelings, experiences, and self-reflection but lack a clear connection with Puerto Vallarta.
+
+        Overlapping Topics:
+        There is some overlap between Topic 1 (Puerto Vallarta Beach Vacation) and Topic 3 (Positive Puerto Vallarta Reviews). Both are strongly related to the destination itself.
+
+        Proposed Merged Label: Puerto Vallarta Travel Experiences

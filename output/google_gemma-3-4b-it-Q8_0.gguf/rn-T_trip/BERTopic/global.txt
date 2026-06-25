@@ -1,0 +1,37 @@
+Topic ID: 6
+Keywords:
+r, t, i, e, d, o, r, a
+Documents:
+1: "el restaurante es muy bueno la comida era deliciosa el servicio fue excelente y todo estaba bien"
+2: “El hotel tiene un restaurante que sirve una variedad de platos. La calidad de los alimentos es buena y el ambiente agradable.”
+3: “Disfrutamos mucho del restaurante en nuestro hotel, especialmente las vistas al mar.”
+4: "el personal era muy amable y atento la comida estaba bien"
+5: "la cocina es excelente servicio rápido precios razonables siempre una gran experiencia"
+
+---
+
+Topic ID: 1
+Decision: VALID
+Proposed Topic Label (max 6 words): Beach Destinations and Activities
+Short Analytical Description: This topic focuses on descriptions of beaches, particularly Playa de los Muertos and Playa Nuevo Vallarta.  It includes details about swimming conditions, family-friendly environments, accessibility via walking or transportation, and related activities like surfing and enjoying sunsets.
+
+Topic ID: 2
+Decision: VALID
+Proposed Topic Label (max 6 words): Crocodile Sanctuary Visit Experience
+Short Analytical Description: This topic centers around the experience of visiting a crocodile sanctuary in Sayulita.  It describes guided tours, educational aspects about crocodiles and conservation efforts, interactions with animals like touching baby alligators, and visitor feedback on the tour's quality.
+
+Topic ID: 3
+Decision: INCOHERENT – DISCARD
+Short Analytical Description: The keywords relate to markets selling various goods, including food, crafts, and souvenirs. However, the documents offer diverse descriptions of market experiences with little thematic cohesion beyond this general description.
+
+Topic ID: 4
+Decision: VALID
+Proposed Topic Label (max 6 words): Water Park and Dolphin Interaction
+Short Analytical Description: This topic revolves around a water park visit combined with dolphin interaction activities.  It highlights enjoyment by children, opportunities for swimming with dolphins, feedback on the experience's value, potential issues like cleanliness in the pools, and related costs.
+
+Topic ID: 5
+Decision: VALID
+Proposed Topic Label (max 6 words): Dolphin Encounter at a Resort
+Short Analytical Description: This topic describes experiences of interacting with dolphins during vacations or resort stays. It includes details about trainers working with the animals, opportunities for visitors to touch or swim alongside them and general positive feedback on the experience.
+
+Topic ID: 

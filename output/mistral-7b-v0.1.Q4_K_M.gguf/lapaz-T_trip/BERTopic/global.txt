@@ -1,0 +1,21 @@
+--------------------OUTPUT------------------
+        Topic ID: 1:
+        Decision: VALID
+        Proposed Topic Label (max 6 words, neutral and descriptive): Snorkeling and Scuba Diving in La Paz
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+        The topic is about snorkeling and scuba diving activities. It mentions a lot of sea life such as leones, tiburones, ballena, tortugas, peces tropicales, arrecife coralino, etc., which can be found while swimming or diving in La Paz waters.
+        Topic ID: 2:
+        Decision: VALID
+        Proposed Topic Label (max 6 words, neutral and descriptive): Walking along the Malecon of La Paz
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+        The topic is about walking along the Malecón de la ciudad. It mentions beautiful views of the sea, paseos caminando por el agua clara, brisa cálida, muchas tiendas y restaurantes, etc., which can be enjoyed while taking a walk on this promenade.
+        Topic ID: 3:
+        Decision: VALID
+        Proposed Topic Label (max 6 words, neutral and descriptive): Enjoying the Malecón of La Paz
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+        The topic is about enjoying the Malecón de la ciudad. It mentions activities such as pasear por el agua clara, ver las esculturas hermosas, disfrutar del buen ambiente, caminar a lo largo de los tramos activos y tranquilos, etc., which can be done while visiting this promenade.
+        Topic ID: 4:
+        Decision: VALID
+        Proposed Topic Label (max 6 words, neutral and descriptive): Visiting Beautiful Beaches in La Paz
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+        The topic is about visiting beautiful beaches. It mentions

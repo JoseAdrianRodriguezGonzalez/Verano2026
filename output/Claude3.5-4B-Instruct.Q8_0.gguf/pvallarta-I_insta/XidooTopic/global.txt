@@ -1,0 +1,69 @@
+ Topic ID: 5:
+Keywords:
+p, v, t, p
+Documents:
+1: "puerto vallarta mexico agradecemos por el apoyo de nuestros clientes en la compra de productos y servicios"
+2: "desde puerto vallarta mexico gracias por su interés en nuestras ofertas de vacaciones todo incluido com"
+
+Topic ID: 6:
+Keywords:
+p, p
+Documents:
+1: "puerto vallarta mexico agradecemos por el apoyo de nuestros clientes en la compra de productos y servicios"
+2. "desde puerto vallarta mexico gracias por su interés en nuestras ofertas de vacaciones todo incluido com"
+
+Topic ID: 7:
+Keywords: p, s
+Documents:
+1: "puerto vallarta mexico agradecemos por el apoyo de nuestros clientes en la compra de productos y servicios"
+2. "desde puerto vallarta mexico gracias por su interés en nuestras ofertas de vacaciones todo incluido com"
+
+Topic ID 8:
+
+Keywords:
+p, p
+Documents: (none provided)
+
+        Topic ID: 9:
+Keywords:
+c, s
+Documents:
+1: "puerto vallarta mexico agradecemos por el apoyo de nuestros clientes en la compra de productos y servicios"
+2. "desde puerto vallarta mexico gracias por su interés en nuestras ofertas de vacaciones todo incluido com"
+
+Topic ID 9:
+
+Keywords:
+c, s
+Documents: (none provided)
+
+        Topic ID: 10:
+Keywords:
+p, p
+Documents:
+1: "puerto vallarta mexico agradecemos por el apoyo de nuestros clientes en la compra de productos y servicios"
+2. "desde puerto vallarta mexico gracias por su interés en nuestras ofertas de vacaciones todo incluido com"
+
+Topic ID 9:
+
+Keywords:
+c, s
+Documents: (none provided)
+
+        Topic ID: 11:
+Keywords:
+p, p
+Documents:
+1: "puerto vallarta mexico agradecemos por el apoyo de nuestros clientes en la compra de productos y servicios"
+2. "desde puerto vallarta mexico gracias por su interés en nuestras ofertas de vacaciones todo incluido com"
+
+Topic ID 9:
+
+Keywords:
+c, s
+Documents: (none provided)
+
+        Topic ID: 12:
+Keywords:
+p, p
+Documents

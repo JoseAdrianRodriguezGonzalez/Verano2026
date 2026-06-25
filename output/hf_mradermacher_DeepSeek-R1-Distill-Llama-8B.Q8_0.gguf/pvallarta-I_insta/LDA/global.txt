@@ -1,0 +1,16 @@
+ Now, process the information step by step.
+
+Step 1: Analyze each topic for semantic coherence and thematic consistency.
+Step 2: If a topic is incoherent or inconsistent, mark as INCOHERENT – DISCARD. Otherwise, propose a label and description.
+Step 3: After processing all topics, identify any overlapping themes among VALID topics.
+         Step 4: Propose merged labels where necessary.
+
+Okay, I'm trying to analyze the output from this topic modeling process based on the provided information. Let me go through each step carefully as per the instructions.
+
+First, let's look at Topic ID 1. The keywords are p, p, m, p, m, j, b, n. Looking at the documents for this topic, they all seem to be in Spanish and talk about organizing events or activities like art movements, music, wellness, favorite people, places, town tags, sharing stories, opportunities to win free entrance, activity choices, nights of mermaid dancing, etc. They mention things like "arte movimiento música bienestar" which translates to art movement music wellness. The documents also include details about creating events, collaborations, promotional materials, and inviting people to celebrate together. So the keywords align with these themes.
+
+Next is Topic ID 2: Keywords p, p, v, m, m, z, d, j. Again, looking at the documents for this topic, they talk about destinations like Puerto Vallarta, sunsets, face preparation, five days of art movement and music wellness. There's a lot about community building, events, collaborations, and promotional efforts similar to Topic 1 but more focused on specific aspects like infinity pools, gym memberships, discounts, and real estate listings.
+
+Moving on to Topic ID 3: Keywords p, v, v, p, m, p, c, v. The documents here discuss mosaic banks in Puerto Vallarta as public art projects. They mention local artists creating colorful mosaics around community spaces, using everyday objects. There's a focus on connecting art with daily life and inviting people to enjoy the moment. This seems quite different from the other topics which are more about events and real estate.
+
+Topic ID 4: Keywords p, p, v, p, h, m, c, e. The documents here include mentions of friends visiting places like Vallarta adventures, interacting with animals, conservation efforts in a wildlife zone near Punta Mita. There's talk about seeing

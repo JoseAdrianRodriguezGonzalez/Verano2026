@@ -1,0 +1,16 @@
+ Topic ID: 6:
+Keywords:
+c, b, a, p
+Documents:
+1: "Me gusta mucho el ambiente de este lugar. Hay mucha gente y es muy divertido estar aquí. El personal está bien entrenado para atenderlos en la playa. Las mesas están dispuestas en forma de círculo alrededor del agua, lo cual me encanta porque te permite ver a todos tus amigos mientras estás allá. La comida es rica y el servicio muy rápido. Los camareros son amables y se preocupan por saber qué necesitas antes incluso si no has pedido nada todavía."
+2: "Este lugar tiene un ambiente muy divertido, con mucha gente en la playa. El personal está bien entrenado para atenderlos en la playa. Las mesas están dispuestas en forma de círculo alrededor del agua, lo cual me encanta porque te permite ver a todos tus amigos mientras estás allá."
+3: "Este lugar tiene un ambiente muy divertido con mucha gente en la playa. El personal está bien entrenado para atenderlos en la playa. Las mesas están dispuestas en forma de círculo alrededor del agua, lo cual me encanta porque te permite ver a todos tus amigos mientras estás allá."
+4: "Este lugar tiene un ambiente muy divertido con mucha gente en la playa. El personal está bien entrenado para atenderlos en la playa. Las mesas están dispuestas en forma de círculo alrededor del agua, lo cual me encanta porque te permite ver a todos tus amigos mientras estás allá."
+5: "Este lugar tiene un ambiente muy divertido con mucha gente en la playa. El personal está bien entrenado para atenderlos en la playa. Las mesas están dispuestas en forma de círculo alrededor del agua, lo cual me encanta porque te permite ver a todos tus amigos mientras estás allá."
+
+Topic ID: 7:
+Keywords:
+p, h, d
+Documents:
+1: "Este lugar tiene un ambiente muy divertido con mucha gente en la playa. El personal está bien entrenado para atenderlos en la playa."
+2: "El servicio es excelente y el personal está bien capacitado para ayudar a los huéspedes durante su estancia, aunque no todos los empleados están tan am

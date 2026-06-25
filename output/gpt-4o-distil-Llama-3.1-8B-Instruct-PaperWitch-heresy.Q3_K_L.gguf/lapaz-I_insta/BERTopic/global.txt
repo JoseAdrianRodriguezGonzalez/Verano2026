@@ -1,0 +1,65 @@
+ Analyze the topics strictly based on keywords and documents provided. Follow instructions exactly.
+
+         After analyzing, provide:
+
+Topic ID: 1
+Decision:
+Proposed Topic Label (max 6 words):
+Short Analytical Description:
+
+
+Topic ID: 2
+Decision:
+Proposed Topic Label (max 6 words):
+Short Analytical Description:
+
+
+Topic ID: 3
+Decision:
+Proposed Topic Label (max 6 words):
+Short Analytical Description:
+
+
+Topic ID: 4
+Decision:
+Proposed Topic Label (max 6 words):
+Short Analytical Description:
+
+
+Topic ID: 5
+Decision:
+Proposed Topic Label (max 6 words):
+Short Analytical Description:
+
+And if any VALID topics are semantically overlapping, propose a merged topic label and indicate which Topic IDs should be merged. Do not speculate or introduce external knowledge.
+
+---
+
+After analyzing the provided keywords and documents strictly according to instructions:
+
+
+Topic ID: 1:
+Decision: INCOHERENT – DISCARD
+Proposed Topic Label (max 6 words): "Holiday Mexico Beach Life"
+Short Analytical Description: The topic combines festive language ("Feliz Navidad", "Xmas"), beach activities, and Mexican locations. However, the mix of Christmas, vacation vibes, and geographic references is too diverse to form a coherent theme.
+
+
+Topic ID: 2:
+Decision: INCOHERENT – DISCARD
+Proposed Topic Label (max 6 words): "Fitness Mexico Lifestyle"
+Short Analytical Description: The documents focus on fitness terminology ("Fitmen", "Gym"), but the repetition of similar phrases and lack of thematic variation indicate an incoherent topic. It seems to be centered around a specific brand or community rather than a broader theme.
+
+
+Topic ID: 3:
+Decision: VALID
+Proposed Topic Label (max 6 words): "Romantic Motel Experience"
+Short Analytical Description: The documents describe romantic experiences at motels, emphasizing sensual and erotic themes ("Relaciones de Pareja", "Erotico Sensual Romantico"). This topic is coherent around the idea of a specific type of experience.
+
+
+Topic ID: 4:
+Decision: INCOHERENT – DISCARD
+Proposed Topic Label (max 6 words): "Interior Design"
+Short Analytical Description: The documents discuss interior design, but with an overwhelming focus on one project ("Diseno Casa Centenario Paz") and generic terms. This lack of thematic coherence leads to a discard.
+
+
+Topic ID: 5

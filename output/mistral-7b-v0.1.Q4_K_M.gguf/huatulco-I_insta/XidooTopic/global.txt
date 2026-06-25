@@ -1,0 +1,26 @@
+ # 1:
+        Topic ID: 1
+        Decision: VALID
+        Proposed Topic Label: "Beach"
+        Short Analytical Description:
+            This topic is about a beach. The documents mention swimming, sunbathing, and relaxing activities on the beach.
+
+         # 2:
+        Topic ID: 2
+        Decision: VALID
+        Proposed Topic Label: "Island"
+        Short Analytical Description:
+            This topic is about an island. The documents mention swimming in clear waters, exploring caves and beaches, and enjoying the sunset on a boat.
+
+         # 3:
+        Topic ID: 3
+        Decision: VALID
+        Proposed Topic Label: "Adventure"
+        Short Analytical Description:
+            This topic is about an adventure trip to Huatulco, Mexico. The documents mention exploring bays by boat and snorkeling in clear waters.
+
+         # 4:
+        Topic ID: 4
+        Decision: INCOHERENT – DISCARD
+        Short Analytical Description:
+            This topic does not have a coherent theme, as it mentions both sunsets on the beach and kayaking in the ocean. It is difficult to classify this topic accurately based solely on the keywords provided.

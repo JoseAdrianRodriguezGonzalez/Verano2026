@@ -1,0 +1,42 @@
+ Output:
+
+         - Topic ID: 1:
+           Decision: VALID
+           Proposed Topic Label (max 6 words, neutral and descriptive): "Navegación alrededor de una isla"
+           Short Analytical Description: The keywords suggest a topic related to navigation or exploration of an island.
+
+         - Topic ID: 2:
+           Decision: INCOHERENT – DISCARD
+           Proposed Topic Label (max 6 words, neutral and descriptive): "Navegación alrededor de una isla"
+           Short Analytical Description: The keywords do not clearly indicate a specific topic related to navigation or exploration of an island.
+
+         - Topic ID: 3:
+           Decision: VALID
+           Proposed Topic Label (max 6 words, neutral and descriptive): "Paseo y descubrimiento de una isla"
+           Short Analytical Description: The keywords suggest exploring the coastline or a beach area to discover new places. They do not explicitly mention navigation.
+
+         - Topic ID: 4:
+           Decision: INCOHERENT – DISCARD
+           Proposed Topic Label (max 6 words, neutral and descriptive): "Navegación alrededor de una isla"
+           Short Analytical Description: The keywords are too general to be a specific topic related to navigation or exploration of an island.
+
+         - Topic ID: 5:
+           Decision: VALID
+           Proposed Topic Label (max 6 words, neutral and descriptive): "Paseo y descubrimiento de una isla"
+           Short Analytical Description: The keywords suggest exploring the coastline or a beach area to discover new places. They do not explicitly mention navigation.
+
+Output:
+
+- Topic ID: 1:
+    Decision: VALID
+    Proposed Topic Label (max 6 words, neutral and descriptive): "Navegación alrededor de una isla"
+    Short Analytical Description: The keywords suggest a topic related to navigation or exploration of an island.
+  
+- Topic ID: 2:
+    Decision: INCOHERENT – DISCARD
+    Proposed Topic Label (max 6 words, neutral and descriptive): "Navegación alrededor de una isla"
+    Short Analytical Description: The keywords do not clearly indicate a specific topic related to navigation or exploration of an island.
+
+- Topic ID: 3:
+    Decision: VALID
+    Proposed Topic Label (max 6 words, neutral and descriptive): "P

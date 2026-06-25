@@ -1,0 +1,17 @@
+1. Topic ID: 1
+        Keywords: l, g, p, e, m, v, a, v
+        Documents:
+        1: "Nos recomendaron visitar Playa El Anclote y la verdad sÃ­ estÃ¡ bonita, pero estaba bastante llena cuando fuimos, lo que hizo que no se disfrutara tanto como esperábamos."
+        2: "Mis hijos y familia disfrutamos enormemente la playa, arena suave, oleaje medio. SÚPER agradable. Destino ampliamente recomendado"
+        3: "Excelentes playas para estar en familia, no hay en general un declive excesivo ni piedras. La consistencia de la arena es excelente para una caminata o correr."
+        4: "Excelentes playas y excelentes desarrollos turÃ­sticos. El clima en este verano en que realicÃª visita fue muy bueno (Principios a mediados de Julio) me encanta la tranquilidad de sus playas y que no hay una aglomeraciÃ³n de gente."
+        5: "Una playa excelente para disfrutar en compañía de.gamilia"
+        Decision: VALID
+        Proposed Topic Label (max 6 words, neutral and descriptive): Family-Friendly Beach Destination
+        Short Analytical Description: The documents highlight the popularity of Playa El Anclote for family visits due to its beautiful beach with soft sand and moderate waves. They emphasize ongoing recommendations from various sources as well as appreciation for the tranquil atmosphere during peak months, suggesting a consistent appeal among families seeking leisayer vacations at this location.
+
+        2. Topic ID: 2
+        Keywords: m, c, c, z, e, g, a, b
+        Documents:
+        1: "Fuimos a comer por el DÃ­a del padre al seÃ±or frica y a pasear por el malecÃ³n"
+        2: "Es muy bonito, vale mucho la pena ir a conocer. Solo que cuidado las

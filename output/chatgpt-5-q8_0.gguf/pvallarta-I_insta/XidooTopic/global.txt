@@ -1,0 +1,28 @@
+ Output Format:
+         - Topic ID: 1
+           Decision: VALID – INCOHERENT – DISCARD
+           Proposed Topic Label (6 words, neutral and descriptive): "Topic with a clear theme of travel"
+           Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+             The document discusses various tourist reviews from different locations around Puerto Vallarta. It highlights that travelers often seek out unique experiences such as visiting beaches, exploring nature reserves, or experiencing local culture and cuisine.
+         - Topic ID: 2
+           Decision: VALID – INCOHERENT – DISCARD
+           Proposed Topic Label (6 words, neutral and descriptive): "Topic with a focus on nightlife"
+           Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+             The document discusses various tourist reviews from different locations around Puerto Vallarta. It highlights that travelers often seek out unique experiences such as visiting beaches, exploring nature reserves, or experiencing local culture and cuisine.
+         - Topic ID: 3
+           Decision: VALID – INCOHERENT – DISCARD
+           Proposed Topic Label (6 words, neutral and descriptive): "Topic with a focus on nightlife"
+           Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+             The document discusses various tourist reviews from different locations around Puerto Vallarta. It highlights that travelers often seek out unique experiences such as visiting beaches, exploring nature reserves, or experiencing local culture and cuisine.
+         - Topic ID: 4
+           Decision: VALID – INCOHERENT – DISCARD
+           Proposed Topic Label (6 words, neutral and descriptive): "Topic with a focus on travel"
+           Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+             The document discusses various tourist reviews from different locations around Puerto Vallarta. It highlights that travelers often seek out unique experiences such as visiting beaches, exploring nature reserves, or experiencing local culture and cuisine.
+You've been given a list of keywords extracted for each topic and associated documents. Your task is to analyze the information provided in these lists and determine if any valid topics can be inferred from it.
+
+Remember, you must base your analysis solely on the input data without introducing additional context or assumptions beyond what's explicitly stated here. Also, ensure that all decisions are based strictly on the given keywords and documents.
+```python
+def topic_analysis(input_data):
+    # Extracting relevant information for each topic ID
+    topics = {

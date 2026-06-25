@@ -1,0 +1,23 @@
+ Now, based on the keywords and documents provided, analyze each topic.
+         Please reason step by step, and put your final answer as a box around the decision.
+
+        After analyzing all topics, identify if any VALID topics are semantically overlapping. If so, propose a merged topic label and indicate which Topic IDs should be merged.
+        If you are uncertain, propose to DISCARD rather than inventing thematic interpretation.
+
+Okay, let's try to figure out whether these topics from the dataset are coherent or not based on their keywords and documents provided. I need to analyze each topic one by one, starting with Topic ID 1.
+
+**Topic ID: 1**
+- **Keywords:** c, g, a, r, f, t, e, i
+Looking at the documents for this topic, they all talk about "Río Secreto," which is mentioned repeatedly. The keywords provided are 'c', 'g', 'a', 'r', 'f', 't', 'e', 'i.' I'm not entirely sure what each letter stands for, but from context, it seems like the documents discuss a tour or excursion at Río Secreto, including activities like snorkeling and exploring caves. The keywords might stand for specific aspects of the tour, such as location (c for cueva?), guides (g), amenities (a), etc.
+
+- **Documents:** All five reviews talk about their experiences at Río Secreto, mentioning things like cenotes, biking through the jungle, guided tours, and cave exploring. They also mention practical tips like bringing a camera or wearing appropriate clothing. The common theme is adventure tourism centered around natural features like caves and rivers.
+
+- **Analysis:** All documents are coherent because they all revolve around Río Secreto and related activities. There's no contradiction here; everything ties back to the same location and experiences offered there.
+  
+  So, this topic should be VALID with a label that encapsulates adventure tourism at Río Secreto.
+
+**Topic ID: 2**
+- **Keywords:** p, t, g, s, á, a, p, n
+The documents here mention Tulum. The keywords might stand for things like "p" as playa (beach), "t" as tours or travel, etc. But without knowing the exact abbreviations, I'll go by context.
+
+- **Documents:** These reviews discuss visiting archaeological sites in Tulum and nearby areas like Chichén

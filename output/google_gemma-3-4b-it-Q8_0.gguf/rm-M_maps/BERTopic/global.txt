@@ -1,0 +1,29 @@
+- Topic ID: 1
+        - Decision: INCOHERENT – DISCARD
+        - Proposed Topic Label (max 6 words):  Park experience and service issues
+
+        - Short Analytical Description: The keywords "a, a, e, o, r, c, o, b" are not semantically connected to the documents. Documents describe experiences at an amusement park including crowds, rides, food, bathrooms, and staff interactions – both positive (good personal) and negative (rude staff).  The mixture of these elements makes this topic incoherent.
+
+        - Topic ID: 2
+        - Decision: VALID
+        - Proposed Topic Label (max 6 words): Beach activities and tourism
+
+        - Short Analytical Description: The keywords "p, p, e, p, p, p, t, a" relate to beaches ("playa"), tourists (“turistico”), and related activities like swimming, sunbathing, boat trips.  The documents describe various aspects of beach experiences including water quality, amenities, crowds, prices, and local attractions.
+
+        - Topic ID: 3
+        - Decision: VALID
+        - Proposed Topic Label (max 6 words): Tour guide experience & park issues
+
+        - Short Analytical Description: The keywords "f, f, f, p, d, a, r, g" relate to tours ("guia"), photographs (“foto”), and experiences within the park. Documents describe both positive interactions with tour guides and negative customer service encounters, highlighting pricing discrepancies and staff behavior.
+
+        - Topic ID: 4
+        - Decision: VALID
+        - Proposed Topic Label (max 6 words): Cultural house museum & donation
+
+        - Short Analytical Description: The keywords "m, d, c, r, c, a, h, e" relate to museums ("museo"), cultural houses (“casa”), donations (“donacion”). Documents focus on a particular house that is also a museum showcasing Mexican folk art and culture.  The emphasis on charitable contributions adds another layer of thematic coherence.
+
+        - Topic ID: 5
+        - Decision: VALID
+        - Proposed Topic Label (max 6 words): Ruins visit & insect repellent
+
+        - Short Analytical Description: The keywords "m, i, f, i, r, r, d, v" relate to ruins (“ruinas”), insects ("mosquitos"), and the act of visiting.  The documents describe a trip to

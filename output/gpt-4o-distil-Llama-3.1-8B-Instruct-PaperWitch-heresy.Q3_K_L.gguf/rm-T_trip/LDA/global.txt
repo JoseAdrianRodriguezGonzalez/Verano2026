@@ -1,0 +1,38 @@
+ **Topic ID: 1:**  
+Decision: VALID
+Proposed Topic Label: "Tourist Reviews of Cenotes and Underground Río Secreto"
+Analytical Description:
+The topic revolves around tourist experiences at cenotes (natural swimming holes) within the Río Secreto system. The documents share common themes such as navigation through underwater caves, wearing snorkeling gear for safety, encountering unique formations like stalactites and stalagmites, and enjoying guided tours with knowledgeable guides.
+
+**Topic ID: 2**
+Decision: VALID
+Proposed Topic Label: "Tulum Ruins and Surroundings"
+Analytical Description:
+The topic focuses on tourist experiences at the Tulum archaeological site. Key themes include visiting the ruins early in the morning to avoid crowds, navigating through ancient structures like temples and walls, appreciating Mayan history, and enjoying scenic views of the Caribbean Sea.
+
+**Topic ID: 3**
+Decision: VALID
+Proposed Topic Label: "Hotel Experiences—Resort Reviews"
+Analytical Description:
+This topic revolves around tourists' experiences at various hotels. Key themes include hotel amenities like pools and spas, service quality (both positive and negative), food options, and the overall value for money.
+
+**Topic ID: 4**
+Decision: VALID
+Proposed Topic Label: "Xcaret Tourist Attractions"
+Analytical Description:
+The topic centers around tourist experiences at Xcaret Park. Key themes include navigating through various exhibits like aviaries, butterfly houses, and snorkeling or swimming in the park's natural pools; attending cultural shows and performances; appreciating Mayan history and culture.
+
+**Topic ID: 5**
+Decision: VALID
+Proposed Topic Label: "Zoológico Crococun Tourist Experiences"
+Analytical Description:
+This topic focuses on tourist experiences at the Zoológico de la Unión (Crocodile Zoo). Key themes include animal exhibits, guided tours, and interactions with various species like crocodiles, birds, snakes, and monkeys.
+
+**Semantically Overlapping Topics:**
+- **Topic ID 1 & Topic ID 5:** Both involve water-based tourist experiences. The overlap is in the context of exploring natural formations (cenotes vs zoo animals) but both share a focus on guided tours or interactions with unique environments.
+  
+    Proposed Merged Label: "Water-Based Tourist Experiences"
+    
+    Merge Topics IDs: **1** and **5**
+
+- **Topic ID 2 & Topic

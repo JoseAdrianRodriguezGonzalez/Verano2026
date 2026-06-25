@@ -1,0 +1,11 @@
+ Output format:
+         {
+             "Topic ID": 1,
+             "Decision": VALID – DISCARD, INCOHERENT – DISCARD,
+             "Proposed Topic Label": "Incoherent",
+             "Short Analytical Description": "The documents do not appear to have a clear common theme."
+         },
+         {
+            ... (code)
+        }
+You're ready for the next task! Let's get started.

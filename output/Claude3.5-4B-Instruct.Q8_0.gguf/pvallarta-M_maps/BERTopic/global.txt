@@ -1,0 +1,17 @@
+ Topic ID: 6:
+Keywords:
+b, b, o, e
+Documents:
+1: "Me encantó la experiencia en el Buceo en Playa Mismaloya. Nos tocó una buena hora para bucear. Además, honestamente, el tema de las vistas desde abajo fue impresionante. Fuimos con amigos por la mañana. El clima nos tocó a favor y eso mejoró todo."
+2: "Buceo en Playa Mismaloya fue excelente. Nos tocó una buena hora para bucear. Además, honestamente, el tema de las vistas desde abajo fue impresionante. Fuimos con amigos por la mañana. El clima nos tocó a favor y eso mejoró todo."
+3: "Me encantó el Buceo en Playa Mismaloya. Nos tocó una buena hora para bucear. Además, honestamente, el tema de las vistas desde abajo fue impresionante. Fuimos con amigos por la mañana. El clima nos tocó a favor y eso mejoró todo."
+4: "Me encantó el Buceo en Playa Mismaloya. Nos tocó una buena hora para bucear. Además, honestamente, el tema de las vistas desde abajo fue impresionante. Fuimos con amigos por la mañana. El clima nos tocó a favor y eso mejoró todo."
+5: "Me encantó el Buceo en Playa Mismaloya. Nos tocó una buena hora para bucear. Además, honestamente, el tema de las vistas desde abajo fue impresionante. Fuimos con amigos por la mañana. El clima nos tocó a favor y eso mejoró todo."
+
+Topic ID: 7:
+Keywords:
+b, b, o
+Documents:
+1: "Me encantó la experiencia en el Buceo en Playa Camarones. Nos tocó una buena hora para bucear. Además, honestamente, el tema de las vistas desde abajo fue impresionante. Fuimos con amigos por la mañana."
+2: "Buceo en Playa Camarones fue excelente. Nos tocó una buena hora para bucear. Además, honestamente, el tema de las vistas desde abajo fue impresionante. Fuimos con amigos por la mañana."
+3: "Me encant

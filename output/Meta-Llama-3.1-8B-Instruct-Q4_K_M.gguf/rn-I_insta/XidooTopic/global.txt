@@ -1,0 +1,49 @@
+ **Your Task**
+
+Analyze the output of this topic modeling process and provide:
+
+1. Decision: (VALID / INCOHERENT – DISCARD)
+2. Proposed Topic Label
+3. Short Analytical Description
+
+After analyzing all topics, identify if any VALID topics are semantically overlapping.
+
+**Topic 1 Analysis**
+Decision: VALID
+Proposed Topic Label: "Beach Activities"
+Short Analytical Description: The topic appears to be related to beach activities and experiences in Mexico, with keywords like "ballenas" (whales), "alambrada natural grande mundo star strike asi chincheta redonda rincondeguayabitos", indicating a focus on marine life and beaches. Documents mention locations like Rincon Guayabitos and San Pancho.
+
+**Topic 2 Analysis**
+Decision: VALID
+Proposed Topic Label: "Real Estate"
+Short Analytical Description: The topic is centered around real estate, with keywords like "house" and "garden", indicating a focus on properties for sale or rent. Documents mention specific locations in Nayarit, Mexico, such as San Blas and Bucerias.
+
+**Topic 3 Analysis**
+Decision: VALID
+Proposed Topic Label: "Food and Dining"
+Short Analytical Description: The topic appears to be related to food and dining experiences, with keywords like "menu", "comida mexicana autentica" (authentic Mexican cuisine), indicating a focus on local culinary traditions. Documents mention specific restaurants in Nayarit.
+
+After analyzing all topics:
+
+**Semantic Overlap Identification**
+
+There is no strong semantic overlap between the three VALID topics: Beach Activities, Real Estate, and Food and Dining. Each topic has distinct themes that do not appear to intersect or share commonalities with one another. Therefore, there are **NO PROPOSED MERGED TOPIC LABELS OR Merged Topic IDs**.
+
+Please provide your response in this format:
+
+Topic ID | Decision | Proposed Topic Label | Short Analytical Description
+
+(For each topic)
+
+And then the final answer to identify semantic overlap between topics: 
+
+Semantic Overlap Identification (YES/NO) and if YES, propose a merged topic label and indicate which Topic IDs should be merged. If NO, state that there are no proposed merges.
+
+Please follow this structure exactly as requested.
+
+
+
+**Answer**
+
+Topic 1 | VALID | Beach Activities | The topic appears to be related to beach activities and experiences in Mexico.
+Topic 2 | VALID | Real Estate

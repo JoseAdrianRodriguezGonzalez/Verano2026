@@ -1,0 +1,57 @@
+ Output for each topic should be in the following format:
+
+Topic ID: X
+Decision: Y
+Proposed Topic Label: Z (max 6 words, neutral and descriptive)
+Short Analytical Description: W
+
+         After analyzing all topics you will provide a conclusion on semantic overlap between VALID topics.
+
+**Analysis of Topics**
+
+Topic ID: 1:
+Decision: VALID
+Proposed Topic Label: Beaches with Good Conditions
+Short Analytical Description: The documents describe beaches as having good conditions, such as Playa El Anclote being recommended and enjoyed by families. The keywords extracted include words related to beach activities.
+
+Topic ID: 2:
+Decision: INCOHERENT – DISCARD
+Proposed Topic Label: 
+Short Analytical Description:
+
+
+Topic ID: 3:
+Decision: VALID
+Proposed Topic Label: Coastal Towns with Natural Beauty
+Short Analytical Description: The documents describe a coastal town, Rinconada, as having natural beauty and good conditions for relaxation. The keywords extracted include words related to nature.
+
+**Conclusion on Semantic Overlap**
+
+There is strong semantic overlap between the two valid topics (Topic ID 1 and Topic ID 3). Both discuss beaches/coastal areas with positive attributes such as "good conditions", "natural beauty" and being suitable for families or relaxation. 
+
+To merge these topics, I propose a merged topic label: Coastal Areas with Natural Beauty.
+
+The Topic IDs that should be merged are:
+
+Topic ID 1 and Topic ID 3
+
+This is because the themes of both topics align closely, discussing beaches/coastal areas in a positive light, making it suitable to combine them into one cohesive topic. 
+
+Note: The decision on merging topics was based solely on the provided text and keywords, without introducing any external knowledge or assumptions.
+
+**Final Output**
+
+Topic ID 1:
+Decision: VALID
+Proposed Topic Label: Beaches with Good Conditions
+Short Analytical Description: The documents describe beaches as having good conditions, such as Playa El Anclote being recommended and enjoyed by families. The keywords extracted include words related to beach activities.
+
+Topic ID 2:
+Decision: INCOHERENT – DISCARD
+
+Topic ID 3:
+Decision: VALID
+Proposed Topic Label: Coastal Areas with Natural Beauty (Merged)
+Short Analytical Description: The documents describe a coastal town, Rinconada, as having natural beauty and good conditions for relaxation. The keywords extracted include words related to nature.
+
+Note that

@@ -1,0 +1,33 @@
+
+- Topic ID: 1
+- Decision: INCOHERENT – DISCARD
+- Proposed Topic Label (max 6 words):  Xcaret Trip Issues & Complaints
+- Short Analytical Description (2–3 sentences strictly grounded in the provided text) The keywords relate to problems encountered during a trip to Xcaret, including booking issues, customer service complaints about staff and tours, concerns regarding prices, and difficulties with obtaining necessary items like tickets. The documents describe negative experiences related to tour operators and logistical challenges faced by visitors.
+
+- Topic ID: 2
+- Decision: VALID
+- Proposed Topic Label (max 6 words): Cenote Exploration & Snorkeling
+- Short Analytical Description (2–3 sentences strictly grounded in the provided text) This topic focuses on visits to cenotes, specifically "Dos Ojos," describing activities like snorkeling and swimming. The documents highlight experiences with water conditions, guides, equipment rentals, and observations of marine life such as turtles.
+
+- Topic ID: 3
+- Decision: VALID
+- Proposed Topic Label (max 6 words): Riviera Maya Snorkeling & Turtles
+- Short Analytical Description (2–3 sentences strictly grounded in the provided text) This topic centers around snorkeling experiences along the Riviera Maya, with a particular emphasis on observing turtles. The documents detail visitor accounts of encountering marine life and navigating crowded areas while trying to enjoy the activity.
+
+- Topic ID: 4
+- Decision: VALID
+- Proposed Topic Label (max 6 words): Zoo Visit & Animal Encounters
+- Short Analytical Description (2–3 sentences strictly grounded in the provided text) This topic describes a visit to a zoo, focusing on interactions with animals such as crocodiles and monkeys. The documents highlight positive experiences of learning about animal care and observing various species within a controlled environment.
+
+- Topic ID: 5
+- Decision: VALID
+- Proposed Topic Label (max 6 words): Cenote Adventure & Exploration
+- Short Analytical Description (2–3 sentences strictly grounded in the provided text) This topic concerns exploring cenotes, specifically "Dos Ojos," describing activities like swimming and observing cave formations. The documents detail experiences with water conditions, guides, equipment rentals, and observations of marine life such as turtles.
+
+
+Overlapping Topics:
+
+Topics 2 and 5 are semantically overlapping due to their shared focus on cenote exploration and underwater activities.
+
+Proposed Merged Topic Label: Cenotes & Underwater Adventures
+Topic IDs

@@ -1,0 +1,11 @@
+ 3. If the documents do not appear semantically coherent, classify them as: "INCOHERENT – DISCARD".
+
+        Provide your analysis in a structured manner:
+
+    - Topic ID:
+    - Decision (VALID / INCOHRENT – DISCARD):
+    - Proposed Topic Label (max 6 words, neutral and descriptive):
+
+4. Analyze the coherence of each document's content by strictly adhering to semantic consistency.
+
+5. If you find any VALID topics that are semantically coherent, propose a merged topic label for those overlapping themes.

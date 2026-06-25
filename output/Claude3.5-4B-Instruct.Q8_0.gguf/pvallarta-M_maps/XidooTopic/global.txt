@@ -1,0 +1,15 @@
+ Topic ID: 6:
+Keywords:
+c, a, b, e, t
+Documents:
+1: "Quedé fascinado con Parque Nacional Chacabuco. Por dentro luce muy bonita. Además, la verdad, el tema de la limpieza marcó una diferencia positiva. Fuimos en pareja entre semana. Con calor fuerte conviene llevar agua y bloqueador. Lo volvería a incluir en otro viaje. Incluso con gente, se pudo disfrutar bastante."
+2: "Buena visita a Parque Nacional Chacabuco. Por dentro luce muy bonita. Además, para mí, el tema de la ubicación marcó una diferencia positiva. Fuimos con niños un domingo. Fuimos temprano y se disfrutó más. Lo volvería a incluir en otro viaje. Todo se sintió bastante cómodo."
+3: "La peor parte del viaje fue Parque Nacional Chacabuco. Había demasiada gente para apreciarla bien. Encima, el tema de la organización terminó siendo un problema. Fuimos en pareja en vacaciones. Conviene ir con tiempo y sin prisa. Con varios cambios podría mejorar, pero hoy no lo recomendaría. La fama del lugar me hizo esperar bastante más."
+4: "Nos gustó bastante Parque Nacional Chacabuco. Es parte importante del carácter del lugar. Además, honestamente, el tema de la experiencia general me dejó muy buena impresión. Fuimos con amigos un domingo. El clima nos tocó a favor y eso mejoró todo. Definitivamente volvería. Todo se sintió bastante cómodo."
+5: "De lo mejor del viaje fue Parque Nacional Chacabuco. Por dentro luce muy bonita. Además, en general, el tema de la organización estuvo muy bien. Fuimos con niños un domingo. En temporada alta imagino que cambia bastante. Definitivamente volvería. Todo se sintió bastante cómodo."
+
+Topic ID: 7:
+Keywords:
+c, a, b
+Documents:
+1: "Quedé fascinado con Centro Cultural de la Universidad del Valle. Por dentro luce muy bonita. Además, para mí, el tema de la limpieza marcó una diferencia positiva. Fuimos en pareja entre semana. Con calor fuerte conviene llevar

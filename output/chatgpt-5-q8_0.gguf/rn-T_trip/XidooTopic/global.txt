@@ -1,0 +1,35 @@
+ Output:
+         - Topic ID: 1
+         - Decision: INCOHERENT – DISCARD
+         - Proposed Topic Label (max 6 words, neutral and descriptive): "Cocodrilos"
+         - Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+
+           The topic is about observing and learning about different types of tortoises. It includes information on various species such as cocodrillos, manglares, life history, conservation efforts, and interactions with visitors. While there might be some overlap due to shared themes like tropical environments or animal behavior, the overall focus remains distinct from the given documents.
+
+         - Topic ID: 2
+         - Decision: INCOHERENT – DISCARD
+         - Proposed Topic Label (max 6 words, neutral and descriptive): "Playa"
+         - Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+
+           The topic is about a coastal area with various activities like swimming, surfing, fishing, and beachside experiences. It includes information on specific locations such as New Vallarta, which has several beaches and resorts that cater to different interests.
+
+         - Topic ID: 3
+         - Decision: INCOHERENT – DISCARD
+         - Proposed Topic Label (max 6 words, neutral and descriptive): "Cocodrilos"
+         - Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+
+           The topic is about observing and learning about different types of tortoises. It includes information on various species such as cocodrillos, manglares, life history, conservation efforts, and interactions with visitors.
+
+         - Topic ID: 4
+         - Decision: INCOHERENT – DISCARD
+         - Proposed Topic Label (max 6 words, neutral and descriptive): "Playa"
+         - Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+
+           The topic is about a coastal area with various activities like swimming, surfing, fishing, and beachside experiences. It includes information on specific locations such as New Vallarta.
+
+         - Topic ID: 5
+         - Decision: INCOHERENT – DISCARD
+         - Proposed Topic Label (max 6 words, neutral and descriptive): "Cocodrilos"
+         - Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+
+           The topic is about observing and

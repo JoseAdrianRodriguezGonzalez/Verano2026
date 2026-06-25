@@ -1,0 +1,30 @@
+ Alright, I need to analyze the output of a topic modeling process based strictly on the provided keywords and documents. Let me start by understanding what each part requires.
+
+First, for each Topic ID (1-5), I have their keywords and associated tourist reviews. My task is to evaluate whether these topics are valid or not based solely on this information without adding any external knowledge. If a topic doesn't make sense semantically, it should be classified as "INCOHERENT – DISCARD."
+
+Starting with Topic ID 1:
+- Keywords: c, s, p, h, h, p, v, p
+Looking at the documents, they all seem to talk about real estate in Puerto Aventuras and Riviera Maya. Words like "condominio," "vista al canal," "piscina compartida" indicate it's related to properties with amenities.
+- Documents mention things like living near a marina, security, vacation rentals, etc., which all tie into real estate investment.
+
+So Topic 1 is valid and likely about Riviera Maya Real Estate Investment. The label should be something neutral like "Riviera Maya Real Estate."
+
+Moving on to Topic ID 2:
+- Keywords: b repeated multiple times
+Looking at the documents, they mention things related to weddings—boda (wedding in Spanish), fiesta de bodas (wedding party), photographers, international DJs. All documents are about wedding planning services.
+- The keywords and documents clearly focus on organizing weddings and related events.
+
+Topic 2 is valid as it's all about Wedding Planning Services.
+
+Next, Topic ID 3:
+- Keywords: p, c, d, etc., but looking at the content, each document talks about dogs and cats. Words like "perro del día," "gato del día" (Dog of the Day, Cat of the Day), memes, photos of pets.
+- The documents are personal posts about pet life, training, adoption, and fun with pets.
+
+Topic 3 is valid as it's all about Pet Life Moments.
+
+Now Topic ID 4:
+- Keywords: t repeated multiple times along with c
+Documents mention "tankah," which I think refers to a specific location in Tulum. The documents talk about cenotes (natural water holes), real estate developments, and construction.
+- While there are mentions of places like Playa del Carmen, the main theme seems to be around properties near tankah.
+
+However, looking at the

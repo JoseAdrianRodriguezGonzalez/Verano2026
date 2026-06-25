@@ -1,0 +1,34 @@
+ Topic ID: 1
+        Decision: VALID
+        Proposed Topic Label: Beach experience in a small coastal village
+
+        Short Analytical Description:
+        The keywords "l, h, l" likely refer to beach (b), house (h), and local. Documents consistently describe experiences at beaches located near or within small villages like Pueblo Bello/Pueblo Chico and San Pancho. Key themes include surf opportunities with strong waves ("bravas altas"), cleanliness of the sand ("arena suave", "muy limpia"), water quality, availability of amenities (restaurants), and a generally relaxed atmosphere.
+
+        Topic ID: 2
+        Decision: VALID
+        Proposed Topic Label: Surfing destination in coastal area
+
+        Short Analytical Description:
+        The keywords "b, o" likely refer to beach (b) and ocean. Documents describe surfable beaches with good waves ("buena variedad de olas", "muy bonita"), suitable for both beginners and experienced riders ("para practicar body surf"). The coastal location is implied by the mention of nearby towns like Sayulita, though specific geographical details are not provided.
+
+        Topic ID: 3
+        Decision: VALID
+        Proposed Topic Label: Camping experience in a beachside area
+
+        Short Analytical Description:
+        Documents describe camping experiences at or near beaches. Key elements include access to shared kitchens and bathrooms ("cocina compartida", "baños"), availability of services for campers, proximity to the beach (Playa San Pancho), cleanliness issues reported by some reviewers, and a generally positive atmosphere described as "genial" and "hogareña."
+
+        Topic ID: 4
+        Decision: VALID
+        Proposed Topic Label: Beach relaxation in coastal area
+
+        Short Analytical Description:
+        Documents consistently describe experiences at beaches with emphasis on tranquility ("tranquila", "hermosa"), cleanliness of sand, water quality, opportunities for sunbathing and swimming, availability of restaurants nearby, and a generally peaceful atmosphere. The location is implied to be near or in coastal areas.
+
+        Topic ID: 5
+        Decision: VALID
+        Proposed Topic Label: Beach with diverse marine life
+
+        Short Analytical Description:
+        Documents describe experiences at beaches featuring unique characteristics such as the presence of dolphins ("brincar a unos delfines"), visibility of fish and crabs, strong waves that can be exciting for some but challenging for others (especially

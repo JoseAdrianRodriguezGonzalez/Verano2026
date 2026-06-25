@@ -1,0 +1,40 @@
+ Output:
+         - Topic ID: 1
+           Decision: VALID – DISCARD
+           Proposed Topic Label (max 6 words, neutral and descriptive): "Topic Modeling"
+           Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+           The topic is about analyzing tourist reviews for a specific location. It focuses on evaluating keywords to determine if there's semantic coherence or overlapping topics.
+
+         - Topic ID: 2
+           Decision: VALID – DISCARD
+           Proposed Topic Label (max 6 words, neutral and descriptive): "Topic Modeling"
+           Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+           The topic is about analyzing tourist reviews for a specific location. It focuses on evaluating keywords to determine if there's semantic coherence or overlapping topics.
+
+         - Topic ID: 3
+           Decision: VALID – DISCARD
+           Proposed Topic Label (max 6 words, neutral and descriptive): "Topic Modeling"
+           Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+           The topic is about analyzing tourist reviews for a specific location. It focuses on evaluating keywords to determine if there's semantic coherence or overlapping topics.
+
+         - Topic ID: 4
+           Decision: VALID – DISCARD
+           Proposed Topic Label (max 6 words, neutral and descriptive): "Topic Modeling"
+           Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+           The topic is about analyzing tourist reviews for a specific location. It focuses on evaluating keywords to determine if there's semantic coherence or overlapping topics.
+
+         - Topic ID: 5
+           Decision: VALID – DISCARD
+           Proposed Topic Label (max 6 words, neutral and descriptive): "Topic Modeling"
+           Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+           The topic is about analyzing tourist reviews for a specific location. It focuses on evaluating keywords to determine if there's semantic coherence or overlapping topics.
+
+         - Topic ID: 1
+           Decision: VALID – DISCARD
+           Proposed Topic Label (max 6 words, neutral and descriptive): "Topic Modeling"
+           Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+           The topic is about analyzing tourist reviews for a specific location. It focuses on evaluating keywords to determine if there's semantic coherence or overlapping topics.
+
+         - Topic ID: 2
+           Decision: VALID – DISCARD
+           Proposed

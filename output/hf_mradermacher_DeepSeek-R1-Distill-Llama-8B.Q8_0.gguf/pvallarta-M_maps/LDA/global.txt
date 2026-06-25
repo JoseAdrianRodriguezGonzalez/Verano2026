@@ -1,0 +1,27 @@
+ Now, proceed to analyze each topic and provide the output as per instructions.
+        """
+
+Okay, I need to analyze these topics based on their keywords and documents. Let's start with Topic ID 1.
+
+Topic ID: 1
+Keywords: b, v, t, b, d, m, g, v
+Documents:
+Looking at the documents for this topic, they all talk about places like Parque Lázaro Cárdenas, Tour de tacos y mariscos, Restaurantes frente al mar en Marina, and a gastronómico tour. The keywords include "b" which might be short for "beach," "v" could stand for "view," "t" maybe "tour," etc. 
+
+The documents mention things like taking breaks, family visits, good views, photo spots, and positive experiences with service or value for money. So the common theme seems to be about tourist attractions—like parks, beaches, restaurants—and their experiences there.
+
+So this topic is valid because all keywords relate to places and services that tourists would visit, and documents consistently talk about these locations in a positive light.
+Proposed label: Tourist Attractions
+Description: The documents discuss various tourist spots like Parque Lázaro Cárdenas, beaches, restaurants with good views, and family-friendly activities. They highlight positive experiences such as good service, value for money, and enjoyable visits.
+
+Moving on to Topic ID 2:
+Keywords: v, m, c, l, b, v, p, a
+Documents mention places like Hotel boutique in Zona Romántica, Mercado Municipal Río Cuale, Parque Lázaro Cárdenas again. Keywords might relate to "view," "m" could be "marina," etc.
+
+The documents talk about the location's romantic zone, family visits with kids, good service, and photo spots. So this seems similar to Topic 1 but maybe more focused on specific areas like boutique hotels in romantic zones or markets.
+
+I need to check if it overlaps semantically. Since both topics involve tourist attractions like parks, beaches, restaurants, etc., there's some overlap. But the focus here is slightly different—maybe more on services within those places rather than just the locations themselves.
+
+So Topic 2 should be considered valid as well.
+Proposed label: Tourist Services
+Description: The documents discuss experiences at various tourist spots such as hotels and markets, highlighting good service quality, family

@@ -1,0 +1,39 @@
+ Topic ID: 1
+Decision: VALID
+
+Proposed Topic Label:
+Island Exploration and Marine Activities
+
+Short Analytical Description:
+
+The keywords "p, l, a" suggest exploration of an island. The documents describe various marine activities such as snorkeling (l), diving (a), swimming in clear waters ("aguas cristalinas"), observing wildlife like whales and dolphins ("ballenas delfines"), exploring caves ("cuellos de tortuga"), beaches ("playas desiertas calas"), and visiting protected areas. The focus is on the natural beauty of an island environment, with activities centered around water exploration.
+
+Topic ID: 2
+Decision: VALID
+
+Proposed Topic Label:
+Beach Activities and Equipment Rental
+
+Short Analytical Description:
+
+The keywords "p, a" relate to beach-related topics. Documents describe various beach activities such as swimming ("nadar"), snorkeling ("snorkel"), diving ("bucear"), observing marine life like fish ("peces") and turtles ("tortugas"). The texts also mention equipment rental for these activities, including parasols ("sombrillas"), chairs ("sillas"), kayaks ("kayak"), paddle boards ("paddle board"), wetsuits ("traje de neopreno"), and sun protection items. There's a focus on the beach experience itself rather than island exploration.
+
+Topic ID: 3
+Decision: VALID
+
+Proposed Topic Label:
+Playa Balandra Beach Exploration
+
+Short Analytical Description:
+
+The keywords "p, a" specifically relate to Playa Balandra in Paz. Documents describe various aspects of this specific beach location including its scenic beauty ("escénico"), limited access area ("espacio de estacionamiento limitado"), availability of amenities like sun loungers ("palapas") and food vendors ("vendedores de alquiler"). The activities mentioned include swimming, snorkeling, kayaking, paddle boarding, exploring rock formations (described as "forma de hongo"), visiting nearby areas with limited access to water, observing marine life such as turtles ("tortugas"), and enjoying the beach environment.
+
+Topic ID: 4
+Decision: VALID
+
+Proposed Topic Label:
+Island Exploration by Boat
+
+Short Analytical Description:
+
+The keywords "i, l" suggest exploration of an island. Documents describe various boat-based activities including snorkeling (l), diving (a), observing marine life like whales and dolphins ("ballenas delfines"), exploring caves ("c

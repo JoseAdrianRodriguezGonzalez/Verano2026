@@ -1,0 +1,16 @@
+ Topic ID: 6:
+Keywords:
+c, m, a, r, l
+Documents:
+1: "amable personal recibe bien llega hora entrada cobra tarjeta credito estacionamiento gratuito no hay problema entrar parque arqueologico ruinas coba espectacular recomendamos llevar bloqueador solar arriba cima aunque menos 10 minutos sol fuerte ojo precios entrada cuesta 120 pesos persona estacionamiento 80 pesos entrar parque arqueologico ruinas 100 pesos palabras 220 pesos persona"
+2: "personal amable recibe bien llega hora entrada cobra tarjeta credito estacionamiento gratuito no hay problema entrar parque arqueologico ruinas coba espectacular recomendamos llevar bloqueador solar arriba cima aunque menos 10 minutes sol fuerte ojo precios entrada cuesta 120 pesos persona"
+3: "personal amable recibe bien llega hora entrada cobra tarjeta credito estacionamiento gratuito no hay problema entrar parque arqueologico ruinas coba espectacular recomendamos llevar bloqueador solar arriba cima aunque menos 10 minutes sol fuerte ojo precios entrada cuesta 120 pesos persona"
+4: "personal amable recibe bien llega hora entrada cobra tarjeta credito estacionamiento gratuito no hay problema entrar parque arqueologico ruinas coba espectacular recomendamos llevar bloqueador solar arriba cima aunque menos 10 minutes sol fuerte ojo precios entrada cuesta 120 pesos persona"
+5: "personal amable recibe bien llega hora entrada cobra tarjeta credito estacionamiento gratuito no hay problema entrar parque arqueologico ruinas coba espectacular recomendamos llevar bloqueador solar arriba cima aunque menos 10 minutes sol fuerte ojo precios entrada cuesta 120 pesos persona"
+
+Topic ID: 7:
+Keywords:
+a, r, p
+Documents:
+1: "personal amable recibe bien llega hora entrada cobra tarjeta credito estacionamiento gratuito no hay problema entrar parque arqueologico ruinas coba espectacular recomendamos llevar bloqueador solar arriba cima aunque menos 10 minutes sol fuerte ojo precios entrada cuesta 120 pesos persona"
+2: "personal amable recibe bien lleg

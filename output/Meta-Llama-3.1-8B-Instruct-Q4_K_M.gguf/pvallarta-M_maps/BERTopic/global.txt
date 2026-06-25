@@ -1,0 +1,66 @@
+ ```
+# Analyzing Topic Modeling Output
+
+## Topic ID 1:
+Keywords: c, v, p, e, p, p, d, t
+Documents:
+
+### Document 1:
+"Excelente visita a Playa Los Muertos. Nos tocó una playa bastante disfrutable."
+
+* Decision: VALID
+* Proposed Topic Label: "Playas Disfrutables"
+* Short Analytical Description: This topic appears to be about enjoyable beaches.
+
+### Document 2:
+"No fue perfecto, pero sí tuvo momentos rescatables."
+
+* Decision: INCOHERENT – DISCARD
+
+## Topic ID 2:
+Keywords: b, c, t, v, e, r, b, c
+Documents:
+
+### Document 1:
+"De lo mejor del viaje fue Mirador de la Cruz. Desde arriba se aprecia muy bien la bahía."
+
+* Decision: VALID
+* Proposed Topic Label: "Miradores con Vista"
+* Short Analytical Description: This topic seems to be about scenic viewpoints.
+
+## Topic ID 3:
+Keywords: t, v, v, v, u, e, e, a
+Documents:
+
+### Document 1:
+"Pasar por Tour a Yelapa tuvo cosas buenas y otras mejorables."
+
+* Decision: VALID
+* Proposed Topic Label: "Tours con Vista"
+* Short Analytical Description: This topic appears to be about tours with scenic views.
+
+## Topic ID 4:
+Keywords: s, c, m, c, p, s, e, p
+Documents:
+
+### Document 1:
+"Me encantó Marina Vallarta. Se siente muy representativo de la ciudad."
+
+* Decision: VALID
+* Proposed Topic Label: "Marinas con Vista"
+* Short Analytical Description: This topic seems to be about marina areas with scenic views.
+
+## Topic ID 5:
+Keywords: s, c, c, e, c, m, b, p
+Documents:
+
+### Document 1:
+"Salimos contentos de Plaza de Armas. Se siente como un punto central del destino."
+
+* Decision: VALID
+* Proposed Topic Label: "Plazas Centrales"
+* Short Analytical Description: This topic appears to be about central plazas.
+
+## Semantic Overlap Analysis:
+
+After analyzing the topics, it is clear that Topics 1 and 2 have a strong semantic overlap. Both are related to scenic viewpoints (Mir

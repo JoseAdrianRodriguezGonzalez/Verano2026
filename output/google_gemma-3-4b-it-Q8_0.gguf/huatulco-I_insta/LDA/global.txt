@@ -1,0 +1,15 @@
+Topic ID: 6:
+Keywords:
+a, e, s, p, o, a, c, t
+Documents:
+1: "el agua del mar es una experiencia increíble el agua de la playa es refrescante y limpia las olas golpean suavemente la orilla mientras los peces nadan en su hábitat natural el cielo se ve azul brillante con nubes blancas flotando sobre nosotros el sol brilla intensamente calentando nuestra piel y bañándonos con sus rayos dorados disfrutamos del aire salado de la costa y escuchamos el sonido relajante de las olas rompiendo contra la orilla es un día perfecto para pasar tiempo en la playa"
+2: "el agua se encuentra a una profundidad considerable mientras los peces nadan alrededor y las algas marinas flotan suavemente sobre la superficie el cielo está cubierto por nubes blancas esponjosas que parecen flotar sin rumbo hacia arriba el sol brilla con fuerza iluminando todo lo que toca es un día hermoso para disfrutar de la playa"
+3: "el agua del mar se extiende hasta donde alcanza la vista mientras los peces nadan en su hábitat natural las olas golpean suavemente la orilla y los pájaros vuelan por encima el cielo está lleno de nubes blancas flotando sobre nosotros el sol brilla con fuerza iluminando todo lo que toca es un día perfecto para pasar tiempo en la playa"
+4: "el agua del mar se encuentra a una profundidad considerable mientras los peces nadan alrededor las algas marinas flotan suavemente sobre la superficie el cielo está cubierto por nubes blancas esponjososas que parecen flotar sin rumbo hacia arriba el sol brilla con fuerza iluminando todo lo que toca es un día hermoso para disfrutar de la playa"
+5: "el agua del mar se extiende hasta donde alcanza la vista mientras los peces nadan en su hábitat natural las olas golpean suavemente la orilla y los pájaros vuelen por encima el cielo está lleno de nubes blancas flotando sobre nosotros el sol brilla con fuerza iluminando todo lo que toca es un día perfecto para pasar tiempo en la playa"
+
+```
+Topic ID: 1
+Decision: INCOHERENT – DISCARD
+Proposed Topic Label (max 6 words): Huatulco Beach and Travel
+Short Analytical Description (2–3 sentences strictly grounded in the provided text): This topic centers around descriptions of Huatulco,

@@ -1,0 +1,21 @@
+-------------------------------------
+        Topic ID: 1:
+        Decision: VALID
+        Proposed Topic Label (max 6 words, neutral and descriptive): "Beach Vacation"
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text) : A beach vacation topic with keywords related to sunshine, water waves, beaches, sand, and relaxation. The documents describe activities such as swimming, snorkeling, and enjoying the Caribbean atmosphere of Playa del Carmen.
+        After analyzing all topics:
+        1. No overlapping VALID topics were identified.
+
+        Topic ID: 2:
+        Decision: INCOHERENT – DISCARD
+        Proposed Topic Label (max 6 words, neutral and descriptive): "Incoherent"
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text) : The keywords are not cohesive or semantically related. They include terms such as "tour", "cool", "adventure", "moments", and "water". The documents mention activities like touring, enjoying moments of relaxation on beaches with water waves, and experiencing the Caribbean lifestyle in Playa del Carmen. However, there is no clear theme or coherence among these topics.
+        After analyzing all topics:
+        1. No overlapping VALID topics were identified.
+
+        Topic ID: 3:
+        Decision: INCOHERENT – DISCARD
+        Proposed Topic Label (max 6 words, neutral and descriptive): "Incoherent"
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text) : The keywords are not cohesive or semantically related. They include terms such as "playa", "xcalacoco", "sun", "water waves", and "caribbean". The documents mention experiences like enjoying a beach day, relaxing at Playa Xcalacoco, and appreciating the Caribbean atmosphere in Mexico. However, there is no clear theme or coherence among these topics.
+        After analyzing all topics:
+        1. No overlapping VALID topics were identified.

@@ -1,0 +1,43 @@
+ Output: To analyze the topic modeling output, I will first identify keywords associated with each document and then compare these to determine if they are semantically coherent or not. If there is a clear semantic overlap between any two documents, it means that the topics may be overlapping.
+
+Let's start by analyzing the keyword distribution in all documents:
+
+1. **Topic ID: 1**
+   - Keywords: `n`, `p`, `m`, `s`, `s`, `b`, `n`
+   
+2. **Topic ID: 2**
+   - Keywords: `c`, `c`, `n`, `p`, `i`, `d`, `t`
+
+3. **Topic ID: 3**
+   - Keywords: `h`, `n`, `p`, `v`, `s`, `c`, `n`, `m`
+   
+4. **Topic ID: 4**
+   - Keywords: `m`, `b`, `n`, `c`, `p`, `t`
+
+5. **Topic ID: 5**
+
+Now, I will compare the keywords to determine if there is any semantic overlap:
+
+- All documents have a common keyword sequence of:
+  ```
+    n, p, m, s, s, b, n
+  ```
+
+Since all topics share this shared keyword pattern and no other specific information or context from individual documents can be inferred without further analysis, I will propose the following merged topic labels based on semantic overlap:
+
+**Topic ID: 1**
+- **Label:** "Fire Tattoo Fest"
+  
+This label covers both Fire San Blas tattoo shop (document 2) and its associated events. It's clear that these topics share a common theme of tattoos related to fire, specifically in the context of Mexican tatuage shops.
+
+For other documents:
+**Topic ID: 4**
+- **Label:** "Fire Tattoo Fest"
+  
+This label is also consistent with Fire San Blas tattoo shop (document 2) and its associated events. It focuses on similar topics like tattoos and events related to fire in Mexico, which aligns well with the shared keyword pattern.
+
+Therefore:
+**Topic ID: 1**
+- **Label:** "Fire Tattoo Fest"
+  
+This is a comprehensive label that covers both Fire San Blas tattoo shop (document 2) and its associated events. It ensures there's no semantic overlap between any two documents, making it suitable for all topics provided.

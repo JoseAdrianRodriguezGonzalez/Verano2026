@@ -1,0 +1,7 @@
+---------------------------------------------------------------
+        Your output:
+        1. Topic ID: 2, Decision: VALID, Proposed Topic Label (Mercado de artesanías del Malecón), Short Analytical Description (La visita se sintió más floja de lo que imaginaba, La logística fue mala desdel inicio, El tema del tiempo de espera estuvo por debajo de lo esperado)
+        2. Topic ID: 3, Decision: VALID, Proposed Topic Label (Hotel boutique en Zona Romántica), Short Analytical Description (La estancia se hizo pesada por varios detalles, El tema del acceso terminó siendo un problema)
+        3. Topic ID: 4, Decision: VALID, Proposed Topic Label (Paseo en barco por la bahía), Short Analytical Description (La idea del tour es buena, pero le faltan detalles, El tema del tiempo de espera estuvo por debajo de lo esperado)
+        4. Topic ID: 5, Decision: VALID, Proposed Topic Label (Paseo en lancha al atardecer), Short Analytical Description (Se disfruta, aunque el ritmo pudo ser mejor, El tema del acceso necesita mejorar)
+        ---------------------------------------------------------------

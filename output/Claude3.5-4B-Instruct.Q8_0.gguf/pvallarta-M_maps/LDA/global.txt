@@ -1,0 +1,42 @@
+ Topic ID: 6:
+Keywords:
+v, b, m, e
+Documents:
+1: "Valió la pena conocer Hotel boutique en Zona Romántica. El check-in fue rápido y amable. Además, honestamente, el tema de la relación calidad-precio estuvo muy bien. Fuimos con niños en vacaciones. Con calor fuerte conviene llevar agua y bloqueador."
+2: "Excelente visita a Mercado Municipal Río Cuale. Vale la pena caminarlo con calma. Además, para mí, el tema del servicio me dejó buena impresión. Fui solo por la mañana. Lo recomiendo sin problema."
+
+Topic ID 7:
+Keywords: b
+Documents:
+1: "Bueno fue el viaje en general."
+2: "Buena experiencia en Playa Conchas Chinas y otros lugares cercanos al Malecón de Puerto Vallarta."
+
+Topic ID 8:
+Keywords: e, s, v, p
+Documents:
+1: "Excelente visita a Mercado Municipal Río Cuale. Vale la pena caminarlo con calma."
+2: "Muy mala experiencia en Paseo en lancha al atardecer. Parecía que nadie coordinaba bien la actividad."
+
+Topic ID 9:
+Keywords: b, e
+Documents:
+1: "Buena visita a Hotel boutique en Zona Romántica. El check-in fue rápido y amable."
+2: "Excelente experiencia en Playa Conchas Chinas."
+
+Topic ID 10:
+Keywords: v, t
+Documents:
+1: "Valió la pena conocer Parque Lázaro Cárdenas. Nos gustó para hacer una pausa."
+2: "Quedé fascinado con Parroquia de Nuestra Señora de Guadalupe."
+
+Topic ID 11:
+Keywords: b, m
+Documents:
+1: "Buena experiencia en Playa Conchas Chinas y otros lugares cercanos al Malecón de Puerto Vallarta."
+2. "Muy buena relación calidad-precio para el Hotel boutique en Zona Romántica."
+
+Topic ID 12:
+Keywords: v, t, b
+Documents:
+1: "Valió la pena conocer Tour gastronómico por el centro. El guía explicó todo con claridad."
+2: "Quedé fascinado con Parque Lázaro C

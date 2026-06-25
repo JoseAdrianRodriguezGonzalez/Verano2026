@@ -1,0 +1,23 @@
+ Analyze the output and follow all rules to provide your findings.        """
+
+from collections import Counter
+
+# Count keywords per topic
+topics = {
+    1: ["b", "v", "t", "b", "d", "m", "g", "v"],
+    2: ["v", "m", "c", "l", "b", "v", "p", "a"],
+    3: ["e", "t", "s", "m", "e", "e", "z", "s"],
+    4: ["b", "m", "e", "p", "m", "b", "p", "m"],
+    5: ["b", "d", "v", "e", "b", "m", "b", "z"]
+}
+
+keyword_counts = {topic_id: Counter(words) for topic_id, words in topics.items()}
+
+
+# Analyze each document to determine coherence
+documents = {
+    1: [
+        """Quedé fascinado con Parque Lázaro Cárdenas. Nos gustó para hacer una pausa. Además, la verdad, el tema de la vista marcó una diferencia positiva. Fuimos en plan tranquilo al mediodía. Hay buenos puntos para tomar fotos. Lo volvería a incluir en otro viaje. Se nota cuando un lugar está bien llevado.""",
+        """Salimos contentos de Tour de tacos y mariscos. La logística salió mejor de lo esperado. Además, para mí, el tema de la experiencia general marcó una diferencia positiva. Fuimos en familia por la mañana. Llegamos al atardecer y la luz ayudó muchísimo. Lo volvería a incluir en otro viaje. Se nota cuando un lugar está bien llevado.""",
+        """En general nos fue bien en Restaurante frente al mar en Marina. El sabor estuvo por encima de lo esperado. Además, la verdad, el tema de la relación calidad-precio superó lo esperado. Fuimos con amigos en vacaciones. Hay buenos puntos para tomar fotos. Lo volvería a incluir en otro viaje. Nos quedamos con ganas de volver con más tiempo.""",
+        """Valió la pena conocer Tour gastronómico por el centro. El guía explicó todo con claridad. Además,

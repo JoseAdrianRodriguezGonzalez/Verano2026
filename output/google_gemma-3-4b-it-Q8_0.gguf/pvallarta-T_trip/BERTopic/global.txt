@@ -1,0 +1,38 @@
+Topic ID: 4
+Keywords:
+c, p, c, h, s, e, r, d
+Documents:
+1: “The colors of the buildings are beautiful and they have a lot of art”
+2: "colorful houses painted walls sculptures statues"
+3: "beautiful colorful paintings pictures photographs street art murals”
+4: "the color is very important to me I love it so much"
+5: “I really like the colors in this town. The buildings are beautiful and there are many things to see.”
+
+---
+
+Topic ID: 1:
+Decision: VALID
+Proposed Topic Label: Vallarta Waterfront Activities & Shopping
+Short Analytical Description: This topic centers around descriptions of activities along a waterfront area, including visiting markets, observing artisans, enjoying restaurants and bars, viewing yachts, and taking short trips via bus. The documents frequently mention walking, food, shopping, and the presence of various vendors offering baked goods.
+
+Topic ID: 2:
+Decision: VALID
+Proposed Topic Label: Coastal Walk & Waterfront Ambiance
+Short Analytical Description: This topic describes a pleasant walk along a bay area with beautiful sunsets and interesting sights like sand sculptures, restaurants, bars, art galleries, and souvenir shops. The text highlights the relaxing atmosphere of this waterfront location with many people enjoying it.
+
+Topic ID: 3:
+Decision: VALID
+Proposed Topic Label: Adventure Activities & Tour Guides
+Short Analytical Description: This topic is focused on descriptions related to zip line experiences, guided tours, and enthusiastic tour guides.  The documents emphasize excitement, professionalism, friendliness, and the overall enjoyable nature of these activities.
+
+Topic ID: 4:
+Decision: VALID
+Proposed Topic Label: Colorful Architecture & Art Displays
+Short Analytical Description: This topic revolves around observations about colorful buildings, painted walls, sculptures, statues, paintings, photographs, street art murals, and a strong appreciation for color itself. The documents consistently mention the beauty of these visual elements in the town.
+
+Overlapping Topics:
+Topics 1 and 2 appear to be semantically overlapping due to their shared focus on waterfront areas with activities and ambiance descriptions.
+
+Merged Topic Label (Proposed): Waterfront Activities & Ambiance
+Topic IDs to Merge: 1, 2
+---

@@ -1,0 +1,71 @@
+ Your task is to analyze the output of a topic modeling process based strictly and exclusively on the information provided.
+
+         You will receive:
+        1. A list of keywords extracted for each topic.
+        2. A set of representative tourist reviews associated with that topic.
+
+
+Please provide your analysis following the specified structure:
+
+Topic ID: 
+Decision: (VALID / INCOHERENT – DISCARD)
+Proposed Topic Label (max 6 words, neutral and descriptive):
+Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+
+After analyzing all topics:
+
+
+Identify if any VALID topics are semantically overlapping.
+If so, propose a merged topic label and indicate which Topic IDs should be merged.
+
+
+Please follow this structure to provide your analysis.
+
+Here is my attempt at following your instructions:
+
+Topic ID: 1:
+Decision: VALID
+Proposed Topic Label: "Snorkeling in Protected Bay"
+Short Analytical Description: The documents discuss snorkeling, a protected bay with clear water and hermosa vistas. They mention restaurants near the beach and recommend visiting this location.
+
+Topic ID: 2:
+Decision: INCOHERENT – DISCARD
+No analysis provided as per instructions
+
+Topic ID: 3:
+Decision: VALID
+Proposed Topic Label: "Bahía Experience"
+Short Analytical Description: The documents describe a tranquil experience in Bahía, with calm water and opportunities for snorkeling. They mention the area's beauty, tranquility, and activities.
+
+Topic ID: 4:
+Decision: INCOHERENT – DISCARD
+No analysis provided as per instructions
+
+Topic ID: 5:
+Decision: VALID
+Proposed Topic Label: "Port de Mar"
+Short Analytical Description: The documents describe a port with marina views, restaurants, and shops. They mention cruises, fishing trips, and the area's beauty.
+
+After analyzing all topics:
+
+
+There are no semantically overlapping valid topics that require merging.
+
+
+Please let me know if my analysis is correct or not.
+
+
+
+Here is your response to the task:
+
+Topic ID: 1:
+Decision: VALID
+Proposed Topic Label: "Snorkeling in Protected Bay"
+Short Analytical Description: The documents discuss snorkeling, a protected bay with clear water and hermosa vistas. They mention restaurants near the beach and recommend visiting this location.
+
+Topic ID: 2:
+Decision: INCOHERENT – DISCARD
+
+Topic ID: 3:
+Decision: VALID
+Proposed Topic

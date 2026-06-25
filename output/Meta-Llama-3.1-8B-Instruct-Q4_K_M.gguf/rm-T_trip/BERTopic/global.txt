@@ -1,0 +1,67 @@
+ Please follow the exact format and rules provided.
+
+         For each topic, provide:
+
+        - Topic ID:
+        - Decision: (VALID / INCOHERENT – DISCARD)
+        - Proposed Topic Label (max 6 words, neutral and descriptive):
+        - Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+
+         After analyzing all topics:
+
+         - Identify if any VALID topics are semantically overlapping.
+         - If so, propose a merged topic label and indicate which Topic IDs should be merged.
+
+         Please do not provide additional information beyond what is requested. 
+
+         I will wait for your response to proceed with the next steps.
+
+
+
+**Topic ID: 1**
+Decision: INCOHERENT – DISCARD
+Proposed Topic Label:
+"Multiple Locations Tour"
+Short Analytical Description:
+
+The documents mention multiple locations, including Xcaret and Tulum, but there is no clear common theme or topic. The text appears to be a collection of reviews from different tours, making it difficult to identify a specific topic.
+
+**Topic ID: 2**
+Decision: VALID
+Proposed Topic Label:
+"Cenote Visit"
+Short Analytical Description:
+
+The documents describe visits to cenotes, specifically the Cenote Dos Ojos. The text highlights the unique features and experiences of visiting these natural attractions.
+
+**Topic ID: 3**
+Decision: INCOHERENT – DISCARD
+Proposed Topic Label:
+"Snorkeling Experience"
+Short Analytical Description:
+
+The documents mention snorkeling in different locations, including the Riviera Maya. However, there is no clear common theme or topic beyond snorkeling itself. The text appears to be a collection of reviews from different experiences.
+
+**Topic ID: 4**
+Decision: VALID
+Proposed Topic Label:
+"Zoo Visit"
+Short Analytical Description:
+
+The documents describe visits to an interactive zoo with various animals, including crocodiles and monkeys. The text highlights the educational value and unique experience of visiting this attraction.
+
+**Topic ID: 5**
+Decision: INCOHERENT – DISCARD
+Proposed Topic Label:
+"Caverns Exploration"
+Short Analytical Description:
+
+The documents mention exploring caverns in different locations, but there is no clear common theme or topic beyond exploration itself. The text appears to be a collection of reviews from different experiences.
+
+After analyzing all topics:
+
+
+
+There are two VALID topics: **Topic ID 2** and **Topic ID 4**
+
+These topics can be merged into

@@ -1,0 +1,51 @@
+ Please analyze the topics strictly based on the keywords and documents provided, following all rules. 
+
+         Provide for each topic:
+
+        - Topic ID:
+        - Decision: (VALID / INCOHERENT – DISCARD)
+        - Proposed Topic Label (max 6 words, neutral and descriptive):
+        - Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+
+After analyzing all topics, identify if any VALID topics are semantically overlapping. If so, propose a merged topic label and indicate which Topic IDs should be merged.
+
+         Make sure to follow the exact output structure.         
+
+
+Topic ID: 1
+Decision: VALID
+Proposed Topic Label: Puerto Vallarta Beach Life
+Short Analytical Description: The documents consistently describe experiences in Puerto Vallarta, focusing on beach life, vacations, and activities like ziplining or visiting Paradise.
+
+Topic ID: 2
+Decision: INCOHERENT – DISCARD
+Proposed Topic Label:
+Short Analytical Description:
+
+Topic ID: 3
+Decision: VALID
+Proposed Topic Label: Puerto Vallarta Tourism and Joyeria
+Short Analytical Description: The documents highlight tourism experiences in Puerto Vallarta, mentioning security measures for beach destinations and joyería (jewelry) shops.
+
+Topic ID: 4
+Decision: INCOHERENT – DISCARD
+Proposed Topic Label:
+Short Analytical Description:
+
+Topic ID: 5
+Decision: VALID
+Proposed Topic Label: Luxury Glamping or Puerto Vallarta Escapes
+Short Analytical Description: The documents describe a luxury glamping experience in Puerto Vallarta, emphasizing the importance of nature and wellness.
+
+There are no semantically overlapping topics that warrant merging. All valid topics have distinct themes grounded within their respective keywords and document content.         
+
+
+The final answer is:
+
+Topic ID 1 and Topic ID 5 share some overlap as they both involve experiences related to Puerto Vallarta but with different focuses (beach life vs luxury glamping). A merged topic label could be: "Puerto Vallarta Experiences" or simply keep them distinct given their unique themes.
+ 
+However, since the task requires a clear decision and I've followed all rules strictly as instructed:
+ 
+Topic ID 1 and Topic ID 5 do not meet the criteria for merging due to significant thematic differences. They remain valid but separate topics.
+
+The final answer is: There are no semantically overlapping VALID topics that warrant merging based on provided data, following strict analysis rules

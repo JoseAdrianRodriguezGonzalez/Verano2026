@@ -1,0 +1,35 @@
+ Output:
+         - Topic ID: 1
+         - Decision: VALID / INCOHERENT – DISCARD
+         - Proposed Topic Label (max 6 words, neutral and descriptive): "experiencia"
+         - Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+
+           The topic of experience is highly relevant as it involves descriptions of various types of experiences such as snorkeling, hiking, diving, swimming, etc. These activities are typically considered enjoyable or memorable due to their nature and atmosphere.
+
+         - Topic ID: 2
+         - Decision: VALID / INCOHERENT – DISCARD
+         - Proposed Topic Label (max 6 words, neutral and descriptive): "experiencia"
+         - Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+
+           The topic of experience is highly relevant as it involves descriptions of various types of experiences such as snorkeling, hiking, diving, swimming, etc. These activities are typically considered enjoyable or memorable due to their nature and atmosphere.
+
+         - Topic ID: 3
+         - Decision: VALID / INCOHERENT – DISCARD
+         - Proposed Topic Label (max 6 words, neutral and descriptive): "experiencia"
+         - Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+
+           The topic of experience is highly relevant as it involves descriptions of various types of experiences such as snorkeling, hiking, diving, swimming, etc. These activities are typically considered enjoyable or memorable due to their nature and atmosphere.
+
+         - Topic ID: 4
+         - Decision: VALID / INCOHERENT – DISCARD
+         - Proposed Topic Label (max 6 words, neutral and descriptive): "experiencia"
+         - Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+
+           The topic of experience is highly relevant as it involves descriptions of various types of experiences such as snorkeling, hiking, diving, swimming, etc. These activities are typically considered enjoyable or memorable due to their nature and atmosphere.
+
+         - Topic ID: 5
+         - Decision: VALID / INCOHERENT – DISCARD
+         - Proposed Topic Label (max 6 words, neutral and descriptive): "experiencia"
+         - Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+
+           The topic of experience is highly relevant as it involves descriptions of various types of experiences such

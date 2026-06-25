@@ -1,0 +1,17 @@
+ Now, proceed to analyze each topic.
+
+        Topic ID: 1:
+Keywords: p, l, l, a, i, v, h, n
+Documents:
+
+Document 1 describes "isla joya playas desiertas calas formaciones increíbles aguas cristalinas" and mentions snorkeling, seeing marine life like whales, dolphins, etc., and suggests it's the best tourist spot. Document 2 talks about tours to Isla Espíritu Santo with activities like snorkeling, seeing wildlife (turtles, rays), and having meals on the beach. Document3: visiting a day trip island, combining stops for swimming with sharks, whale watching, etc., and mentions using neoprene suits because of cold water. Document4: last day trip to Isla Espíritu Santo where they saw amazing formations, did snorkeling, had ceviche lunch, and enjoyed the beach. Document5: talking about Spirit Bay, mentioning kayaking, seeing marine creatures like leons (turtles?), and having a nice camping experience.
+
+The keywords include p (playa), l (león or maybe "l" as in something else? Wait, no, original list is p,l,l,a,i,v,h,n. So 'p' could be playa; the first keyword might stand for 'playas', plural of beach. The other letters: 'l's are likely leones (turtles), 'a' maybe area or agua (water). 'i' as in islands? Maybe, but it's unclear. Then v is visitar, h is either hotel or hostal; n could be naturaleza.
+
+Looking at the documents for Topic1, all are about Isla Espíritu Santo and surrounding areas—snorkeling, beaches, wildlife (turtles, sharks, whales), tours, etc.—so it's coherent. The keywords match: p=beaches, l=turtles; a=water or area; i=islands? Maybe not, but the documents are all about islands.
+
+So Topic1 is VALID with label "Island and Beach Exploration" since all documents talk about visiting islands (Isla Espíritu Santo), beaches, snorkeling, seeing marine life. The analytical description would note that it's a theme around exploring tropical islands' natural beauty through activities like snorkeling and observing wildlife.
+
+Topic ID: 2:
+Keywords: p,a,l,c,m,m,h,i
+p

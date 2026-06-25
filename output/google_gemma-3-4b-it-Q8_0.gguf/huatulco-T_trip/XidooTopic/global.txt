@@ -1,0 +1,30 @@
+- Topic ID: 1
+        - Decision: VALID
+        - Proposed Topic Label (max 6 words): Beach activities and relaxation
+        - Short Analytical Description: The topic revolves around descriptions of swimming, sunbathing, observing the sea, and enjoying beaches. Keywords like "playa," "buceando," "nadar," and “hermosa” indicate a focus on beach experiences and leisure time spent by the water.
+
+        - Topic ID: 2
+        - Decision: VALID
+        - Proposed Topic Label (max 6 words): Restaurants and food at beaches
+        - Short Analytical Description: This topic centers around mentions of restaurants, money ("pesos"), and various foods such as seafood (“marisco”) and drinks. The documents describe dining experiences alongside beach activities.
+
+        - Topic ID: 3
+        - Decision: VALID
+        - Proposed Topic Label (max 6 words): Coastal towns and fishing villages
+        - Short Analytical Description: This topic is characterized by terms related to coastal areas, including “bahía,” "pescador,"  "restaurantes," and references to boats. The documents depict scenes of small fishing communities along the coast with associated restaurants.
+
+        - Topic ID: 4
+        - Decision: VALID
+        - Proposed Topic Label (max 6 words): Beach access and transportation
+        - Short Analytical Description: This topic focuses on how people reach beaches, including “carretera,” "barco,"  "taxi” and mentions of accessibility. The documents describe the logistics involved in getting to a beach location.
+
+        - Topic ID: 5
+        - Decision: VALID
+        - Proposed Topic Label (max 6 words): Snorkeling and coral reefs
+        - Short Analytical Description: This topic is defined by keywords such as "snorkel," “coral,”  "pescado”, and descriptions of underwater activities like observing fish. The documents highlight snorkeling experiences in clear, colorful waters with abundant marine life.
+
+        Overlapping Topics:
+        Topics 2 and 4 are semantically overlapping because they both relate to aspects of beach visits - Topic 2 focuses on restaurants/food while topic 4 concerns access through transportation (taxis or boats). It is recommended to merge these two topics into a single label reflecting the broader theme.
+
+        Proposed Merged Label: Beach Access and Dining
+        Topics to Merge: 2, 4

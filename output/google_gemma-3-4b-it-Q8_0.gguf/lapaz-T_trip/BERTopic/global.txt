@@ -1,0 +1,32 @@
+Analysis:
+
+        Topic ID: 1
+        Decision: VALID
+        Proposed Topic Label (max 6 words): Island Snorkeling and Wildlife Viewing
+        Short Analytical Description: The topic revolves around activities related to snorkeling, observing marine life like leones (sea lions), kayaking, and exploring the island’s beaches.  The documents describe experiences involving water sports, wildlife sightings, and enjoying clear waters.
+
+        Topic ID: 2
+        Decision: VALID
+        Proposed Topic Label (max 6 words): Malecón Exploration and Atmosphere
+        Short Analytical Description: This topic focuses on observations of a waterfront promenade ("malecón"). The documents describe walking along the malecón, visiting shops and restaurants, observing people, enjoying views, and capturing the overall atmosphere.
+
+        Topic ID: 3
+        Decision: VALID
+        Proposed Topic Label (max 6 words): City Walk and Local Life
+        Short Analytical Description: This topic centers around descriptions of a city's malecón area. The documents detail walking routes, visiting shops and restaurants, observing local residents, enjoying the scenery, and experiencing various activities along the waterfront.
+
+        Topic ID: 4
+        Decision: VALID
+        Proposed Topic Label (max 6 words): Beach Relaxation and Beauty
+        Short Analytical Description: This topic is centered around descriptions of beaches. The documents describe beautiful beaches with clear water, calm waves, and pleasant weather. They highlight enjoyable experiences like swimming and relaxing on the sand.
+
+        Topic ID: 5
+        Decision: VALID
+        Proposed Topic Label (max 6 words): Island Adventure and Marine Life
+        Short Analytical Description: This topic describes an adventure involving visiting islands with activities such as snorkeling, diving, kayaking, observing marine life including dolphins, whales, rays, turtles and fish. The documents emphasize the beauty of the water colors and overall experience.
+
+        Overlap Analysis:
+        Topics 1 and 2 are semantically overlapping due to both focusing on waterfront areas (island or city). Topic 4 is also related but more specific about beaches.  Topic 5 overlaps with topic 1, as it involves island exploration and marine life viewing.
+
+        Proposed Merging:
+        Merging Topics 1 & 2 into “Waterfront Exploration” would be appropriate given their shared focus on waterfront areas.

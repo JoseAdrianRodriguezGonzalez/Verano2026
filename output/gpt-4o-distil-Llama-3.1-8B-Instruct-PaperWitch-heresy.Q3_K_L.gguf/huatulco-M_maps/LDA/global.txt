@@ -1,0 +1,49 @@
+ Analyze the topics and follow the rules to determine their validity, label them accordingly. If any valid topic shows semantic overlap, identify it and propose a merged topic ID.
+
+
+         After analyzing all provided data:
+
+
+Topic 1:
+Decision: VALID
+Proposed Topic Label: "Restaurante con mal servicio"
+Short Description: The documents describe poor service at the restaurant including forgotten orders, broken glassware, and unprofessional staff. Despite this, one reviewer appreciated their friendly server.
+
+Topic 2:
+Decision: INCOHERENT – DISCARD
+Semantic Analysis Failed due to inconsistent tone (complaint vs appreciation) among similar experiences.
+
+
+Topic 3:
+Decision: VALID
+Proposed Topic Label: "Tour a las Bahías de Huatulco"
+Short Description: The documents describe the tour experience, including snorkeling, visiting islands, and learning about local history. One reviewer appreciated their guide's knowledge.
+
+Topic 4:
+Decision: INCOHERENT – DISCARD
+Semantic Analysis Failed due to inconsistent descriptions (playa chica vs playa hermosa) of a single location.
+
+
+Topic 5:
+Decision: VALID
+Proposed Topic Label: "Playas de Huatulco"
+Short Description: The documents describe various aspects of visiting beaches in the area, including access challenges and amenities like food vendors.
+
+Semantic Overlap Identified between Topics 3 (Tour to Bahías) and 5 (Beach Experiences), both involve water activities. Proposed Merged Topic Label: "Water Activities in Huatulco". Merge Topic IDs: 3 & 5.
+
+
+Final Analysis:
+- Valid topics found: 2
+- Invalid or overlapping topics identified: 3
+
+
+After merging semantically similar content, the final output is:
+
+
+Topic ID 1 (Restaurante con mal servicio)
+Topic ID 4 was discarded due to semantic incoherence.
+Merged Topic IDs 3 & 5 into "Water Activities in Huatulco" as topic ID 6. 
+
+The merged label for topics that overlap semantically: Water Activities in Huatulco.
+
+The final analysis of the provided data resulted in two valid standalone topics and one merged topic, with a clear semantic connection between them. The discarded topic lacked coherence due to inconsistent descriptions within similar experiences. Topic IDs were adjusted accordingly based on this strict analytical approach.  "   "   "   "   ""    """    "     "      """""""        """       """         """          """            

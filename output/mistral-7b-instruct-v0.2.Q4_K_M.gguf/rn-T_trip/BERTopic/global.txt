@@ -1,0 +1,15 @@
+ Based on the provided information, here's my analysis:
+
+         Topic ID: 1 (INCOHERENT – DISCARD)
+         The keywords do not seem to have a clear common theme. They include words like "p," "per," "ber," and "c" which could be part of various unrelated topics, such as people's names or prepositions. The documents mention several different types of places (playas, cementerios) without any apparent connection between them. There is no semantic coherence in the data, so I propose to discard this topic.
+
+         Topic ID: 2 (VALID): Playa and Cocodrilos Sanctuary
+         The keywords include "s," "t," "c," "p," "e," which could refer to a place with sandy beaches and water activities, as well as the presence of certain animals. The documents explicitly mention visiting a santuario (sanctuary), interacting with cocodrilos, and enjoying the beach area. This topic appears to describe experiences at a sanctuary where visitors can observe or even touch cocodriols while also enjoying the nearby beaches.
+
+         Topic ID: 3 (VALID): Markets and Puerto Deportivo
+         The keywords include "m," "d," "c," which could refer to markets, as well as "p" for puerto (harbor) or deportivo (sports). The documents explicitly mention visiting mercados (markets), enjoying the ambiance around a puerto deportivo (marine sports harbor), and purchasing local products. This topic appears to describe experiences at various markets located near marine sports harbors, where visitors can enjoy shopping for local goods and soaking up the lively atmosphere.
+
+         Topic ID: 4 & 5 (MERGED): Delfines Experiences
+         The keywords in both topics include "d," "d" (likely a typo), and "a." These topics appear to describe experiences involving delfines (dolphins). Both sets of documents mention visiting parks or resorts where visitors can interact with dolphins, often in the context of aquatic activities. Since there is strong semantic overlap between these two topics, I propose merging them into a single topic: Delfin Experiences.
+
+         Topic

@@ -1,0 +1,48 @@
+ Topic ID: 6:
+Keywords:
+t, s, p, t, c
+Documents:
+1: "encontrar un buen lugar para hacer una cena en la playa también es importante tener un buen servicio de atención al cliente y buena comida"
+2: "cena especializada en cocina mexicana muy bien preparada con muchas opciones vegetarianas disponibles"
+3: "muy buena calidad del agua, excelente servicio de atención al cliente, comida exquisita"
+4: "comida fresca, servicios de atención al cliente excelentes, ambiente relajado y acogedor"
+5: "mejor que cualquier otro lugar para comer en la playa"
+
+Topic ID: 7:
+Keywords:
+t, s, p
+Documents:
+1: "muy buena calidad del agua, excelente servicio de atención al cliente, comida exquisita"
+2: "comida fresca, servicios de atención al cliente excelentes, ambiente relajado y acogedor"
+3: "mejor que cualquier otro lugar para comer en la playa"
+
+Topic ID 8:
+Keywords: t, s
+Documents:
+1. "muy buena calidad del agua, excelente servicio de atención al cliente, comida exquisita" (repeated from Topic 7)
+2. "comida fresca, servicios de atención al cliente excelentes, ambiente relajado y acogedor"
+3. "mejor que cualquier otro lugar para comer en la playa"
+
+Topic ID: 9:
+Keywords: t
+Documents:
+1. "muy buena calidad del agua, excelente servicio de atención al cliente, comida exquisita" (repeated from Topic 7)
+2. "comida fresca, servicios de atención al cliente excelentes, ambiente relajado y acogedor"
+3. "mejor que cualquier otro lugar para comer en la playa"
+
+Topic ID:10:
+Keywords:r
+Documents:
+1:"r"
+2:"r"
+3:"r"
+4:"r"
+5:"r"
+
+
+         Topic ID 11:
+Keywords:m, a, r, t
+Documents:
+1. "muy buena calidad del agua, excelente servicio de atención al cliente, comida exquisita" (repeated from Topic 7)
+2. "comida fresca, servicios de atención al cliente excelentes, ambiente relajado y acogedor"
+3. "mejor que cualquier otro lugar para comer en la

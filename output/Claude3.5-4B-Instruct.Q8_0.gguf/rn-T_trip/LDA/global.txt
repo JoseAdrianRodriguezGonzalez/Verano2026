@@ -1,0 +1,40 @@
+ Topic ID: 6
+Keywords:
+c, a, s, e, t, i, o, n
+
+Documents:
+1: "una vez visité un parque acuático en mexico muchos años atrás no recuerdo exactamente qué tipo de parques acuáticos había por ahí pero sé que era muy bueno y me gustó mucho el día que fui allí"
+2: "mi hermano visitó un parque acuático hace unos meses se quedó con amigos en una ciudad cerca del mar mi hermano dijo que fue bastante bueno aunque no lo recomendaría a nadie"
+3: "fue a otro parque acuático más reciente y me gustó mucho el día que fui allí"
+4: "no he estado en un parque acuático desde hace muchos años y no sé qué tipo de parques acuáticos hay por ahí pero si lo hiciera sería bastante emocionante"
+5: "fue a otro parque acuático más reciente y me gustó mucho el día que fui allí"
+
+Topic ID 7:
+Keywords: r, e, s, o
+Documents:
+1. "reservado en un hotel de playa cercano al mar"
+2. "reserva de hospedaje para una semana en el litoral mexicano"
+3. "hospedaje por cinco días en la costa del pacífico"
+4. "alojamiento para dos semanas en las playas de nueva vallarta y cabo san Lucas"
+5. "hotel de playa cerca del mar"
+
+Topic ID 8:
+Keywords: f, a
+Documents:
+1. "fui al parque acuático con mis hijos"
+2. "mi hermano visitó un parque acuático hace unos meses se quedó con amigos en una ciudad cerca del mar mi hermano dijo que fue bastante bueno aunque no lo recomendaría a nadie"
+
+Topic ID 9:
+Keywords: p, r
+Documents:
+1. "paseando por el litoral"
+2. "recorrí la costa de mexico desde cabo san Lucas hasta nueva vallarta y regresé al punto de partida en cinco días"
+
+
+Based on the provided information and following your analysis protocol strictly:
+
+Topic ID 1: VALID
+
+Proposed Topic Label:
+Playa Exploration Guide
+Short Analytical Description:

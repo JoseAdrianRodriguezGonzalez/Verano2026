@@ -1,0 +1,32 @@
+-------------------------------------
+        Topic ID: 1:
+        Decision: VALID
+        Proposed Topic Label (max 6 words, neutral and descriptive): "Beach"
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+            - The documents mention a beach or ocean-related activities.
+            - Keywords include: water wave, palm tree, sun, sea, sand, etc.
+            - Topic appears semantically coherent and focused on beaches/ocean-related themes.
+        Identify if any VALID topics are semantically overlapping. If so, propose a merged topic label and indicate which Topic IDs should be merged:
+            No overlap detected.
+
+        -------------------------------------
+        Topic ID: 2:
+        Decision: INCOHERENT - DISCARD
+        Proposed Topic Label (max 6 words, neutral and descriptive): "Real Estate"
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+            - The documents mention real estate-related terms such as house with garden, condominiums, properties for sale or rent.
+            - Keywords include: dollar sign, money bag, mortgage forms, etc.
+            - Topic appears semantically coherent and focused on real estate themes.
+        Identify if any VALID topics are semantically overlapping. If so, propose a merged topic label and indicate which Topic IDs should be merged:
+            No overlap detected.
+
+        -------------------------------------
+        Topic ID: 3:
+        Decision: INCOHERENT - DISCARD
+        Proposed Topic Label (max 6 words, neutral and descriptive): "Food"
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+            - The documents mention food-related terms such as menu items, restaurants, cuisine.
+            - Keywords include: fork and knife, plate of food, etc.
+            - Topic appears semantically coherent and focused on food themes.
+        Identify if any VALID topics are semantically overlapping. If so, propose a merged topic label and indicate which Topic IDs should be merged:
+            No

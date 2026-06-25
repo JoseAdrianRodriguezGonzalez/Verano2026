@@ -1,0 +1,63 @@
+ Topic ID: 6:
+Keywords:
+c, a, c
+Documents:
+1: "comida excelente comida local de pescado"
+2: "mejor restaurantes en la ciudad comer comida local de pescado"
+3: "pasear por malecón paz buen ejercicio ofrece a los visitantes restaurantes bares tiendas disponibles especialmente ciudad un cambio zona de perros locales bastante residentes disfrutaron de paseos nocturnos amigos"
+
+Topic ID: 7:
+Keywords:
+a, c
+Documents:
+1: "comida deliciosa"
+2: "mejor comida local en la ciudad"
+
+         Topic ID: 8:
+Keywords:
+c, a
+Documents:
+1: "camino alrededor de un lago"
+2: "pasear por el malecón paz buen ejercicio ofrece a los visitantes restaurantes bares tiendas disponibles especialmente ciudad un cambio zona de perros locales bastante residentes disfrutaron de paseos nocturnos amigos"
+
+         Topic ID: 9:
+Keywords:
+v, i
+Documents:
+1: "viaje increíble"
+2: "muy recomendable viaja a la isla espíritu santo"
+
+Topic ID: 10:
+Keywords:
+e, c, h
+Documents:
+1: "experiencia increíble"
+2. "espectaculares vistas del mar y el cielo"
+
+         Topic ID: 11:
+Keywords:
+c, a, e, v
+Documents:
+1: "comida local de pescado excelente experiencia en la isla espíritu santo"
+2. "experiencia increíble espectacular vista desde la playa"
+
+Topic ID: 12:
+Keywords:
+v, i, c, h
+Documents:
+1: "viaje increíble hermosa vista del mar y el cielo"
+2. "hermosas vistas de agua turística"
+
+         Topic ID: 13:
+Keywords:
+c, a, v, e
+Documents:
+1: "comida local excelente experiencia en la isla espíritu santo"
+2. "experiencia increíble espectacular vista desde la playa"
+
+Topic ID: 14:
+Keywords:
+v, i, c, h
+Documents:
+1: "viaje increíble hermosa vista del mar y el cielo"
+2.

@@ -1,0 +1,16 @@
+1. Topic ID: 2
+        2. Decision: VALID
+        3. Proposed Topic Label: "Beach"
+        4. Short Analytical Description: The topic is about beaches and the associated activities, such as walking along the beach or going for a stroll. It also mentions restaurants and bars in the area. Some documents mention touristy areas with lots of things happening at night. Overall, it seems to describe a pleasant coastal location that attracts visitors during both daytime and evening hours.
+        5. Topic ID: 3
+        6. Decision: VALID
+        7. Proposed Topic Label: "History Museum"
+        8. Short Analytical Description: The topic is about history museums, specifically those related to the regional history of Baja California Sur. It mentions exhibits on prehistory and colonial periods as well as various revolutions. Some documents mention cave paintings replicas or temporary exhibitions with powerful pictures that describe the spirit of Baja Californa Sur. The descriptions are all in Spanish, so it is recommended to have a translation app ready if you do not speak Spanish. Overall, this topic seems to be about history museums and their exhibits related to regional history in Baja California Sur.
+        9. Topic ID: 4
+        10. Decision: VALID
+        11. Proposed Topic Label: "Cathedral"
+        12. Short Analytical Description: The topic is about cathedrals, specifically those located in small towns or cities. It mentions the architecture of these cathedrals and their decoration elements such as statues and stained glass windows. Some documents mention broken windows but also describe them as beautiful with wood beams. Overall, this topic seems to be about visiting cathedrals for their architectural beauty rather than religious purposes.
+        13. Topic ID: 5
+        14. Decision: VALID
+        15. Proposed Topic Label: "Sunset Viewpoint"
+        16. Short Analytical Description: The topic is about sunsets and viewing them from a scenic location such as a reservation or lookout point. It mentions specific times for visiting these locations, usually during the daytime hours before 8am or after noon until late afternoon when they

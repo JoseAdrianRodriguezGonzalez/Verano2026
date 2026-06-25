@@ -1,0 +1,33 @@
+ Output:
+
+        Topic ID: 1:
+        Decision: VALID
+        Proposed Topic Label (max 6 words, neutral and descriptive): "Island Adventure"
+        Short Analytical Description: The provided documents discuss various aspects of island travel, from exploring local flora to learning about the culture. This topic is coherent as it covers a wide range of topics related to tourism.
+
+        Topic ID: 2:
+        Decision: INCOHERENT – DISCARD
+        Proposed Topic Label (max 6 words, neutral and descriptive): "Island Exploration"
+        Short Analytical Description: The documents primarily focus on island travel experiences. This topic is not coherent as it does not cover a broad range of topics related to islands or their exploration.
+
+        Topic ID: 3:
+        Decision: INCOHERENT – DISCARD
+        Proposed Topic Label (max 6 words, neutral and descriptive): "Island Adventure"
+        Short Analytical Description: The documents discuss various aspects of island travel, from exploring local flora to learning about the culture. This topic is not coherent as it does not cover a broad range of topics related to islands or their exploration.
+
+        Topic ID: 4:
+        Decision: INCOHERENT – DISCARD
+        Proposed Topic Label (max 6 words, neutral and descriptive): "Island Exploration"
+        Short Analytical Description: The documents primarily focus on island travel experiences. This topic is not coherent as it does not cover a broad range of topics related to islands or their exploration.
+
+        Topic ID: 5:
+        Decision: INCOHERENT – DISCARD
+        Proposed Topic Label (max 6 words, neutral and descriptive): "Island Adventure"
+        Short Analytical Description: The documents discuss various aspects of island travel, from exploring local flora to learning about the culture. This topic is not coherent as it does not cover a broad range of topics related to islands or their exploration.
+
+In summary:
+
+- Topic ID 1 (I) - Valid
+- Decision for Topic Label 2 and 3: INVALID – DISCARD
+
+Please note that this output assumes you are providing accurate information based on the provided documents. If there's any additional context, please let me know!

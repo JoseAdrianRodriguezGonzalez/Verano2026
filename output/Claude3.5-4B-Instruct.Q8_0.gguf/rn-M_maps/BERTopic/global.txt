@@ -1,0 +1,35 @@
+ Topic ID: 6:
+Keywords:
+l, e, p, l, s
+Documents:
+1: "La playa es muy limpia y se ve bien el agua. Fue un viaje increï¿½ble"
+2: "Una de las mejores experiencias que he tenido en mi vida, la playa era tan hermosa y limpia."
+3: "Aunque no estuvo muy lleno, fue genial para los niños pequeños y se veía bien el agua. "
+4: "Fue un viaje increï¿½ble, la playa estaba muy limpieza"
+5: "La experiencia en general fue excelente, pero destacan las vistas desde la montaña y la playa"
+
+Topic ID: 7:
+Keywords:
+r, e, p
+Documents:
+1: "El lugar es ideal para practicar surf, relajarse en la playa y disfrutar de buena comida y entretenimiento en la ciudad."
+2. "Es caro, pero San José lo es, tal como es. No lo veo, hay demasiada resaca y olas cortas para surfear, aunque se puede hacer en algunas partes de la playa, principalmente a la izquierda de la entrada principal (Tercera Mundo). La playa es hermosa en general, especialmente sobre Sayulita. Un pueblito genial y lugares para surfear a 20 minutos."
+3: "La experiencia fue excelente"
+4: "El lugar es ideal para practicar surf, relajarse en la playa y disfrutar de buena comida y entretenimiento en la ciudad."
+
+Topic ID: 8:
+Keywords:
+r
+Documents:
+1: "Es caro, pero San José lo es, tal como es. No lo veo, hay demasiada resaca y olas cortas para surfear"
+2: "La playa es hermosa en general, especialmente sobre Sayulita. Un pueblito genial y lugares para surfear a 20 minutos."
+3: "El lugar es ideal para practicar surf"
+
+Topic ID: 9:
+Keywords:
+p
+Documents:
+1: "Fue un viaje increï¿½ble"
+2: "Una de las mejores experiencias que he tenido en mi vida, la playa era tan hermosa y limpia."
+3: "La experiencia fue excelente"
+4: "El lugar es ideal

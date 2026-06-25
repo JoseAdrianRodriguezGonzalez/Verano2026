@@ -1,0 +1,19 @@
+ Output format:
+
+        Topic ID: 1:
+Keywords: feliz navidad, mexico
+Documents:
+1: "feliz navidad paz bcs mexico xmas lapazbcssmexico lapazmexico lapazbcs"
+2: "dias calurosos playa mar verano vacaciones verano viajes sol amor fotografía naturaleza atardecer méxico sol turismo naturaleza arena instagood beachlife foto del día pacenos lapazmx bikini océano picoftheday relajarse"
+
+Topic ID: 2:
+Keywords: poder, mexico
+Documents:
+1: "hazlo pacenos lapazmx bajacaliforniasur labajasur fitmenover fitmens fitmenstyle fitmendaily fitdadlife fitdadfitness lapazmexico labaja bajacaliforniasurmexico fitdaddy papafit gymmen gymculture gymhealth ejerciciofisico gymtimebaby bcs lapazbcs mensfitness fitmen fitdad fitdads fotografos fotografoiniciante fotografomexicano fotografos mx"
+2: "tiempo empezar pedir posada smirking face round pushpin san pedro martir octubre segunda seccion motel moteles lapaz moteleslapaz lapazmexico parejashot relacionesdepareja erotico sensual romantico placer mujeres hombres pasion bajacaliforniasur motelesmexico motelesbajacaliforniasur moteldelujo potrodelamor serviciobar roomservice frases"
+
+Topic ID: 3:
+Keywords: hazlo, mexico
+Documents:
+1: "mu ro solas contigo nadie interrumpa smirking face fire visitanos round pushpin san pedro martir octubre segunda seccion motel moteles lapaz moteleslapaz lapazmexico parejashot relacionesdepareja erotico sensual romantico placer mujeres hombres pasion bajacaliforniasur motelesmexico motelesbajacaliforniasur moteldelujo potrodelamor serviciobar roomservice frases"
+2: "tiempo empezar pedir posada smirking face round pushpin san pedro martir octubre segunda seccion motel moteles lapaz moteleslapaz lapazmexico parejashot relacionesdepareja erotico sensual romantico placer mujeres hombres

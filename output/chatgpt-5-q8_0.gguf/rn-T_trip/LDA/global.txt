@@ -1,0 +1,36 @@
+ Output:
+
+        Topic ID: 1:
+        Decision: (VALID / INCOHERENT – DISCARD)
+        Proposed Topic Label: (NO TOPIC)
+
+The topic is not coherent or semantically related to the provided text. There's no clear overlap between topics, and none of them appear in a way that could be considered semantically overlapping with any other information given.
+
+Topic ID: 2:
+Decision: (VALID / INCOHERENT – DISCARD)
+Proposed Topic Label: (NO TOPIC)
+
+The topic is not coherent or semantically related to the provided text. There's no clear overlap between topics, and none of them appear in a way that could be considered semantically overlapping with any other information given.
+
+Topic ID: 3:
+Decision: (VALID / INCOHERENT – DISCARD)
+Proposed Topic Label: (NO TOPIC)
+
+The topic is not coherent or semantically related to the provided text. There's no clear overlap between topics, and none of them appear in a way that could be considered semantically overlapping with any other information given.
+
+Topic ID: 4:
+Decision: (VALID / INCOHERENT – DISCARD)
+Proposed Topic Label: (NO TOPIC)
+
+The topic is not coherent or semantically related to the provided text. There's no clear overlap between topics, and none of them appear in a way that could be considered semantically overlapping with any other information given.
+
+Topic ID: 5:
+Decision: (VALID / INCOHERENT – DISCARD)
+Proposed Topic Label: (NO TOPIC)
+
+The topic is not coherent or semantically related to the provided text. There's no clear overlap between topics, and none of them appear in a way that could be considered semantically overlapping with any other information given.
+
+Output:
+Topic ID: 1
+Decision: (VALID / INCOHERENT – DISCARD)
+Proposed Topic Label: (NO TOPIC)

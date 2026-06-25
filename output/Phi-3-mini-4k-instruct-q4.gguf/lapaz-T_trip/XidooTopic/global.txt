@@ -1,0 +1,19 @@
+ Output:
+         - Topic ID 1: VALID – DISCARD (semantically incoherent)
+         - Proposed Topic Label: N/A
+         - Short Analytical Description: The keywords and documents provided do not form a coherent topic. They seem to be unrelated phrases without clear thematic connection.
+
+         - Topic ID 2: VALID – DISCARD (semantically incoherent)
+         - Proposed Topic Label: N/A
+         - Short Analytical Description: The keywords and documents provided do not form a coherent topic. They seem to be unrelated phrases without clear thematic connection, such as "camino pavimentado" with "corazón paz."
+
+         ... (Continue for all topics)
+- [Response]: - Topic ID 1: VALID – DISCARD (semantically incoherent)
+   - Proposed Topic Label: N/A
+   - Short Analytical Description: The keywords and documents provided do not form a coherent topic. They seem to be unrelated phrases without clear thematic connection, such as "la mejor experiencia navegando" with references scattered across different locations like islas Bastilla Esparta and Isla San Evaristo which are geographically distinct places; thus, the keywords do not form a coherent topic.
+
+- Topic ID 2: VALID – DISCARD (semantically overlapping)
+   - Proposed Topic Label: "Coastal Tourist Destinations"
+   - Short Analytical Description: The documents mention various coastal locations such as Isla Esparta, Malecón and Balandra. Despite the diversity in topics discussed within each document (e.g., dining experiences at a beachside location like islas Bastilla Esparta or Malecon tourist attractions across different cities/locations but with keywords related to coastal activities such as "camino pavimentado, restaurants and hotels bachelor's presence of the documents in your analysis.
+        - Topic ID 3: Keywords are provided information from a topic modeling results based on the following topics.
+         Output classification models data points for each given below isomorphic to analyze textual coher

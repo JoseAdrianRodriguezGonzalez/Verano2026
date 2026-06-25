@@ -1,0 +1,5 @@
+ Please analyze each topic strictly based on the keywords and documents provided, following all instructions exactly. Report your findings in the specified format for Topic ID 1 through Topic ID 3.
+
+         After analyzing these topics, identify if any VALID topics are semantically overlapping and propose a merged topic label along with which Topic IDs should be merged (if applicable). 
+
+          You may begin now!

@@ -1,0 +1,36 @@
+ Now, let's process each topic.
+
+        Topic ID: 1:
+Keywords: p, v, w, p, a, h, p, v
+Documents:
+
+Document 1: "almendra caramelo brown heart bebidas cold brew perfectas acompanar brunch disfrutar postre favorito pasa saludarnos hoy domingo esperamos pm puertovallartamexico"
+
+Looking at Document 1 for Topic ID 1. The keywords include 'p', 'v', 'w', etc., but the document is in Spanish, so I need to translate or understand it.
+
+Translating: "Almendra caramelo brown heart bebidas cold brew perfectas acompanar brunch disfrutar postre favorito pasa saludarnos hoy domingo esperamos pm puertovallartamexico"
+
+Breaking down:
+- Almendra (apple)
+- Caramelo (caramel)
+- Brown heart
+- Bebidas (drinks)
+- Cold brew
+- Perfectas (perfect)
+- Acompanar (to accompany)
+- Brunch
+- Disfrutar (enjoyment)
+- Postre favorito (favorite dessert)
+- Pasa saludarnos (greet us)
+- Hoy domingo (today Sunday)
+- Esperamos pm (we expect PM)
+
+The document seems to be about beverages, specifically cold brews and brunch. It mentions "puertovallartamexico" which is a location.
+
+So the keywords 'p', 'v' might correspond to 'Puerto Vallarta'. The other words like 'bebidas' are drinks in Spanish. So this document talks about enjoying beverages with brunch, specifically cold brews and desserts, possibly in Puerto Vallarta.
+
+Document 2: "duo fragancias necesitas two hearts marykaydemexico bahiadebanderas nuevonayarit puertovallartamexico consultoradebellezamarykay enviosatodomexico consultoradebellezamarykay maquillaje maquillajemarykay makeup givaudan garantia satisfaccion citlali g marykay citlaligardunomarykay"
+
+This seems to be about Mary Kay products, specifically fragrances and cosmetics. It mentions "puertovallartamexico" again.
+
+Document 3: Similar content as Document 2, more focused on makeup and beauty products from Mary Kay

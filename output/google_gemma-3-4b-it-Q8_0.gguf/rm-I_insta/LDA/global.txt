@@ -1,0 +1,31 @@
+
+- Topic ID: 1
+        - Decision: INCOHERENT – DISCARD
+        - Proposed Topic Label (max 6 words): Travel and Hotel Promotions
+        - Short Analytical Description: The documents primarily consist of promotional material for hotels, travel packages, and vacation rentals in the Riviera Maya region. Keywords like "hotel," “riviera maya,” and phrases related to booking and reservations are consistently present across all provided texts.
+
+- Topic ID: 2
+        - Decision: VALID
+        - Proposed Topic Label (max 6 words): Caribbean Adventure Tourism
+        - Short Analytical Description: This topic revolves around adventure tourism experiences in the Caribbean, specifically focusing on Tankah Bay. Keywords such as "adventure," “tankah,” and descriptions of activities like kayaking, snorkeling, and exploring natural landscapes are prominent throughout the documents.
+
+- Topic ID: 3
+        - Decision: VALID
+        - Proposed Topic Label (max 6 words): Real Estate Development in Quintana Roo
+        - Short Analytical Description: The topic centers around real estate development opportunities in Puerto Morelos and surrounding areas of Quintana Roo, Mexico. Keywords like "development," “terreno,” and descriptions related to building projects, property investment, and beachfront locations are consistently present.
+
+- Topic ID: 4
+        - Decision: VALID
+        - Proposed Topic Label (max 6 words): Luxury Villa Rentals in Puerto Aventuras
+        - Short Analytical Description: This topic focuses on luxury villa rentals within the Puerto Aventuras area of Mexico’s Riviera Maya. Keywords such as "villa," “rent,” and descriptions highlighting amenities like private pools, terraces, and proximity to beaches are central to this theme.
+
+- Topic ID: 5
+       - Decision: INCOHERENT – DISCARD
+        - Proposed Topic Label (max 6 words): Wedding Planning Services
+        - Short Analytical Description: The documents primarily describe wedding planning services offered by a DJ company (“Blue Venado”) and related event elements like cakes, music, and photography. There is no clear connection to any broader theme beyond the organization's core business of providing these specific services.
+
+Overlapping Topics:
+
+Topics 2 (Caribbean Adventure Tourism) and 4 (Luxury Villa Rentals in Puerto Aventuras) are semantically overlapping as they both relate to tourism within the Riviera Maya region, with Topic 4 specifically focusing on a type of accommodation frequently associated with adventure travel experiences.
+
+Proposed Merged

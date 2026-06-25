@@ -1,0 +1,19 @@
+1. Topic ID: 2
+         Decision: VALID
+         Proposed Topic Label: "Weather"
+         Short Analytical Description: The topic is about the weather conditions experienced by tourists during their stay at a resort in Mexico, including information on temperature and rainfall patterns.
+
+        1. Topic ID: 3
+         Decision: VALID
+         Proposed Topic Label: "Beach Experience"
+         Short Analytical Description: The topic is about the beach experience of tourists staying at a resort in Mexico, including details such as the length and width of the beach, the quality of the sand and water, and the presence of rocks. It also mentions dolphins and turtles that hatch on the beach.
+
+        1. Topic ID: 4
+         Decision: VALID
+         Proposed Topic Label: "Dolphin Interaction"
+         Short Analytical Description: The topic is about a tourist's experience interacting with dolphins during their visit to Mexico, including details such as the encounter with trainers and how it felt. It also mentions other activities like swimming in the ocean or taking pictures of leopard seals.
+
+        1. Topic ID: 5
+         Decision: VALID
+         Proposed Topic Label: "Animal Sanctuary"
+         Short Analytical Description: The topic is about a tourist's experience visiting an animal sanctuary in Mexico, including details such as the cost of admission and how much they enjoyed it. It also mentions seeing crocodiles and turtles up close.

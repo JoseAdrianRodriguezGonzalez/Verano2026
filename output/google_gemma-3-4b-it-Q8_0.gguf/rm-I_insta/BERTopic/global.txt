@@ -1,0 +1,26 @@
+Output:
+
+        Topic ID: 1
+        Decision: VALID
+        Proposed Topic Label (max 6 words): Riviera Maya Real Estate
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text): The topic focuses on properties and investment opportunities within Puerto Aventuras, a community in Rivera Maya. Keywords like "condominio," “casa,” “vista”,  “inversion” indicate an interest in real estate sales and rentals, along with related services such as property management.
+
+        Topic ID: 2
+        Decision: VALID
+        Proposed Topic Label (max 6 words): Wedding Planning Cancun Riviera Maya
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text): This topic revolves around wedding planning services offered in Cancun and Rivera Maya, with keywords like "boda," “planificador de bodas,”  “fotografía de boda” indicating a focus on event organization. The documents consistently mention vendors providing related services such as DJs and photographers.
+
+        Topic ID: 3
+        Decision: VALID
+        Proposed Topic Label (max 6 words): Dog Beach & Nature Tulum
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text): This topic centers around dog-friendly beaches and natural areas, particularly near Tulum. Keywords like "perro," “playa,”  “tulumvibes” suggest an interest in pet activities and outdoor exploration within this region.
+
+        Topic ID: 4
+        Decision: VALID
+        Proposed Topic Label (max 6 words): Tankah Bay Cenotes & Tours
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text): The topic is dedicated to Tankah Bay, a cenote and its surrounding area, with keywords such as "cenote," “tankah,”  “tulum” indicating an interest in water activities and tourism. It includes details about tours, reservations, and related services offered at this location.
+
+        Topic ID: 5
+        Decision: INCOHERENT – DISCARD
+        Proposed Topic Label (max 6 words): Travel Agency Services Cancun
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text): The keywords "r," "c," "t", “a”, "v" and "v” are not semantically coherent with any of the documents.  The texts predominantly discuss travel agency services, but without a clear thematic connection to specific destinations

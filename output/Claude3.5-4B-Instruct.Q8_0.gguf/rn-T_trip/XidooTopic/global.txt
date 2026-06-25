@@ -1,0 +1,28 @@
+ Topic ID: 6:
+Keywords:
+c, e, n, t, a
+Documents:
+1: "me encantó el tiempo en la playa, disfruté mucho caminar por las playas y ver los atardeceres"
+2: "fue un buen día para ir al parque de diversiones con mis hijos. Me gustaron las atracciones y se divirtieron muchísimo."
+3: "me encantó el tiempo en la playa, disfruté mucho caminar por las playas y ver los atardeceres"
+4: "fue un buen día para ir al parque de diversiones con mis hijos. Me gustaron las atracciones y se divirtieron muchísimo."
+5: "me encantó el tiempo en la playa, disfruté mucho caminar por las playas y ver los atardeceres"
+
+Topic ID: 7:
+Keywords:
+c, e, n, t
+Documents:
+1: "fue un buen día para ir al parque de diversiones con mis hijos. Me gustaron las atracciones y se divirtieron muchísimo."
+2: "me encantó el tiempo en la playa, disfruté mucho caminar por las playas y ver los atardeceres"
+3: "fue un buen día para ir al parque de diversiones con mis hijos. Me gustaron las atracciones y se divirtieron muchísimo."
+4: "me encantó el tiempo en la playa, disfruté mucho caminar por las playas y ver los atardeceres"
+5: "fue un buen día para ir al parque de diversiones con mis hijos. Me gustaron las atracciones y se divirtieron muchísimo."
+
+Topic ID 8:
+Keywords:
+c, e
+Documents:
+1: "me encantó el tiempo en la playa, disfruté mucho caminar por las playas y ver los atardeceres"
+2: "fue un buen día para ir al parque de diversiones con mis hijos. Me gustaron las atracciones y se divirtieron muchísimo."
+3: "me encantó el tiempo en la playa, disfruté mucho caminar por las playas y ver los atardeceres"
+4: "fue un buen día para ir al parque de diversiones con mis hijos. Me gustaron las atracciones y se

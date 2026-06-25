@@ -1,0 +1,35 @@
+Topic ID: 6:
+Keywords:
+r, s, e, t, n, o, a, d
+Documents:
+1: "estaba en el restaurante y estaba muy bien. El servicio era excelente y la comida era deliciosa. También me gustó mucho el ambiente del restaurante."
+2: “el restaurante es bueno pero no tan caro como otros restaurantes cerca de aquí.”
+3: “en realidad fue un gran lugar para comer, aunque tenía algunos problemas con los camareros.”
+4: "El restaurante estaba bien y la comida era buena. El servicio era lento, sin embargo."
+5: "La cena en el restaurante fue muy agradable. La decoración es hermosa y la música de fondo es relajante"
+
+```text
+Topic ID: 1
+Decision: VALID
+Proposed Topic Label (max 6 words): Beach and Coastal Activities
+Short Analytical Description: This topic centers around descriptions of beaches, coastal walks, views of mountains, sunsets, and related activities like swimming and enjoying the seaside. The documents consistently mention "beach," "playa," “montañas,” and associated actions such as walking or observing nature.
+
+Topic ID: 2
+Decision: VALID
+Proposed Topic Label (max 6 words): Weather and Climate Experiences
+Short Analytical Description: This topic focuses on accounts of weather conditions, including temperature, rainfall, and overall climate experiences during a visit to Nuevo Vallarta. Keywords like "clima," “tiempo,” and descriptions of sunny or rainy seasons are prevalent in the documents.
+
+Topic ID: 3
+Decision: VALID
+Proposed Topic Label (max 6 words): Resort Amenities and Family Activities
+Short Analytical Description: This topic describes aspects of resort life, including amenities such as pools, restaurants, beach access, and family-oriented activities like children's play areas and dolphin encounters. The presence of keywords "resort," “playa,” “niños” indicates a focus on these elements.
+
+Topic ID: 4
+Decision: VALID
+Proposed Topic Label (max 6 words): Dolphin Encounter Experiences
+Short Analytical Description: This topic revolves around reviews related to visiting dolphins, including interactions like swimming with them and taking photos or purchasing souvenirs. Keywords such as "delfín," “foto,” and descriptions of dolphin shows are prominent in the documents.
+
+Topic ID: 5
+Decision: VALID
+Proposed Topic Label (max 6 words): Wildlife Sanctuary Visits
+Short Analytical Description:

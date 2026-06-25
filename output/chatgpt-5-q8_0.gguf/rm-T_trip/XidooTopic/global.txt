@@ -1,0 +1,38 @@
+ Output:
+
+         - Topic ID: 1:
+           Keywords: i, g, p, l, f, g, s, e
+           Documents: 
+           Decision: VALID – INCOHERENT – DISCARD
+           Proposed Topic Label (max 6 words): "Cenotes"
+           Short Analytical Description: This topic deals with the experience of visiting cenotes in Mexico. The documents provide information on various aspects such as location, amenities, and experiences.
+
+         - Topic ID: 2:
+           Keywords: m, p, c, r, t, t, r, h
+           Documents: 
+           Decision: VALID – INCOHERENT – DISCARD
+           Proposed Topic Label (max 6 words): "Cenotes"
+           Short Analytical Description: This topic is about the experience of visiting cenotes in Mexico. The documents provide information on various aspects such as location, amenities, and experiences.
+
+         - Topic ID: 3:
+           Keywords: p, t, a, á, v, b, t, p
+           Documents: 
+           Decision: VALID – INCOHERENT – DISCARD
+           Proposed Topic Label (max 6 words): "Cenotes"
+           Short Analytical Description: This topic is about the experience of visiting cenotes in Mexico. The documents provide information on various aspects such as location, amenities, and experiences.
+
+         - Topic ID: 4:
+           Keywords: g, i, r, r, e, c, v, t
+           Documents: 
+           Decision: VALID – INCOHERENT – DISCARD
+           Proposed Topic Label (max 6 words): "Cenotes"
+           Short Analytical Description: This topic is about the experience of visiting cenotes in Mexico. The documents provide information on various aspects such as location, amenities, and experiences.
+
+         - Topic ID: 5:
+           Keywords: f, h, g, t, a, s, i, c
+           Documents: 
+           Decision: VALID – INCOHERENT – DISCARD
+           Proposed Topic Label (max 6 words): "Cenotes"
+           Short Analytical Description: This topic is about the experience of visiting cenotes in Mexico. The documents provide information on various aspects such as location, amenities, and experiences.
+
+This analysis will help you understand which topics are semantically overlapping or not based solely on keywords provided by your data analyst skills.

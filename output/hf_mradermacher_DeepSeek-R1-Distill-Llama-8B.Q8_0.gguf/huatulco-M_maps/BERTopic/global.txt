@@ -1,0 +1,41 @@
+ Now, let's process the topics.
+        First, analyze each topic individually.
+
+Topic ID: 1
+Keywords:
+e, c, b, b, p, b, h, p
+
+Documents:
+
+1. Excelente la bahía del maguey en crucecita Huatulco...
+   - Mentions "bahía" (bay), "maguey", "Huatulco"
+2. Uno de los mejores recorridos que pudieron tener en yate a las bahías de huatulco
+3. Es la bahía más limpia que visitamos, hermosa...
+4. Esta pequeña bahía tiene un oleaje suave...
+5. Playa Santa Cruz, es yes bahía se encuentra...
+
+Analysis:
+Keywords include "e", which might stand for Excelente (Excellent), "c" possibly for comida (food) or cabañas (cabins). The documents all talk about different aspects of the same area: Bahías de Huatulco. They describe beaches like Playa Maguey, Playa Chachacual, and Santa Cruz Bay. Each document discusses what to do there—snorkeling, dining options, how to get there, cleanliness.
+
+The keywords "b" might stand for "bahía", which is consistent across documents. The topic seems centered around the beaches of Huatulco, their features, activities available, and visitor experiences.
+Proposed Label: Beaches of Huatulco
+Description:
+This topic focuses on the beaches of Huatulco. Documents describe various beaches like Playa Maguey and Santa Cruz Bay, mentioning activities such as snorkeling, dining options, and travel logistics.
+
+Decision: VALID
+
+Topic ID: 2
+Keywords:
+c, c, e, h, c, a, p, e
+
+Documents:
+
+1. Estuvimos en playa cacaluta...
+   - Mentions "cacaluta", which is another beach in Huatulco.
+2. Caminamos por el Sendero Sanate...
+3. Una playa hermosa imperdible...
+4. Puedes dejar tu carro...
+5. Es una playa virgen...
+
+Analysis:
+Keywords include "c" (possibly cacaluta), "e" for excellent or comida, and others like h (hotel) and a (amazing). Documents describe Playa Cacaluta—accessibility issues, activities available,

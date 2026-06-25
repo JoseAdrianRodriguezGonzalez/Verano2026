@@ -1,0 +1,16 @@
+ Topic ID: 6:
+Keywords:
+c, v, d, g, t
+Documents:
+1: "ciudad de la luz ciudades europeas ciudad industrial norte de francia centro comercial norte de francia gran via madrid plaza mayor madrid barrio antiguo madrid torre eiffel paris metro estacion central barcelona plazuela principal madrid campana bellavista madrid torres del parque centenario"
+2: "ciudad de la luz ciudades europeas ciudad industrial norte de francia centro comercial norte de francia gran via madrid plaza mayor madrid barrio antiguo madrid torre eiffel paris metro estacion central barcelona plazuela principal madrid campana bellavista madrid torres del parque centenario"
+3: "ciudad de la luz ciudades europeas ciudad industrial norte de francia centro comercial norte de francia gran via madrid plaza mayor madrid barrio antiguo madrid torre eiffel paris metro estacion central barcelona plazuela principal madrid campana bellavista madrid torres del parque centenario"
+4: "ciudad de la luz ciudades europeas ciudad industrial norte de francia centro comercial norte de francia gran via madrid plaza mayor madrid barrio antiguo madrid torre eiffel paris metro estacion central barcelona plazuela principal madrid campana bellavista madrid torres del parque centenario"
+5: "ciudad de la luz ciudades europeas ciudad industrial norte de francia centro comercial norte de francia gran via madrid plaza mayor madrid barrio antiguo madrid torre eiffel paris metro estacion central barcelona plazuela principal madrid campana bellavista madrid torres del parque centenario"
+
+        Topic ID: 7:
+Keywords:
+c, c, h
+Documents:
+1: "ciudad de la luz ciudades europeas ciudad industrial norte de francia centro comercial norte de francia gran via madrid plaza mayor madrid barrio antiguo madrid torre eiffel paris metro estacion central barcelona plazuela principal madrid campana bellavista madrid torres del parque centenario"
+2: "ciudad de la luz ciudades europeas ciudad industrial norte de francia centro comercial norte de francia gran via madrid plaza mayor madrid barrio antiguo madrid torre eiffel paris metro estacion central barcelona plazuela principal madrid campan

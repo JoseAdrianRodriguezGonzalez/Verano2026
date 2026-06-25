@@ -1,0 +1,32 @@
+ Output:
+
+         - Topic ID: 1:
+           Decision: VALID – DISCARD
+           Proposed Topic Label (max 6 words, neutral and descriptive): "Topic Modeling"
+           Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+           The keywords indicate a topic about tourism reviews for an island or beach destination. There are no geographical locations mentioned explicitly.
+
+         - Topic ID: 2:
+           Decision: VALID – DISCARD
+           Proposed Topic Label (max 6 words, neutral and descriptive): "Topic Modeling"
+           Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+           The keywords suggest a topic about island or beach reviews for travelers. There are no geographical locations mentioned explicitly.
+
+         - Topic ID: 3:
+           Decision: VALID – DISCARD
+           Proposed Topic Label (max 6 words, neutral and descriptive): "Topic Modeling"
+           Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+           The keywords indicate a topic about island or beach reviews for travelers. There are no geographical locations mentioned explicitly.
+
+         - Topic ID: 4:
+           Decision: VALID – DISCARD
+           Proposed Topic Label (max 6 words, neutral and descriptive): "Topic Modeling"
+           Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+           The keywords suggest a topic about island or beach reviews for travelers. There are no geographical locations mentioned explicitly.
+
+         - Topic ID: 5:
+           Decision: VALID – DISCARD
+           Proposed Topic Label (max 6 words, neutral and descriptive): "Topic Modeling"
+           Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+           The keywords indicate a topic about island or beach reviews for travelers. There are no geographical locations mentioned explicitly.
+You're ready to analyze your data! How can I assist you further?

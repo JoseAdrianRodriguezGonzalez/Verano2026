@@ -1,0 +1,39 @@
+ ```python
+import re
+
+def analyze_topic(topic_id, keywords, documents):
+    # Remove duplicates from the list of keywords and sort them in ascending order
+    unique_keywords = sorted(set(keywords))
+
+    # Initialize a flag to track if the topic is valid or not
+    is_valid = True
+    
+    # Check for semantic coherence between keywords and documents
+    keyword_pattern = re.compile(r'\b(' + r'|'.join(unique_keywords) + r')\b', flags=re.IGNORECASE)
+    
+    for document in documents:
+        matches = len(re.findall(keyword_pattern, document))
+        
+        if not (0.2 <= matches / len(document.split()) < 1):
+            is_valid = False
+            break
+    
+    # If the topic does not pass semantic coherence check or has no keywords, discard it
+    decision = "VALID" if is_valid else "INCOHERENT – DISCARD"
+    
+    proposed_topic_label = " ".join(unique_keywords[:6])
+    
+    analytical_description = f"The topic {topic_id} is about '{proposed_topic_label}'. The documents associated with this topic contain mentions of various keywords."
+    
+    return {
+        'Topic ID': topic_id,
+        'Decision': decision,
+        'Proposed Topic Label': proposed_topic_label,
+        'Short Analytical Description': analytical_description
+    }
+
+# Define the topics as lists or tuples (depending on your specific data structure)
+topics = [
+    {"id": 1, "keywords": ["m", "p", "f", "c"], "documents": ["sero ploriaa servidor emulador geenss archenti flores morearea jorge velarde imagen del anuncio del vehículo gorecore bbloom joel torres gapmoe promoción de facebook lorem ipsum dolor sit amet cliente florido ticket de servicio falso", 
+    "niña de pie siguiente estilo de mariposa gigante quetzecoatl mariposas monarca mariposa arte pop mural museo de arte fondo tlaquepaque mural de la pared mariposa de guanajuato mariposas mariposas voladoras arte popular mexicano muralismo mexicano ravi supa alas de mariposa", 
+    "niña de pie al lado mariposa gigante mariposa mariposas monarca david choe alas de mariposa mariposas de pájaros pájaros de mar

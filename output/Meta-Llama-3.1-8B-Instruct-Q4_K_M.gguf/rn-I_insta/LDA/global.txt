@@ -1,0 +1,68 @@
+ Please analyze the topics and provide your output in the specified format.
+
+         Also, identify any semantically overlapping VALID topics that should be merged. If there are no valid topics to merge or if merging is not feasible due to lack of semantic overlap, indicate this clearly.
+
+
+         After analyzing all the provided information:
+
+        - Topic ID: 1 appears INCOHERENT – DISCARD.
+        - Topics IDs: 2 and 5 appear VALID but semantically overlapping. 
+        - The remaining topics (3) are also valid.
+
+The output should be in the following format:
+
+
+- Topic ID:
+- Decision: (VALID / INCOHERENT – DISCARD)
+- Proposed Topic Label (max 6 words, neutral and descriptive):
+- Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+
+
+Topic ID: 1
+Decision: INCOHERENT - DISCARD
+Proposed Topic Label:
+No valid topic label can be proposed due to lack of coherence
+
+Short Analytical Description:
+
+This topic is classified as "INCOHERENT – DISCARD" because it does not present a clear and coherent theme. The keywords do not match the content, which appears unrelated and incoherent.
+
+
+Topic ID: 2
+Decision: VALID
+Proposed Topic Label:
+Vacation Rentals in Mexico
+
+Short Analytical Description:
+
+This topic is about vacation rentals in Mexico, specifically focusing on properties like condos, hotels, and resorts that cater to tourists. The keywords highlight the importance of amenities such as pools, beaches, and spas.
+
+
+Topic ID: 3
+Decision: VALID
+Proposed Topic Label:
+Gastronomy Experiences
+
+Short Analytical Description:
+
+This topic revolves around gastronomic experiences in Mexico, focusing on restaurants, food markets, and culinary events that showcase local cuisine. The keywords emphasize the importance of fresh ingredients, traditional cooking methods, and cultural heritage.
+
+
+Topic ID: 4
+Decision: VALID
+Proposed Topic Label:
+Tattoo Festival
+
+Short Analytical Description:
+
+This topic is about a tattoo festival called San Blas Tattoo Fest, which features renowned artists showcasing their work in various styles. The keywords highlight the event's focus on artistry, creativity, and cultural expression.
+
+
+Topic ID: 5
+Decision: VALID (semantically overlapping with Topic ID: 2)
+Proposed Topic Label:
+Vacation Rentals Marketing
+
+Short Analytical Description:
+
+This topic appears to be about marketing vacation rentals in Mexico, specifically focusing on events like the

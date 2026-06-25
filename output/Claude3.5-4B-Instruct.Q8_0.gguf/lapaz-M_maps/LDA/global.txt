@@ -1,0 +1,47 @@
+ Topic ID: 6:
+Keywords:
+b, b, m
+Documents:
+1: "A beautiful beach in La Paz. The water is a stunning blue-green color and very calm. It's perfect for swimming and sunbathing. There are also some interesting rock formations on the shore."
+2: "Playa Balandra in La Paz is absolutely breathtaking! I've never seen such stunning scenery anywhere else. But I gotta admit, getting there isn't the easiest, mainly because the locals aren't always clear on how things work"
+3: "Very beautiful beach as everyone said but some logistics. There are two time slots to enter, 8-12 pm and 1-5pm."
+4: "It's an excellent choice if you're looking for a convenient, family-friendly beach close to the city."
+
+Topic ID: 7:
+Keywords:
+b
+Documents:
+1: "Beautiful beaches in La Paz. The water is clear blue-green and very calm"
+2: "Playa Balandra in La Paz is absolutely breathtaking! I've never seen such stunning scenery anywhere else."
+3: "Very beautiful beach as everyone said but some logistics."
+
+Topic ID: 8:
+Keywords:
+b, h
+Documents:
+1: "Beautiful beaches in La Paz. The water is clear blue-green and very calm"
+2: "Playa Balandra in La Paz is absolutely breathtaking! I've never seen such stunning scenery anywhere else."
+3: "Very beautiful beach as everyone said but some logistics."
+
+Topic ID: 9:
+Keywords:
+b, h
+Documents:
+1: "Beautiful beaches in La Paz. The water is clear blue-green and very calm"
+2: "Playa Balandra in La Paz is absolutely breathtaking! I've never seen such stunning scenery anywhere else."
+3: "Very beautiful beach as everyone said but some logistics."
+
+Topic ID: 10:
+Keywords:
+b, h
+Documents:
+1: "Beautiful beaches in La Paz. The water is clear blue-green and very calm"
+2: "Playa Balandra in La Paz is absolutely breathtaking! I've never seen such stunning scenery anywhere else."
+3: "Very beautiful beach as everyone said but some logistics."
+
+Topic ID: 11:
+Keywords:
+b, h
+Documents:
+1: "Beautiful beaches in La Paz. The water is clear blue-green and very calm"
+2: "Playa Balandra in La Paz is absolutely breathtaking! I

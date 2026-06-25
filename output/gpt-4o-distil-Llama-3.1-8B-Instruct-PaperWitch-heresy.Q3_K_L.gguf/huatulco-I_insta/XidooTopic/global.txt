@@ -1,0 +1,36 @@
+ After analyzing the topics, you must:
+
+         - Provide a decision for each topic (VALID / INCOHERENT – DISCARD)
+         - Propose Topic Labels and Short Analytical Descriptions
+         - Identify any semantically overlapping VALID topics if present
+
+         Follow this structure exactly. Do not add extra information or modify it in any way.
+
+Topic ID: 1:
+Decision: VALID
+Proposed Label: Mariposas y Arte Pop
+Short Description: The topic revolves around mariposa imagery, art pop styles, and Mexican cultural references evident through keywords like "mariposa", "arte pop", "museo de arte" and repeated mentions of maripos in documents.
+
+Topic ID: 2:
+Decision: INCOHERENT – DISCARD
+Proposed Label: Isla Desierta / Tropical Coast
+Short Description: The topic shows a mix of coastal imagery, tropical environments, but lacks cohesion as keywords like "islas", "playas" are paired with generic terms ("agua") and no clear theme emerges.
+
+Topic ID: 3:
+Decision: VALID
+Proposed Label: Huatulco y Playa de Bahías
+Short Description: The topic focuses on tourism in Oaxaca, particularly around the destination of Huatulco. Keywords like "huatulcomexico", "bahiasdehuatulco" and descriptive phrases ("pktaventurero santacruz organo maguey") suggest a specific location-based theme.
+
+Topic ID: 4:
+Decision: VALID
+Proposed Label: Puestas de Sol en la Playa
+Short Description: The topic centers around sunset scenes, often in beach settings. Keywords like "puesta del sol", "playa" and repeated imagery descriptions ("foto sincera gal gadot") suggest a clear theme.
+
+Topic ID: 5:
+Decision: INCOHERENT – DISCARD
+Proposed Label: Festividades y Ropa de Playa
+Short Description: The topic shows fragments of festive themes, but keywords like "dia muertos", "blu huatulco" and descriptions ("lociones originales cherries sparkles") appear disconnected without a clear overarching theme.
+
+After analyzing all topics:
+
+- **Semantic Overlap:** Topics 1 (Mariposas y Arte Pop) and Topic 4 (Puestas de Sol en la Playa) share imagery elements but are distinct in their themes. There is no strong

@@ -1,0 +1,44 @@
+ Topic ID: 4:
+Keywords:
+b, a, s, t, p, n
+Documents:
+1: "playa de arena dorada perfecta para hacer deportes en el agua como surf y vela con barco"
+2: "reserva tu lugar en la playa de arena dorada ideal para actividades al aire libre como patinaje y escalera"
+3: "caminar por las playas de arena dorada disfrutar del paisaje natural y acampar cerca"
+4: "playa de arena dorada donde puedes hacer deportes en el agua como surf y vela con barco"
+5: "reserva tu lugar en la playa de arena dorada ideal para actividades al aire libre como patinaje y escalera"
+
+Topic ID: 5:
+Keywords:
+c, a, n
+Documents:
+1: "hacer una caminata por el bosque natural del Parque Nacional Rincón Guayabitos"
+2: "explora la naturaleza en el Parque Nacional Rincón Guayabito y disfruta de sus paisajes únicos"
+3: "parque nacional rincón guayabitos hermoso parque para explorar naturaleza"
+
+Topic ID: 6:
+Keywords:
+t, a
+Documents:
+1: "amplia variedad de actividades al aire libre en los bosques y playas del área"
+2: "disfruta de la belleza natural y las vistas impresionantes desde tus caminatas por el Parque Nacional Rincón Guayabitos"
+
+Topic ID: 7:
+Keywords:
+s, p
+Documents:
+1: "playa con sombrilla perfecto para disfrutar del sol"
+2: "reserva tu lugar en la playa de arena dorada ideal para actividades al aire libre como patinaje y escalera"
+
+Topic ID: 8:
+Keywords:
+d, a, i
+Documents:
+1: "disfruta de las vistas impresionantes desde tus caminatas por el Parque Nacional Rincón Guayabitos"
+2. "explora la naturaleza en el Parque Nacional Rincón Guayabito y disfruta de sus paisajes únicos"
+
+Topic ID 9:
+Keywords: i, t
+Documents:
+1: "casa con jardín ideal para vacaciones familiares"
+2: "vivienda privada con espacio ampl

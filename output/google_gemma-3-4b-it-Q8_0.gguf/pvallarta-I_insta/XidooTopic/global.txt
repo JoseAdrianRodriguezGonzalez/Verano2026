@@ -1,0 +1,19 @@
+Topic ID: 5:
+Keywords:
+p, m, s, p, a, v, w, d
+Documents:
+1: "puerto vallarta mexico hotel ritz carlton puerto vallarta alisson club resort & spa marimba beach resort the villa del palmar golf and beach resort el tigre golf course la playa de cabo san lucas los altos"
+2: "hotel ritz carlton puerto vallarta alisson club resort & spa marimba beach resort the villa del palmar golf and beach resort el tigre golf course la playa de cabo san lucas los altos hotel ritz carlton puerto vallarta alisson club resort & spa marimba beach resort the villa del palmar golf and beach resort el tigre golf course la playa de cabo san lucas los altos"
+3: "hotel ritz carlton puerto vallarta alisson club resort & spa marimba beach resort the villa del palmar golf and beach resort el tigre golf course la playa de cabo san lucas los altos hotel ritz carlton puerto vallarta alisson club resort & spa marimba beach resort the villa del palmar golf and beach resort el tigre golf course la playa de cabo san lucas los altos"
+4: "hotel ritz carlton puerto vallarta alisson club resort & spa marimba beach resort the villa del palmar golf and beach resort el tigre golf course la playa de cabo san lucas los altos hotel ritz carlton puerto vallarta alisson club resort & spa marimba beach resort the villa del palmar golf and beach resort el tigre golf course la playa de cabo san lucas los altos"
+
+---
+Topic ID: 1:
+Decision: INCOHERENT – DISCARD
+Proposed Topic Label (max 6 words, neutral and descriptive): Beverage and Brunch Keywords
+Short Analytical Description (2–3 sentences strictly grounded in the provided text) The keywords "p", "v", "w", "p", "a", "h", "p" and "v" do not form a coherent theme.  The documents contain references to beverages, brunch, and some mentions of Mexico ("puertovallartamexico"), but lack a clear unifying concept.
+
+Topic ID: 2:
+Decision: VALID
+Proposed Topic Label (max 6 words, neutral and descriptive): Puerto Vallarta Travel Dreams
+Short Analytical Description (2–3 sentences strictly grounded in

@@ -1,0 +1,87 @@
+ Topic ID: 4:
+Keywords:
+p, l, d
+Documents:
+1: "great place to shop for clothes"
+2: "good shopping area with many stores"
+
+Topic ID: 5:
+Keywords:
+c, t, s, r
+Documents:
+1: "excellent food great restaurants"
+2: "food great quality and quantity very good value"
+3: "many different cuisines available at this restaurant"
+4: "excellent service excellent customer experience"
+
+         Topic ID: 6:
+Keywords:
+n, h, c, t, f
+Documents:
+1: "great place to relax with friends family"
+2: "nice beach for swimming and sunbathing"
+3: "good night view from the terrace"
+4. "fantastic food great value"
+
+Topic ID: 7:
+Keywords:
+r, g, l, a, h
+Documents:
+1: "awesome restaurants"
+2: "great experience with good service"
+3. "excellent customer experience"
+
+         Topic ID: 8:
+Keywords:
+p, s, c, b
+Documents:
+1: "pricey but worth it for the view and food quality"
+2. "very expensive prices"
+
+Topic ID: 9:
+Keywords:
+v, p, e, a
+Documents:
+1: "excellent value for money"
+2. "great price point"
+
+         Topic ID: 10:
+Keywords:
+s, w, n, c, l
+Documents:
+1: "super fun walk along the beach"
+2. "walking distance to shops and restaurants"
+
+Topic ID: 11:
+Keywords:
+c, s, p, m
+Documents:
+1: "excellent customer service"
+2. "fantastic experience with great staff"
+
+         Topic ID: 12:
+Keywords:
+b, a, t, h
+Documents:
+1: "beautiful area to visit and explore"
+2. "great place for sightseeing"
+
+Topic ID: 13:
+Keywords:
+s, n, e, d, s
+Documents:
+1: "excellent service"
+2. "fantastic experience with great staff"
+
+         Topic ID: 14:
+Keywords:
+f, r, a, t
+Documents:
+1: "great food and atmosphere at the restaurant"
+2. "excellent customer experience at this restaurant"
+
+Topic ID: 15:
+Keywords:
+n, h, p, s, e
+Documents:
+1: "

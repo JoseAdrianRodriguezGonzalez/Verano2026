@@ -1,0 +1,18 @@
+ The output is:
+         Topic ID: 1: VALID - "Snorkeling in the bay"
+                    Proposed Label: Snorkelling in the Bay
+                    Analytical Description: This topic describes a day trip to snorkel in the beautiful bays of Cozumel. The tourists mention several locations where they enjoyed swimming and exploring coral reefs, as well as some restaurants that offer good food options for lunch or dinner after a long day at sea.
+                    Decision: VALID - "Snorkeling in the bay"
+         Topic ID: 2: INCOHERENT – DISCARD
+                    Proposed Label: N/A (Discarded)
+                    Analytical Description: This topic is not coherent and does not have a clear theme. The keywords are diverse, with no apparent connection between them. Some documents mention the beach while others talk about cruises or restaurants. It would be difficult to classify this as a valid tourist experience.
+         Topic ID: 3: INCOHERENT – DISCARD
+                    Proposed Label: N/A (Discarded)
+                    Analytical Description: This topic is not coherent and does not have a clear theme. The keywords are diverse, with no apparent connection between them. Some documents mention the beach while others talk about cruises or restaurants. It would be difficult to classify this as a valid tourist experience.
+         Topic ID: 4: VALID - "Snorkeling in the bay"
+                    Proposed Label: Snorkelling in the Bay
+                    Analytical Description: This topic describes a day trip to snorkel in the beautiful bays of Cozumel. The tourists mention several locations where they enjoyed swimming and exploring coral reefs, as well as some restaurants that offer good food options for lunch or dinner after a long day at sea.
+                    Decision: VALID - "Snorkeling in the bay"
+         Topic ID: 5: INCOHERENT – DISCARD
+                    Proposed Label: N/A (Discarded)
+                    Analytical Description: This topic is not coherent and does not have a clear theme. The keywords are diverse, with no apparent connection between them. Some documents mention the beach while others talk

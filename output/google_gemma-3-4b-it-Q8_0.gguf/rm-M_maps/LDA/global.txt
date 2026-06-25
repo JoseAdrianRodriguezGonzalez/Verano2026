@@ -1,0 +1,33 @@
+
+        
+        Topic ID: 1
+        - Decision: VALID
+        - Proposed Topic Label (max 6 words, neutral and descriptive):
+            Monkeys and Park Activities
+        - Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+            The topic centers around a park visit focused on observing monkeys. The documents describe activities like walking trails, searching for specific animals (monkeys, iguanas), and noting helpful tips for spotting them – such as looking upwards or watching for falling fruit.  It also mentions related observations of other wildlife including birds, mariposas, and capibaras.
+
+        Topic ID: 2
+        - Decision: VALID
+        - Proposed Topic Label (max 6 words, neutral and descriptive):
+            Cancun Nightlife Experience
+        - Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+            This topic revolves around a chaotic experience at Coco Bongo in Cancun. The documents detail pushing crowds, aggressive vendors attempting to sell drinks and merchandise, and an overall uncomfortable atmosphere with poor service and overpriced beverages.  It describes attempts to secure better seating or avoid being overwhelmed by the crowd.
+
+        Topic ID: 3
+        - Decision: VALID
+        - Proposed Topic Label (max 6 words, neutral and descriptive):
+            Cenote Exploration & Water Activities
+        - Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+            The topic focuses on visiting cenotes – natural sinkholes - for swimming and snorkeling. The documents describe activities like exploring underwater caves, observing turtles and fish, and navigating crowded conditions while noting potential hazards such as slippery surfaces or strong currents.  It also mentions equipment rentals and tips for enjoying the experience safely.
+
+        Topic ID: 4
+        - Decision: INCOHERENT – DISCARD
+        - Proposed Topic Label (max 6 words, neutral and descriptive):
+            Ruins & Park Maintenance Issues
+        - Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+            This topic appears to combine observations about a historical site/ruin with complaints regarding its upkeep. The documents describe issues such as blocked entrances, damaged infrastructure like bridges, and concerns about maintenance neglect – alongside general visitor experiences at the park.  The combination of these elements lacks semantic coherence.
+
+        Topic ID: 5
+        - Decision: VALID
+        - Proposed Topic Label

@@ -1,0 +1,19 @@
+ Now, I need to analyze each topic based on the given rules.
+
+        Let's start with Topic ID 1.
+        Keywords: l, s, p, i, e, p, b, v
+        Documents:
+        Document 1: "la mejor experiencia navegando alrededor de una isla bastante grande observar ballenas tortugas bucear entorno de arrecife rodeado parar remoto espectacular playa virgen disfrutar de un almuerzo único, bueno y ligero consultar tours playa de navegación minutos en coche paz"
+        Document 2: "uno lugares hermosos isla espíritu santo playas increíbles increíbles áreas de acceso remoto aunque el acceso en barco requiere totalmente vale la pena una experiencia natural impresionante"
+        Document 3: "naturaleza increíble visita isla espíritu santo naturaleza increíble formaciones rocosas vida playas algo hay que ver paseo en bote de dos horas vale la pena perderse"
+
+        Looking at the keywords, they are l (lugar), s (sitio?), p (playa), i (isla), e (experiencia), p again, b (ballena tortuga), v (viaje). So it's about islands, beaches, whale watching, snorkeling, boat tours. The documents talk about isla espíritu santo, playa virgen, navigating around a large island, seeing whales and snorkeling in coral reefs.
+
+        Now for Topic ID 2:
+        Keywords: r (restaurantes), p (playa), c (camino), l (lugar), etc. The documents mention malecón, hotel, caminata, restaurantes, taking photos, bicicleta. So it's about the Malecón area, walking, biking, restaurants.
+
+        Topic ID 3:
+        Keywords: b (ballena tortuga?), p (playa), a (agua), etc. The documents are all about Playa Balandra - snorkeling, clear waters, rocas, palapas. So it's focused on this specific beach and its activities.
+
+        Topic ID4:
+        Keywords: p (playa), v (viaje), a (agua?), h (hotel?), d (día), g (guía). The documents talk about tours, good service, hidden

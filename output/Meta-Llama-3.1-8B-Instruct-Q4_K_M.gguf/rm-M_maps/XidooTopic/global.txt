@@ -1,0 +1,56 @@
+ Here is the analysis for each topic:
+
+Topic ID: 1:
+Decision: VALID
+Proposed Topic Label: "Environmental Concerns"
+Short Analytical Description: The documents express concerns about environmental issues, mentioning pollution and neglect in a specific location.
+
+Topic ID: 2:
+Decision: VALID
+Proposed Topic Label: "Tour Guides Expertise"
+Short Analytical Description: The documents praise the expertise of tour guides, highlighting their knowledge and adaptability in leading groups through various activities.
+
+Topic ID: 3:
+Decision: INCOHERENT – DISCARD
+Reason for decision: Keywords do not match document content; some documents discuss a specific location (playa), while others mention snorkeling or surfing. The topic appears to be about different aspects of tourism, but the keywords and documents lack coherence.
+
+
+Topic ID: 4:
+Decision: VALID
+Proposed Topic Label: "Restaurant Experience"
+Short Analytical Description: The documents describe positive experiences at restaurants in Cozumel, highlighting good food, service, and atmosphere.
+
+Topic ID: 5:
+Decision: INCOHERENT – DISCARD
+Reason for decision: Keywords do not match document content; some documents discuss a specific location (lugar fantastico), while others mention historical sites or landmarks. The topic appears to be about different aspects of tourism, but the keywords and documents lack coherence.
+
+After analyzing all topics:
+
+There are no VALID topics with strong semantic overlap that would warrant merging.
+
+
+         Since there is only one valid topic for each ID 1 & 2 which do not have overlapping semantics as per your rules. Thus no further action on them.
+
+
+
+**FINAL OUTPUT**
+
+No merged Topic IDs to report, but a note of caution and the importance of maintaining coherence in keyword extraction and document content analysis for future improvements.
+
+As there is only one valid topic each with ID 1 &2 which do not have overlapping semantics as per your rules. Thus no further action on them.
+
+
+
+**FINAL OUTPUT**
+
+No merged Topic IDs to report, but a note of caution and the importance of maintaining coherence in keyword extraction and document content analysis for future improvements.
+
+As there is only one valid topic each with ID 1 &2 which do not have overlapping semantics as per your rules. Thus no further action on them.
+
+
+
+**FINAL OUTPUT**
+
+No merged Topic IDs to report, but a note of caution and the importance of maintaining coherence in keyword extraction and document content analysis for future improvements.
+
+As there is only one valid topic each with ID

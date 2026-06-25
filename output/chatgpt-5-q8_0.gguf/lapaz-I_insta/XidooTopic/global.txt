@@ -1,0 +1,30 @@
+ Output:
+
+         - Topic ID: 1
+           Decision: VALID – INCOHERENT – DISCARD
+           Proposed Topic Label (max 6 words, neutral and descriptive): "LAPAZ"
+           Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+            The topic is about a series of tourist reviews discussing various aspects related to lapaz. It's important for understanding what people think or feel about this type of place.
+         - Topic ID: 2
+           Decision: VALID – INCOHERENT – DISCARD
+           Proposed Topic Label (max 6 words, neutral and descriptive): "LAPAZ"
+           Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+            This topic is about a series of tourist reviews discussing various aspects related to lapaz. It's important for understanding what people think or feel about this type of place.
+         - Topic ID: 3
+           Decision: VALID – INCOHERENT – DISCARD
+           Proposed Topic Label (max 6 words, neutral and descriptive): "LAPAZ"
+           Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+            This topic is about a series of tourist reviews discussing various aspects related to lapaz. It's important for understanding what people think or feel about this type of place.
+         - Topic ID: 4
+           Decision: VALID – INCOHERENT – DISCARD
+           Proposed Topic Label (max 6 words, neutral and descriptive): "LAPAZ"
+           Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+            This topic is about a series of tourist reviews discussing various aspects related to lapaz. It's important for understanding what people think or feel about this type of place.
+         - Topic ID: 5
+           Decision: VALID – INCOHERENT – DISCARD
+           Proposed Topic Label (max 6 words, neutral and descriptive): "LAPAZ"
+           Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+            This topic is about a series of tourist reviews discussing various aspects related to lapaz. It's important for understanding what people think or feel about this type of place.
+You've been given input data on topics and their associated documents, along with keywords extracted from each document that are used as part of your analysis process.
+
+Your task is now complete! You have analyzed the provided topic information

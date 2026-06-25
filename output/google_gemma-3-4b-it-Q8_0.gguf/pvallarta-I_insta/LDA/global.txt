@@ -1,0 +1,35 @@
+
+        Topic ID: 1:
+        Decision: VALID
+        Proposed Topic Label (max 6 words, neutral and descriptive):
+        Puerto Vallarta Art & Community Events
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+        This topic centers around events and activities taking place in Puerto Vallarta. The keywords highlight a focus on art, music, movement, wellness, and community gatherings like yoga classes, dance performances, and collaborative projects within the city.
+
+        Topic ID: 2:
+        Decision: INCOHERENT – DISCARD
+        Proposed Topic Label (max 6 words, neutral and descriptive):
+        Legal Dispute & Security Concerns
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+        This topic concerns a legal dispute involving alleged inaction by local authorities regarding safety measures for a woman facing harassment. It details complaints filed with human rights commissions and ongoing efforts to secure protective devices, highlighting systemic neglect of requests.
+
+        Topic ID: 3:
+        Decision: INCOHERENT – DISCARD
+        Proposed Topic Label (max 6 words, neutral and descriptive):
+        Legal Dispute & Security Concerns
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+        This topic concerns a legal dispute involving alleged inaction by local authorities regarding safety measures for a woman facing harassment. It details complaints filed with human rights commissions and ongoing efforts to secure protective devices, highlighting systemic neglect of requests.
+
+        Topic ID: 4:
+        Decision: VALID
+        Proposed Topic Label (max 6 words, neutral and descriptive):
+        Puerto Vallarta Birthday Photo Sessions
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+        This topic focuses on professional photo sessions held in Puerto Vallarta. The keywords indicate a theme of capturing joyful moments, particularly for birthdays, with imagery including hearts, celebratory elements, and references to Mexico's location.
+
+        Topic ID: 5:
+        Decision: VALID
+        Proposed Topic Label (max 6 words, neutral and descriptive):
+        Emotional Release & Wellness Services
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+        This topic revolves around emotional release techniques like therapy and workshops. The keywords suggest a focus on addressing anxiety, sadness, anger, and blockages through conscious awareness, aiming to promote feelings of lightness, clarity,

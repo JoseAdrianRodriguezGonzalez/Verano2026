@@ -1,0 +1,19 @@
+ The output is:
+         Topic ID: 1:
+        Decision: VALID
+        Proposed Topic Label (max 6 words, neutral and descriptive): beach vacation
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+        This topic describes a trip to Puerto Vallarta for a beach vacation. The keywords "beach", "vacation", and "lifesabeach" are mentioned, along with other related words such as "sun", "water", "wave", and "paradise". The documents also mention activities like "zipline", "atv", and "paddleboarding", which further support the beach vacation theme.
+        Topic ID: 2:
+        Decision: INCOHERENT – DISCARD
+        Proposed Topic Label (max 6 words, neutral and descriptive): n/a
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+        This topic is not coherent as it contains a mix of keywords related to travel ("favorita", "penultima verdad"), beauty ("curvywomen", "vacaciones vallarta salidita"), and photography ("hora azul celebración muertos muelle puerto vallarta fotografía artística colores crudos calles crudas"). The documents also mention travel destinations like Puerto Vallarta, Mexico City, and Nayarit. However, there is no clear theme or coherent narrative that can be extracted from this topic.
+        Topic ID: 3:
+        Decision: VALID
+        Proposed Topic Label (max 6 words, neutral and descriptive): beach vacation
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+        This topic describes a trip to Puerto Vallarta for a beach vacation. The keywords "beach", "vacation", and "lifesabeach" are mentioned, along with other related words such as "sun", "water", and "paradise". The documents also mention activities like "zipline", "atv", and "paddleboarding", which further support the beach vacation theme.
+        Topic ID: 4:
+        Decision: VALID
+        Proposed Topic

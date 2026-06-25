@@ -1,0 +1,23 @@
+ The output should be:
+         Topic ID: 1:
+        Decision: (VALID / INCOHERENT – DISCARD)
+        Proposed Topic Label (max 6 words, neutral and descriptive):
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+        ---------------------------------------------------------------
+        Topic ID: 1:
+        Decision: VALID
+        Proposed Topic Label (max 6 words, neutral and descriptive): Los Baños de Balandra
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+        The topic is about a beach area called "Los Baños de Balandra" located in La Paz. It includes references to activities such as swimming, renting kayaks and paddle boats, and enjoying nature. Some documents mention that there are police officers who enforce rules and close certain areas of the beach. Overall, it seems like a pleasant place for recreation and relaxation with access to basic facilities (bathrooms).
+        ---------------------------------------------------------------
+        Topic ID: 2:
+        Decision: VALID
+        Proposed Topic Label (max 6 words, neutral and descriptive): Balandra Beach Activities
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+        The topic is about activities at a beach called "Balandra" located in La Paz. It includes references to renting kayaks, paddle boats, and snorkeling equipment, as well as enjoying nature and swimming. Some documents mention that there are police officers who enforce rules and close certain areas of the beach. Overall, it seems like a popular destination for outdoor recreation with access to basic facilities (bathrooms).
+        ---------------------------------------------------------------
+        Topic ID: 3:
+        Decision: VALID
+        Proposed Topic Label (max 6 words, neutral and descriptive): Walking in La Paz
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+        The topic is about walking around "La Paz" city. It includes references to enjoying unique sculptures, people watching, grabbing snacks or meals, and relaxing on benches while taking in views of the bay and

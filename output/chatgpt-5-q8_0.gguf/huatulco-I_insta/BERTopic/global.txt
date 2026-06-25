@@ -1,0 +1,31 @@
+ Output:
+
+         - Topic ID: 1:
+           Decision: INCOHERENT – DISCARD
+           Proposed Topic Label (max 6 words, neutral and descriptive): "Incoherent"
+           Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+             The keywords are too diverse to be considered coherent.
+
+         - Topic ID: 2:
+           Decision: INCOHERENT – DISCARD
+           Proposed Topic Label (max 6 words, neutral and descriptive): "Incoherent"
+           Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+             The keywords are too diverse to be considered coherent.
+
+         - Topic ID: 3:
+           Decision: INCOHERENT – DISCARD
+           Proposed Topic Label (max 6 words, neutral and descriptive): "Incoherent"
+           Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+             The keywords are too diverse to be considered coherent.
+
+         - Topic ID: 4:
+           Decision: INCOHERENT – DISCARD
+           Proposed Topic Label (max 6 words, neutral and descriptive): "Incoherent"
+           Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+             The keywords are too diverse to be considered coherent.
+
+         - Topic ID: 5:
+           Decision: INCOHERENT – DISCARD
+           Proposed Topic Label (max 6 words, neutral and descriptive): "Incoherent"
+           Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+             The keywords are too diverse to be considered coherent.

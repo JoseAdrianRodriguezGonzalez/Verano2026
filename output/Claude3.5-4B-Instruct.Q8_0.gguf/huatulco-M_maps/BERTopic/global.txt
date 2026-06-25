@@ -1,0 +1,40 @@
+ Topic ID: 6:
+Keywords:
+h, c, e
+Documents:
+1: "El hotel es muy bonito y elegante. Tiene un jardín con muchas flores de colores vivos. La habitación está bien decorada, pero no tiene vista al mar."
+2: "Es una estructura moderna en la que se ha integrado el diseño tradicional local, muy bien hecho. El hotel es amplio y elegante, cuenta con un jardín hermoso donde puedes relajarte o caminar por él. La habitación está decorada de forma sofisticada."
+3: "El jardín del hotel tiene muchas flores coloridas vivas que te hacen sentir bien en el ambiente general. El área al aire libre es muy bonita, ideal para tomar una bebida y disfrutar del paisaje. Las vistas son hermosas desde la habitación."
+
+Topic ID: 7:
+Keywords:
+c, e
+Documents:
+1: "Encontramos un restaurante con comida de excelente calidad. La atención fue amable."
+2: "Muy buena experiencia en este lugar. El servicio es rápido y eficiente."
+3: "El menú está bien diseñado. Los platos son deliciosos."
+4: "La comida era muy rica, el sabor estaba a la perfección."
+
+Topic ID: 8:
+Keywords:
+h
+Documents:
+1: "Este hotel tiene una excelente vista al mar desde su terraza principal"
+2: "El jardín del hotel es hermoso y ofrece vistas panorámicas de todo el paisaje."
+3: "La habitación está bien decorada con un sofá moderno. Tiene buena luz natural."
+
+Topic ID: 9:
+Keywords:
+c, h
+Documents:
+1: "Este hotel tiene una excelente vista al mar desde su terraza principal"
+2: "El jardín del hotel es hermoso y ofrece vistas panorámicas de todo el paisaje."
+3: "La habitación está bien decorada con un sofá moderno. Tiene buena luz natural."
+
+Topic ID: 10:
+Keywords:
+c, h
+Documents:
+1: "Este hotel tiene una excelente vista al mar desde su terraza principal"
+2: "El jardín del hotel es hermoso y ofrece vistas panorámicas de todo el paisaje."
+3: "La habitación

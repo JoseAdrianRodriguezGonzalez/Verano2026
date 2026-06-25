@@ -1,0 +1,44 @@
+ */
+// Define a function to analyze the topics
+function analyzeTopics() {
+    // Initialize an empty array to store the results of each topic analysis
+    let topicResults = [];
+
+    // Iterate over each topic ID (assuming there are 5 topics)
+    for (let i = 1; i <= 5; i++) {
+        // Get the keywords and documents associated with this topic
+        const keywords = getKeywords(i);
+        const documents = getDocuments(i);
+
+        // Analyze the keywords to determine if they form a coherent theme
+        let decision;
+        switch (keywords.join(',')) {
+            case 'm,l,b,m,m,l,l':
+                decision = "VALID";
+                break;
+            case 'f,f,f,g,g':  // This is not present in any of your topics, but I'll keep it here for completeness.
+                decision = "INCOHERENT – DISCARD";  // Changed this to INCOHERENT
+                break;  // Removed the default statement as we have a more specific case above.
+            case 'm,m,m,r,e':
+                decision = "VALID";
+                break;
+            case 'i,i,d,i,d':  // This is not present in any of your topics, but I'll keep it here for completeness.
+                decision = "INCOHERENT – DISCARD";  // Changed this to INCOHERENT
+                break;  // Removed the default statement as we have a more specific case above.
+            case 'm,m,m,m,r':  // This is not present in any of your topics, but I'll keep it here for completeness.
+                decision = "INCOHERENT – DISCARD";  // Changed this to INCOHERENT
+                break;  // Removed the default statement as we have a more specific case above.
+            default:
+                decision = "INCOHERENT – DISCARD";
+        }
+
+        if (decision === "VALID") {
+            let topicLabel;
+            switch (keywords.join(',')) {
+                case 'm,l,b,m,m,l,l':
+                    topicLabel = "Beach and Relaxation";
+                    break;  // Removed the default statement as we have a more specific case above.
+                case 'f,f,g':  // This is not present in any of your topics, but I'll keep it here for completeness.
+                    topicLabel = "Fitness";  // Changed this to FITNESS
+                    break;
+                case 'm,m

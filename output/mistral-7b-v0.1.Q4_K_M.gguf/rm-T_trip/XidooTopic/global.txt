@@ -1,0 +1,21 @@
+ # Solution
+         Topic ID: 1
+            Decision: VALID
+            Proposed Topic Label: "Beach"
+            Short Analytical Description:
+                The documents refer to a beach, with people enjoying the sun and water.
+            Keywords: i g p l f s e
+            Documents:
+                1: "guía turístico hermosos cenotes tulum gran experiencia familia asombrado natural gran viaje familiar seguro"
+                2: "primera vez que me hospedo reserva reserva útil hace que el día ocupado sea mucho más fácil ayudar al personal del restaurante muy agradable comida amigable buena piscina un poco vieja ok relajante los niños disfrutan el tiempo volvería"
+                3: "El mejor apodo del equipo de energía hace que la experiencia sea inolvidable, especialmente"
+                4: "quiero agradecer a los chicos hicieron vacaciones niños increíbles parque acuático niños nick bistro restaurante llegó saludó linda amable anfitriona se acercó a todo gracias hacer que las vacaciones fueran hermosas"
+                5: "El sitio nunca pensó principalmente en el lugar. Las personas, incluidas las que llegaron años después, las personas que se fueron, deben ver."
+            Topic ID: 2
+               Decision: VALID
+               Proposed Topic Label: "Tourism"
+               Short Analytical Description:
+                   The documents refer to a touristic experience.
+               Keywords: m p c r t t r h
+               Documents:
+                   1: "interesante ver realmente no sentí que valiera la pena precio día completo almuerzo incluido nosotros tomamos transporte buffet vale la pena mejorar precio río subterráneo vale la pena hacer snorkel limpio nadar ya que mayormente bajo tierra oscuro ver pescado final hacer snorkel mucho mejor xel tiempo visto bueno zoológicos faltaría mucho ahorrar dinero ver x

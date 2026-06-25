@@ -1,0 +1,55 @@
+ Topic ID: 4:
+Keywords:
+p, e, s
+Documents:
+1: "Es un lugar muy bonito, se puede nadar tranquilamente, si llevas tu equipo de esnorquel hay un rincón donde hay muchos peces y algo de coral"
+2: "Un paraíso increíblemente bello , si hay varios restaurantes para comer "
+3: "Excelente lugar, buena vista hacia el mar sin recibir demasiado sol. Muy limpio"
+
+Topic ID 5:
+Keywords:
+l, s
+Documents:
+1: "Es un lugar familiar (para disfrutar con los tuyos sanamente) los lugareños, comerciantes locatarios, playas, sin duda hacen de este lugar único"
+2: "Hermosa vista para ver el amanecer"
+
+Topic ID 6:
+Keywords:
+s
+Documents:
+1: "El parque fué dañado por el huracán quedó muy afectado y se puede apreciar solo una parte del parque los puntos principales no se puedes apreciar por razón ya comentada"
+        Topic ID 7:
+Keywords:
+l, s, p
+Documents:
+1: "Es un lugar familiar (para disfrutar con los tuyos sanamente) los lugareños, comerciantes locatarios, playas"
+
+Topic ID 8:
+Keywords:
+p
+Document:
+1:"Hermosa vista para ver el amanecer"
+        Topic ID 9:
+Keywords:
+h, s
+Documents:
+1: "Es un lugar muy bonito, se puede nadar tranquilamente, si llevas tu equipo de esnorquel hay un rincón donde hay muchos peces y algo de coral"
+
+Topic ID 10:
+Keywords:
+e, l, p, a
+Documents:
+1:"Hermosa vista para ver el amanecer"
+        Topic ID 11:
+Keywords: s
+Document:
+"Es un lugar muy bonito, se puede nadar tranquilamente, si llevas tu equipo de esnorquel hay un rincón donde hay muchos peces y algo de coral"
+
+Topic ID 12:
+Keywords: l, p
+Documents:
+"Hermosa vista para ver el amanecer"
+        Topic ID 13:
+Keywords: s
+Document:
+"Es un lugar muy bonito, se puede nadar tranquilamente, si llevas tu equipo de

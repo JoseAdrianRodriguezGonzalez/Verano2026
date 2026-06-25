@@ -1,0 +1,14 @@
+-----------------------------------------------------
+        Output:
+        1. Topic ID 2 (VALID) - "Furniture and Decoration"
+            Proposed Label: Furniture and Decoration
+             Short Analytical Description: The documents mention furniture, decoration, interior design, home decoration, and related topics such as remodeling and shopping for furniture. They also refer to specific brands or stores that sell furniture and decorations (e.g., IKEA, Home Depot). Overall, the topic appears to be about purchasing and arranging furniture and other decorative items in a living space.
+            2. Topic ID 3 (VALID) - "Romantic Getaways"
+            Proposed Label: Romantic Getaways
+             Short Analytical Description: The documents mention romantic destinations, hotels or resorts with romantic settings, couples' activities and experiences such as spa treatments and candlelit dinners. They also refer to specific locations (e.g., Bali, Tahiti) that are known for their romance-themed vacations. Overall, the topic appears to be about planning a romantic getaway or honeymoon with your significant other.
+            3. Topic ID 4 (VALID) - "Bikini and Beach"
+            Proposed Label: Bikinis and Beaches
+             Short Analytical Description: The documents mention bikinis, beachwear, summer activities such as sunbathing or swimming, and related topics like tanning lotions and accessories. They also refer to specific brands of swimsuits (e.g., Victoria's Secret) that are popular for their beach-ready styles. Overall, the topic appears to be about fashionable attire suitable for spending time at the beach or poolside during warm weather seasons.
+            4. Topic ID 5 (VALID) - "Romantic Getaways"
+            Proposed Label: Romantic Getaways
+             Short Analytical Description: The documents mention romantic destinations, hotels or resorts with romantic settings, couples' activities and experiences such as spa treatments and candlelit dinners. They also refer to specific locations (e.g., Bali, Tahiti) that are known for their romance-themed vacations. Overall, the topic appears to be about planning a romantic getaway or honeymoon with your significant

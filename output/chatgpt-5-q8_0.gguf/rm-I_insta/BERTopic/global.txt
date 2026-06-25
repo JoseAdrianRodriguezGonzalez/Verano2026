@@ -1,0 +1,41 @@
+ Output must be in JSON format:
+
+        ```json
+{
+  "topic_id": "",
+  "decision": "DISCARD",
+  "proposed_topic_label": "",
+  "analytical_description": ""
+}
+``` To analyze the topic modeling output and determine if any topics are semantically overlapping, I will follow these steps:
+1. Extract keywords from each document.
+2. Identify common themes or patterns across documents using natural language processing techniques.
+3. Compare this information with our predefined rules to decide on a valid topic ID.
+
+Let's start by extracting the relevant data:
+
+```json
+{
+  "topic_id": "",
+  "decision": "DISCARD",
+  "proposed_topic_label": "",
+  "analytical_description": ""
+}
+```
+
+Since there are no documents provided, I'll create some sample text to illustrate how we might analyze such a dataset. Please provide the actual data for further analysis.
+
+---
+
+### Sample Data
+```json
+
+{
+  "topic_id": "",
+  "decision": "DISCARD",
+  "proposed_topic_label": "",
+  "analytical_description": ""
+}
+```
+
+This JSON structure is meant to be used as an example, but it's important to note that the actual output will depend on the specific data provided. If you have a dataset with keywords and documents, please provide them so I can analyze it further!

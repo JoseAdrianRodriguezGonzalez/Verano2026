@@ -1,0 +1,9 @@
+-------------------------
+        2017-08-30 15:46:49.756  INFO 1 --- [main] com.mycompany.app.App                       : Starting Application on DESKTOP-MUQJPVG with PID 1 (C:\Users\davidg\Desktop\Spring_Boot_Projects\springbootproject\target\classes started by davidguzman in C:\Users\davidg\Desktop\Spring_Boot_Projects\springbootproject)
+2017-08-30 15:46:49.760  INFO 1 --- [main] com.mycompany.app.App                       : No active profile set, falling back to default profiles: default
+2017-08-30 15:46:49.881  INFO 1 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer     : Tomcat initialized with port(s): 8080 (http)
+2017-08-30 15:46:49.904  INFO 1 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2017-08-30 15:46:49.905  INFO 1 --- [main] org.apache.catalina.core.ContainerBase    : A child container for path ['/'] has been started
+2017-08-30 15:46:49.906  INFO 1 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2017-08-30 15:46:49.906  INFO 1 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 21 ms
+2017-08-30 15:46:50.612  WARN 1 --- [

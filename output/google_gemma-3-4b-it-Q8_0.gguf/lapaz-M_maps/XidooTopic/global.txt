@@ -1,0 +1,31 @@
+Topic ID: 1
+Decision: VALID
+Proposed Topic Label: Leisure Activities and Sightseeing
+Short Analytical Description: The topic revolves around activities like walking, running, sightseeing, relaxing, and enjoying the scenery. Keywords include "lugar," "pasear," “correr,” “relajarse” and “ver.” Documents describe experiences such as exploring a malecón (boardwalk), visiting sculptures, or simply observing people.
+
+Topic ID: 2
+Decision: VALID
+Proposed Topic Label: Beach Tourism in Balandra
+Short Analytical Description: This topic focuses on tourism related to the beach of Balandra. Keywords include “renta,” "senderismo," and terms relating to water activities like kayaking and paddleboarding, along with descriptions of facilities such as restrooms and parking. Documents detail visiting Balandra for swimming, snorkeling, or enjoying amenities.
+
+Topic ID: 3
+Decision: VALID
+Proposed Topic Label: Scenic Coastal Walks
+Short Analytical Description: The topic centers on pleasant walks by the coast, highlighting scenic views and recreational activities like running in the morning. Keywords include "lugar," “correr,” and descriptions of observing the sea or enjoying a relaxed atmosphere are present in the documents.
+
+Topic ID: 4
+Decision: VALID
+Proposed Topic Label: Waterfront Activities and Observation
+Short Analytical Description: This topic concerns activities around waterfront areas, including walking, biking, skateboarding, people-watching, and dining with bay views. Keywords include "pasear," “biker,” “mirando”, and descriptions of yachts or restaurants are present in the documents.
+
+Topic ID: 5
+Decision: VALID
+Proposed Topic Label: La Paz Evening Atmosphere
+Short Analytical Description: This topic describes the evening atmosphere in La Paz, focusing on nightlife, local culture, and sunset views. Keywords include "vida nocturna," “ambiente,” “atardeceres” and descriptions of people enjoying the city are present in the documents.
+
+Overlapping Topics:
+Topics 2 and 4 overlap semantically due to their focus on beach tourism and waterfront activities.
+
+Merged Topic Label (Proposed): Beach Tourism and Waterfront Activities
+Topic IDs to Merge: 2, 4
+        Output finished.

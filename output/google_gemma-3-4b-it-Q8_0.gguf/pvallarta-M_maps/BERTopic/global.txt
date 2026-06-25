@@ -1,0 +1,29 @@
+Topic ID: 1
+Decision: VALID
+Proposed Topic Label (max 6 words, neutral and descriptive): Beach Experiences & Services
+Short Analytical Description: This topic revolves around positive experiences at beaches like Playa Los Muertos and Camarones. Keywords related to enjoyment ("disfrutable"), service quality (“servicio,” “organización”), and timing (“temprano”) consistently appear in the documents, suggesting a focus on pleasant beach visits with good facilities.
+
+        Topic ID: 2
+Decision: VALID
+Proposed Topic Label (max 6 words, neutral and descriptive): Coastal Views & Atmosphere
+Short Analytical Description: The topic centers around appreciating coastal scenery ("vista de la bahía") and enjoyable atmospheres at locations like Mirador de la Cruz, Playa Colomitos, and Mismaloya.  The documents highlight the importance of views combined with a relaxed environment or favorable weather conditions.
+
+        Topic ID: 3
+Decision: INCOHERENT – DISCARD
+Proposed Topic Label (max 6 words, neutral and descriptive): Tour Experiences - Mixed Results
+Short Analytical Description: This topic concerns various tour experiences including Yelapa and Las Cascadas. However, the documents present a conflicting picture with both positive ("buena experiencia") and negative (“regular,” “decepción total”) feedback regarding organization, service, and details of the tours.
+
+        Topic ID: 4
+Decision: VALID
+Proposed Topic Label (max 6 words, neutral and descriptive): Marina Vallarta - General Impressions
+Short Analytical Description: This topic focuses on experiences at Marina Vallarta, with a recurring emphasis on its visual appeal ("vista"), overall experience (“experiencia general”), and potential for repeat visits. The documents present both positive and negative sentiments regarding the location's suitability based on time of day or season.
+
+        Topic ID: 5
+Decision: VALID
+Proposed Topic Label (max 6 words, neutral and descriptive): Plaza de Armas - Central Location
+Short Analytical Description: This topic is centered around experiences at Plaza de Armas, consistently described as a central location with positive aspects related to organization ("organización") and atmosphere (“ambiente”).  The documents indicate it's often considered a worthwhile place for visitors.
+
+Overlap Analysis:
+
+Topics 1 and 2 are semantically overlapping due to their shared focus on coastal locations (beaches vs. viewpoints) and visitor experiences.
+Topic 5 is related with topic 4 because both talk about Plaza

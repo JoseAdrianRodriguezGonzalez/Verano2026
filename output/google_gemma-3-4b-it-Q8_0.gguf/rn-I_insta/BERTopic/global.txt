@@ -1,0 +1,28 @@
+
+        Topic ID: 1:
+        - Decision: VALID
+        - Proposed Topic Label (max 6 words, neutral and descriptive): Travel Memories & Coastal Mexico
+        - Short Analytical Description: This topic centers around personal travel experiences in coastal regions of Mexico, specifically San Pancho. Keywords like “playa,” “surfear,” "ballenas," and descriptions of a relaxed atmosphere suggest recollections of beach vacations, whale watching trips, and enjoying the scenery.
+
+        Topic ID: 2:
+        - Decision: VALID
+        - Proposed Topic Label (max 6 words, neutral and descriptive): Tattoo Convention & Art Events
+        - Short Analytical Description: The topic focuses on tattoo conventions in San Blas, Nayarit. Keywords such as "tattoo," “rafael,” “fire,” and references to artists and events indicate a discussion about the local tattoo scene and related art exhibitions.
+
+        Topic ID: 3:
+        - Decision: VALID
+        - Proposed Topic Label (max 6 words, neutral descriptive): Puerto Vallarta & Riviera Nayarit Tourism
+        - Short Analytical Description: This topic relates to tourism in Puerto Vallarta and the surrounding areas of the Riviera Nayarit. The keywords include locations like “Puerto Vallarta,” "Sayulita," “guayabitos”, hotel mentions, and descriptions of beaches, resorts, and vacation activities.
+
+        Topic ID: 4:
+        - Decision: VALID
+        - Proposed Topic Label (max 6 words, neutral descriptive): Luxury Villa & Vacation Packages
+        - Short Analytical Description: This topic describes luxury villas in Bucerias, Nayarit, offering amenities like pools, jacuzzis and BBQ zones. It also mentions vacation packages including transportation, activities, and all-inclusive options with promotional offers.
+
+        Topic ID: 5:
+        - Decision: INCOHERENT – DISCARD
+        - Proposed Topic Label (max 6 words, neutral descriptive): Palm Trees & Tropical Vacations
+        - Short Analytical Description: The keywords "palm tree," “sun,” and descriptions of beaches and water activities are present. However, the inclusion of terms like “samba,” “fire”, and references to tattoos creates a highly inconsistent theme that cannot be clearly defined from the provided text.
+
+        Overlap Analysis:
+        Topic 3 (Puerto Vallarta & Riviera Nayarit Tourism) is semantically overlapping with Topic 5 (Palm Trees & Tropical Vacations

@@ -1,0 +1,36 @@
+Topic ID: 6
+Keywords:
+t, t, r, e, p, s, a
+Documents:
+1: "el tiempo es terrible el agua está fría y la playa no tiene arena"
+2: “los turistas están haciendo un gran desastre en las playas”
+3: “la gente está tirando basura en los terrenos de estacionamiento y en la playa”
+4: “hay demasiadas personas en la playa”
+5: "el tiempo es terrible el agua está fría"
+
+---
+
+Topic ID: 1
+Decision: VALID
+Proposed Topic Label (max 6 words): Beach Snorkeling and Coastal Views
+Short Analytical Description: The topic revolves around experiences at beaches, specifically focusing on snorkeling activities. Keywords like “snorkel,” “beach,” “bay,” "playa," and “vista” indicate a focus on underwater exploration in coastal areas with pleasant views.
+
+Topic ID: 2
+Decision: VALID
+Proposed Topic Label (max 6 words): Beach Relaxation and Coastal Walks
+Short Analytical Description: This topic centers around the enjoyment of beaches, highlighting relaxation and leisurely activities such as walking along the shoreline. Terms like “playa,” "beach," “caminar”, “agua clara” suggest a preference for calm waters and peaceful beach experiences.
+
+Topic ID: 3
+Decision: VALID
+Proposed Topic Label (max 6 words): Bahia Exploration and Water Activities
+Short Analytical Description: The topic is about exploring the bay, with activities like boat tours, snorkeling, fishing, and swimming being central to the experience. Keywords such as “bahía,” "bay,"  "recorrido”, and “paseos” demonstrate a focus on aquatic adventures within the bay area.
+
+Topic ID: 4
+Decision: VALID
+Proposed Topic Label (max 6 words): Snorkeling Reefs and Coastal Exploration
+Short Analytical Description: This topic focuses on snorkeling experiences, particularly around coral reefs in coastal areas. Keywords like "snorkel," “coral,” “playa”,  "recorrido", and "bahía” point to underwater exploration of vibrant reef ecosystems along the coastline.
+
+Topic ID: 5
+Decision: VALID
+Proposed Topic Label (max 6 words): Cruise Port Activities and Coastal Dining
+Short Analytical Description: This topic concerns activities around a cruise port, including boat tours, restaurants, shops, and general coastal tourism. Keywords such as “cruceros”, "puerto",  

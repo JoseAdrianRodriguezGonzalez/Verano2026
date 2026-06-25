@@ -1,0 +1,32 @@
+ Output must be in JSON format:
+
+        {
+            "topic_id": 1,
+            "decision": "VALID",
+            "proposed_topic_label": "Playa de arena negra y rocas en la bahía",
+            "analytical_description": "The topic ID is 'playa de arena negra y rocas en la bahía', which describes a beach with sandy and rocky areas, suitable for snorkeling. The documents provide information about the location of various beaches in different states."
+        },
+        {
+            "topic_id": 2,
+            "decision": "VALID",
+            "proposed_topic_label": "Playa de arena negra y rocas en la bahía",
+            "analytical_description": "The topic ID is 'playa de arena negra y rocas en la bahía', which describes a beach with sandy and rocky areas, suitable for snorkeling. The documents provide information about the location of various beaches in different states."
+        },
+        {
+            "topic_id": 3,
+            "decision": "VALID",
+            "proposed_topic_label": "Playa de arena negra y rocas en la bahía",
+            "analytical_description": "The topic ID is 'playa de arena negra y rocas en la bahía', which describes a beach with sandy and rocky areas, suitable for snorkeling. The documents provide information about the location of various beaches in different states."
+        },
+        {
+            "topic_id": 4,
+            "decision": "VALID",
+            "proposed_topic_label": "Playa de arena negra y rocas en la bahía",
+            "analytical_description": "The topic ID is 'playa de arena negra y rocas en la bahía', which describes a beach with sandy and rocky areas, suitable for snorkeling. The documents provide information about the location of various beaches in different states."
+        },
+        {
+            "topic_id": 5,
+            "decision": "VALID",
+            "proposed_topic_label": "Playa de arena negra y rocas en la bahía",
+            "analytical_description": "The topic ID is 'playa de arena negra y rocas en la bahía', which describes a beach with sandy and rocky areas, suitable for snorkeling. The documents provide information about the location of various beaches in different states."
+        } How would you approach analyzing these topics using your provided guidelines? To

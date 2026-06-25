@@ -1,0 +1,28 @@
+
+- Topic ID: 1
+- Decision: INCOHERENT – DISCARD
+- Proposed Topic Label (max 6 words, neutral and descriptive): Playa Balandra Logistics & Access
+- Short Analytical Description (2–3 sentences strictly grounded in the provided text) The document focuses exclusively on the logistical challenges of visiting Playa Balandra, detailing transportation options, reservation requirements, and visitor restrictions.  The keywords "l," "p," "h," etc., do not align with a coherent theme related to any specific topic beyond this single location's access issues.
+
+- Topic ID: 2
+- Decision: VALID
+- Proposed Topic Label (max 6 words, neutral and descriptive): La Paz Municipal Facilities & Services
+- Short Analytical Description (2–3 sentences strictly grounded in the provided text) The document describes various amenities found within La Paz’s municipal facilities, including parking, restrooms, restaurants, and recreational activities.  It highlights aspects of accessibility and service quality related to these public spaces without focusing on a specific theme beyond infrastructure.
+
+- Topic ID: 3
+- Decision: VALID
+- Proposed Topic Label (max 6 words, neutral and descriptive): Catedral de la Paz Architecture & History
+- Short Analytical Description (2–3 sentences strictly grounded in the provided text) The document provides information about La Paz’s Cathedral of Peace, focusing on its architectural history and location within a historical plaza. It describes construction phases and surrounding areas without delving into any broader themes beyond this specific building's characteristics.
+
+- Topic ID: 4
+- Decision: VALID
+- Proposed Topic Label (max 6 words, neutral and descriptive): Playa Balandra Tourist Experience & Logistics
+- Short Analytical Description (2–3 sentences strictly grounded in the provided text) The document details a tourist’s experience at Playa Balandra, including transportation methods, rental options, crowd levels, and practical considerations for visiting.  It primarily focuses on logistical aspects of enjoying this specific beach location.
+
+- Topic ID: 5
+- Decision: VALID
+- Proposed Topic Label (max 6 words, neutral and descriptive): Baja California Sur Historical Museum Visit
+- Short Analytical Description (2–3 sentences strictly grounded in the provided text) The document describes a visit to a museum dedicated to the history of Baja California Sur. It highlights exhibits, staff professionalism, and overall visitor experience while focusing on this specific institution's content and presentation.
+
+Overlap Analysis:
+

@@ -1,0 +1,32 @@
+ Topic ID: 6:
+Keywords:
+c, a, p, r, e
+Documents:
+1: "amable persona recibimos bien informacion acerca viaje nos ayudaron mucho"
+2: "muy amables personas trabajan aqui atencion excelente servicio muy buena experiencia"
+3: "atención excelente atención personalizada explicación clara recorrido guía recomendado"
+4: "servicio genial buenos consejos para visitar lugar recomienda llevar repelente"
+5: "recomiendo este sitio por el gran nivel de atención"
+
+         Topic ID: 7:
+Keywords:
+b, a
+Documents:
+1: "amable persona recibimos bien informacion acerca viaje nos ayudaron mucho"
+2: "muy amables personas trabajan aqui atencion excelente servicio muy buena experiencia"
+3: "atención excelente atención personalizada explicación clara recorrido guía recomendado"
+
+         Topic ID: 8:
+Keywords:
+s, e
+Documents:
+1: "excelente lugar pasar buena tarde conocer selva baja vegetacion manglar recomienda llevar repelente sino podras disfrutar recorrido"
+2: "esplendido lugar da poquito desconfianza subir precaucion despacio adaptas rapido recomiendo ir tenis llevar manga larga bloqueador sol agua preferencia cargando muchas bolsas poder disfrutar mejor subida bajada vista punta perfecta recomienda tomarse tiempo arriba"
+3: "parques favorito siempre xcaret xenses parque recreativo cosas hace girar mente encanto pueblito baja subida viceversa arbol saca limonada sabe deliciosa infinita parecer obvio fin parque recorres rapido pequeño recorri 3 horas"
+
+         Topic ID: 9:
+Keywords:
+r, e
+Documents:
+1: "excelente servicio llegamos hora cierre se personas gerente atendio gusto incluso invito ronda tequila cuenta casa excelente menu camareros puntuales precios razonables encanto"
+2: "restaurante delicia total combinacion perfecta ambiente servicio comida precio adicion aguacate pico gallo coctel camarones convirtio momento wow culinario facilmente mejor probado mero costra coco excepcional porcion generosa suficiente dos sopa lima deliciosa bebidas bien hechas fu

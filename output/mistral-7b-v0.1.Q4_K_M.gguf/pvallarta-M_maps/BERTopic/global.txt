@@ -1,0 +1,25 @@
+1.
+        Topic ID: 1:
+        Decision: INCOHERENT – DISCARD
+        Proposed Topic Label: N/A (Discard)
+        Short Analytical Description: N/A (Discard)
+        2.
+        Topic ID: 2:
+        Decision: VALID
+        Proposed Topic Label: BEACH LOVERS
+        Short Analytical Description: This topic describes the experiences of visitors who enjoy spending time at beaches, particularly in Playa Los Muertos and Mismaloya. They appreciate the scenic views from these locations as well as the overall experience of being on the beach.
+        3.
+        Topic ID: 3:
+        Decision: VALID
+        Proposed Topic Label: ADVENTURE SEEKERS
+        Short Analytical Description: This topic describes the experiences of visitors who enjoy engaging in outdoor activities such as tours and excursions, particularly those involving ATVs or hiking. They appreciate the scenic views from these locations as well as the overall experience of being outdoors.
+        4.
+        Topic ID: 4:
+        Decision: VALID
+        Proposed Topic Label: CITY EXPLORERS
+        Short Analytical Description: This topic describes the experiences of visitors who enjoy exploring cities, particularly Marina Vallarta and Plaza de Armas. They appreciate the scenic views from these locations as well as the overall experience of being in a city environment.
+        5.
+        Topic ID: 5:
+        Decision: VALID
+        Proposed Topic Label: TOURIST ATTRACTIONS
+        Short Analytical Description: This topic describes the experiences of visitors who enjoy visiting tourist attractions, particularly those related to tourism and sightseeing. They appreciate the scenic views from these locations as well as the overall experience of being at a tourist attraction.

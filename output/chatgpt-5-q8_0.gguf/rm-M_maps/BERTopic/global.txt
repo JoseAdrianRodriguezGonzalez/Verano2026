@@ -1,0 +1,64 @@
+ Output must be in JSON format:
+
+        {
+            "topic_id": "1",
+            "decision": "VALID – DISCARD",
+            "proposed_topic_label": "",
+            "analytical_description": ""
+        }, 
+        {
+            "topic_id": "2",
+            "decision": "INCOHERENT – DISCARD",
+            "proposed_topic_label": "Museo y Arte",
+            "analytical_description": "The document discusses a museum and art collection, which is not semantically coherent with the other documents."
+        }, 
+        {
+            "topic_id": "3",
+            "decision": "INCOHERENT – DISCARD",
+            "proposed_topic_label": "",
+            "analytical_description": ""
+        }, 
+        {
+            "topic_id": "4",
+            "decision": "VALID – DISCARD",
+            "proposed_topic_label": "Museo y Arte",
+            "analytical_description": "The document discusses a museum and art collection, which is not semantically coherent with the other documents."
+        }, 
+        {
+            "topic_id": "5",
+            "decision": "INCOHERENT – DISCARD",
+            "proposed_topic_label": "",
+            "analytical_description": ""
+        }
+    ]
+The output must be in JSON format:
+
+{
+  "valid_topics": [
+    {
+      "Topic ID": "1",
+      "Decision": "VALID – DISCARD",
+      "Proposed Topic Label": "",
+      "Analytical Description": ""
+    },
+    {
+      "Topic ID": "2",
+      "Decision": "INCOHERENT – DISCARD",
+      "Proposed Topic Label": "Museo y Arte",
+      "Analytical Description": "The document discusses a museum and art collection, which is not semantically coherent with the other documents."
+    },
+    {
+      "Topic ID": "3",
+      "Decision": "INCOHERENT – DISCARD",
+      "Proposed Topic Label": "",
+      "Analytical Description": ""
+    },
+    {
+      "Topic ID": "4",
+      "Decision": "VALID – DISCARD",
+      "Proposed Topic Label": "Museo y Arte",
+      "Analytical Description": "The document discusses a museum and art collection, which is not semantically coherent with the other documents."
+    },
+    {
+      "Topic ID": "5",
+      "Decision": "INCOHERENT –

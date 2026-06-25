@@ -1,0 +1,25 @@
+ Based on the provided information, here's my analysis:
+
+         Topic ID: 1:
+         Decision: INCOHERENT – DISCARD
+         
+         The keywords do not seem to have a clear common theme. Some of them are articles (e, c, p), some are prepositions and conjunctions (a, i, s, h), and others appear unrelated to the topic like "b" or "m". None of the documents provide any semantic coherence as they discuss different topics such as environmental concerns, a tour guide's experience, visiting a jungle, and recommendations for places.
+
+         Topic ID: 2:
+         Decision: VALID
+         
+         Proposed Topic Label: Ancient Mayan Sites & Cultural Experiences
+
+         The keywords suggest themes related to ancient sites and cultural experiences (l, m, h, p). All the documents discuss visiting or learning about Mayan culture, history, architecture, and traditions. For example, document 1 talks about Diego, an Argentinian guide who has been working in the area for over a decade and offers geology, geography, and historical information during tours of ancient sites like Coba. Document 2 mentions visiting pueblos (villages) with hermosa (beautiful) arquitectura (architecture), cultura (culture), and variedades (varieties).
+
+         Short Analytical Description:
+         This topic covers experiences related to ancient Mayan sites and cultural activities. The documents discuss visiting these places, learning about their history and traditions, and interacting with local communities.
+
+         Topic ID: 3:
+         Decision: VALID
+         
+         Proposed Topic Label: Beach Vacations & Snorkeling Adventures
+
+         The keywords suggest themes related to beaches (s), tours or activities (t), and relaxation (r). All the documents discuss going to the beach, snorkeling experiences, and being cautious while visiting these areas. For example, document 1 talks about a beautiful hermosa playa (beach) worth visiting but mentions that it can be crowded with tourists and requires booking a guide for tortuga (turtle) watching tours. Document 5 discusses ideal surfing conditions at the beach.
+
+         Short Anal

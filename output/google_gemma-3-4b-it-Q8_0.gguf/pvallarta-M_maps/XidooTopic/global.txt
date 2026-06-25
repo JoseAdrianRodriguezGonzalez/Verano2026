@@ -1,0 +1,20 @@
+Topic ID: 6:
+Keywords:
+t, r, a, s, t, e, m, p
+Documents:
+1: "Tarde tranquila en Teatro Ángela Peralta. El ambiente era muy agradable y el tema de la acústica estuvo excelente. Fuimos con mis papás entre semana. En temporada alta imagino que cambia bastante. Es un lugar para disfrutar del arte. Se nota cuando un lugar está bien llevado."
+2: “Me encantó pasar una tarde en Teatro Ángela Peralta. El ambiente era muy agradable y el tema de la organización estuvo excelente. Fuimos con mis papás entre semana. En temporada alta imagino que cambia bastante. Es un lugar para disfrutar del arte.”
+3: "El teatro es un gran atractivo turístico, pero no lo recomiendo. La experiencia fue más cansada que entretenida. Encima, el tema de los precios bajó bastante la experiencia. Fuimos con niños entre semana. Hay buenos puntos para tomar fotos. Yo me lo saltaría la próxima vez. Se nota cuando un lugar está bien llevado."
+4: "Pasar por Teatro Ángela Peralta tuvo cosas buenas y otras mejorables. Está bien para dar una vuelta, aunque no todo destaca. Lo mejor fue el ambiente, pero el tema de los precios terminó siendo un problema. Fuimos en familia entre semana. En temporada alta imagino que cambia bastante. Puede gustarte más si eliges bien la hora. La experiencia depende bastante del momento del día."
+5: "Excelente visita a Teatro Ángela Peralta. Vale la pena caminarlo con calma. Además, para mí, el tema de la ubicación marcó una diferencia positiva. Fuimos en plan tranquilo de noche. Con calor fuerte conviene llevar agua y bloqueador. Lo volvería a incluir en otro viaje. Incluso con gente, se pudo disfrutar bastante."
+
+```
+Topic ID: 1
+Decision: VALID
+Proposed Topic Label (max 6 words): Local Market and Food Experiences
+Short Analytical Description: This topic revolves around experiences at local markets like Mercado del Mar and Mercado Municipal Río Cuale, focusing on the variety of goods available for browsing ("curiosear"), the quality of service (“atención”), cleanliness (“limpieza”) and overall positive atmosphere.
+
+Topic ID: 2
+Decision: VALID
+Proposed Topic Label (max 6 words): Waterfront Restaurants in Marina
+Short Analytical Description: This topic centers around reviews of restaurants located on or near the

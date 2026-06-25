@@ -1,0 +1,22 @@
+
+Topic ID: 4:
+Keywords:
+b, p, v, t, b, r, e
+Documents:
+1: "beach beautiful place to relax and play volleyball"
+2: "great beach with lots of activities for families including a miniature golf course. also has restaurants nearby."
+3: "plenty space at the beach great family friendly area swimming lessons offered in addition there is an excellent restaurant on site that serves fresh seafood daily specialties and live music"
+4: "the best place to go for some relaxation, sun bathing or just a nice walk. The waterfront promenade has many restaurants with great food."
+5: "beautiful beach located in the city center it's quiet during weekdays but very crowded on weekends so if you want privacy visit early morning"
+===
+Topic ID: 1 - VALID
+Proposed Topic Label: Tourist Beach Experience
+Short Analytical Description: The keywords "e, r, b, c," and the documents describe a beach location with market activities ("mercado"), artisans selling goods (artesanos), food products like horneados ("horneados" meaning pastries in Spanish), local residents shopping at markets. Descriptions of various amenities such as bars, restaurants, hotels, and attractions including yachts suggest a lively beach atmosphere with tourist-oriented services catering to visitors' needs for food, entertainment, and accommodation.
+
+Topic ID: 2 - VALID
+Proposed Topic Label: Coastal Attractions/Walkway Experience
+Short Analytical Description: The keywords "s," "h," "v," "b," and the documents focus on a walkable boardwalk ("paseo marítimo") with scenic views, sand sculptures, restaurants, bars. Descriptions of picturesque walks along bays (playa), sunsets, art galleries, souvenir shops indicate an area that attracts tourists for its natural beauty and cultural attractions located near the coastline ("marina").
+
+Topic ID: 3 - VALID
+Proposed Topic Label: Adventure Tourism/Ziplining Experience
+Short Analytical Description:

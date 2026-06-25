@@ -1,0 +1,30 @@
+
+- Topic ID: 1
+Decision: VALID
+Proposed Topic Label (max 6 words): Puerto Vallarta Malecón Stroll
+Short Analytical Description: The topic revolves around experiencing the malecón in Puerto Vallarta, including walking along it, observing art and people, enjoying different times of day like lunch or dinner, and appreciating the atmosphere.
+
+- Topic ID: 2
+Decision: VALID
+Proposed Topic Label (max 6 words): Puerto Vallarta Malecón Exploration
+Short Analytical Description: This topic focuses on exploring the malecón in Puerto Vallarta, including visiting sculptures, taking public transport, observing changes over time, and encountering various shops and restaurants.
+
+- Topic ID: 3
+Decision: INCOHERENT – DISCARD
+Short Analytical Description: The keywords relate to beaches, vendors, drinks, and general activities at the beach; however, there is no clear common theme among all documents.
+
+- Topic ID: 4
+Decision: VALID
+Proposed Topic Label (max 6 words): Puerto Vallarta Waterfront Dining/Shopping
+Short Analytical Description: This topic centers around visiting restaurants and shops along the waterfront in Puerto Vallarta, with mentions of fishing, hotel stays, and observing local life.
+
+- Topic ID: 5
+Decision: INCOHERENT – DISCARD
+Short Analytical Description: The documents discuss religious services (misa) within churches; however, there is no clear common theme among all documents.
+
+
+
+Overlapping Topics:
+
+Topic IDs: 1 & 2
+Proposed merged topic label: Puerto Vallarta Malecón Experience

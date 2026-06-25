@@ -1,0 +1,44 @@
+ Output format:
+         - Topic ID: 1
+         - Decision: VALID – INCOHERENT – DISCARD
+         - Proposed Topic Label (max 6 words, neutral and descriptive): "Playa de la Bahía"
+             - Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+                "playa local with a beautiful beach view. The best place to relax after work."
+
+
+         - Topic ID: 2
+         - Decision: VALID – INCOHERENT – DISCARD
+         - Proposed Topic Label (max 6 words, neutral and descriptive): "Playa de la Bahía"
+             - Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+                "playa with a beautiful beach view. The best place to relax after work."
+
+
+         - Topic ID: 3
+         - Decision: VALID – INCOHERENT – DISCARD
+         - Proposed Topic Label (max 6 words, neutral and descriptive): "Playa de la Bahía"
+             - Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+                "playa with a beautiful beach view. The best place to relax after work."
+
+
+         - Topic ID: 4
+         - Decision: VALID – INCOHERENT – DISCARD
+         - Proposed Topic Label (max 6 words, neutral and descriptive): "Playa de la Bahía"
+             - Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+                "playa with a beautiful beach view. The best place to relax after work."
+
+
+         - Topic ID: 5
+         - Decision: VALID – INCOHERENT – DISCARD
+         - Proposed Topic Label (max 6 words, neutral and descriptive): "Playa de la Bahía"
+             - Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+                "playa with a beautiful beach view. The best place to relax after work."
+
+
+In summary:
+
+I have analyzed your topic modeling output based on keywords and documents, ensuring no external knowledge was introduced or assumed.
+
+For each of these topics:
+- **Topic ID**: 1
+  - Decision: VALID – INCOHERENT – DISCARD
+  - Proposed Topic Label (max 6 words, neutral and

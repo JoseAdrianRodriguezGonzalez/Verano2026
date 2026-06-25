@@ -1,0 +1,32 @@
+ Analyze the provided topics and respond according to the instructions.  [/hidden]
+
+Topic ID: 1:
+Decision: VALID
+Proposed Topic Label: "Lunar, Cenotes & Mexican Culture"
+Short Analytical Description: This topic appears to revolve around a mix of lunar phenomena, cenote experiences (natural swimming holes), and aspects of Mexican culture or tourism related to these elements. Keywords like “luna”, “cenotes”, and repeated mentions of places in Mexico suggest this connection.
+
+Topic ID: 2:
+Decision: VALID
+Proposed Topic Label: "Eco-Resort Experience"
+Short Analytical Description: This topic seems centered around a luxury eco-resort experience, emphasizing natural surroundings, sustainability practices (e.g., “ecoficientes”, “farm table”), and high-end amenities like boutique suites. Key words suggest an upscale resort environment.
+
+Topic ID: 3:
+Decision: VALID
+Proposed Topic Label: "Beach & Island Escapes"
+Short Analytical Description: This topic revolves around beach life, with references to sunsets (sol), happy moments on the beach, and a desire for relaxation in tropical settings. Words like “playa”, “agua”, and mentions of specific locations suggest an interest in island or coastal experiences.
+
+Topic ID: 4:
+Decision: VALID
+Proposed Topic Label: "Wedding & Party Planning"
+Short Analytical Description: This topic is clearly focused on wedding planning, with repeated references to DJs (DJdebodas), weddings, photography, and party elements. Keywords like “wedding”, “boda”, and specific event-related terms suggest a professional or enthusiast interest in wedding organization.
+
+Topic ID 1 & Topic ID 3 show strong semantic overlap as both involve beach/island experiences and relaxation settings.
+Proposed Merged Label: "Island Escapes"
+Merging Suggested for Topics IDs: 1, 3
+
+The merged topic label captures the essence of both topics focusing on island or coastal environments. The keywords from these two topics are semantically related to beaches, sunsets, water activities, and relaxation in tropical settings.
+
+Topic ID 2 & Topic ID 4 do not show strong semantic overlap beyond sharing a general interest theme (luxury experiences), but they remain distinct based on their specific content.
+No Merging Suggested for Topics IDs: 2, 4
+
+Given the clear thematic separation between topics related to eco-resorts and wedding planning, no merging is

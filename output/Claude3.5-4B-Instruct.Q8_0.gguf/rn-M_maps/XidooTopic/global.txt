@@ -1,0 +1,46 @@
+ Topic ID: 4:
+Keywords:
+c, a, p, e, n
+Documents:
+1: "Me encantó el atardecer en la playa de El Anclote"
+2: "Los niños disfrutaron mucho con los animales del parque acuático."
+3: "El clima fue muy bueno durante todo el tiempo que estuvimos allí. Las playas y las vistas desde lo alto eran espectaculares."
+
+Topic ID 5:
+Keywords:
+t, r, a
+Documents:
+1:"No se puede hacer nada en la playa sin estar cerca de los turistas."
+2: "El clima fue muy bueno durante todo el tiempo que estuvimos allí. Las playas y las vistas desde lo alto eran espectaculares."
+
+Topic ID 6:
+Keywords:
+s, a
+Documents:
+1:"Me encantó el atardecer en la playa de El Anclote"
+2: "Los niños disfrutaron mucho con los animales del parque acuático."
+3: "El clima fue muy bueno durante todo el tiempo que estuvimos allí. Las playas y las vistas desde lo alto eran espectaculares."
+
+Topic ID 7:
+Keywords:
+b, a
+Documents:
+1:"Me encantó el atardecer en la playa de El Anclote"
+2: "Los niños disfrutaron mucho con los animales del parque acuático."
+3: "El clima fue muy bueno durante todo el tiempo que estuvimos allí. Las playas y las vistas desde lo alto eran espectaculares."
+
+Topic ID 8:
+Keywords:
+e, v
+Documents:
+1:"Me encantó el atardecer en la playa de El Anclote"
+2: "Los niños disfrutaron mucho con los animales del parque acuático."
+3: "El clima fue muy bueno durante todo el tiempo que estuvimos allí. Las playas y las vistas desde lo alto eran espectaculares."
+
+Topic ID 9:
+Keywords:
+p, a
+Documents:
+1:"Me encantó el atardecer en la playa de El Anclote"
+2: "Los niños disfrutaron mucho con los animales del parque acuático."
+3: "El clima fue muy bueno durante todo el tiempo que estuvimos allí. Las playas y

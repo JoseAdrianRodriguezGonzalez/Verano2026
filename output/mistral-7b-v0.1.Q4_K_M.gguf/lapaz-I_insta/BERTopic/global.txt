@@ -1,0 +1,24 @@
+ Output:
+         Topic ID: 1: VALID, Tourism (Mexico), "Tourism in Mexico"
+            Short Analytical Description:
+               The documents are about tourism and travel to different places in Mexico.
+               Keywords related to travel, vacation, beaches, tourist attractions, hotels, resorts, etc., appear frequently throughout the documents.
+            Proposed Topic Label: "Tourism in Mexico"
+         Topic ID: 2: INCOHERENT – DISCARD
+            Short Analytical Description:
+               The keywords and documents do not share a clear common theme or semantic coherence.
+               They appear to be unrelated, disconnected topics that cannot be classified as a single topic.
+         Topic ID: 3: INCOHERENT – DISCARD
+            Short Analytical Description:
+               The keywords and documents do not share a clear common theme or semantic coherence.
+               They appear to be unrelated, disconnected topics that cannot be classified as a single topic.
+         Topic ID: 4: VALID, Home Decor (Mexico), "Home Decor in Mexico"
+            Short Analytical Description:
+               The documents are about home decoration and interior design in Mexico.
+               Keywords related to furniture, décor, renovations, remodeling, DIY projects, etc., appear frequently throughout the documents.
+         Proposed Topic Label: "Home Decor in Mexico"
+         Topic ID: 5: VALID, Love (Mexico), "Love and Romance in Mexico"
+            Short Analytical Description:
+               The documents are about love, romance, relationships, and erotic experiences.
+               Keywords related to intimacy, passion, sensuality, romantic getaways, honeymoons, etc., appear frequently throughout the documents.
+         Proposed Topic Label: "Love and Romance in Mexico"

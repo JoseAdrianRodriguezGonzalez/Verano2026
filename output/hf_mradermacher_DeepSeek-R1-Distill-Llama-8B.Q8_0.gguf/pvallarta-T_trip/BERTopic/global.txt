@@ -1,0 +1,26 @@
+ Now, let's process the input.
+
+        First, analyze each topic:
+
+Topic ID: 1:
+Keywords: e, r, b, c, h, c, p, p
+Documents: All documents describe experiences in "Vallarta," mentioning food vendors, beautiful views, restaurants, bars, and activities like walking along the port or Malecón. The keywords include 'e' (could be part of words), 'r' for restaurant, 'b' likely for bar, 'p' possibly for puerto or paseo, etc.
+
+The documents are coherent around a theme of experiencing Vallarta's markets, restaurants, and attractions like zip lines? Wait no—wait the first topic ID 1 has keywords e,r,b,c,h,p. Looking at the documents:
+
+Document 2: "caminar ondas sonoras oler comida maravillosa gente caminando viendo lugares de interés sonidos tiendas restaurantes obras de arte hechas manera encantadora"
+This is about walking, sounds, food smells, people watching interesting places, shops, restaurants, art.
+
+Document 3: "Uno de los mejores lugares para disfrutar de vallarta...vista increíble, puesta de sol, hermosas esculturas, restaurantes, tiendas, bares, caminatas cortas, playas."
+This is about the best places in Vallarta—beautiful views, sunset, statues, restaurants, shops, bars, short walks, beaches.
+
+Document 4: Similar to document 2 but mentions "barcos" (boats) passing by. So more on the port activities and walking around.
+
+Document5: Again similar, mentioning vendedores de comida, vista increíble, puesta de sol, esculturas, restaurantes, tiendas, bares, caminata corta, zona playas.
+
+So all documents are about experiencing Vallarta's markets, food vendors, restaurants, bars, and the surrounding attractions like beaches, sculptures, sunsets. So keywords include 'r' for restaurants, 'b' for bars, 'c' might be short for comida (food), but it appears multiple times in the keyword list.
+
+So this topic is about Vallarta as a destination with its marketplaces, food, and activities. The labels are all descriptive of that experience.
+
+Topic ID 2:
+Keywords: s, h, v, b, p, f, s,

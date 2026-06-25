@@ -1,0 +1,49 @@
+ Based on the provided keywords and documents, analyze each topic strictly according to the rules:
+
+Topic ID: 1:
+Keywords:
+s, r, l, t, e, h, g, b
+Documents:
+1-5: The text revolves around experiences at Huatulco beaches. It mentions snorkeling, good service in restaurants, prices (fair and expensive), food quality, water conditions, and interactions with locals.
+
+Decision: VALID
+
+Proposed Topic Label: "Huatulco Beach Experiences"
+Short Analytical Description:
+The topic discusses various aspects of visiting the beaches at Huatulco. It highlights positive experiences like snorkeling, good service in restaurants, but also mentions price concerns (fair vs expensive) and varying water conditions.
+
+Topic ID: 2:
+Keywords:
+a, r, h, b, l, b, s, n
+Documents:
+1-5: The text focuses on the beauty of black sand beaches with clear waters. It praises local food quality, natural settings, and recommends places for snorkeling or just relaxing.
+
+Decision: VALID
+
+Proposed Topic Label: "Black Sand Beach Getaway"
+Short Analytical Description:
+The topic emphasizes the appeal of visiting a beach area known for its black sand and clear water conditions. It highlights good dining experiences and suggests spots for relaxation or snorkeling.
+
+Topic ID: 3:
+Keywords:
+r, a, b, p, l, b, b, s
+Documents:
+1-5: The text revolves around surfing in Huatulco. Participants praise the beauty of waves suitable for boogie boarders, recommend specific locations (like Playa de Entrega), and discuss good dining options.
+
+Decision: VALID
+
+Proposed Topic Label: "Huatulco Surfing Experiences"
+Short Analytical Description:
+The topic focuses on surfing experiences in Huatulco. It highlights the beauty of certain waves for boogie boarding, recommends specific beaches (like Playa de Entrega), and suggests good places to eat.
+
+Topic ID: 4:
+Keywords:
+h, r, á, n, s, c, b, t
+Documents:
+1-5: The text discusses visiting a marina or harbor area. It mentions finding boats for tours, prices, cleanliness of the water, and local guides (one young man).
+
+Decision: VALID
+
+Proposed Topic Label: "Marina Tour Experiences"
+Short Analytical Description:
+The topic focuses on experiences related to touring in

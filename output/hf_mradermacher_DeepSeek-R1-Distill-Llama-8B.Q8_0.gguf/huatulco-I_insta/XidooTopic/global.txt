@@ -1,0 +1,20 @@
+ After processing all topics, you need to check for overlapping themes.
+
+        Now, let's process each topic step by step.
+     
+        
+        Topic ID: 1
+        Keywords:
+        m, p, f, c, p, f, c, v
+
+        Documents:
+
+        1: "sero ploriaa servidor emulador geenss archenti flores morearea jorge velarde imagen del anuncio del vehículo gorecore bbloom joel torres gapmoe promoción de facebook lorem ipsum dolor sit amet cliente florido ticket de servicio falso"
+            - Keywords present: m, p, v
+        2: "niña de pie siguiente estilo de mariposa gigante quetzecoatl mariposas monarca mariposa arte pop mural museo de arte fondo tlaquepaque mural de la pared mariposa de guanajuato mariposas mariposas voladoras arte popular mexicano muralismo mexicano ravi supa alas de mariposa"
+            - Keywords present: m, p
+        3: "niña de pie al lado mariposa gigante mariposa mariposas monarca david choe alas de mariposa mariposas de pájaros pájaros de mariposas mariposas negras mariposas mariposas voladoras fondo del museo de mariposas artgem muy detallado museo de arte de cuerpo completo artista maena bill galería lowe obras de arte de varias capas"
+            - Keywords present: m, p
+        4: "noche de la ciudad muchas luces festival vista panorámica noche foto tomada ektachrome noche del festival de verano fotografía hdr bullicioso pueblo mágico tropical atmósfera nocturna de la ciudad costera gente bulliciosa noche de vista panorámica vista nocturna iluminación de calidad de la ciudad paisaje nocturno hdr en la noche de la ciudad escena oscura luz tenue"
+            - Keywords present: v
+        5: "mujer camisa gris pantalones negros se encuentra frente pared blanca mariposa grande hecha botellas de plástico media mujer media mariposa alas de mariposa enormes alas simétricas mariposa mariposa del arte pop hermosas alas mar

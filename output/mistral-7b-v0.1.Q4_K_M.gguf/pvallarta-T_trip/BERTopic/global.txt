@@ -1,0 +1,5 @@
+1. Topic ID: 3
+        2. Decision: VALID
+        3. Proposed Topic Label: Adventure activities (zip lines)
+        4. Short Analytical Description: The topic is about zip line tours and adventure experiences in Puerto Vallarta, Mexico. The keywords suggest a focus on adrenaline-filled outdoor activities such as ziplining. The documents mention "guides", "tours" and "adventure".
+        5. Topic IDs to merge: None (The topic is coherent)

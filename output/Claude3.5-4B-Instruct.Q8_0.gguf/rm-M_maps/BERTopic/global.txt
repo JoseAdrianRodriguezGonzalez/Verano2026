@@ -1,0 +1,50 @@
+ Topic ID: 6:
+Keywords:
+c, b, a, o
+Documents:
+1: "comida excelente calidad servicio atencion personal buena comida"
+2: "mejor restaurantes comidas sabrosas ricos precios competitivos"
+3: "excepcional experiencia restaurante comida deliciosa sabor rico variedad asado de pollo carne vacuno y pescados especialidad cocina mexicana"
+4: "comida excelente servicio atencion personal buena calidad"
+5: "excelente comida variada buena atención"
+
+        Topic ID: 7:
+Keywords:
+c, a, r
+Documents:
+1: "excepcional experiencia restaurante comida deliciosa sabor rico variedad asado de pollo carne vacuno y pescados especialidad cocina mexicana"
+2: "mejor restaurantes comidas sabrosas ricos precios competitivos"
+
+        Topic ID: 8:
+Keywords:
+s, a
+Documents:
+1: "excepcional experiencia restaurante comida deliciosa sabor rico variedad asado de pollo carne vacuno y pescados especialidad cocina mexicana"
+2: "mejor restaurantes comidas sabrosas ricos precios competitivos"
+
+        Topic ID: 9:
+Keywords:
+c, a
+Documents:
+1. "excepcional experiencia restaurante comida deliciosa sabor rico variedad asado de pollo carne vacuno y pescados especialidad cocina mexicana"
+2. "mejor restaurantes comidas sabrosas ricos precios competitivos"
+
+        Topic ID: 10:
+Keywords:
+c, a
+Documents:
+1. "excepcional experiencia restaurante comida deliciosa sabor rico variedad asado de pollo carne vacuno y pescados especialidad cocina mexicana"
+2. "mejor restaurantes comidas sabrosas ricos precios competitivos"
+
+        Topic ID: 11:
+Keywords:
+c, a
+Documents:
+1. "excepcional experiencia restaurante comida deliciosa sabor rico variedad asado de pollo carne vacuno y pescados especialidad cocina mexicana"
+2. "mejor restaurantes comidas sabrosas ricos precios competitivos"
+
+        Topic ID: 12:
+Keywords:
+c, a
+Documents:
+1. "excepcional experiencia restaurante comida delici

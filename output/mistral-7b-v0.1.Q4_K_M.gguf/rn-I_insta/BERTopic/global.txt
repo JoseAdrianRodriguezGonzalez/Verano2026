@@ -1,0 +1,12 @@
+-------------------------------------------------
+        -------------------------------------------------
+        #################################################
+
+        # Input:
+        Topic ID: 1:
+        Keywords:
+        p, p, n, v, d, p, n, i
+        Documents:
+        1: "publicado imagenes viaje san pancho nayarit ola de agua paraguas en el suelo isla desierta san francisco conocido san pancho localidad costera ubicada municipio bahia banderas nayarit mexico nunca ido hrs aprox guadalajara agrado ambiente relajado ideal gente gusta surfear epoca ballenas ballena anote lista viajes verlas cerca cara sonriente con ojos sonrientes transmite fotos playa manana cara aliviada hace falta escapada mente cara sonriente con ojos sonrientes pronto flecha telescopio destellos mujer caminando parque nacional vía láctea sanpancho sanpanchonayarit isla desierta sol con cara corazón traje méxico visitmexico"
+        2: "villa pescadores generaciones poblado modernizado gracias construccion marina riviera nayarit grande moderna corredor generado ambiente conviven armonicamente vida tipica pueblo mexicano sofisticacion proyecto marina sayulita rivieranayarit pueblomagico playa beach surftown vacaciones vacation familyvacation familiavacations vacacionesenfamilia naturaleza wilderness viaje oceanopacifico pacificocean sunset aventura adventure vidanocturna nightlife gastronomia galerias artesania cinema drinks music art lacruzdehuanacaxtle marina barcos"
+        3: "febrero opcion sayulita pequeno paraiso adornado hermosura mar rios lagunas esteros plenos vida maritima playas placidas arena olas vida cosmopolita convertido joya pacifico mexicano sayulita rivieranayarit pueblomagico

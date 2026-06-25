@@ -1,0 +1,23 @@
+ Now, let's process each topic step by step.
+
+        Start with Topic ID:1
+
+Topic 1:
+Keywords: a, a, e, o, r, c, o, b
+Documents:
+
+Document 1: "parque increible junto novia ultimo dia año mucha gente realidad bueno atraccion favorita tirolesas cuales recomiendo primero haga junta mucha gente dia dio tiempo probar todas actividades cuentan suficiente personal momento trato bueno respetuoso comida nivel buffet variedad enorme absolutamente probe rico terminar dia baños cambiadores demasiado llenos entonces pierdes tiempo ahi esperando duda volveria visito dia laborable tiempo espera espera reserva recomendada"
+
+Document 2: "lugar maravilloso pasar rato medio naturaleza baños regadores vestidores comedor rentan chalecos 50 pesos entrada 200 pesos persona caracteristico cenote pueden observar estalacticas asombroso vista asi murcielagos llegar accede pueblo akumal personal servicial accesible toco seis personas disfruta muchisimo visito dia semana"
+
+Document3: "diverti muchisimo vistas paisajes encantaron dia pasa volando nadar recorrer caleta actividades padres mismo tiempo puedes disfrutar rato relax gusta precio incluya comida bebidas atencion excelente servicio diga increible"
+
+Document4: "quiero destacar general servicio complejo excelente experiencia xcaret fuego realmente vale pena embargo momento incomodo miembro personal nombre manuel cuyo primer momento acerco forma grosera hizo sentir incomodos vez huye luego volvimos ver siendo medio agresivo verbalmente gente alla situacion puntual quiero recomendar parque organizacion ambiente calidad actividades consejo ir temprano poder disfrutar plenamente todas experiencias ofrece llevan cinco estrellas momentum incomodo manuel cuyo"
+
+Document5: "mejor atencion personal especial jorge t siempre atento servicio bebidas alimentos confort vas venir coco bongo pregunta garantia calidad"
+
+Looking at the keywords for Topic 1: a, e, o, r, c, o, b. These are just individual letters and some repeated ones like 'a' twice. It's unclear what these stand for as they don't form meaningful words or concepts on their own.
+
+Now looking at the documents:
+
+Document1 seems to be about a park (parque

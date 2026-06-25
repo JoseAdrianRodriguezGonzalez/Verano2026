@@ -1,0 +1,27 @@
+ Please provide the output in a table format, with each topic ID as a separate row. The columns should be:
+         - Topic ID
+         - Decision: (VALID / INCOHERENT – DISCARD)
+         - Proposed Topic Label (max 6 words, neutral and descriptive):
+         - Short Analytical Description
+
+Output Format:
+
+|Topic ID | Decision | Proposed Topic Label | Short Analytical Description|
+|---------|----------|----------------------|--------------------|
+|1        | VALID    | INCOHERENT – DISCARD   | The documents do not appear semantically coherent or share a clear common theme. |
+|2        | INVALID  | DISCARD            | There is no semantic overlap in the provided topics, so this topic should be discarded.|
+
+
+Note: In case of ambiguity and additional information needed from users to make an informed decision about which option best fits based on context.
+The output format needs to clarify that there may not be a definitive label for these documents as they do not appear semantically coherent or share a clear common theme. The proposed topic labels should reflect this uncertainty.
+
+Please ensure the table is structured correctly and includes all topics with their respective decision, proposal of the labeled topic ID, and short analytical description.
+```plaintext
+|Topic ID | Decision | Proposed Topic Label  | Short Analytical Description|
+|---------|----------|---------------------|--------------------|
+|1        | INVALID   | DISCARD            | There is no semantic overlap in the provided topics. |
+|2        | INVALID   | INCOHERENT – DISCARD | The documents do not appear semantically coherent or share a clear common theme. |
+|3        | VALID    | INCOHERENT – DISCARD  | They are all about beaches, but they discuss different aspects like penguins and surfing. |
+|4        | INVALID   | DISCARD            | There is no semantic overlap in the provided topics. |
+|5        | INVALID   | DISCARD            | The documents do not appear semantically coherent or share a clear common theme. |
+```

@@ -1,0 +1,7 @@
+1. Topic ID: 3
+        2. Decision: VALID
+        3. Proposed Topic Label (max 6 words, neutral and descriptive): Sayulita beach town
+        4. Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+        The topic is about a small Mexican coastal town called Sayulita known for its beautiful beaches, surfing culture, and vibrant nightlife. Visitors can enjoy various outdoor activities such as swimming, snorkeling, and hiking in nearby national parks. The area also has several restaurants serving local cuisine and fresh seafood.
+        5. After analyzing all topics:
+        There are no overlapping topics identified.

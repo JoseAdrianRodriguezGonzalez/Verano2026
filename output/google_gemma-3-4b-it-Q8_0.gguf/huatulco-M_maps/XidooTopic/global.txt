@@ -1,0 +1,26 @@
+Topic ID: 4:
+Keywords:
+p, r, s, a, e, p, d, c
+Documents:
+1: "Paseo en restaurante con una vista espectacular y comida deliciosa. Los precios son accesibles para todos los bolsillos. El servicio es excelente y la atención al cliente impecable."
+2: “El parque fué dañado por el huracán quedó muy afectado y se puede apreciar solo una parte del parque los puntos principales no se puedes apreciar por razón ya comentada”
+3: "La comida está deliciosa, pero el ambiente es un poco ruidoso. Los precios son razonables para la calidad de la comida."
+4: “Es precioso el lugar divino las escaleras son un excelente mirador solo.deberian de pedirle a los que venden comida que laven bien sus establecimientos pornque huele muchísimo a cochambre y por la manana es más notorio y limpien la playa ya que ellos hacen uso de ella en otras playas ? visto que barren y levantan toda la basura como santa cruz por ejemplo y aquí vi mucha basurita :( pero en general es divino el lugar"
+
+---
+Topic ID: 1:
+Decision: VALID
+Proposed Topic Label (max 6 words): Huatulco Beaches and Activities
+Short Analytical Description: This topic centers around descriptions of beaches in Huatulco, including snorkeling opportunities, local culture, food experiences such as mole negro and tlayudas, and the overall atmosphere. The documents highlight both positive aspects like safety and warmth, alongside some concerns about cleanliness and vendor practices.
+
+Topic ID: 2:
+Decision: VALID
+Proposed Topic Label (max 6 words): Huatulco Beach Experiences
+Short Analytical Description: This topic focuses on experiences related to beaches in Huatulco, including swimming, snorkeling, dining options, boat tours, and the presence of tourists. The documents describe both positive aspects like beauty and cleanliness, as well as negative ones such as crowds and lack of cell signal.
+
+Topic ID: 3:
+Decision: VALID
+Proposed Topic Label (max 6 words): Huatulco Natural Beauty & Tours
+Short Analytical Description: This topic describes the natural environment of Huatulco, specifically its beaches, clear waters, coral reefs, and marine life. The documents also mention boat tours to different bays, including snorkeling opportunities and visits to pristine beaches.
+
+Topic ID: 4:

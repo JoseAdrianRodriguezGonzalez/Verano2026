@@ -1,0 +1,25 @@
+ Please, analyze the output of this topic modeling process and provide your analysis following the specified rules. 
+
+         If a Topic ID has more than one document associated with it, please separate them by number (e.g., Document 1: "text", Document 2: "text").
+
+**Topic Analysis**
+
+        - **Topic ID:** 
+        - **Decision:** VALID / INCOHERENT – DISCARD
+        - **Proposed Topic Label:** 
+        - **Short Analytical Description:** 
+
+Repeat this structure for each topic.
+
+After analyzing all topics, identify if any valid topics are semantically overlapping and propose a merged topic label indicating which Topic IDs should be merged. If you're uncertain or there's no strong semantic overlap, suggest DISCARD instead of inventing thematic interpretations.
+
+
+
+**Topic ID: 1**
+
+Keywords:
+p, h, l, b, h, c, h, l
+
+Documents:
+
+Document 1: "Aunque la camarera fue extremadamente amable, creo que la pillamos en un mal día. Olvidó mi bebida, rompió un vaso mientras me la preparaba e incluso tiró mi comida cuando le dije que quería llevármela para llevar… Claro que hizo todo bien, e incluso le pidió al chef que preparara algo para llevar después de que ella tirara mi comida (más específicamente, me dijo que se la había dado a los perros, jaja). Algo que ojalá hubiera sabido antes... ¡el restaurante tiene una sección para perros! ¡Me encanta! Sin duda, habría traído a mis bebés de haberlo sabido. En cuanto al menú, no había muchas opciones para nosotros, siendo veganos. Mi plato sabía un poco demasiado aceitoso para mi gusto. El postre se pagó a precio completo, aunque no pudimos pedir helado. La camarera sabía muy bien qué podíamos y qué no podríamos pedir del menú, dadas nuestras restricciones dietéticas. Eso fue algo que agradecí de ella. Fue muy amable, y por eso le doy tres estrellas a este lugar. Ah... el lector de tarjetas no funcionaba. Por suerte, teníamos suficiente efectivo. El camarero nos avisó antes de sentarnos,

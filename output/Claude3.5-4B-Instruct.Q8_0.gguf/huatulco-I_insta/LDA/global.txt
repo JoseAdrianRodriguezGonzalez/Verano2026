@@ -1,0 +1,16 @@
+ Topic ID: 6:
+Keywords:
+c, e, n, t, r
+Documents:
+1: "playa de arena blanca hermoso paisaje playa tropical paraíso mágico impresionante vista panorámica desde la cima del monte mirador amarillo verano en el mar azul turquesa agua cristalina fondo de playa tranquilo playas blancas entorno de playa sereno"
+2: "playa hermoso paisaje paraíso tropical mágico impresionante vista panorámica desde la cima del monte mirador amarillo verano en el mar azul turquesa agua cristalina fondo de playa tranquilo playas blancas entorno de playa sereno"
+3: "playa hermoso paisaje paraíso tropical mágico impresionante vista panorámica desde la cima del monte mirador amarillo verano en el mar azul turquesa agua cristalina fondo de playa tranquilo playas blancas entorno de playa sereno"
+4: "playa hermoso paisaje paraíso tropical mágico impresionante vista panorámica desde la cima del monte mirador amarillo verano en el mar azul turquesa agua cristalina fondo de playa tranquilo playas blancas entorno de playa sereno"
+5: "playa hermoso paisaje paraíso tropical mágico impresionante vista panorámica desde la cima del monte mirador amarillo verano en el mar azul turquesa agua cristalina fondo de playa tranquilo playas blancas entorno de playa sereno"
+
+Topic ID: 7:
+Keywords:
+p, a
+Documents:
+1: "playa hermoso paisaje paraíso tropical mágico impresionante vista panorámica desde la cima del monte mirador amarillo verano en el mar azul turquesa agua cristalina fondo de playa tranquilo playas blancas entorno de playa sereno"
+2: "playa hermoso paisaje paraíso tropical mágico impresionante vista panorámica desde la cima del monte mirador amarillo verano en el mar azul turquesa agua cristalina fondo de playa tranquilo playas blancas entorno de playa sereno

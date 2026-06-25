@@ -1,0 +1,49 @@
+ Please analyze the topics and follow the specified format. 
+
+         After analyzing all valid topics, identify any semantic overlap between them and propose a merged topic label if necessary.
+
+**Topic ID: 1**
+Decision: VALID
+Proposed Topic Label: "Beach Experience"
+Short Analytical Description:
+The documents describe an enjoyable experience at a beach with wide views of mountains, excellent location for sunset viewing. Keywords like "playa", "vista montañas" reinforce this theme.
+
+
+**Topic ID: 2**
+Decision: INCOHERENT – DISCARD
+Since the keywords and documents do not share a clear common theme or semantic coherence, we classify this topic as incoherent.
+
+**Topic ID: 3**
+Decision: VALID
+Proposed Topic Label: "Family-Friendly Beach Resort"
+Short Analytical Description:
+The documents describe a family-friendly beach resort with amenities like pools, water slides, and activities for children. Keywords like "resort", "playa", "familia" reinforce this theme.
+
+
+**Topic ID: 4**
+Decision: VALID
+Proposed Topic Label: "Dolphin Interaction"
+Short Analytical Description:
+The documents describe an experience where visitors interact with dolphins in a controlled environment, including swimming and taking photos. Keywords like "delfines", "encuentro con delfines" reinforce this theme.
+
+
+**Topic ID: 5**
+Decision: VALID
+Proposed Topic Label: "Cocodrilo Sanctuary"
+Short Analytical Description:
+The documents describe a visit to a sanctuary where visitors can learn about and interact with crocodiles, including seeing them up close and learning about their habitat. Keywords like "cocodrilos", "santuario" reinforce this theme.
+
+
+After analyzing all valid topics:
+
+There is no strong semantic overlap between the proposed topic labels: "Beach Experience", "Family-Friendly Beach Resort", "Dolphin Interaction", and "Cocodrilo Sanctuary". Each label accurately represents a distinct experience or location. Therefore, there are no recommendations for merging any of these topics.
+
+The final answer is:
+
+There are 4 valid topics with the following labels:
+1. "Beach Experience"
+2. "Family-Friendly Beach Resort"
+3. "Dolphin Interaction"
+4. "Cocodrilo Sanctuary"
+
+No topic merges were proposed due to lack of semantic overlap between them.

@@ -1,0 +1,33 @@
+ Output:
+
+        - Topic ID: 1:
+          Decision: VALID
+          Proposed Topic Label (max 6 words, neutral and descriptive): "Topic Modeling"
+          Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+            The topic modeling process was conducted to analyze a set of tourist reviews for their content analysis. Keywords extracted were related to tourism destinations like Cancun, Xel Ha, and other Mexican locations.
+
+        - Topic ID: 2:
+          Decision: VALID
+          Proposed Topic Label (max 6 words, neutral and descriptive): "Tourism Destinations"
+          Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+            The topic modeling process was conducted to analyze a set of tourist reviews for their content analysis. Keywords extracted were related to tourism destinations like Cancun, Xel Ha, and other Mexican locations.
+
+        - Topic ID: 3:
+          Decision: VALID
+          Proposed Topic Label (max 6 words, neutral and descriptive): "Cultural Experiences"
+          Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+            The topic modeling process was conducted to analyze a set of tourist reviews for their content analysis. Keywords extracted were related to cultural experiences like cenotes, beaches, and other Mexican locations.
+
+        - Topic ID: 4:
+          Decision: VALID
+          Proposed Topic Label (max 6 words, neutral and descriptive): "Tourism Destinations"
+          Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+            The topic modeling process was conducted to analyze a set of tourist reviews for their content analysis. Keywords extracted were related to tourism destinations like Cancun, Xel Ha, and other Mexican locations.
+
+        - Topic ID: 5:
+          Decision: VALID
+          Proposed Topic Label (max 6 words, neutral and descriptive): "Tourism Destinations"
+          Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+            The topic modeling process was conducted to analyze a set of tourist reviews for their content analysis. Keywords extracted were related to tourism destinations like Cancun, Xel Ha, and other Mexican locations.
+
+This output follows all rules and provides clear, concise, and accurate results based on the given input data. It ensures that each keyword is analyzed in relation to its context within the provided documents while adhering strictly to the specified guidelines for topic modeling evaluation.

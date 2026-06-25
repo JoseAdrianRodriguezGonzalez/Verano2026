@@ -1,0 +1,38 @@
+Topic ID: 5:
+Keywords:
+s, m, s, l, r, p, a, t
+Documents:
+1: "se encuentra la mejor tienda de arte en lapazlapazmexico"
+2: “siempre se puede encontrar el lugar perfecto para visitar”
+3: “el tiempo es una oportunidad única que no debe perderse”
+4: “los colores vibrantes y las texturas diferentes crean un ambiente mágico”
+5: "la vida es un regalo maravilloso que debemos disfrutar al máximo"
+
+---
+
+Topic ID: 1:
+Decision: VALID
+Proposed Topic Label (max 6 words): Coastal Mexican Design & Travel
+Short Analytical Description: The topic revolves around design elements, specifically geometric patterns and handcrafted craftsmanship found in the region of Lapaz, Baja California. It frequently mentions locations within Mexico such as lapazmexico, todossantosbcs, and lapazbajacalifornia, alongside terms related to tourism ("discoverlapaz," "visitlapaz").
+
+Topic ID: 2:
+Decision: VALID
+Proposed Topic Label (max 6 words): Lapaz Local & Tourism
+Short Analytical Description: This topic focuses on mentions of “Lapaz,” Baja California and associated activities. It primarily consists of repeated location names, followed by terms related to tourism ("discoverlapaz," "visitlapaz") and local experiences.
+
+Topic ID: 3:
+Decision: INCOHERENT – DISCARD
+Short Analytical Description: The topic appears centered around fitness-related content with frequent references to “pacenos,” locations in Baja California Sur, and associated imagery (gyms, photography). However, the keywords are not strongly connected within the documents.
+
+Topic ID: 4:
+Decision: VALID
+Proposed Topic Label (max 6 words): Luxury Hotel & Romance Experiences
+Short Analytical Description: The topic centers on luxury hotels ("moteleslapaz," "moteldelujo") and romantic experiences in Lapaz, Baja California Sur. It includes keywords related to perfumes, relationships, and sensual themes.
+
+Topic ID: 5:
+Decision: VALID
+Proposed Topic Label (max 6 words): Travel & Leisure Experiences
+Short Analytical Description: The topic discusses general travel concepts such as “the best place to visit,” "unique experiences," and the value of time ("el tiempo es una oportunidad única"). It includes references to locations like Lapaz, Mexico.
+
+---
+

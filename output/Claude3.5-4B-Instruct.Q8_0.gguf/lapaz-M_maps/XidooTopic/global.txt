@@ -1,0 +1,77 @@
+ Topic ID: 6:
+Keywords:
+b, a, s, d
+Documents:
+1: "Beautiful beach. Great view of the bay and plenty of food options."
+2: "A beautiful place for people watching, walking along the shore"
+3: "Stunning bay views from this location"
+4: "Excellent beaches with clear water perfect for swimming"
+5: "Amazing coastal scenery"
+
+         Topic ID: 7:
+Keywords:
+s, d
+Documents:
+1: "Spectacular view of the city skyline and surrounding area."
+2: "Beautiful downtown area with plenty of shops to explore."
+
+Topic ID: 8:
+Keywords:
+b, a, s, t, e
+Documents:
+1: "Beautiful beach. Great view from this location"
+2: "A beautiful place for people watching, walking along the shore"
+
+         Topic ID: 9:
+Keywords:
+r, v, i, d
+Documents:
+1: "Rooftop bar with stunning views of the city skyline and surrounding area."
+2: "Vibrant downtown nightlife scene."
+
+Topic ID: 10:
+Keywords:
+b, a, s, e
+Documents:
+1: "Beautiful beach. Great view from this location"
+2: "A beautiful place for people watching, walking along the shore"
+
+         Topic ID: 11:
+Keywords:
+c, v, i, n
+Documents:
+1: "Cafe with vibrant nightlife scene."
+2: "Vibrant downtown area to explore."
+
+Topic ID: 12:
+Keywords:
+b, a, s, c, e
+Documents:
+1: "Beautiful beach. Great view from this location"
+2: "A beautiful place for people watching, walking along the shore"
+
+         Topic ID: 13:
+Keywords:
+c, v, i, n
+Documents:
+1: "Cafe with vibrant nightlife scene."
+2: "Vibrant downtown area to explore."
+
+Topic ID: 14:
+Keywords:
+b, a, s, t
+Documents:
+1: "Beautiful beach. Great view from this location"
+2: "A beautiful place for people watching, walking along the shore"
+
+         Topic ID: 15:
+Keywords:
+c, v, i, n
+Documents:
+1: "Cafe with vibrant nightlife scene."
+2: "Vibrant downtown area to explore."
+
+Topic ID: 16:
+Keywords:
+b, a, s, t
+Documents:

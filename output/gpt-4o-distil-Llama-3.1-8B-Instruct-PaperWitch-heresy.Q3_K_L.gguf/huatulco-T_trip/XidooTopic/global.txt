@@ -1,0 +1,59 @@
+ Please analyze the topics and provide your output according to the instructions.        ```python
+import re
+
+def extract_keywords(topic):
+    keywords = []
+    for doc in topic['documents']:
+        words = re.findall(r'\b\w+\b', doc.lower())
+        if len(keywords) == 0:
+            keywords.extend(words)
+        else:
+            new_words = [word for word in words if word not in keywords]
+            keywords.extend(new_words)
+
+    return list(set(keywords))
+
+def analyze_topic(topic_id, topic):
+    # Extract Keywords
+    keywords = extract_keywords(topic)
+
+    # Analyze Documents
+    documents = []
+    for doc in topic['documents']:
+        sentences = re.split(r'[.!?]', doc)
+        if len(sentences) > 1:
+            document_words = [word.lower() for word in re.findall(r'\b\w+\b', ' '.join(sentences))]
+            documents.append(document_words)
+
+    # Analyze Keywords and Documents
+    decision = "VALID"
+    label = ""
+    description = ""
+
+    if len(keywords) < 5:
+        decision = "INCOHERENT – DISCARD"
+
+    elif any(word in keywords for word in ["playa", "bahía"]):
+        decision = "VALID"
+        label = "Beach or Bay Area"
+        description = f"Topic mentions beach ({keywords.count('beach')}) and/or bay area."
+
+    else:
+        # No clear theme, could be a mix of unrelated words
+        decision = "INCOHERENT – DISCARD"
+
+    return {
+        'topic_id': topic_id,
+        'decision': decision,
+        'label': label if decision == "VALID" else "",
+        'description': description if decision == "VALID" else ""
+    }
+
+topics = [
+{'id': 1, 'documents':
+['Pasé horas buceando gente colgando amable playa calma hermosa buceando chaleco salvavidas definitivamente toma una corriente nadando patios traseros orilla bastante fuerte',
+'Muchas personas intentaron vendernos cosas y sintieron que casi se quedaban mucho tiempo.',
+'hermosa playa amanecer mejor nadar océano agitado varios también parece lugar mañana',
+'muy lleno muchos vendedores devuelven dólares']},
+{'id': 2, 'documents':
+['bonita zona muchos restaurant

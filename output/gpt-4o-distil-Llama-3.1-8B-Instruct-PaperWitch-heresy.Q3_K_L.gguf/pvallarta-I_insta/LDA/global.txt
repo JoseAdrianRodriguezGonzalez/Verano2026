@@ -1,0 +1,12 @@
+ Analyze the topics and provide your output in the exact format requested.        ```python
+import re
+
+def clean_text(text):
+    text = text.lower()
+    text = re.sub(r'[^\w\s]', '', text)
+    return ' '.join(text.split())
+
+topics = {
+    1: {'keywords': ['p', 'm', 'j', 'b', 'n'], 
+        'docs': [clean_text(doc) for doc in ["amigxs visitantes puerto vallarta sol con cara preparamos cinco días arte movimiento música bienestar junto personas espacios favoritos ciudad etiqueta amix comparte historias tener oportunidad ganar entrada gratuita actividad elijas jam noches recorridos arte salsa electrodance yoga circulos creatividad ecstatic dance inmersion completa domingo terra noble semana invitacion entrar flow crear comunidad comenzar inspiracion sumate solo varios evento revisa flyer ver programa completo pronto compartiremos flyers detalles reservas traves sitio web directamente lxs colaboradorxs vamos movernos celebrar juntxs comentar spark mandamos información brilla puerto vallarta amigos visitantes sol con cara juntar cinco días arte movimiento música bienestar gente favorita lugares ciudad etiqueta amigo historias oportunidad ganar gratis entrada actividad elección noches de mermelada arte paseos salsa electrodanza yoga creatividad círculos baile extasiado domingo completo inmersión terra noble semana entrando flujo construcción comunidad comenzando inspirado únete a un evento muchos cheque folleto horario completo volantes detalles ven reservas sitio web directamente colaboradores dejar moverse crear celebrar juntos chispa información destellos puertovallarta vallarta ptovallarta puertovallartamexico puertovallartaméxico",
+         "amigxs visitantes puerto vallarta sun with face preparamos cinco días arte movimiento música bienestar junto personas espacios favoritos ciudad etiqueta amix comparte historias tener oportunidad ganar entrada gratuita actividad elijas jam noches recorridos arte salsa electrodance yoga circulos creatividad ecstatic dance inmersion completa domingo terra noble semana invitacion entrar flow crear comunidad comenzar inspiracion sumate solo varios evento revisa flyer ver programa completo pronto compartiremos flyers detalles reservas traves sitio web directamente lxs colaboradorxs vamos movernos celebr

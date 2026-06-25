@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------------
+        Topic ID: 1, Decision: (VALID / INCOHERENT – DISCARD)
+        Proposed Topic Label: "Beach"
+        Short Analytical Description: "A beach with good services and amenities."
+
+        Topic ID: 2, Decision: (VALID / INCOHERENT – DISCARD)
+        Proposed Topic Label: "Tourist Attraction"
+        Short Analytical Description: "A tourist attraction that is worth visiting for its natural beauty and activities."
+
+        Topic ID: 3, Decision: (VALID / INCOHERENT – DISCORD)
+        Proposed Topic Label: "Historical Site"
+        Short Analytical Description: "An historical site with a unique collection of artifacts from different cultures."
+
+        Topic ID: 4, Decision: (INCOHERENT – DISCARD / INVALID)
+        Proposed Topic Label: "Archeological Ruins"
+        Short Analytical Description: "A place where you can explore ancient ruins and learn about the history of the region."
+
+        Topic ID: 5, Decision: (INCOHERENT – DISCARD / INVALID)
+        Proposed Topic Label: "Natural Park"
+        Short Analytical Description: "A natural park that offers a variety of activities and attractions for visitors to enjoy."

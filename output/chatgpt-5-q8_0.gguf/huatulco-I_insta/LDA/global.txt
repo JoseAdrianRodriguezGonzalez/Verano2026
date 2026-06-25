@@ -1,0 +1,35 @@
+ Output:
+         - Topic ID: 1
+         - Decision: VALID – DISCARD
+         - Proposed Topic Label (max 6 words, neutral and descriptive): "Playa de arena"
+         - Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+
+           The topic is a collection of tourist reviews focusing on beaches. While some documents mention specific locations or themes like beachside activities, others are more general about the overall experience.
+
+           This seems to be focused on exploring and enjoying natural coastal areas.
+         - Topic ID: 2
+         - Decision: VALID – DISCARD
+         - Proposed Topic Label (max 6 words, neutral and descriptive): "Playa de arena"
+         - Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+
+           The topic is a collection of tourist reviews focusing on beaches. While some documents mention specific locations or themes like beachside activities, others are more general about the overall experience.
+        - Topic ID: 3
+         - Decision: VALID – DISCARD
+         - Proposed Topic Label (max 6 words, neutral and descriptive): "Playa de arena"
+          The topic is a collection of tourist reviews focusing on beaches. While some documents mention specific locations or themes like beachside activities, others are more general about the overall experience.
+        - Topic ID: 4
+         - Decision: VALID – DISCARD
+         - Proposed Topic Label (max 6 words, neutral and descriptive): "Playa de arena"
+          The topic is a collection of tourist reviews focusing on beaches. While some documents mention specific locations or themes like beachside activities, others are more general about the overall experience.
+        - Topic ID: 5
+         - Decision: VALID – DISCARD
+         - Proposed Topic Label (max 6 words, neutral and descriptive): "Playa de arena"
+          The topic is a collection of tourist reviews focusing on beaches. While some documents mention specific locations or themes like beachside activities, others are more general about the overall experience.
+You're ready to start analyzing? Let's begin! ```python
+topic_id = 1
+decision = 'VALID'
+topic_label = "Playa de arena"
+analytical_description = f"This topic is a collection of tourist reviews focusing on beaches. While some documents mention specific locations or themes like beachside activities, others are more general about the overall experience."
+
+output = {
+    "Topic ID": topic_id

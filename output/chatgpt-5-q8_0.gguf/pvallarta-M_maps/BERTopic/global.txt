@@ -1,0 +1,28 @@
+ Output:
+
+         - Topic ID: 1:
+           Decision: (VALID)
+           Proposed Topic Label: "Visita a Playas"
+           Short Analytical Description: The topic involves visits to beaches and resorts, focusing on the quality of experiences and overall satisfaction.
+
+        - Topic ID: 2:
+          Decision: (INCOHERENT – DISCARD)
+          Proposed Topic Label: "Viaje a Yelapa"
+          Short Analytical Description: There is no semantic coherence between this document and other topics. The experience seems to be more about the quality of service than specific attractions or locations.
+
+        - Topic ID: 3:
+           Decision: (INCOHERENT – DISCARD)
+           Proposed Topic Label: "Excursión a las cascadas"
+           Short Analytical Description: There is no semantic coherence between this document and other topics. The experience seems to be more about the quality of service than specific attractions or locations.
+
+        - Topic ID: 4:
+          Decision: (INCOHERENT – DISCARD)
+          Proposed Topic Label: "Salida de Marina Vallarta"
+          Short Analytical Description: There is no semantic coherence between this document and other topics. The experience seems to be more about the quality of service than specific attractions or locations.
+
+        - Topic ID: 5:
+           Decision: (INCOHERENT – DISCARD)
+           Proposed Topic Label: "Plaza de Armas"
+           Short Analytical Description: There is no semantic coherence between this document and other topics. The experience seems to be more about the quality of service than specific attractions or locations.
+
+This task will help you analyze a topic modeling output, ensuring that it adheres strictly to your rules for analyzing data based on keywords and documents provided. Good luck!

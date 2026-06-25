@@ -1,0 +1,28 @@
+ Based on the provided information, here is my analysis for each topic:
+
+         Topic ID: 1:
+         Decision: INCOHERENT – DISCARD
+         Proposed Topic Label (max 6 words): N/A
+         Short Analytical Description: The keywords and documents do not share a clear common theme. Some documents mention beaches, surfing, and relaxation while others refer to a small town with shops and higher prices. There is no semantic coherence between the topics.
+
+         Topic ID: 2:
+         Decision: VALID
+         Proposed Topic Label (max 6 words): Tranquil Beach Town
+         Short Analytical Description: The keywords and documents revolve around a tranquil beach town with various amenities, good restaurants, and a peaceful atmosphere. Some documents mention the presence of a beautiful beach for relaxation and surfing.
+
+         Topic ID: 3:
+         Decision: VALID
+         Proposed Topic Label (max 6 words): Rustic Campground Experience
+         Short Analytical Description: The keywords and documents describe experiences at a campground, with mentions of rudimentary facilities, shared spaces, and the presence of nature. Some documents discuss the challenges and rewards of roughing it in the wilderness.
+
+         Topic ID: 4:
+         Decision: VALID
+         Proposed Topic Label (max 6 words): Beautiful Nayarit Beaches
+         Short Analytical Description: The keywords and documents focus on beautiful beaches located in Nayarit, with mentions of tranquil waters, clear skies for sunsets, and opportunities to surf. Some documents emphasize the cleanliness and serenity of these beach locations.
+
+         Topic ID: 5:
+         Decision: VALID
+         Proposed Topic Label (max 6 words): Secluded Beach Experience
+         Short Analytical Description: The keywords and documents describe experiences at secluded beaches, with mentions of fewer crowds, the ability to walk for long distances without encountering vendors or crowded areas, and opportunities to relax and enjoy nature. Some documents emphasize the importance of respect among beachgoers in maintaining this peaceful environment.
+
+         No semantically overlapping VALID topics were identified, so

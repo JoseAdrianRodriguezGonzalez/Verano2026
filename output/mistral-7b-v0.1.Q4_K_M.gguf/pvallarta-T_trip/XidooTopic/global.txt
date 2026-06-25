@@ -1,0 +1,30 @@
+ The output is:
+        Topic ID: 1:
+        Decision: VALID
+        Proposed Topic Label (max 6 words, neutral and descriptive): "Beach Walking"
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+        The topic is about walking on the beach. It mentions several locations such as Puerto Vallarta and Malecón. Some of these places are described as beautiful, nice or pleasant.
+
+        Topic ID: 2:
+        Decision: VALID
+        Proposed Topic Label (max 6 words, neutral and descriptive): "Beach Walking"
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+        The topic is about walking on the beach. It mentions several locations such as Puerto Vallarta and Malecón. Some of these places are described as beautiful, nice or pleasant.
+
+        Topic ID: 3:
+        Decision: VALID
+        Proposed Topic Label (max 6 words, neutral and descriptive): "Beach Walking"
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+        The topic is about walking on the beach. It mentions several locations such as Puerto Vallarta and Malecón. Some of these places are described as beautiful, nice or pleasant.
+
+        Topic ID: 4:
+        Decision: VALID
+        Proposed Topic Label (max 6 words, neutral and descriptive): "Fishing"
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+        The topic is about fishing. It mentions several locations such as Bahía de Banderas and Puerto Vallarta. Some of these places are described as beautiful, nice or pleasant.
+
+        Topic ID: 5:
+        Decision: VALID
+        Proposed Topic Label (max 6 words, neutral and descriptive): "Church"
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text)
+        The topic is about visiting a church. It mentions several locations such as Puerto Vallarta and Catedral de Nuestra Señora Guadalupe.

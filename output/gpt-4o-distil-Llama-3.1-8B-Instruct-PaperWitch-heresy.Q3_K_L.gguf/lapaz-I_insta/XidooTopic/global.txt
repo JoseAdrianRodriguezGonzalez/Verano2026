@@ -1,0 +1,11 @@
+ Analyze the output and provide your response as per the instructions.        """
+
+# Topic ID: 1
+Keywords:
+l, b, s, d, m, p
+
+Documents:
+1: "lineas geometricas marcan ritmo muebles espacios disenados medida geometric lines set tone design organizes highlights transforms space casanopal mexicandesign handmadecraftsmanship todossantosbcs lapazbcs lapazmexico discoverlapaz visitlapaz explorelapaz visittodossantos discovertodossantos hiddengemmexico lapazcommunity madeinlapaz welovelapaz livelapaz bajamagic"
+2: "looking renewal got covered new vibes fresh design pieces space waiting sparkles list renovar cubrimos nuevas vibras diseno fresco piezas casa pidiendo casanopal mexicandesign handmadecraftsmanship todossantosbcs lapazbcs lapazmexico discoverlapaz visitlapaz explorelapaz visittodossantos discovertodossantos hiddengemmexico lapazcommunity madeinlapaz welovelapaz livelapaz bajamagic"
+3: "se ve bastante engreído año gallo guiñando un ojo cara con lengua dos gallos derecho ya volado gallinero chico nuevo izquierda cosas pavoneándose listo regla gallinero ven a ver domingo centenario artista paleta palmera original acuarela montado detrás de alfombra de color óxido enmarcado madera blanca brillante mxn mxn sin marco kaleidoliving kaleidolivingart acuarela pintura originalwatercolorart acuarelaartist artfestivalmarket lapazmexico méxico apoyolocalartistas"
+4: "rosenblatt artes de técnicas mixtas lavanda lienzo acrílico michaelrichardrosenblatt oceansidemurals bellas artes artista impresionista arteenunas impresionista artecontemporaneo océanoplayasandiego pacíficoplayasandiego misiónplayasd laartscene sureñocalifornia amsterdamartscene amsterdamart madridarte vancouverartcomunidad parisartistas parís centrarse en lapazmexico méxico sanmig

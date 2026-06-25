@@ -1,0 +1,20 @@
+
+    - Topic ID: 6:
+Keywords:
+e, e, t, p, c, v, a, b
+Documents:
+1: "el centro de la ciudad es muy bonito y lleno"
+2: "lo que más me gustó fue el museo del barrio antiguo. El lugar en sí mismo era un poco abarrotado pero los lugares cercanos eran bastante tranquilos."
+3: "el centro de la ciudad es muy bonito y lleno"
+4: "lo más interesante para mí fue el museo del barrio antiguo. El lugar en sí mismo era un poco abarrotado pero los lugares cercanos eran bastante tranquilos."
+5: "el centro de la ciudad es muy bonito y lleno"
+6: "lo más interesante para mí fue el museo del barrio antiguo. El lugar en sí mismo era un poco abarrotado pero los lugares cercanos eran bastante tranquilos."
+- [Teacher]: Topic ID: 1:
+Decision: VALID
+Proposed Topic Label (max 6 words, neutral and descriptive): "Urban Beauty & Tourist Attractions"
+Short Analytical Description: The keywords 'e', 'b', 'h', 'c', 'h' along with the documents suggest a topic centered around urban spaces that are well-maintained ('beautiful') and have touristic appeal. Documents highlight locations such as beautiful places, beaches (implied by "vast"), cuidadosa preservation ("well cared for") which align coherently to form the proposed label of Urban Beauty & Tourist Attractions.
+
+Topic ID: 2:
+Decision: VALID
+Proposed Topic Label (max 6 words, neutral and descriptive): "Beachside Retreat"
+Short Analytical Description: The keywords 'b', 'p', 'l' along with the documents indicate a topic about coastal or beach locations. Documents mention places like beaches ("walk very far all along the beach"), peaceful environments, restaurants and sunsets which are characteristic of popular tourist destinations often found in seaside areas -

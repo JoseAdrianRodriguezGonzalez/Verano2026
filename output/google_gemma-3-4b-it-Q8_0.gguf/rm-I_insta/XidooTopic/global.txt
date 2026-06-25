@@ -1,0 +1,27 @@
+Analysis:
+
+        Topic ID: 1
+        Decision: VALID
+        Proposed Topic Label (max 6 words): Cenotes and Riviera Maya
+        Short Analytical Description: This topic centers around descriptions of cenotes, the Riviera Maya region, and related activities like scuba diving. The keywords "cenote," "riviera maya," and terms associated with underwater exploration consistently appear across all documents.
+
+        Topic ID: 2
+        Decision: VALID
+        Proposed Topic Label (max 6 words): Caribbean Lifestyle & Travel
+        Short Analytical Description: This topic focuses on descriptions of a luxurious, sustainable lifestyle in the Caribbean, specifically around destinations like Playa del Carmen and Tulum. Keywords relate to eco-friendly hotels, natural experiences, and travel concepts.
+
+        Topic ID: 3
+        Decision: VALID
+        Proposed Topic Label (max 6 words): Beach Relaxation & Memories
+        Short Analytical Description: This topic describes feelings of happiness related to the beach, water, sun, and memories made in locations like Tulum and Riviera Maya. The keywords "beach," “sun,” and references to personal experiences are prominent.
+
+        Topic ID: 4
+        Decision: VALID
+        Proposed Topic Label (max 6 words): Wedding Celebrations & Parties
+        Short Analytical Description: This topic is dedicated to wedding-related events, including DJs, party planning, cakes, photography, and celebrations in locations like Tulum and Playa del Carmen.
+
+        Overlap Analysis:
+        There are significant overlaps between topics 1 and 2 due to the shared focus on Riviera Maya destinations (Tulum & Playa Del Carmen). Also topic 4 shares keywords with Topic 3 regarding parties and events. However, there is no strong semantic overlap that warrants a merge at this time.
+
+        Recommendations:
+        No merging recommended unless further analysis reveals stronger thematic connections between topics 1 and 2. Consider discarding Topic 3 if the goal is to create more specific topic clusters.

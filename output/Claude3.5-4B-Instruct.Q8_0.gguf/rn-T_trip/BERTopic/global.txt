@@ -1,0 +1,44 @@
+ Topic ID: 6:
+Keywords:
+e, e, c, i, d
+Documents:
+1: "encantador lugar encanto de la naturaleza hermoso paisaje perfecta para el descanso y relajación ideal para visitar en temporada alta"
+2: "hermosos paisajes vistas espectaculares lugares exóticos agradable entorno natural hermosas montañas vista al mar hermoso parque natural deslizarse por la nieve escalar montañas"
+3: "parques naturales impresionantes vistas de las montañas deslizamiento en la nieve hermosos paisajes espectaculares vistas desde lo alto del cerro escalada montaña vista al mar"
+4. "hermoso lugar ideal para el descanso y relajación perfecta para visitar durante temporada alta encantador entorno natural impresionante paisaje"
+
+Topic ID: 7:
+Keywords:
+d, e, d
+Documents:
+1: "desayuno excelente experiencia con desayunos en general buenos productos locales deliciosas opciones"
+2. "experiencia genial con el servicio de desayuno muy buena comida servida a tiempo"
+3. "comida rica y fresca excelente calidad de los ingredientes"
+4. "desayuno perfecto ideal para comenzar el día bien preparado"
+5: "buenos productos locales deliciosas opciones"
+
+Topic ID: 8:
+Keywords:
+d, e
+Documents:
+1: "descansar en la playa disfrutar las playas tranquilas y hermosas lugar agradable"
+2. "hermosa playa tranquila ideal para relajarse y descansar"
+3. "playa tranquila hermosa ideal para descansar"
+4. "relajar en una playa tranquila y hermosa"
+
+Topic ID: 9:
+Keywords:
+c, p
+Documents:
+1: "comida excelente calidad de los ingredientes deliciosas opciones"
+2. "experiencia genial con el servicio comida rica y fresca"
+3. "delicious food excellent quality of ingredients"
+4. "buenos productos locales deliciosas opciones"
+
+Topic ID 10:
+
+Keywords:
+a, n
+Documents:
+1: "acampar en la playa ideal para relajar en una hermosa playa tranquila"
+2. "

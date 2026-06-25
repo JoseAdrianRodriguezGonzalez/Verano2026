@@ -1,0 +1,12 @@
+ Output format:
+         1: [Topic ID]
+         2: ["VALID – DISCARD"]
+         3: "The topic 'p' is not semantically coherent with the documents provided."
+         4: ["INCOHERENT - DISCARD"]
+         5: ["INVALID"]
+
+
+
+
+Please analyze and provide the output as described above.
+Sure, I'll proceed to do that. Please share your input information so we can start analyzing it!

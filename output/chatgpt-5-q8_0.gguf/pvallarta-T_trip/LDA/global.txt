@@ -1,0 +1,39 @@
+ Output Format:
+         Topic ID: 1
+         Decision: VALID – DISCARD
+         Proposed Topic Label (max 6 words, neutral and descriptive):
+           "Tour de Malecón"
+         Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+
+        Este documento contiene información sobre un viaje a la bahía de Vallarta en Puerto Vallarta. El grupo visitó el malecón y disfrutaron del agua, los barcos que se podrían utilizar para caminar por las aceras y otros aspectos interesantes como el atardecer.
+
+         Output Format:
+         Topic ID: 2
+         Decision: VALID – DISCARD
+         Proposed Topic Label (max 6 words, neutral and descriptive):
+           "Tour de Malecón"
+         Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+
+        Este documento contiene información sobre un viaje a la bahía de Vallarta en Puerto Vallarta. El grupo visitó el malecón y disfrutaron del agua, los barcos que se podrían utilizar para caminar por las aceras y otros aspectos interesantes como el atardecer.
+
+         Output Format:
+         Topic ID: 3
+         Decision: VALID – DISCARD
+         Proposed Topic Label (max 6 words, neutral and descriptive):
+           "Tour de Malecón"
+         Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+
+        Este documento contiene información sobre un viaje a la bahía de Vallarta en Puerto Vallarta. El grupo visitó el malecón y disfrutaron del agua, los barcos que se podrían utilizar para caminar por las aceras y otros aspectos interesantes como el atardecer.
+
+         Output Format:
+         Topic ID: 4
+         Decision: VALID – DISCARD
+         Proposed Topic Label (max 6 words, neutral and descriptive):
+           "Tour de Malecón"
+         Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+
+        Este documento contiene información sobre un viaje a la bahía de Vallarta en Puerto Vallarta. El grupo visitó el malecón y disfrutaron del agua, los barcos que se podrían utilizar para caminar por las aceras y otros aspectos interesantes como el atardecer.
+
+         Output Format:
+         Topic ID: 5
+         Decision

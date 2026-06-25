@@ -1,0 +1,31 @@
+ Output Format:
+
+        Topic ID: 1:
+        Decision: VALID
+        Proposed Topic Label (max 6 words, neutral and descriptive):
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+
+        Topic ID: 2:
+        Decision: INCOHERENT – DISCARD
+        Proposed Topic Label (max 6 words, neutral and descriptive):
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+
+        Topic ID: 3:
+        Decision: VALID
+        Proposed Topic Label (max 6 words, neutral and descriptive):
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+
+        Topic ID: 4:
+        Decision: INCOHERENT – DISCARD
+        Proposed Topic Label (max 6 words, neutral and descriptive):
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+
+        Topic ID: 5:
+        Decision: VALID
+        Proposed Topic Label (max 6 words, neutral and descriptive):
+        Short Analytical Description (2–3 sentences strictly grounded in the provided text):
+
+
+This task requires a detailed analysis of each topic based on its keywords and documents. The goal is to determine if any topics are semantically overlapping or need further clarification before proposing an overall merged label.
+
+Please provide me with all these information, so I can start analyzing them!

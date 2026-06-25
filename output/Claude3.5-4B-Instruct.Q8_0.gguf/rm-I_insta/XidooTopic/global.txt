@@ -1,0 +1,38 @@
+ Topic ID: 1
+Decision: VALID
+
+Proposed Topic Label:
+Lunar Phenomena and Underwater Exploration in Mexico
+
+Short Analytical Description:
+The documents consistently mention lunar themes such as "luna" (moon), "iluminanda directamente planeta refleja luz sol llega luna", and "cena de la luna". They also frequently refer to underwater exploration activities like diving, scuba diving, caverndiving, wreckdiving, and cenotediving. The geographical focus is explicitly on Mexico with mentions of Riviera Maya, Puerto Aventuras, Tulum, Playa del Carmen, Xcalacoco, and other specific locations within the country.
+
+Topic ID: 2
+Decision: VALID
+
+Proposed Topic Label:
+Caribbean Luxury Residences in Mexico
+
+Short Analytical Description:
+The documents predominantly discuss high-end residential properties with Caribbean themes. Keywords like "paraiso privado caribe" (private Caribbean paradise) are repeated, and there's a strong focus on luxury concepts such as boutique suites, sustainable architecture, eco-friendly techniques, gourmet experiences ("farm table"), and unique design elements in locations like Playa del Carmen, Riviera Maya, Xcalacoco, and Puerto Aventuras.
+
+Topic ID: 3
+Decision: VALID
+
+Proposed Topic Label:
+Sunset Beach Experiences in Mexico
+
+Short Analytical Description:
+The documents emphasize beach-related activities with a focus on sunsets. Keywords include "sol playa", "playa xpu ha riviera maya", and mentions of specific beaches like Cancun, Tulum, Playa del Carmen, Xcalacoco, Boca Paila, Siankaan, and Puerto Aventuras. The overall theme revolves around enjoying the beach environment with a particular focus on sunset views.
+
+Topic ID: 4
+Decision: VALID
+
+Proposed Topic Label:
+Wedding Planning Services in Mexico
+
+Short Analytical Description:
+The documents primarily discuss wedding-related services such as planning ("planificador de bodas"), photography, catering, and DJ services. There are repeated mentions of specific locations like Playa del Carmen, Riviera Maya, Puerto Aventuras, Cancun, Akumal, Tulum, Siankaan, and Xcalacoco in the context of weddings.
+
+Semantic Overlap Analysis:
+There is no significant semantic overlap between any pairs of valid topics. Each topic maintains distinct themes that are not substantially related to one another
